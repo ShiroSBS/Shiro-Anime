@@ -1,0 +1,248 @@
+{
+  "id": "death-note",
+  "title": "Death Note",
+  "poster": "https://i.imgur.com/1vK2Y0v.jpeg",
+  "banner": "https://i.imgur.com/AaoISy0.jpeg",
+  "bannerFallback": "https://i.imgur.com/AaoISy0.jpeg",
+  "description": "Light Yagami, un jeune étudiant surdoué, ramasse un jour le \"Death Note\", un carnet tenu auparavant par un shinigami (Dieu de la mort), Ryuk, qui apparemment s'ennuyait dans son monde.\nIl suffit d'écrire le nom d'une personne dans ce carnet, et celle-ci meurt (selon certaines conditions que le shinigami expliquera à Light lors de leur rencontre).\nC'est ainsi qu'avec le \"Death Note\" entre les mains, Light décide de débarrasser la planète de tous les criminels pour en faire un monde juste, un monde parfait.\nCependant, qui est-il pour juger les gens ? Il devient donc le pire criminel recherché de toute la planète...",
+  "genres": [
+    "Drame",
+    "Fantastique",
+    "Mystère",
+    "Psychologique",
+    "Surnaturel",
+    "Science-Fiction"
+  ],
+  "rating": "8.4",
+  "year": "2006",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Death Note",
+  "stats": [
+    {
+      "v": "1",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.4",
+      "l": "Note"
+    },
+    {
+      "v": "2006",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.4"
+    },
+    {
+      "text": "🎬 1 Saison · 37 Éps"
+    },
+    {
+      "text": "📅 2006"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Death Note - Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Renaissance",
+          "id": "djwuc3ay91tg"
+        },
+        {
+          "n": 2,
+          "title": "Confrontation",
+          "id": "dtq38uo0z2dp"
+        },
+        {
+          "n": 3,
+          "title": "Transaction",
+          "id": "f8e0ouynm4ox"
+        },
+        {
+          "n": 4,
+          "title": "Tension",
+          "id": "x79hvz1j0nym"
+        },
+        {
+          "n": 5,
+          "title": "Tactique",
+          "id": "kohcj9zvm4re"
+        },
+        {
+          "n": 6,
+          "title": "Coup de vent",
+          "id": "lkapozwl7nvb"
+        },
+        {
+          "n": 7,
+          "title": "Nouveau jeu",
+          "id": "opqdj0b4x7g0"
+        },
+        {
+          "n": 8,
+          "title": "Visage",
+          "id": "v4ccmdxjrf4v"
+        },
+        {
+          "n": 9,
+          "title": "Contact",
+          "id": "1r9lw2ph7uk0"
+        },
+        {
+          "n": 10,
+          "title": "Soupçon",
+          "id": "ljqsdx0dv46o"
+        },
+        {
+          "n": 11,
+          "title": "Assaut",
+          "id": "fl7fnnlxuz9x"
+        },
+        {
+          "n": 12,
+          "title": "Amour intéressé",
+          "id": "xn2p2yilvoj0"
+        },
+        {
+          "n": 13,
+          "title": "Confession",
+          "id": "zedbx21ns9wo"
+        },
+        {
+          "n": 14,
+          "title": "Attention",
+          "id": "j7ag5q4lp66e"
+        },
+        {
+          "n": 15,
+          "title": "Pari",
+          "id": "vka9rhu3dxci"
+        },
+        {
+          "n": 16,
+          "title": "Décision",
+          "id": "wrv11xd4ce2p"
+        },
+        {
+          "n": 17,
+          "title": "Exécution",
+          "id": "d6ubx4ezbpmq"
+        },
+        {
+          "n": 18,
+          "title": "Compagnons",
+          "id": "zad6ld16smua"
+        },
+        {
+          "n": 19,
+          "title": "Matsuda",
+          "id": "j7wda1mnq1fw"
+        },
+        {
+          "n": 20,
+          "title": "Terreur",
+          "id": "nrnu08mjcopo"
+        },
+        {
+          "n": 21,
+          "title": "Activité",
+          "id": "znl1g8cdpomh"
+        },
+        {
+          "n": 22,
+          "title": "Guide",
+          "id": "jp87imko6qj1"
+        },
+        {
+          "n": 23,
+          "title": "Frénésie",
+          "id": "mwu4d2hn8jms"
+        },
+        {
+          "n": 24,
+          "title": "Renaissance",
+          "id": "z5s1k1hwvcyn"
+        },
+        {
+          "n": 25,
+          "title": "Silence",
+          "id": "9sst2je7pskf"
+        },
+        {
+          "n": 26,
+          "title": "Renouvellement",
+          "id": "elim71ypn9is"
+        },
+        {
+          "n": 27,
+          "title": "Enlèvement",
+          "id": "jyqvaakuipdl"
+        },
+        {
+          "n": 28,
+          "title": "Impatience",
+          "id": "tzft24dkyqww"
+        },
+        {
+          "n": 29,
+          "title": "Père",
+          "id": "orkt9nt26d8h"
+        },
+        {
+          "n": 30,
+          "title": "Justice",
+          "id": "pqibt7pv27bg"
+        },
+        {
+          "n": 31,
+          "title": "Transit",
+          "id": "8ib8c8junuos"
+        },
+        {
+          "n": 32,
+          "title": "Sélection",
+          "id": "9v5rswx0zdfh"
+        },
+        {
+          "n": 33,
+          "title": "Mépris",
+          "id": "gyggb2l84i91"
+        },
+        {
+          "n": 34,
+          "title": "Veille",
+          "id": "xir2zpioloey"
+        },
+        {
+          "n": 35,
+          "title": "Malice",
+          "id": "udzueb4y16ui"
+        },
+        {
+          "n": 36,
+          "title": "28 janvier",
+          "id": "v2jc7jw66u2p"
+        },
+        {
+          "n": 37,
+          "title": "Nouveau monde",
+          "id": "pe3qsw6ulq7q"
+        }
+      ]
+    }
+  }
+}

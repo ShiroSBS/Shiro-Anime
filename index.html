@@ -1309,8 +1309,7 @@ function playEpisode(season,idx){
   const ep=a.seasons[season]?.episodes[idx];
   if(!ep||!ep.id)return;
   currentSeason=season;currentEpIdx=idx;watchSidebarSeason=season;
-  document.getElementById('player-iframe').src =
-  `https://shiro-player-proxy.vercel.app/api/embed?id=${encodeURIComponent(ep.id)}`;
+  document.getElementById('player-iframe').src = `https://ansembed.net/embed-${ep.id}.html`;
   document.getElementById('player-ep-label').textContent=`Épisode ${ep.n}`;
   document.getElementById('player-ep-title').textContent=ep.title;
   document.getElementById('breadcrumb-ep').textContent=`S${season} · Ép.${ep.n} — ${ep.title}`;

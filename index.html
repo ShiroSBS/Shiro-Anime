@@ -771,7 +771,7 @@ async function showResumeBanner(){
   if(!anime)return;
   const eps=anime.seasons[p.s]?.episodes; if(!eps||p.i>=eps.length)return;
   const ep=eps[p.i]; if(!ep.id)return;
-  document.getElementById('resume-ep-info').textContent=`${anime.title} · S${p.s} · Ép.${ep.n} — ${ep.title}`;
+  document.getElementById('resume-ep-info').textContent=`${anime.title} · ${seasonDisplayName(anime,p.s,true)} · Ép.${ep.n} — ${ep.title}`;
   setTimeout(()=>document.getElementById('resume-banner').classList.add('show'),700);
 }
 function dismissResume(){document.getElementById('resume-banner').classList.remove('show')}
@@ -1034,7 +1034,7 @@ function renderHistory(){
         </button>
         <img class="history-thumb" src="${meta.poster}" alt="${meta.title}" onerror="this.src='https://placehold.co/220x310/111520/3b7eff?text=${encodeURIComponent(meta.title).replace(/'/g,'%27')}'"/>
         <span class="history-tag-series">ANIME</span>
-        <span class="history-tag-ep">S${h.s}:E${h.i+1}</span>
+        <span class="history-tag-ep">${seasonDisplayName(animeDataCache[h.a],h.s,true)}:E${h.i+1}</span>
         <div class="history-title-bar">${meta.title}</div>
       </div>
     </div>`;
@@ -1234,13 +1234,23 @@ document.addEventListener('click',(e)=>{
   if(wrap && !wrap.contains(e.target)) closeSortDropdown();
 });
 
+// Reconnaît les saisons spéciales (OAV/OVA) à partir du titre ou du libellé JSON.
+function isOAVSeason(anime, seasonNum){
+  const season=anime?.seasons?.[seasonNum];
+  return /\b(?:OAV|OVA)\b/i.test(`${season?.title||''} ${season?.label||''}`);
+}
+function seasonDisplayName(anime, seasonNum, short=false){
+  if(isOAVSeason(anime,seasonNum)) return 'OAV';
+  return short ? `S${seasonNum}` : `Saison ${seasonNum}`;
+}
+
 function renderSeasonTabs(ctx, activeSNum){
   const a=getAnime();
   const keys=Object.keys(a.seasons).map(Number);
   const tabsHtml=keys.map(k=>`
-    <button class="s-tab${k===activeSNum?' active':''}" onclick="setSeason(${k},'${ctx}')">${a.seasons[k].label}</button>`).join('');
+    <button class="s-tab${k===activeSNum?' active':''}" onclick="setSeason(${k},'${ctx}')">${seasonDisplayName(a,k)}</button>`).join('');
   const shortHtml=keys.map(k=>`
-    <button class="s-tab${k===watchSidebarSeason?' active':''}" onclick="setWatchSeason(${k})">S${k}</button>`).join('');
+    <button class="s-tab${k===watchSidebarSeason?' active':''}" onclick="setWatchSeason(${k})">${seasonDisplayName(a,k,true)}</button>`).join('');
   if(ctx==='home'){document.getElementById('home-season-tabs').innerHTML=tabsHtml;}
   else if(ctx==='anime'){document.getElementById('anime-season-tabs').innerHTML=tabsHtml;}
   else{
@@ -1301,7 +1311,7 @@ function epCardHTML(ep,idx,season,animeId){
     </div>
     <div class="ep-info">
       <div class="ep-title">${ep.title}</div>
-      <div class="ep-sub">${a.title} · S${season}</div>
+      <div class="ep-sub">${a.title} · ${seasonDisplayName(a,season,true)}</div>
       ${!u?'<span class="ep-vf-badge">🇫🇷 VF</span>':'<span style="display:inline-block;margin-top:6px;padding:2px 8px;border-radius:4px;font-size:10px;color:#888;background:rgba(100,100,100,.12);border:1px solid rgba(100,100,100,.18)">Non disponible</span>'}
     </div>
   </div>`;
@@ -1321,10 +1331,10 @@ function playEpisode(season,idx){
   document.getElementById('player-iframe').src = `https://ansembed.net/embed-${ep.id}.html`;
   document.getElementById('player-ep-label').textContent=`Épisode ${ep.n}`;
   document.getElementById('player-ep-title').textContent=ep.title;
-  document.getElementById('breadcrumb-ep').textContent=`S${season} · Ép.${ep.n} — ${ep.title}`;
+  document.getElementById('breadcrumb-ep').textContent=`${seasonDisplayName(a,season,true)} · Ép.${ep.n} — ${ep.title}`;
   document.getElementById('breadcrumb-anime').textContent=a.title;
   document.getElementById('watch-topbar-title').textContent=a.title;
-  document.getElementById('watch-topbar-ep').textContent=`Saison ${season} · Épisode ${ep.n}`;
+  document.getElementById('watch-topbar-ep').textContent=`${seasonDisplayName(a,season)} · Épisode ${ep.n}`;
   document.getElementById('watch-thumb').src=a.poster;
   const eps=a.seasons[season].episodes;
   document.getElementById('btn-prev').style.visibility=idx===0?'hidden':'visible';

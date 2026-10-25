@@ -141,12 +141,10 @@ body.search-open .app-shell{visibility:hidden}
 .watch-layout{display:grid;grid-template-columns:1fr 320px;gap:22px;max-width:1300px;margin:0 auto;padding:12px 24px 48px;}
 .player-wrap{position:relative;width:100%;aspect-ratio:16/9;background:#000;border-radius:14px;overflow:hidden;box-shadow:0 8px 40px rgba(0,0,0,.7);border:1px solid rgba(59,126,255,.15);}
 .player-wrap iframe{position:absolute;inset:0;width:100%;height:100%;border:none;display:block}
-/* Écran de transition local : ne modifie pas le lecteur distant. */
-.shiro-intro-mask{position:absolute;inset:0;z-index:5;display:none;align-items:center;justify-content:center;text-align:center;color:#fff;background:radial-gradient(circle,#172440,#07090f 72%);pointer-events:none}
+/* Image d’intro Shiro Sama superposée au lecteur, sans toucher à Ansembed. */
+.shiro-intro-mask{position:absolute;inset:0;z-index:5;display:none;align-items:center;justify-content:center;background:#050914;pointer-events:none;overflow:hidden}
 .shiro-intro-mask.active{display:flex}
-.shiro-intro-logo{font-size:clamp(28px,5vw,48px);font-weight:900;letter-spacing:.08em}
-.shiro-intro-logo span{color:#4f7cff}
-.shiro-intro-content p{font-size:11px;letter-spacing:.15em;color:#aab6d0}
+.shiro-intro-image{display:block;width:100%;height:100%;object-fit:contain;background:#050914}
 
 .player-controls{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-top:14px;}
 .ep-nav{display:flex;gap:8px}
@@ -678,10 +676,7 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
       <div class="player-wrap">
         <iframe id="player-iframe" src="" frameborder="0" scrolling="no" allowfullscreen allow="autoplay; fullscreen; picture-in-picture" title="Lecteur vidéo de l’épisode"></iframe>
         <div id="shiro-intro-mask" class="shiro-intro-mask" aria-hidden="true">
-          <div class="shiro-intro-content">
-            <div class="shiro-intro-logo">SHIRO <span>SAMA</span></div>
-            <p>LECTURE DE L’ÉPISODE</p>
-          </div>
+          <img class="shiro-intro-image" src="https://i.imgur.com/5Dc25mA.png" alt="Intro Shiro Sama" referrerpolicy="no-referrer">
         </div>
       </div>
       <div class="player-controls">

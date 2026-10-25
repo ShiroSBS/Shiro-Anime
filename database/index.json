@@ -61,5 +61,23 @@
       "Fiction",
       "Fantastique"
     ]
+  },
+  {
+    "id": "boruto",
+    "title": "Boruto",
+    "poster": "https://i.imgur.com/YpzD27Y.jpeg",
+    "rating": "7.0",
+    "year": "2015",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Drame",
+      "Shônen",
+      "Surnaturel",
+      "Kaï"
+    ]
   }
 ]

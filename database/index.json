@@ -98,5 +98,29 @@
       "Science",
       "Fiction"
     ]
+  },
+  {
+    "id": "hunter-x-hunter",
+    "title": "Hunter x Hunter",
+    "poster": "https://i.imgur.com/fpz8MTZ.jpeg",
+    "rating": "8.3",
+    "year": "1999",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Aventure",
+      "Comédie",
+      "Drame",
+      "Fantasy",
+      "Shônen",
+      "Surnaturel",
+      "Thriller",
+      "Tournois",
+      "Kaï",
+      "Action",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]

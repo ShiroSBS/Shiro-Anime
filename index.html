@@ -141,6 +141,13 @@ body.search-open .app-shell{visibility:hidden}
 .watch-layout{display:grid;grid-template-columns:1fr 320px;gap:22px;max-width:1300px;margin:0 auto;padding:12px 24px 48px;}
 .player-wrap{position:relative;width:100%;aspect-ratio:16/9;background:#000;border-radius:14px;overflow:hidden;box-shadow:0 8px 40px rgba(0,0,0,.7);border:1px solid rgba(59,126,255,.15);}
 .player-wrap iframe{position:absolute;inset:0;width:100%;height:100%;border:none;display:block}
+/* Écran de transition local : ne modifie pas le lecteur distant. */
+.shiro-intro-mask{position:absolute;inset:0;z-index:5;display:none;align-items:center;justify-content:center;text-align:center;color:#fff;background:radial-gradient(circle,#172440,#07090f 72%);pointer-events:none}
+.shiro-intro-mask.active{display:flex}
+.shiro-intro-logo{font-size:clamp(28px,5vw,48px);font-weight:900;letter-spacing:.08em}
+.shiro-intro-logo span{color:#4f7cff}
+.shiro-intro-content p{font-size:11px;letter-spacing:.15em;color:#aab6d0}
+
 .player-controls{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-top:14px;}
 .ep-nav{display:flex;gap:8px}
 .ep-title-display{font-size:15px;font-weight:700;color:var(--text);text-align:center;flex:1;}
@@ -669,7 +676,13 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
   <div class="watch-layout">
     <div class="player-col">
       <div class="player-wrap">
-        <iframe id="player-iframe" src="" frameborder="0" scrolling="no" allowfullscreen allow="autoplay; fullscreen; picture-in-picture"></iframe>
+        <iframe id="player-iframe" src="" frameborder="0" scrolling="no" allowfullscreen allow="autoplay; fullscreen; picture-in-picture" title="Lecteur vidéo de l’épisode"></iframe>
+        <div id="shiro-intro-mask" class="shiro-intro-mask" aria-hidden="true">
+          <div class="shiro-intro-content">
+            <div class="shiro-intro-logo">SHIRO <span>SAMA</span></div>
+            <p>LECTURE DE L’ÉPISODE</p>
+          </div>
+        </div>
       </div>
       <div class="player-controls">
         <div class="ep-nav">
@@ -1309,6 +1322,7 @@ function playEpisode(season,idx){
   const ep=a.seasons[season]?.episodes[idx];
   if(!ep||!ep.id)return;
   currentSeason=season;currentEpIdx=idx;watchSidebarSeason=season;
+  if (window.armShiroIntroMask) window.armShiroIntroMask();
   document.getElementById('player-iframe').src = `https://ansembed.net/embed-${ep.id}.html`;
   document.getElementById('player-ep-label').textContent=`Épisode ${ep.n}`;
   document.getElementById('player-ep-title').textContent=ep.title;
@@ -1401,6 +1415,32 @@ async function initApp(){
       '<div style="padding-top:40px;color:#ff6b6b;max-width:520px">Impossible de charger le catalogue. Vérifie que le dossier <b>/database</b> est bien à côté de <b>index.html</b> et que le site est servi via un serveur local (pas ouvert en double-clic).</div>';
   }
 }
+
+// Masquage visuel facultatif de l’intro distante. La page parente ne peut pas
+// contrôler le DOM de l’iframe Ansembed (origine différente). Le masque est
+// donc un contournement visuel, pas une suppression du code Anime-Sama.
+(function setupShiroIntroMask(){
+  const frame = document.getElementById('player-iframe');
+  const mask = document.getElementById('shiro-intro-mask');
+  if (!frame || !mask) return;
+  let timer = null;
+  let armed = true;
+  function hide(){ clearTimeout(timer); mask.classList.remove('active'); }
+  function arm(){ armed = true; hide(); }
+  function show(){
+    if (!armed || document.visibilityState !== 'visible') return;
+    if (document.activeElement !== frame) return;
+    armed = false;
+    hide();
+    mask.classList.add('active');
+    timer = setTimeout(hide, 2300);
+  }
+  frame.addEventListener('load', arm);
+  frame.addEventListener('focus', show);
+  window.addEventListener('blur', () => setTimeout(show, 0));
+  window.armShiroIntroMask = arm;
+})();
+
 initApp();
 </script>
 </body>

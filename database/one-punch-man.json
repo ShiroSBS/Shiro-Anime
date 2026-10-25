@@ -57,7 +57,7 @@
   "seasons": {
     "1": {
       "label": "Saison 1",
-      "title": "Saison 1",
+      "title": "L'ascension de Saitama",
       "episodes": [
         {
           "n": 1,
@@ -123,7 +123,7 @@
     },
     "2": {
       "label": "Saison 2",
-      "title": "Saison 2",
+      "title": "Le chasseur de héros Garoh",
       "episodes": [
         {
           "n": 1,
@@ -189,7 +189,7 @@
     },
     "3": {
       "label": "Saison 3",
-      "title": "Saison 3",
+      "title": "L'Association des Monstres",
       "episodes": [
         {
           "n": 1,
@@ -255,7 +255,7 @@
     },
     "4": {
       "label": "Saison 4",
-      "title": "OAV",
+      "title": "Les aventures inédites de Saitama (OAV)",
       "episodes": [
         {
           "n": 1,

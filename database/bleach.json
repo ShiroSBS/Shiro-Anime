@@ -1,0 +1,1324 @@
+{
+  "id": "bleach",
+  "title": "Bleach",
+  "poster": "https://i.imgur.com/OKpLyy7.jpeg",
+  "banner": "https://i.imgur.com/1gdyUS5.jpeg",
+  "bannerFallback": "https://i.imgur.com/1gdyUS5.jpeg",
+  "description": "Kurosaki Ichigo, un étudiant de quinze ans aux cheveux orange qui aime la bagarre (comme son père) a la particularité de voir les fantômes ainsi que de pouvoir les toucher. Cela l'amène à rencontrer Kuchiki Rukia, un Shinigami (dieu de la mort) qui combats un Hollow. Le déroulement du combats amène Kuchiki à donner ses pouvoirs à Ichigo qui deviens alors lui même un Shinigami. C'est maintenant à son tour de protéger la ville des Hollows.",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Fantastique",
+    "Kaï",
+    "Science",
+    "Fiction"
+  ],
+  "rating": "7.9",
+  "year": "2004",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Bleach",
+  "stats": [
+    {
+      "v": "5",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.9",
+      "l": "Note"
+    },
+    {
+      "v": "2004",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.9"
+    },
+    {
+      "text": "🎬 5 saisons · 247 épisodes sans fillers"
+    },
+    {
+      "text": "📅 2004"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Bleach — sans fillers",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le jour où je suis devenu un Shinigami",
+          "id": "z0slpr794ejn"
+        },
+        {
+          "n": 2,
+          "title": "Le travail d'un Shinigami",
+          "id": "hbpb76hv8oje"
+        },
+        {
+          "n": 3,
+          "title": "Le souhait du grand frère, le souhait de la petite sœur",
+          "id": "55k6hz0uef4c"
+        },
+        {
+          "n": 4,
+          "title": "La perruche maudite",
+          "id": "h3evl1i1zixd"
+        },
+        {
+          "n": 5,
+          "title": "Bats l'ennemi invisible !",
+          "id": "ne79bu1q5a02"
+        },
+        {
+          "n": 6,
+          "title": "Combat à mort ! Ichigo contre Ichigo",
+          "id": "a1hp3ql9qi8m"
+        },
+        {
+          "n": 7,
+          "title": "Salutations d'un lion en peluche",
+          "id": "ljsf2se5espc"
+        },
+        {
+          "n": 8,
+          "title": "17 juin, souvenirs sous la pluie",
+          "id": "0z2234fu9ls4"
+        },
+        {
+          "n": 9,
+          "title": "Un ennemi imbattable",
+          "id": "uro3yczpulxx"
+        },
+        {
+          "n": 10,
+          "title": "Assaut au lieu sacré !",
+          "id": "4i36e8gto5bk"
+        },
+        {
+          "n": 11,
+          "title": "Le Quincy légendaire",
+          "id": "72u0brjxjmpq"
+        },
+        {
+          "n": 12,
+          "title": "Un bras droit bienveillant",
+          "id": "24ytz8c5baqu"
+        },
+        {
+          "n": 13,
+          "title": "Fleur et Hollow",
+          "id": "qk5hk1uw2q5z"
+        },
+        {
+          "n": 14,
+          "title": "Dos à dos, un combat à mort !",
+          "id": "w27uxdeivba0"
+        },
+        {
+          "n": 15,
+          "title": "Le grand plan de Kon",
+          "id": "zv6hfp1t15wf"
+        },
+        {
+          "n": 16,
+          "title": "Rencontre avec Renji Abarai !",
+          "id": "8tf7haexi63v"
+        },
+        {
+          "n": 17,
+          "title": "Ichigo meurt !",
+          "id": "5uk57ayrzq61"
+        },
+        {
+          "n": 18,
+          "title": "Récupère le pouvoir du Shinigami !",
+          "id": "neu8974kbasi"
+        },
+        {
+          "n": 19,
+          "title": "Ichigo devient un Hollow !",
+          "id": "5wdxuc50i56a"
+        },
+        {
+          "n": 20,
+          "title": "L'ombre de Gin Ichimaru",
+          "id": "sk2lresn3rsu"
+        },
+        {
+          "n": 21,
+          "title": "Entrée dans le monde des Shinigami",
+          "id": "sse0uxx5bcfg"
+        },
+        {
+          "n": 22,
+          "title": "L'homme qui déteste les Shinigami",
+          "id": "vnp2y3t9udz2"
+        },
+        {
+          "n": 23,
+          "title": "14 jours avant l'exécution de Rukia",
+          "id": "4r5047knv2wd"
+        },
+        {
+          "n": 24,
+          "title": "Rassemblement des 13 divisions",
+          "id": "oky8l1cd9hei"
+        },
+        {
+          "n": 25,
+          "title": "Pénétrer au centre avec une énorme surprise ?",
+          "id": "z84lhb9b05es"
+        },
+        {
+          "n": 26,
+          "title": "Formation ! Le pire duo",
+          "id": "zxuznaidmw15"
+        },
+        {
+          "n": 27,
+          "title": "Libère le coup fatal !",
+          "id": "jgn7j9hzdtxv"
+        },
+        {
+          "n": 28,
+          "title": "Orihime prise pour cible",
+          "id": "j1x4zpeyiae9"
+        },
+        {
+          "n": 29,
+          "title": "Percée ! Le filet des Shinigami",
+          "id": "66ujsgsse8my"
+        },
+        {
+          "n": 30,
+          "title": "La confrontation de Renji",
+          "id": "pwtq7fs46keo"
+        },
+        {
+          "n": 31,
+          "title": "La résolution de tuer",
+          "id": "p2bi490q0m7g"
+        },
+        {
+          "n": 32,
+          "title": "Les étoiles et l'errant",
+          "id": "51ptw3wd4bfh"
+        },
+        {
+          "n": 33,
+          "title": "La tragédie de l'aube",
+          "id": "59vzobbhh9nb"
+        },
+        {
+          "n": 34,
+          "title": "Aizen assassiné ! Les ténèbres approchent",
+          "id": "htrn5m3vd5it"
+        },
+        {
+          "n": 35,
+          "title": "Kenpachi Zaraki approche !",
+          "id": "8dd6j0mek972"
+        },
+        {
+          "n": 36,
+          "title": "La motivation du poing",
+          "id": "11m1iaw0qc7r"
+        },
+        {
+          "n": 37,
+          "title": "Désespoir ! Zangetsu brisé",
+          "id": "bleogc1664w6"
+        },
+        {
+          "n": 38,
+          "title": "L'homme immortel",
+          "id": "kzh116yso4dr"
+        },
+        {
+          "n": 39,
+          "title": "Le Shinigami rencontré par Ganju",
+          "id": "ft3eyh9rr118"
+        },
+        {
+          "n": 40,
+          "title": "Retrouvailles d'Ichigo et Rukia",
+          "id": "t8n54gkferxd"
+        },
+        {
+          "n": 41,
+          "title": "Yoruichi, la déesse de l'éclair, danse !",
+          "id": "6kpvxu2hzrzd"
+        },
+        {
+          "n": 42,
+          "title": "Le Shinigami méprisable",
+          "id": "thw6gcsia3kw"
+        },
+        {
+          "n": 43,
+          "title": "Le pouvoir ultime d'Ishida !",
+          "id": "3m14y51wg24m"
+        },
+        {
+          "n": 44,
+          "title": "Dépasse tes limites !",
+          "id": "g423mjf3y7qf"
+        },
+        {
+          "n": 45,
+          "title": "Archives authentiques ! L'école des Shinigami",
+          "id": "hkcsjflao60n"
+        },
+        {
+          "n": 46,
+          "title": "Les vengeurs",
+          "id": "0fzvzw12r7e6"
+        },
+        {
+          "n": 47,
+          "title": "Hitsugaya rugit !",
+          "id": "i5l7g15arull"
+        },
+        {
+          "n": 48,
+          "title": "Le cauchemar de Rukia",
+          "id": "i9wxskyuxode"
+        },
+        {
+          "n": 49,
+          "title": "Le matin de la sentence",
+          "id": "z5xg9poq48ra"
+        },
+        {
+          "n": 50,
+          "title": "Renji, serment de l'âme ! Duel à mort contre Byakuya",
+          "id": "qlf11k9xncig"
+        },
+        {
+          "n": 51,
+          "title": "La tentation de Gin Ichimaru, une résolution brisée",
+          "id": "dnj4b1x1o1m9"
+        },
+        {
+          "n": 52,
+          "title": "Un serment accompli ! Récupérer Rukia !",
+          "id": "2kdjzmb9j2oa"
+        },
+        {
+          "n": 53,
+          "title": "Le plus puissant des Shinigami ! Le duel ultime entre maître et élèves",
+          "id": "kwcbq1n75iar"
+        },
+        {
+          "n": 54,
+          "title": "Combat supersonique ! La déesse de la guerre",
+          "id": "mj6vbwfnqi8u"
+        },
+        {
+          "n": 55,
+          "title": "Senbonzakura écrasé ! Zangetsu fend le ciel",
+          "id": "ibkw9gjgy5g8"
+        },
+        {
+          "n": 56,
+          "title": "Libération ! La lame noire, un pouvoir miraculeux",
+          "id": "u1cmlmun4mdv"
+        },
+        {
+          "n": 57,
+          "title": "Fin du duel à mort ! Fierté blanche et désir noir",
+          "id": "iw0eyjo0ph9r"
+        },
+        {
+          "n": 58,
+          "title": "La réalité du désespoir, la dague de l'assassin s'abat",
+          "id": "tcgl46utnoui"
+        },
+        {
+          "n": 59,
+          "title": "Aizen se révèle ! Des ambitions terrifiantes",
+          "id": "4jj6inwjo38f"
+        },
+        {
+          "n": 60,
+          "title": "Rassemblement des plus puissants Shinigami",
+          "id": "8ttrz14w227y"
+        },
+        {
+          "n": 61,
+          "title": "La décision de Rukia, les sentiments d'Ichigo",
+          "id": "ygckukvcfu3b"
+        },
+        {
+          "n": 62,
+          "title": "Ichigo et Rukia, pensées reflétées dans le ciel",
+          "id": "jeik5m5o3i1w"
+        },
+        {
+          "n": 63,
+          "title": "Réouverture de l'activité de remplaçant ! Le terrible nouvel élève",
+          "id": "u4pcrqf6rg05"
+        },
+        {
+          "n": 64,
+          "title": "Choc ! La véritable identité du père",
+          "id": "3hjvg9n1lik1"
+        },
+        {
+          "n": 65,
+          "title": "Le début de la guerre : Visored et Arrancars",
+          "id": "i0odrb10d5ew"
+        },
+        {
+          "n": 66,
+          "title": "Prélude à l'apocalypse, l'offensive des Arrancars",
+          "id": "vf0ztl33zj6q"
+        },
+        {
+          "n": 67,
+          "title": "Retrouvailles d'Ichigo, Rukia et des Shinigami",
+          "id": "e8mpyo7kh8ox"
+        },
+        {
+          "n": 68,
+          "title": "Mission ! Les Shinigami sont arrivés",
+          "id": "dssvzs5zpt8j"
+        },
+        {
+          "n": 69,
+          "title": "Les Yeux du mal, encore Aizen",
+          "id": "ve19arer03ng"
+        },
+        {
+          "n": 70,
+          "title": "Le combat de Rukia commence ! La lame blanche glaciale",
+          "id": "h09kd76fm8xf"
+        },
+        {
+          "n": 71,
+          "title": "Le Bankai d'Ikkaku ! Le pouvoir qui brise tout",
+          "id": "kyqrin2ranho"
+        },
+        {
+          "n": 72,
+          "title": "L’Histoire secrète de l’équipe de Zaraki ! L’Homme chanceux",
+          "id": "dueyse9va9cl"
+        },
+        {
+          "n": 73,
+          "title": "L’Éparpillement d’Hitsugaya. Hyôrinmaru brisé",
+          "id": "2ij3fjn6rvth"
+        },
+        {
+          "n": 74,
+          "title": "Affrontement ! Le protecteur contre le porteur",
+          "id": "dtjdi086xfdh"
+        },
+        {
+          "n": 75,
+          "title": "Visored ! Le pouvoir éveillé",
+          "id": "p34u9983y5ci"
+        },
+        {
+          "n": 76,
+          "title": "Ichigo, transformation complète en Hollow !",
+          "id": "qqixpwwrdyr1"
+        },
+        {
+          "n": 77,
+          "title": "Clash ! Bankai noir et Bankai blanc ?",
+          "id": "qyj9w4mbnjxj"
+        },
+        {
+          "n": 78,
+          "title": "Rapport urgent ! Le plan terrifiant d'Aizen",
+          "id": "pt6zdvgefkcm"
+        },
+        {
+          "n": 79,
+          "title": "Uryū contre Ryūken ! Le duel des Quincy père et fils",
+          "id": "cfgseqkkhrfs"
+        },
+        {
+          "n": 80,
+          "title": "La décision d'Urahara, les pensées d'Orihime",
+          "id": "bbogaa847rme"
+        },
+        {
+          "n": 81,
+          "title": "Hueco Mundo s'agite ! Hitsugaya contre Yammy",
+          "id": "32d79naa4g3o"
+        },
+        {
+          "n": 82,
+          "title": "Ichigo contre Grimmjow : le combat de 11 secondes",
+          "id": "rjodxwypq1lh"
+        },
+        {
+          "n": 83,
+          "title": "Le plan d'Ulquiorra, au coucher du soleil",
+          "id": "75ui6x1xks3g"
+        },
+        {
+          "n": 84,
+          "title": "Adieu…, Kurosaki !",
+          "id": "lntbj0ghp3ok"
+        },
+        {
+          "n": 85,
+          "title": "Ordre strict ! Le sauvetage interdit d'Orihime",
+          "id": "zetaoh6cao59"
+        },
+        {
+          "n": 86,
+          "title": "Grimmjow revient",
+          "id": "nswijyr3vfv2"
+        },
+        {
+          "n": 87,
+          "title": "Ishida et Chad : l'éveil d'un nouveau pouvoir",
+          "id": "eo5dg2uynp0o"
+        },
+        {
+          "n": 88,
+          "title": "Rassemblement des Espada ! L'assemblée royale d'Aizen",
+          "id": "4x9n3wg6trfe"
+        },
+        {
+          "n": 89,
+          "title": "Son nom est Nell ! L’Apparence de l’étrange Arrancar",
+          "id": "s6g8fb64qeij"
+        },
+        {
+          "n": 90,
+          "title": "Serment ! Revenir vivant",
+          "id": "0yy2mpyfo99v"
+        },
+        {
+          "n": 91,
+          "title": "La tempête furieuse ! Rencontre avec l'Arrancar dansant",
+          "id": "y93n3tzrcksn"
+        },
+        {
+          "n": 92,
+          "title": "Ichigo contre-attaque ! Voici mon Bankai",
+          "id": "t8b0cnof9l7i"
+        },
+        {
+          "n": 93,
+          "title": "Les recherches diaboliques ! Le plan de Szayel Aporro",
+          "id": "p6sd8qf2si3v"
+        },
+        {
+          "n": 94,
+          "title": "Rukia et Kaien, de douloureuses retrouvailles",
+          "id": "2bjgqqbaoten"
+        },
+        {
+          "n": 95,
+          "title": "Rukia riposte ! Le Kidō désespéré",
+          "id": "haeh1frdozqf"
+        },
+        {
+          "n": 96,
+          "title": "Ishida et Pesche, l’attaque unifiée de l’amitié",
+          "id": "y0gf4ut6yynw"
+        },
+        {
+          "n": 97,
+          "title": "L'atout d'Ishida : Seele Schneider",
+          "id": "o0rws87j7j2e"
+        },
+        {
+          "n": 98,
+          "title": "Le bras droit du géant, le bras gauche du démon",
+          "id": "u4cnn0xuf0eh"
+        },
+        {
+          "n": 99,
+          "title": "Yasutora Sado meurt ! Les larmes d'Orihime",
+          "id": "2yu73rjnkd68"
+        },
+        {
+          "n": 100,
+          "title": "Testament : Ton cœur est ici",
+          "id": "8axs635931ti"
+        },
+        {
+          "n": 101,
+          "title": "Le Cruel Arrancar. La Provocation d’Ulquiorra",
+          "id": "rqhmnu07y7o6"
+        },
+        {
+          "n": 102,
+          "title": "Szayel Aporro rit, le piège contre Renji se referme",
+          "id": "orisjhlummog"
+        },
+        {
+          "n": 103,
+          "title": "Shinigami et Quincy : le combat fou",
+          "id": "f4fj9imvue8v"
+        },
+        {
+          "n": 104,
+          "title": "La stratégie d'Ishida : vingt secondes d'attaque et de défense",
+          "id": "yb1u6afp5fe1"
+        },
+        {
+          "n": 105,
+          "title": "L'intention meurtrière s'intensifie ! Le Grimmjow exalté",
+          "id": "c6g5ifbhx9yv"
+        },
+        {
+          "n": 106,
+          "title": "Effort désespéré contre effort désespéré ! Ichigo Hollowfié",
+          "id": "rssm4ygse33b"
+        },
+        {
+          "n": 107,
+          "title": "Le dénouement : la fin de Grimmjow",
+          "id": "0iiimrigbmmm"
+        },
+        {
+          "n": 108,
+          "title": "Arc Hueco Mundo : Reprise !",
+          "id": "qcmlwgrh6l61"
+        },
+        {
+          "n": 109,
+          "title": "Le banquet terrifiant, le théâtre de Szayel Aporro",
+          "id": "j68bdirjb4iu"
+        },
+        {
+          "n": 110,
+          "title": "Une beauté participe à la bataille, le secret de Nell ?",
+          "id": "zdj8ptvgxna8"
+        },
+        {
+          "n": 111,
+          "title": "L’Irrésistible spectacle de marionnettes de terreur",
+          "id": "pypuzja6p4na"
+        },
+        {
+          "n": 112,
+          "title": "Le passé de Neliel",
+          "id": "dhudsrgtsw7i"
+        },
+        {
+          "n": 113,
+          "title": "L’Union ultime ! Le Sérieux de Pesche",
+          "id": "xepcbkquvpt3"
+        },
+        {
+          "n": 114,
+          "title": "La plus forte armée des Shinigamis apparaît !",
+          "id": "8lhviwup10dq"
+        },
+        {
+          "n": 115,
+          "title": "Le Bankai de Byakuya, une colère silencieuse",
+          "id": "61c2g08dhzos"
+        },
+        {
+          "n": 116,
+          "title": "Les deux scientifiques, le piège de Mayuri",
+          "id": "11h3uk7e8l48"
+        },
+        {
+          "n": 117,
+          "title": "Naissance sacrée, Szayel Aporro ressuscité",
+          "id": "eiqa46lhuo9w"
+        },
+        {
+          "n": 118,
+          "title": "Le corps le plus dur ? À terre, Nnoitra !",
+          "id": "h8wq9yyuo1es"
+        },
+        {
+          "n": 119,
+          "title": "Nnoitra libéré ! Des bras à l'infini",
+          "id": "smr7fjecyng9"
+        },
+        {
+          "n": 120,
+          "title": "Fin du combat acharné ! Qui est le plus fort ?",
+          "id": "abrf0d96jz6u"
+        },
+        {
+          "n": 121,
+          "title": "Karakura se rassemble ! Aizen contre les Shinigami",
+          "id": "9u1q78ib1i8x"
+        },
+        {
+          "n": 122,
+          "title": "Le chapitre du passé commence ! La Vérité, 110 ans plus tôt",
+          "id": "t7m63ff5547b"
+        },
+        {
+          "n": 123,
+          "title": "Le Nouveau Capitaine de la 12e division, Urahara Kisuke",
+          "id": "obzgxursrv5a"
+        },
+        {
+          "n": 124,
+          "title": "Aizen et le Petit Génie",
+          "id": "sqhwknjkl335"
+        },
+        {
+          "n": 125,
+          "title": "Muguruma de la 9e division part",
+          "id": "mht32sjmyoix"
+        },
+        {
+          "n": 126,
+          "title": "Hiyori meurt ? Le Début de la tragédie",
+          "id": "lc2t1hoxrl26"
+        },
+        {
+          "n": 127,
+          "title": "Trahison ! La Manœuvre secrète d’Aizen",
+          "id": "mxdp5nl7hj6i"
+        },
+        {
+          "n": 128,
+          "title": "Sauvetage d’Hirako ! Aizen contre Urahara",
+          "id": "wnfajfp4809o"
+        },
+        {
+          "n": 129,
+          "title": "Protégez Karakura ! Tous les Shinigami apparaissent",
+          "id": "xhdxvcavglma"
+        },
+        {
+          "n": 130,
+          "title": "L'élite ! Les quatre Shinigami",
+          "id": "dv3j9px6fdud"
+        },
+        {
+          "n": 131,
+          "title": "La belle petite diablesse Charlotte",
+          "id": "syehrcep86pu"
+        },
+        {
+          "n": 132,
+          "title": "Kira, le combat du désespoir intérieur",
+          "id": "pg2dx8s28cyb"
+        },
+        {
+          "n": 133,
+          "title": "Le Shikai de Hisagi ! Son nom est...",
+          "id": "kwxwatdkpgy9"
+        },
+        {
+          "n": 134,
+          "title": "Ikkaku tombe ! La crise des Shinigami",
+          "id": "e788zzodsspr"
+        },
+        {
+          "n": 135,
+          "title": "L'affrontement total ! Shinigami contre Espada",
+          "id": "rv6uax1l74y5"
+        },
+        {
+          "n": 136,
+          "title": "La Plus Puissante des confrontations ! Soi Fon et Omaeda",
+          "id": "7hqeuykf3z8z"
+        },
+        {
+          "n": 137,
+          "title": "Un corps surprenant ! Ggio libéré",
+          "id": "d61ncfq056or"
+        },
+        {
+          "n": 138,
+          "title": "Trois contre un ! La Crise de Rangiku",
+          "id": "vkq6lo5sn3i7"
+        },
+        {
+          "n": 139,
+          "title": "Les Vice-capitaines annihilés ! Le Terrifiant monstre diabolique",
+          "id": "2tq29inz79bm"
+        },
+        {
+          "n": 140,
+          "title": "La Fin du combat féroce ? Vers une nouvelle bataille !",
+          "id": "umsne9sj8wy9"
+        },
+        {
+          "n": 141,
+          "title": "Merveilleuse Erreur",
+          "id": "36vdfidgxe30"
+        },
+        {
+          "n": 142,
+          "title": "Les Cœurs connectés. Le Poing gauche préparé à la mort",
+          "id": "sxnhud3cxyb5"
+        },
+        {
+          "n": 143,
+          "title": "Haine et Jalousie, le dilemme d’Orihime",
+          "id": "v8co4l08397i"
+        },
+        {
+          "n": 144,
+          "title": "Ichigo et Uryū, liés dos à dos",
+          "id": "fgkeamqa5rbp"
+        },
+        {
+          "n": 145,
+          "title": "Début du désespoir… La lame inaccessible d'Ichigo",
+          "id": "6321jfnz5dx9"
+        },
+        {
+          "n": 146,
+          "title": "Ichigo meurt ! Orihime pleure de douleur",
+          "id": "vwtb93l5gssi"
+        },
+        {
+          "n": 147,
+          "title": "Ichigo contre Ulquiorra : conclusion !",
+          "id": "5io7edq8v8w3"
+        },
+        {
+          "n": 148,
+          "title": "La fureur du requin ! La libération de Harribel",
+          "id": "286dw40sjrgq"
+        },
+        {
+          "n": 149,
+          "title": "Hitsugaya, les funérailles des 1000 fleurs du paradis de glace",
+          "id": "ajjaip6sixzg"
+        },
+        {
+          "n": 150,
+          "title": "Le souffle de la mort approche, le roi de la mort",
+          "id": "1celve6et842"
+        },
+        {
+          "n": 151,
+          "title": "La Mort en un coup, le bankai de Soi Fon",
+          "id": "k2f4826cfcxb"
+        },
+        {
+          "n": 152,
+          "title": "Climax ! Kyōraku contre Starrk",
+          "id": "pjc455jjgjmy"
+        },
+        {
+          "n": 153,
+          "title": "Le cauchemar revient… Résurrection des Espada",
+          "id": "78sawnmro4f4"
+        },
+        {
+          "n": 154,
+          "title": "Hirako et Aizen… les retrouvailles du destin",
+          "id": "pcfoaomzi7iy"
+        },
+        {
+          "n": 155,
+          "title": "Hisagi et Tōsen, l'instant de la séparation",
+          "id": "lfzpffsh5gzm"
+        },
+        {
+          "n": 156,
+          "title": "Couronne des mensonges, la rancœur de Barragan",
+          "id": "oxwrql1zyj9b"
+        },
+        {
+          "n": 157,
+          "title": "La puissance de l'âme ! Los Lobos attaque !",
+          "id": "flghzf1djsht"
+        },
+        {
+          "n": 158,
+          "title": "Starrk, le combat en solitaire",
+          "id": "ieyjov5i1yxi"
+        },
+        {
+          "n": 159,
+          "title": "Chaîne de sacrifice, le passé de Hallibel",
+          "id": "bd28zkwcq2p7"
+        },
+        {
+          "n": 160,
+          "title": "Cent ans de rancune. La Vengeance de Hiyori",
+          "id": "u70t76bheul4"
+        },
+        {
+          "n": 161,
+          "title": "Protéger Karakura. Ichigo, vers le monde réel",
+          "id": "4aasn4z7ni3v"
+        },
+        {
+          "n": 162,
+          "title": "L’Atout final. Ichigo, vers la bataille décisive",
+          "id": "oygruqx0ddrk"
+        },
+        {
+          "n": 163,
+          "title": "Byakuya contre Kenpachi. La mêlée commence",
+          "id": "kyr4kyw2o2ep"
+        },
+        {
+          "n": 164,
+          "title": "Pour l’amour de la justice. L’Homme qui a déserté les Shinigami",
+          "id": "63avz1x5jkjr"
+        },
+        {
+          "n": 165,
+          "title": "Lutte désespérée contre Aizen. Le Shikai d’Hirako",
+          "id": "ti6h1lrlmqhs"
+        },
+        {
+          "n": 166,
+          "title": "Guerre totale. Aizen contre Shinigami",
+          "id": "p9t2r08141xe"
+        },
+        {
+          "n": 167,
+          "title": "Lame de la haine. La Colère d’Hitsugaya",
+          "id": "63tjjofpx1dr"
+        },
+        {
+          "n": 168,
+          "title": "Impossible d’attaquer. Genryusai scellé",
+          "id": "7w0haa1udvpp"
+        },
+        {
+          "n": 169,
+          "title": "Tout n’est qu’un piège… Liens réalisés",
+          "id": "zdqg9rfc5ha8"
+        },
+        {
+          "n": 170,
+          "title": "La Choquante vérité… Le Mystérieux Pouvoir intérieur d’Ichigo",
+          "id": "q1s2tq155bop"
+        },
+        {
+          "n": 171,
+          "title": "Extension de la lame. Ichigo contre Gin",
+          "id": "infsnjypuu5u"
+        },
+        {
+          "n": 172,
+          "title": "Urahara apparaît. Stopper Aizen",
+          "id": "f33ixjdbg0zq"
+        },
+        {
+          "n": 173,
+          "title": "Ichigo perd son esprit combatif. La Prédiction de Gin",
+          "id": "yu1be9z4dkci"
+        },
+        {
+          "n": 174,
+          "title": "L’Ultime Getsuga Tensho. L’Entraînement d’Ichigo",
+          "id": "n2j2sx6ir1c3"
+        },
+        {
+          "n": 175,
+          "title": "Protéger Ichigo contre Tensa Zangetsu",
+          "id": "k0n21u2ohh4i"
+        },
+        {
+          "n": 176,
+          "title": "Situation urgente. La Nouvelle Évolution d’Aizen",
+          "id": "a0tipterilh1"
+        },
+        {
+          "n": 177,
+          "title": "Adieu… Rangiku",
+          "id": "2plt2bksl6hf"
+        },
+        {
+          "n": 178,
+          "title": "La confrontation prend fin. L’ultime Getsuga Tensho est libéré",
+          "id": "6clktr508oe4"
+        },
+        {
+          "n": 179,
+          "title": "La Résolution d’Ichigo. Le Prix de la bataille féroce",
+          "id": "5s4z17wzinqd"
+        },
+        {
+          "n": 180,
+          "title": "Merci",
+          "id": "xwtkhu882who"
+        },
+        {
+          "n": 181,
+          "title": "Lycéen de 3e année. Paré pour le début d’un nouveau chapitre",
+          "id": "cnyvrqay7s9z"
+        },
+        {
+          "n": 182,
+          "title": "Une dispute à l'école ! Ichigo et Uryū combattent ensemble",
+          "id": "pc5af9mkch7y"
+        },
+        {
+          "n": 183,
+          "title": "Uryu est attaqué, une menace se tisse autour de ses amis",
+          "id": "4beo8gbrxmoj"
+        },
+        {
+          "n": 184,
+          "title": "Le pouvoir du Fullbring, le pouvoir perdu d'Ichigo",
+          "id": "hb2kt6m05she"
+        },
+        {
+          "n": 185,
+          "title": "Un effrayant danger dans la famille Kurosaki. La Confusion d’Ichigo",
+          "id": "q4jr6ephricg"
+        },
+        {
+          "n": 186,
+          "title": "Le pouvoir du badge de remplaçant, la fierté d'Ichigo",
+          "id": "te7tbn84rskm"
+        },
+        {
+          "n": 187,
+          "title": "Prochaine cible, la main diabolique vise Orihime",
+          "id": "zhr4q3yv0p2o"
+        },
+        {
+          "n": 188,
+          "title": "L'homme qui a tué le Shinigami remplaçant ? Tsukishima passe à l'action",
+          "id": "jt0k91m9mx7k"
+        },
+        {
+          "n": 189,
+          "title": "Fullbring, le pouvoir détesté !",
+          "id": "o46fl05d2fwh"
+        },
+        {
+          "n": 190,
+          "title": "Tsukishima attaque ! L'entraînement est interrompu",
+          "id": "rhv83sflsqvg"
+        },
+        {
+          "n": 191,
+          "title": "Ichigo maîtrise le Fullbring !",
+          "id": "j0uddplkzlsw"
+        },
+        {
+          "n": 192,
+          "title": "Ichigo contre Ginjō ! Vers le lieu du jeu",
+          "id": "dl20gi1xcz72"
+        },
+        {
+          "n": 193,
+          "title": "Amitié ? Haine ? Orihime et Riruka",
+          "id": "y7fy8hyfvck2"
+        },
+        {
+          "n": 194,
+          "title": "La Capacité de la menace rampante, Tsukishima",
+          "id": "que4rqgvymnr"
+        },
+        {
+          "n": 195,
+          "title": "Conflit ? Xcution passe à l'action",
+          "id": "a1vlnac1v9zr"
+        },
+        {
+          "n": 196,
+          "title": "Le combat douloureux ! Ichigo contre Sado et Orihime",
+          "id": "15fnw4dt9yiz"
+        },
+        {
+          "n": 197,
+          "title": "Ichigo contre Uryū ? Qui est le traître ?",
+          "id": "wsqtqoadzosa"
+        },
+        {
+          "n": 198,
+          "title": "Nouvelle apparence ! Le Bankai de Ginjō",
+          "id": "lm79qht53jly"
+        },
+        {
+          "n": 199,
+          "title": "Résurrection ! Ichigo Kurosaki, Shinigami remplaçant",
+          "id": "nk8528ga47a9"
+        },
+        {
+          "n": 200,
+          "title": "Combat acharné ! Shinigami contre Xcution",
+          "id": "91jewepbgsiy"
+        },
+        {
+          "n": 201,
+          "title": "Lutte désespérée ! Les souvenirs troublés de Byakuya",
+          "id": "9lbc7uf7401j"
+        },
+        {
+          "n": 202,
+          "title": "Ichigo contre Ginjō ! Le secret du badge de remplaçant",
+          "id": "xqp6mk4gyvbl"
+        },
+        {
+          "n": 203,
+          "title": "L'histoire change, le cœur reste inchangé",
+          "id": "7bzj3z25171t"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Thousand-Year Blood War — Partie 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "La guerre sanglante",
+          "id": "c2adng783e2w"
+        },
+        {
+          "n": 2,
+          "title": "Pierres fondatrices",
+          "id": "fw5d5bhdfqgr"
+        },
+        {
+          "n": 3,
+          "title": "La marche de la croix étoilée",
+          "id": "p1clj1aeor2j"
+        },
+        {
+          "n": 4,
+          "title": "Tuer l'ombre",
+          "id": "3wyuzawrr054"
+        },
+        {
+          "n": 5,
+          "title": "La colère comme la foudre",
+          "id": "kmpp2m17memj"
+        },
+        {
+          "n": 6,
+          "title": "Le feu",
+          "id": "i9xul6hfkefs"
+        },
+        {
+          "n": 7,
+          "title": "Né dans les ténèbres",
+          "id": "usoxct60m58r"
+        },
+        {
+          "n": 8,
+          "title": "Projet étoile filante (Zero Mix)",
+          "id": "5cc53jg9bp2o"
+        },
+        {
+          "n": 9,
+          "title": "La chute",
+          "id": "cqig4tqz7m27"
+        },
+        {
+          "n": 10,
+          "title": "La bataille",
+          "id": "4nv6wcp622cd"
+        },
+        {
+          "n": 11,
+          "title": "Tout sauf la pluie",
+          "id": "trijphl3zv7w"
+        },
+        {
+          "n": 12,
+          "title": "Tout sauf la pluie : la vérité de juin",
+          "id": "o2sv3ofa8jhm"
+        },
+        {
+          "n": 13,
+          "title": "La lame, c'est moi",
+          "id": "ma6ahcr1ic1j"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Thousand-Year Blood War — Partie 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Les neuf derniers jours",
+          "id": "jxp6mxk0vitm"
+        },
+        {
+          "n": 2,
+          "title": "La paix depuis les ombres",
+          "id": "5tjgnjcu3hvj"
+        },
+        {
+          "n": 3,
+          "title": "La virulence fondamentale",
+          "id": "eafgsex9vj3w"
+        },
+        {
+          "n": 4,
+          "title": "Cœur de loup",
+          "id": "7vl45gza6zxc"
+        },
+        {
+          "n": 5,
+          "title": "Rage au bord du ring",
+          "id": "cv8h3yx0am9k"
+        },
+        {
+          "n": 6,
+          "title": "La brume blanche",
+          "id": "csdb4e5xfle1"
+        },
+        {
+          "n": 7,
+          "title": "Je suis le tranchant",
+          "id": "pwx0huumgbpk"
+        },
+        {
+          "n": 8,
+          "title": "L'étoile sans tête",
+          "id": "viw09vxwjljg"
+        },
+        {
+          "n": 9,
+          "title": "Marche des zombies",
+          "id": "rm6gtcwelur2"
+        },
+        {
+          "n": 10,
+          "title": "Marche des zombies 2",
+          "id": "6firwxujd675"
+        },
+        {
+          "n": 11,
+          "title": "Trop tôt pour gagner, trop tard pour savoir",
+          "id": "7q19oebni6vx"
+        },
+        {
+          "n": 12,
+          "title": "Le maître",
+          "id": "r6tk7agnu9mg"
+        },
+        {
+          "n": 13,
+          "title": "Noir",
+          "id": "z9vswtfit6tx"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Thousand-Year Blood War — Partie 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "A",
+          "id": "ide8okf6uqgx"
+        },
+        {
+          "n": 2,
+          "title": "Tuer le roi",
+          "id": "a895vgy9mj9d"
+        },
+        {
+          "n": 3,
+          "title": "Le bras sombre",
+          "id": "lmui8oy9psi1"
+        },
+        {
+          "n": 4,
+          "title": "Le traître",
+          "id": "wwgexjl41e0e"
+        },
+        {
+          "n": 5,
+          "title": "Contre le jugement",
+          "id": "y7tgpbhi6qra"
+        },
+        {
+          "n": 6,
+          "title": "Le saint nouveau-né",
+          "id": "cpa2qfcm6vc0"
+        },
+        {
+          "n": 7,
+          "title": "La porte du soleil",
+          "id": "m5uhb0prkiq4"
+        },
+        {
+          "n": 8,
+          "title": "Bébé, tiens ma main",
+          "id": "pyb2hgjjicil"
+        },
+        {
+          "n": 9,
+          "title": "Ne poursuis pas une ombre",
+          "id": "z1g04b2l4o7x"
+        },
+        {
+          "n": 10,
+          "title": "Bébé, tiens ma main 2 : le rêve sans fin",
+          "id": "o80gggh2earm"
+        },
+        {
+          "n": 11,
+          "title": "Les ombres ont disparu",
+          "id": "1rh8r43ogtvi"
+        },
+        {
+          "n": 12,
+          "title": "Ami",
+          "id": "l29wv7wr3mjg"
+        },
+        {
+          "n": 13,
+          "title": "La réponse visible",
+          "id": "68c4gma1ta0j"
+        },
+        {
+          "n": 14,
+          "title": "Mes derniers mots",
+          "id": "18ilv4qwf227"
+        }
+      ]
+    },
+    "5": {
+      "label": "Saison 5",
+      "title": "Thousand-Year Blood War — Partie 4",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Dieu du tonnerre",
+          "id": "9wk8wsgi1t35"
+        },
+        {
+          "n": 2,
+          "title": "Fils des ténèbres",
+          "id": "o1znsm122ih5"
+        },
+        {
+          "n": 3,
+          "title": "Du sang pour mes os",
+          "id": "btltvm0r6z7x"
+        },
+        {
+          "n": 4,
+          "title": "Le cramoisi parfait",
+          "id": "r299c70vcwb8"
+        }
+      ]
+    }
+  }
+}

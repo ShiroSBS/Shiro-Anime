@@ -1,1 +1,21 @@
-
+[
+  {
+    "id": "one-punch-man",
+    "title": "One Punch Man",
+    "poster": "https://i.imgur.com/hP0GVNo.jpeg",
+    "rating": "8.2",
+    "year": "2015",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Comédie",
+      "Science",
+      "fiction",
+      "Seinen",
+      "Surnaturel",
+      "Aventure",
+      "Fantastique"
+    ]
+  }
+]

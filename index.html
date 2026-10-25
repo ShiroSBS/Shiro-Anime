@@ -747,7 +747,7 @@ async function loadAnimeData(id){
   return data;
 }
 
-let currentAnimeId = "jujutsu-kaisen";
+let currentAnimeId = "one-punch-man";
 let activeSeasonNum = 1;
 let watchSidebarSeason = 1;
 let currentSeason = 1;
@@ -1272,7 +1272,7 @@ function filmUnavailableCardHTML(anime){
     <div class="ep-info">
       <div class="ep-title">Film indisponible</div>
       <div class="ep-sub">${anime.title}</div>
-      <span style="display:inline-block;margin-top:6px;padding:2px 8px;border-radius:4px;font-size:10px;color:#888;background:rgba(100,100,100,.12);border:1px solid rgba(100,100,100,.18)">Le lecteur Sibnet ne dispose pas du film</span>
+      <span style="display:inline-block;margin-top:6px;padding:2px 8px;border-radius:4px;font-size:10px;color:#888;background:rgba(100,100,100,.12);border:1px solid rgba(100,100,100,.18)">Le lecteur ne dispose pas du film</span>
     </div>
   </div>`;
 }
@@ -1281,7 +1281,7 @@ function epCardHTML(ep,idx,season,animeId){
   const u=!ep.id;
   const a=getAnime(animeId);
   const thumbSrc=ep.id
-    ? `https://video.sibnet.ru/upload/videopreview/${ep.id}_1.jpg`
+    ? (a.banner||a.poster)
     : a.poster;
   return `<div class="ep-card${u?' unavailable':''}" ${!u?`onclick="watchAnime('${animeId}',${season},${idx})"`:'title="Non disponible"'}>
     <div class="ep-thumb">
@@ -1309,7 +1309,7 @@ function playEpisode(season,idx){
   const ep=a.seasons[season]?.episodes[idx];
   if(!ep||!ep.id)return;
   currentSeason=season;currentEpIdx=idx;watchSidebarSeason=season;
-  document.getElementById('player-iframe').src=`https://video.sibnet.ru/shell.php?videoid=${ep.id}`;
+  document.getElementById('player-iframe').src=`https://ansembed.net/embed-${ep.id}.html`;
   document.getElementById('player-ep-label').textContent=`Épisode ${ep.n}`;
   document.getElementById('player-ep-title').textContent=ep.title;
   document.getElementById('breadcrumb-ep').textContent=`S${season} · Ép.${ep.n} — ${ep.title}`;

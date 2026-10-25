@@ -40,5 +40,26 @@
       "Fiction",
       "Fantastique"
     ]
+  },
+  {
+    "id": "naruto-shippuden",
+    "title": "Naruto Shippuden",
+    "poster": "https://i.imgur.com/qF3x25u.jpeg",
+    "rating": "8.2",
+    "year": "2007",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Drame",
+      "Shônen",
+      "Surnaturel",
+      "Kaï",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]

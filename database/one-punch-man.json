@@ -1,0 +1,323 @@
+{
+  "id": "one-punch-man",
+  "title": "One Punch Man",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21087-sHb9zUZFsHe1.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+  "description": "Saitama est un homme tout ce qu'il y a de plus banal, du moins, en apparence.\nEn effet, malgré sa carrure, plutôt frêle, c'est un super-héros redoutablement efficace puisqu'il terrasse tous ses ennemis en un seul coup !\n\nMalheureusement, cette puissance colossale est un problème pour Saitama, qui s'ennuie, et cherche désespérément un adversaire à sa mesure.",
+  "genres": [
+    "Action",
+    "Comédie",
+    "Science",
+    "fiction",
+    "Seinen",
+    "Surnaturel",
+    "Aventure",
+    "Fantastique"
+  ],
+  "rating": "8.2",
+  "year": "2015",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "One Punch Man",
+  "stats": [
+    {
+      "v": "4",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.2",
+      "l": "Note"
+    },
+    {
+      "v": "2015",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.2"
+    },
+    {
+      "text": "🎬 4 Saisons · 48 Éps"
+    },
+    {
+      "text": "📅 2015"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "L'homme le plus fort du monde",
+          "id": "5paiaejcajt2"
+        },
+        {
+          "n": 2,
+          "title": "Le cyborg solitaire",
+          "id": "ij5z3lo10j4o"
+        },
+        {
+          "n": 3,
+          "title": "Le savant obstiné",
+          "id": "hcd06nwl3utk"
+        },
+        {
+          "n": 4,
+          "title": "Le ninja des temps modernes",
+          "id": "56rii2mo1d8h"
+        },
+        {
+          "n": 5,
+          "title": "Le maître ultime",
+          "id": "rnnx6kto5qn0"
+        },
+        {
+          "n": 6,
+          "title": "La ville de l'effroi",
+          "id": "yey8tggnfa85"
+        },
+        {
+          "n": 7,
+          "title": "L'apprenti suprême",
+          "id": "f8dn248y7yax"
+        },
+        {
+          "n": 8,
+          "title": "Le roi des profondeurs",
+          "id": "eqamzn2bminz"
+        },
+        {
+          "n": 9,
+          "title": "La justice inflexible",
+          "id": "sk686ck631ro"
+        },
+        {
+          "n": 10,
+          "title": "Le pire danger de tous les temps",
+          "id": "rlrea98ged80"
+        },
+        {
+          "n": 11,
+          "title": "Le champion de l'univers",
+          "id": "xnr9d8ifi88q"
+        },
+        {
+          "n": 12,
+          "title": "Le plus puissant des héros",
+          "id": "08whye8uznkk"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le retour du héros",
+          "id": "r4zik84yk66q"
+        },
+        {
+          "n": 2,
+          "title": "Le monstre à visage humain",
+          "id": "c3efz876b9od"
+        },
+        {
+          "n": 3,
+          "title": "Que la chasse commence",
+          "id": "yf0aeiovv181"
+        },
+        {
+          "n": 4,
+          "title": "Batte-Man",
+          "id": "u7qbet8ywmrc"
+        },
+        {
+          "n": 5,
+          "title": "Le tournoi des arts martiaux",
+          "id": "b6jv2aa3luwk"
+        },
+        {
+          "n": 6,
+          "title": "Le soulèvement des monstres",
+          "id": "zztv03ac38cv"
+        },
+        {
+          "n": 7,
+          "title": "Héros de classe S",
+          "id": "b5ahg11wzya2"
+        },
+        {
+          "n": 8,
+          "title": "La résistance des plus forts",
+          "id": "udf10abgckrz"
+        },
+        {
+          "n": 9,
+          "title": "Un problème de puissance",
+          "id": "lwolhv11aew3"
+        },
+        {
+          "n": 10,
+          "title": "L'encerclement de la justice",
+          "id": "con27gxybua7"
+        },
+        {
+          "n": 11,
+          "title": "L'honneur de chacun",
+          "id": "34t1j7whi25p"
+        },
+        {
+          "n": 12,
+          "title": "La fessée du maître",
+          "id": "gb8rdpnbyu10"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le briefing",
+          "id": "44lot4q2jgc3"
+        },
+        {
+          "n": 2,
+          "title": "La condition du monstre",
+          "id": "rs6bepa13s8m"
+        },
+        {
+          "n": 3,
+          "title": "Les limites du vivant",
+          "id": "qyob2u4brc0e"
+        },
+        {
+          "n": 4,
+          "title": "Place à la riposte",
+          "id": "ndpfgswuknbv"
+        },
+        {
+          "n": 5,
+          "title": "Le Roi des monstres",
+          "id": "5mrus237hntj"
+        },
+        {
+          "n": 6,
+          "title": "Des héros mal préparés",
+          "id": "n2kdb8v19g21"
+        },
+        {
+          "n": 7,
+          "title": "Le début de la suite",
+          "id": "ft19amcrmt3f"
+        },
+        {
+          "n": 8,
+          "title": "Le Rouleau des ninjas",
+          "id": "h4jpsph8ohwo"
+        },
+        {
+          "n": 9,
+          "title": "La Bravoure de l'enfant",
+          "id": "s7f2iy5rji1v"
+        },
+        {
+          "n": 10,
+          "title": "Calomnies entre immortels",
+          "id": "k8l3hdr944hq"
+        },
+        {
+          "n": 11,
+          "title": "Le cadre de niveau dragon",
+          "id": "arxpofiv1oga"
+        },
+        {
+          "n": 12,
+          "title": "La créature ultime",
+          "id": "ltqk3yeo3pnu"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "OAV",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "L'ombre trop furtive",
+          "id": "xxijedlybkjk"
+        },
+        {
+          "n": 2,
+          "title": "Le disciple qui parle trop mal",
+          "id": "5bpltkka0x10"
+        },
+        {
+          "n": 3,
+          "title": "Le ninja trop compliqué",
+          "id": "8e5jgj5tjj6x"
+        },
+        {
+          "n": 4,
+          "title": "Bang, trop autoritaire",
+          "id": "wezkgftgbmcn"
+        },
+        {
+          "n": 5,
+          "title": "Les sœurs trop agitées",
+          "id": "ntiy8wi0ij40"
+        },
+        {
+          "n": 6,
+          "title": "Le meurtre trop impossible",
+          "id": "4op5zvjj90vp"
+        },
+        {
+          "n": 7,
+          "title": "Saitama et les espers plutôt capables",
+          "id": "3z0zvwm70l36"
+        },
+        {
+          "n": 8,
+          "title": "Les vieux messieurs et la pêche",
+          "id": "k6txn35dewgl"
+        },
+        {
+          "n": 9,
+          "title": "Genos et l'amnésie",
+          "id": "lzngbki8c3c3"
+        },
+        {
+          "n": 10,
+          "title": "Le jeu et les rivaux",
+          "id": "g53i29yacu4q"
+        },
+        {
+          "n": 11,
+          "title": "Le Prisonnier Puri-Puri et les évadés",
+          "id": "cg8twlao3wwb"
+        },
+        {
+          "n": 12,
+          "title": "Meurtre chez Zombieman 2 : le chalet sous la neige",
+          "id": "yqlgppojdbt1"
+        }
+      ]
+    }
+  }
+}

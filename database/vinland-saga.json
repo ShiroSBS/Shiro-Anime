@@ -1,0 +1,313 @@
+{
+  "id": "vinland-saga",
+  "title": "Vinland Saga",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101348-pivKKffCAwAY.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg",
+  "description": "Vinland Saga nous raconte l'histoire d'un jeune Viking, Thorfinn. Ce dernier fait partie de l'équipage d'un chef de guerre du nom d'Askeladd.\nEnchainant les combats et les missions dangereuses, Thorfinn s'endurcit et gagne en maturité. Il a un objectif : la vengeance !",
+  "genres": [
+    "Seinen",
+    "Action",
+    "Aventure",
+    "Drame",
+    "Historique",
+    "Folklore",
+    "Guerre",
+    "Médiéval",
+    "Vengeance",
+    "Viking"
+  ],
+  "rating": "8.7",
+  "year": "2019",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Vinland Saga",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.7",
+      "l": "Note"
+    },
+    {
+      "v": "2019",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.7"
+    },
+    {
+      "text": "🎬 2 Saisons · 48 Éps"
+    },
+    {
+      "text": "📅 2019"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "hskpjhcryb1j"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "z9l1lkkoz64s"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "c7rqxjjylzvz"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "qwjvuejium2i"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "e9thilkmjauy"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "gtatdycrsi85"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "lldxxaf62ret"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "1cgt16fjhnym"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "xsvtbme0bfzl"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "74ur0bkqyatt"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "p7u4xywhpq09"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "ntmr415six9k"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "5ccrl2fdjakq"
+        },
+        {
+          "n": 14,
+          "title": "Episode 14",
+          "id": "a9magybzh5x4"
+        },
+        {
+          "n": 15,
+          "title": "Episode 15",
+          "id": "5cyymup5k9sh"
+        },
+        {
+          "n": 16,
+          "title": "Episode 16",
+          "id": "f7eklg62roai"
+        },
+        {
+          "n": 17,
+          "title": "Episode 17",
+          "id": "nr9nomk8drjx"
+        },
+        {
+          "n": 18,
+          "title": "Episode 18",
+          "id": "4ku7gm8g7cpu"
+        },
+        {
+          "n": 19,
+          "title": "Episode 19",
+          "id": "xkptxl4dtyj5"
+        },
+        {
+          "n": 20,
+          "title": "Episode 20",
+          "id": "hu5qf48b426z"
+        },
+        {
+          "n": 21,
+          "title": "Episode 21",
+          "id": "ftuq2t9yj7ez"
+        },
+        {
+          "n": 22,
+          "title": "Episode 22",
+          "id": "7vn5b62hejdi"
+        },
+        {
+          "n": 23,
+          "title": "Episode 23",
+          "id": "0c25th8dl9o2"
+        },
+        {
+          "n": 24,
+          "title": "Episode 24",
+          "id": "fqemqzux3bkk"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "83fezk5f2gfb"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "uuv0wekpkw7v"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "it9dvjkx0uh4"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "hjslrm1n7efd"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "gnukd601mldi"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "g0zdp8bna0ux"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "1fhiclozmpi0"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "bz9c1xsexx20"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "7dq4ruw6gfim"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "n3ch1lr9upcv"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "lf689vtwnx56"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "l653c0obreo3"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "bdpiwhtbw2ek"
+        },
+        {
+          "n": 14,
+          "title": "Episode 14",
+          "id": "9s129jscpmww"
+        },
+        {
+          "n": 15,
+          "title": "Episode 15",
+          "id": "ebjgh8ldrqqb"
+        },
+        {
+          "n": 16,
+          "title": "Episode 16",
+          "id": "avc6h9stlh6r"
+        },
+        {
+          "n": 17,
+          "title": "Episode 17",
+          "id": "lnwhemnw3m1p"
+        },
+        {
+          "n": 18,
+          "title": "Episode 18",
+          "id": "k3v5jvy608fo"
+        },
+        {
+          "n": 19,
+          "title": "Episode 19",
+          "id": "v0qi2dwfwlud"
+        },
+        {
+          "n": 20,
+          "title": "Episode 20",
+          "id": "7r2ddddozp4s"
+        },
+        {
+          "n": 21,
+          "title": "Episode 21",
+          "id": "kqp61dprmo0s"
+        },
+        {
+          "n": 22,
+          "title": "Episode 22",
+          "id": "18rd7qhcv1w1"
+        },
+        {
+          "n": 23,
+          "title": "Episode 23",
+          "id": "yl4jowlpedbe"
+        },
+        {
+          "n": 24,
+          "title": "Episode 24",
+          "id": "so62t2shwblm"
+        }
+      ]
+    }
+  }
+}

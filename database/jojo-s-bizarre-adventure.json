@@ -1,3 +1,963 @@
+{
+  "id": "jojo-s-bizarre-adventure",
+  "title": "JoJo's Bizarre Adventure",
+  "poster": "https://i.imgur.com/0V7TDLn.jpeg",
+  "banner": "https://i.imgur.com/zNNcChk.jpeg",
+  "bannerFallback": "https://i.imgur.com/zNNcChk.jpeg",
+  "description": "Angleterre 1868, Lord George Joestar, un noble anglais vient d'avoir un accident en calèche, les seuls survivants sont son fils et lui-même. Il revient à lui quelques temps après l'accident et remercie l'homme qui se trouvait près de lui, Dario Brando. Un homme peu scrupuleux aimant l'alcool et qui s'apprêtait à voler le Lord.\n\n12 ans plus tard, Dario meurt et envoie son fils Dio vivre chez les Joestar. Là-bas vit le fils du Lord, Jonathan Joestar, surnommé Jojo, rêvant de devenir un véritable gentleman. Jojo mène la belle vie et chaque jour est calme et paisible pour lui. Seulement l'arrivée de Dio va tout bouleverser. Dio veut prendre la place de Jojo et va tout faire pour l'anéantir moralement et devenir l'héritier de la fortune des Joestar. Leur destin à tous les deux n'en sera que plus lié avec un étrange masque aztèque aux capacités mystérieuses...",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Horreur",
+    "Épouvante",
+    "Science",
+    "Fiction",
+    "Fantastique"
+  ],
+  "rating": "7.3",
+  "year": "2012",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "JoJo's Bizarre Adventure",
+  "stats": [
+    {
+      "v": "7",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.3",
+      "l": "Note"
+    },
+    {
+      "v": "2012",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.3"
+    },
+    {
+      "text": "🎬 7 Saisons · 196 Éps"
+    },
+    {
+      "text": "📅 1993"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Phantom Blood",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Dio l’envahisseur",
+          "id": "jm8u9za3idmg"
+        },
+        {
+          "n": 2,
+          "title": "Une lettre du passé",
+          "id": "uhdoytmznfap"
+        },
+        {
+          "n": 3,
+          "title": "Adolescence avec Dio",
+          "id": "drdpk33f45x5"
+        },
+        {
+          "n": 4,
+          "title": "Overdrive",
+          "id": "wucz5ajzo4lx"
+        },
+        {
+          "n": 5,
+          "title": "Chevaliers des ténèbres",
+          "id": "dnjre44sjw1b"
+        },
+        {
+          "n": 6,
+          "title": "Courage du lendemain",
+          "id": "nnvxkbycnpv8"
+        },
+        {
+          "n": 7,
+          "title": "Le successeur",
+          "id": "60h52o3jm94b"
+        },
+        {
+          "n": 8,
+          "title": "Le combat sanglant ! JoJo et Dio",
+          "id": "ecio1kg58njt"
+        },
+        {
+          "n": 9,
+          "title": "La dernière Onde !",
+          "id": "9gzm6z2uzidy"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Battle Tendency",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "JoJo de New York",
+          "id": "yserle2zf8os"
+        },
+        {
+          "n": 2,
+          "title": "Le virtuose du jeu",
+          "id": "cydqccwwjmtm"
+        },
+        {
+          "n": 3,
+          "title": "L’homme du pilier",
+          "id": "7nzqcg4m6p0m"
+        },
+        {
+          "n": 4,
+          "title": "JoJo contre la créature ultime",
+          "id": "ccy1zgqlkoje"
+        },
+        {
+          "n": 5,
+          "title": "Guerriers d’élite ancestraux",
+          "id": "zhgeq8zoh7rv"
+        },
+        {
+          "n": 6,
+          "title": "L’aptitude des héros",
+          "id": "4r3idukqceni"
+        },
+        {
+          "n": 7,
+          "title": "Lisa Lisa, coach des Ondes",
+          "id": "fs1br5v5o579"
+        },
+        {
+          "n": 8,
+          "title": "Le piège parfait !",
+          "id": "aepdazt5d111"
+        },
+        {
+          "n": 9,
+          "title": "Stroheim contre-attaque",
+          "id": "x8x471lxfak3"
+        },
+        {
+          "n": 10,
+          "title": "Ruée vers la falaise de la mort",
+          "id": "inaqx8n2lyfp"
+        },
+        {
+          "n": 11,
+          "title": "La jeunesse solitaire de Caesar",
+          "id": "c12kcr1kozx4"
+        },
+        {
+          "n": 12,
+          "title": "Cent contre deux",
+          "id": "po8ta5m9w4qa"
+        },
+        {
+          "n": 13,
+          "title": "Un véritable guerrier !",
+          "id": "gdkotv1gnzqw"
+        },
+        {
+          "n": 14,
+          "title": "Le guerrier du vent",
+          "id": "1xvl86x42dsc"
+        },
+        {
+          "n": 15,
+          "title": "Les liens qui unissent JoJo",
+          "id": "3ox8e7f3j2ak"
+        },
+        {
+          "n": 16,
+          "title": "La naissance de l’être suprême !",
+          "id": "gkfe1v83hz0k"
+        },
+        {
+          "n": 17,
+          "title": "L’homme qui devint un dieu !",
+          "id": "u95ecc78n6lz"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Stardust Crusaders",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le possédé",
+          "id": "3tbfa4rahm2u"
+        },
+        {
+          "n": 2,
+          "title": "Qui rendra le jugement ?",
+          "id": "hri9toqgapj0"
+        },
+        {
+          "n": 3,
+          "title": "Le maléfice de Dio",
+          "id": "6i20zp0hr829"
+        },
+        {
+          "n": 4,
+          "title": "La Tour grise",
+          "id": "ajk5dxymau1z"
+        },
+        {
+          "n": 5,
+          "title": "Le Chariot d'argent",
+          "id": "8jmfw141fae0"
+        },
+        {
+          "n": 6,
+          "title": "La Lune bleu foncé",
+          "id": "06itvyhwupey"
+        },
+        {
+          "n": 7,
+          "title": "La Force",
+          "id": "jflnv3ixp8dt"
+        },
+        {
+          "n": 8,
+          "title": "Le Diable",
+          "id": "06e2yqgytvrt"
+        },
+        {
+          "n": 9,
+          "title": "La Tempérance jaune",
+          "id": "j20fcqhc8tti"
+        },
+        {
+          "n": 10,
+          "title": "Emperor et Hanged Man, Partie 1",
+          "id": "z2jgqeytyaie"
+        },
+        {
+          "n": 11,
+          "title": "Emperor et Hanged Man, Partie 2",
+          "id": "r8jut08qvg9j"
+        },
+        {
+          "n": 12,
+          "title": "L'Impératrice",
+          "id": "40t4dwub5lx8"
+        },
+        {
+          "n": 13,
+          "title": "La Roue de la Fortune",
+          "id": "smvd7b48pux8"
+        },
+        {
+          "n": 14,
+          "title": "Justice, Partie 1",
+          "id": "mogwzt8ipgmy"
+        },
+        {
+          "n": 15,
+          "title": "Justice, Partie 2",
+          "id": "e7v4j9869d6h"
+        },
+        {
+          "n": 16,
+          "title": "Lovers, Partie 1",
+          "id": "qif91sgm1y8c"
+        },
+        {
+          "n": 17,
+          "title": "Lovers, Partie 2",
+          "id": "sjwn6kahyihx"
+        },
+        {
+          "n": 18,
+          "title": "Le Soleil",
+          "id": "wahd06drqnco"
+        },
+        {
+          "n": 19,
+          "title": "Death 13, Partie 1",
+          "id": "bj5pxn4t0mjn"
+        },
+        {
+          "n": 20,
+          "title": "Death 13, Partie 2",
+          "id": "6u78nc44bxmt"
+        },
+        {
+          "n": 21,
+          "title": "Judgement, Partie 1",
+          "id": "aud1exgyigaf"
+        },
+        {
+          "n": 22,
+          "title": "Judgement, Partie 2",
+          "id": "vk578y4ujqt5"
+        },
+        {
+          "n": 23,
+          "title": "High Priestess, Partie 1",
+          "id": "dtfxwleurtsk"
+        },
+        {
+          "n": 24,
+          "title": "High Priestess, Partie 2",
+          "id": "jcb3l184k402"
+        },
+        {
+          "n": 25,
+          "title": "Iggy (The Fool) et N’Doul (Geb), Partie 1",
+          "id": "c1suudsg49qv"
+        },
+        {
+          "n": 26,
+          "title": "Iggy (The Fool) et N’Doul (Geb), Partie 2",
+          "id": "bfuh1nh64lx9"
+        },
+        {
+          "n": 27,
+          "title": "Oingo (Khnum) et Boingo (Thoth)",
+          "id": "zbb4bmdicjtc"
+        },
+        {
+          "n": 28,
+          "title": "Anubis, Partie 1",
+          "id": "smnqdauq3o0a"
+        },
+        {
+          "n": 29,
+          "title": "Anubis, Partie 2",
+          "id": "5t0u8ji25f9u"
+        },
+        {
+          "n": 30,
+          "title": "Mariah (Bast), Partie 1",
+          "id": "mpl2vrgeema7"
+        },
+        {
+          "n": 31,
+          "title": "Mariah (Bast), Partie 2",
+          "id": "nb1bvqffvahp"
+        },
+        {
+          "n": 32,
+          "title": "Alessi (Sethan), Partie 1",
+          "id": "y1jcnmn49yxi"
+        },
+        {
+          "n": 33,
+          "title": "Alessi (Sethan), Partie 2",
+          "id": "4ze2j1hufqrc"
+        },
+        {
+          "n": 34,
+          "title": "D’Arby the Gambler, Partie 1",
+          "id": "wyzhefovx5o5"
+        },
+        {
+          "n": 35,
+          "title": "D’Arby the Gambler, Partie 2",
+          "id": "4jcm47j5uzar"
+        },
+        {
+          "n": 36,
+          "title": "Hol Horse et Boingo, Partie 1",
+          "id": "9orf198sp5hv"
+        },
+        {
+          "n": 37,
+          "title": "Hol Horse et Boingo, Partie 2",
+          "id": "5l43dma2m596"
+        },
+        {
+          "n": 38,
+          "title": "Pet Shop, le gardien des enfers, Partie 1",
+          "id": "8ue3p62olyc7"
+        },
+        {
+          "n": 39,
+          "title": "Pet Shop, le gardien des enfers, Partie 2",
+          "id": "bl1gxm10fetu"
+        },
+        {
+          "n": 40,
+          "title": "D’Arby the Player, Partie 1",
+          "id": "wiv22ar1gp1p"
+        },
+        {
+          "n": 41,
+          "title": "D’Arby the Player, Partie 2",
+          "id": "hjyriwj7x2ie"
+        },
+        {
+          "n": 42,
+          "title": "Vanilla Ice, Miasmes d’outre-espace, Partie 1",
+          "id": "f4f1mbi7f81x"
+        },
+        {
+          "n": 43,
+          "title": "Vanilla Ice, Miasmes d’outre-espace, Partie 2",
+          "id": "yv234dfwkej4"
+        },
+        {
+          "n": 44,
+          "title": "Vanilla Ice, Miasmes d’outre-espace, Partie 3",
+          "id": "hzghjck43ahb"
+        },
+        {
+          "n": 45,
+          "title": "Le monde de Dio, Partie 1",
+          "id": "ddih16g5ddvi"
+        },
+        {
+          "n": 46,
+          "title": "Le monde de Dio, Partie 2",
+          "id": "qxjlil10etm4"
+        },
+        {
+          "n": 47,
+          "title": "Le monde de Dio, Partie 3",
+          "id": "o0ghaxscehsm"
+        },
+        {
+          "n": 48,
+          "title": "Un long périple, adieu les amis",
+          "id": "mmmoqr36wpcg"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Diamond is Unbreakable",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Jotaro Kujo rencontre Josuke Higashikata",
+          "id": "eylsgggfkt8p"
+        },
+        {
+          "n": 2,
+          "title": "Josuke Higashikata rencontre Angelo !",
+          "id": "qht8w66yrdwl"
+        },
+        {
+          "n": 3,
+          "title": "Les frères Nijimura, Partie 1",
+          "id": "emhpaeklwuna"
+        },
+        {
+          "n": 4,
+          "title": "Les frères Nijimura, Partie 2",
+          "id": "6f3mh04iez7k"
+        },
+        {
+          "n": 5,
+          "title": "Les frères Nijimura, Partie 3",
+          "id": "94544v2pqha1"
+        },
+        {
+          "n": 6,
+          "title": "Koichi Hirose (Echoes), Partie 1",
+          "id": "d1eriwi1rzuy"
+        },
+        {
+          "n": 7,
+          "title": "Toshikazu Hazamada (Surface)",
+          "id": "460ziioidkq8"
+        },
+        {
+          "n": 8,
+          "title": "Yukako Yamagishi est amoureuse, Partie 1",
+          "id": "z99456yagx3w"
+        },
+        {
+          "n": 9,
+          "title": "Yukako Yamagishi est amoureuse, Partie 2",
+          "id": "0uhxwz4f49hh"
+        },
+        {
+          "n": 10,
+          "title": "Allons manger italien",
+          "id": "nqw4vgca4ya8"
+        },
+        {
+          "n": 11,
+          "title": "Red Hot Chili Pepper, Partie 1",
+          "id": "vcecxd21cftw"
+        },
+        {
+          "n": 12,
+          "title": "Red Hot Chili Pepper, Partie 2",
+          "id": "9r0qyd9tppzh"
+        },
+        {
+          "n": 13,
+          "title": "On est tombés sur un sale truc !",
+          "id": "5z5albi75sr4"
+        },
+        {
+          "n": 14,
+          "title": "Allons chez le dessinateur, Partie 1",
+          "id": "uxmis6daao2w"
+        },
+        {
+          "n": 15,
+          "title": "Allons chez le dessinateur, Partie 2",
+          "id": "eco97wwjkew5"
+        },
+        {
+          "n": 16,
+          "title": "Partons chasser !",
+          "id": "zb4j9atj61qi"
+        },
+        {
+          "n": 17,
+          "title": "L'aventure de Rohan Kishibe",
+          "id": "dsr9st2rm99j"
+        },
+        {
+          "n": 18,
+          "title": "Les récoltes de Shige, Partie 1",
+          "id": "cf0tud4i0lal"
+        },
+        {
+          "n": 19,
+          "title": "Les récoltes de Shige, Partie 2",
+          "id": "hkl8o5awggn0"
+        },
+        {
+          "n": 20,
+          "title": "Yukako Yamagishi rêve de devenir Cendrillon",
+          "id": "s2urnaeyiadv"
+        },
+        {
+          "n": 21,
+          "title": "Yoshikage Kira veut vivre paisiblement, Partie 1",
+          "id": "k9sfd4om8ge5"
+        },
+        {
+          "n": 22,
+          "title": "Yoshikage Kira veut vivre paisiblement, Partie 2",
+          "id": "wrr22hns47xb"
+        },
+        {
+          "n": 23,
+          "title": "Sheer Heart Attack, Partie 1",
+          "id": "ua0lz4sanfms"
+        },
+        {
+          "n": 24,
+          "title": "Sheer Heart Attack, Partie 2",
+          "id": "kkvu6fabyt6l"
+        },
+        {
+          "n": 25,
+          "title": "Atom Heart Father",
+          "id": "fvp32ga8q3rh"
+        },
+        {
+          "n": 26,
+          "title": "L’adepte du pierre, feuille, ciseaux !",
+          "id": "5hb9z1n2begi"
+        },
+        {
+          "n": 27,
+          "title": "Je suis un extra-terrestre",
+          "id": "13rxdumnvidc"
+        },
+        {
+          "n": 28,
+          "title": "Highway Star, Partie 1",
+          "id": "mjasnh3nctg6"
+        },
+        {
+          "n": 29,
+          "title": "Highway Star, Partie 2",
+          "id": "r5mmfubisn0f"
+        },
+        {
+          "n": 30,
+          "title": "Yoshikage Kira attire les chats",
+          "id": "hc6is74op39b"
+        },
+        {
+          "n": 31,
+          "title": "Jeudi 15 juillet, Partie 1",
+          "id": "4h7frpvwe564"
+        },
+        {
+          "n": 32,
+          "title": "Jeudi 15 juillet, Partie 2",
+          "id": "zbie45s3x9h8"
+        },
+        {
+          "n": 33,
+          "title": "Jeudi 15 juillet, Partie 3",
+          "id": "w2a7pjtqrak7"
+        },
+        {
+          "n": 34,
+          "title": "Jeudi 15 juillet, Partie 4",
+          "id": "099k9xy5cyvh"
+        },
+        {
+          "n": 35,
+          "title": "Another One Bites the Dust, Partie 1",
+          "id": "rgs1gzecy5nj"
+        },
+        {
+          "n": 36,
+          "title": "Another One Bites the Dust, Partie 2",
+          "id": "mk4zp4xwx8kl"
+        },
+        {
+          "n": 37,
+          "title": "Crazy Diamond est incassable, Partie 1",
+          "id": "gc5jiwktxw1m"
+        },
+        {
+          "n": 38,
+          "title": "Crazy Diamond est incassable, Partie 2",
+          "id": "ob9gyp1dgzhd"
+        },
+        {
+          "n": 39,
+          "title": "Adieu, Morioh, cœur d’or",
+          "id": "4h82pyadcio8"
+        }
+      ]
+    },
+    "5": {
+      "label": "Saison 5",
+      "title": "Golden Wind",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Vent doré",
+          "id": "wri83nb783ar"
+        },
+        {
+          "n": 2,
+          "title": "Voici venir Buccellati",
+          "id": "yxad953m1lwn"
+        },
+        {
+          "n": 3,
+          "title": "Le gangster en cage",
+          "id": "gh65qjuvzqrl"
+        },
+        {
+          "n": 4,
+          "title": "Initiation",
+          "id": "2rkfq5u21jlv"
+        },
+        {
+          "n": 5,
+          "title": "La fortune de Polpo !",
+          "id": "f28ij0u0s7pb"
+        },
+        {
+          "n": 6,
+          "title": "Moody Jazz contre-attaque",
+          "id": "fwqihw5p89jc"
+        },
+        {
+          "n": 7,
+          "title": "Six Bullets entre en scène, Partie 1",
+          "id": "ykrjnbduebxs"
+        },
+        {
+          "n": 8,
+          "title": "Six Bullets entre en scène, Partie 2",
+          "id": "hk6wlq7z33d2"
+        },
+        {
+          "n": 9,
+          "title": "Le premier ordre du parrain",
+          "id": "1ktplm304orf"
+        },
+        {
+          "n": 10,
+          "title": "Le gang de tueurs à gages",
+          "id": "q87sex5wa8k1"
+        },
+        {
+          "n": 11,
+          "title": "Narancia et Lil’ Bomber",
+          "id": "peadqx8rlzpx"
+        },
+        {
+          "n": 12,
+          "title": "Le deuxième ordre du parrain",
+          "id": "jrjlldb8iouo"
+        },
+        {
+          "n": 13,
+          "title": "Mirror Man et Purple Smoke",
+          "id": "5g9ugqgltf2e"
+        },
+        {
+          "n": 14,
+          "title": "L’express pour Florence",
+          "id": "c7tv383yuph2"
+        },
+        {
+          "n": 15,
+          "title": "Thankful Death, Partie 1",
+          "id": "jcfbu8acckvs"
+        },
+        {
+          "n": 16,
+          "title": "Thankful Death, Partie 2",
+          "id": "zzvydadzdw3u"
+        },
+        {
+          "n": 17,
+          "title": "Babyhead",
+          "id": "jg9o6o3gk28a"
+        },
+        {
+          "n": 18,
+          "title": "Direction Venise !",
+          "id": "p2pp25r033d7"
+        },
+        {
+          "n": 19,
+          "title": "Glace blanche",
+          "id": "3ja9ifusntl5"
+        },
+        {
+          "n": 20,
+          "title": "Le dernier ordre du parrain",
+          "id": "xj2ybxedsl9m"
+        },
+        {
+          "n": 21,
+          "title": "Le mystère d’Emperor Crimson",
+          "id": "2pu1ms5757oi"
+        },
+        {
+          "n": 22,
+          "title": "Le G de Guts",
+          "id": "500vu1c2uh0o"
+        },
+        {
+          "n": 23,
+          "title": "Crush et Talking Mouth",
+          "id": "toll8wof8tyj"
+        },
+        {
+          "n": 24,
+          "title": "Course notoire",
+          "id": "mikfw2govcsn"
+        },
+        {
+          "n": 25,
+          "title": "Dame épicée",
+          "id": "ntcha4ph4zqn"
+        },
+        {
+          "n": 26,
+          "title": "Une petite histoire du passé ~ Mon nom est Doppio ~",
+          "id": "i0aor9jlk6r7"
+        },
+        {
+          "n": 27,
+          "title": "Emperor Crimson contre Metallic",
+          "id": "y2paltjsoa3q"
+        },
+        {
+          "n": 28,
+          "title": "Sous un ciel qui menace de s’effondrer",
+          "id": "3g5lf7pja2bx"
+        },
+        {
+          "n": 29,
+          "title": "Destination : Rome et le Colisée !",
+          "id": "v856l3f5brg4"
+        },
+        {
+          "n": 30,
+          "title": "Green Tea et Sanctuary, Partie 1",
+          "id": "rwvkbrydk6oq"
+        },
+        {
+          "n": 31,
+          "title": "Green Tea et Sanctuary, Partie 2",
+          "id": "x8jxffnn720q"
+        },
+        {
+          "n": 32,
+          "title": "Green Tea et Sanctuary, Partie 3",
+          "id": "xjj776f9egjj"
+        },
+        {
+          "n": 33,
+          "title": "Son nom est Diavolo",
+          "id": "eq30mx0ikfhu"
+        },
+        {
+          "n": 34,
+          "title": "Le requiem résonne en silence, Partie 1",
+          "id": "lj257brrfq1f"
+        },
+        {
+          "n": 35,
+          "title": "Le requiem résonne en silence, Partie 2",
+          "id": "0rzogv5sd25l"
+        },
+        {
+          "n": 36,
+          "title": "La réapparition de Diavolo",
+          "id": "tko21gdzr59b"
+        },
+        {
+          "n": 37,
+          "title": "Le roi parmi les rois",
+          "id": "c0ev9m05hc5l"
+        },
+        {
+          "n": 38,
+          "title": "Golden Wind Requiem",
+          "id": "vzk3mx87dopv"
+        },
+        {
+          "n": 39,
+          "title": "Les esclaves endormis",
+          "id": "zjjynxndkw69"
+        }
+      ]
+    },
+    "6": {
+      "label": "Saison 6",
+      "title": "Stone Ocean",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Pierre océan",
+          "id": "guv5oi4inhpn"
+        },
+        {
+          "n": 2,
+          "title": "Jolyne Kujo, matricule FE40536",
+          "id": "33byyugurhkq"
+        },
+        {
+          "n": 3,
+          "title": "Le visiteur, partie 1",
+          "id": "iy3rculctg7e"
+        },
+        {
+          "n": 4,
+          "title": "Le visiteur, partie 2",
+          "id": "974acaz22w6y"
+        },
+        {
+          "n": 5,
+          "title": "Prisonnière de l'amour",
+          "id": "kbk30c2t0x6o"
+        },
+        {
+          "n": 6,
+          "title": "Les vignettes d’Hermes",
+          "id": "j7j59h3kep17"
+        },
+        {
+          "n": 7,
+          "title": "Elles sont six !",
+          "id": "bj4uo1yt27ep"
+        },
+        {
+          "n": 8,
+          "title": "F.F.",
+          "id": "zu5kl92x620v"
+        },
+        {
+          "n": 9,
+          "title": "Mary Lynn Manson, le recouvreur de dettes",
+          "id": "p6gjd7qgz56b"
+        },
+        {
+          "n": 10,
+          "title": "Le plan Savage Guardian (Direction la cour !), partie 1",
+          "id": "n33vjlerbo1k"
+        },
+        {
+          "n": 11,
+          "title": "Le plan Savage Guardian (Direction la cour !), partie 2",
+          "id": "7q6mu2ux6msp"
+        },
+        {
+          "n": 12,
+          "title": "Avis de tempête",
+          "id": "1dtb2836nzyl"
+        },
+        {
+          "n": 13,
+          "title": "Baisers d’amour et de vengeance, partie 1",
+          "id": "q4zwtgb6zmfc"
+        },
+        {
+          "n": 14,
+          "title": "Baisers d’amour et de vengeance, partie 2",
+          "id": "d8ps59gq8scv"
+        },
+        {
+          "n": 15,
+          "title": "Le quartier disciplinaire",
+          "id": "urkzhp14nvxb"
+        },
+        {
+          "n": 16,
+          "title": "Le secret du surveillant Westwood",
+          "id": "dvpcwko2brep"
+        },
+        {
+          "n": 17,
+          "title": "Brûle, Dragon’s Dream",
+          "id": "oinnru3y3gaz"
+        },
+        {
+          "n": 18,
+          "title": "Brûle, Foo Fighters",
+          "id": "x6h78il0bycv"
+        },
+        {
+          "n": 19,
+          "title": "Une naissance « verte »",
+          "id": "0ig9smeoqdy5"
+        },
+        {
+          "n": 20,
+          "title": "F.F. – Le témoin",
+          "id": "g2ef37lmodg5"
+        },
+        {
+          "n": 21,
+          "title": "AWAKEN – Le réveil",
+          "id": "64fhxlmty64d"
+        },
+        {
+          "n": 22,
+          "title": "Le temps du paradis. Nouvelle lune, nouveau prêtre !",
+          "id": "x39rr55rfp2d"
         },
         {
           "n": 23,
@@ -112,7 +1072,7 @@
         },
         {
           "n": 6,
-          "title": "Le poids du destin de Gyro",
+          "title": "Épisode 6 de Steel Ball Run",
           "id": "ib00yfz9u1g3"
         }
       ]

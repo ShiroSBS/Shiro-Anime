@@ -1,0 +1,524 @@
+{
+  "id": "l-attaque-des-titans",
+  "title": "L'Attaque des Titans",
+  "poster": "https://i.imgur.com/1sohRuc.jpeg",
+  "banner": "https://i.imgur.com/DusNH87.jpeg",
+  "bannerFallback": "https://i.imgur.com/DusNH87.jpeg",
+  "description": "Il y a 107 ans, les Titans ont presque exterminé la race humaine.\nCes Titans mesurent principalement une dizaine de mètres et ils se nourrissent d'humains.\nLes humains ayant survécus à cette extermination ont construit une cité fortifiée avec des murs d'enceinte de 50 mètres de haut pour pouvoir se protéger des Titans.\nPendant 100 ans les humains ont connu la paix.\nEren est un jeune garçon qui rêve de sortir de la ville pour explorer le monde extérieur.\nIl mène une vie paisible avec ses parents et sa sœur Mikasa dans le district de Shiganshina.\nMais un jour de l'année 845, un Titan de plus de 60 mètres de haut apparaît. Il démolit une partie du mur du district de Shiganshina et provoque une invasion de Titans.\nEren verra sa mère se faire dévorer sous ses yeux sans rien pouvoir faire. Il décidera après ces événements traumatisants de s'engager dans les forces militaires de la ville avec pour but d'exterminer tous les Titans qui existent.",
+  "genres": [
+    "Science-Fiction",
+    "Fantastique",
+    "Action",
+    "Aventure"
+  ],
+  "rating": "8.5",
+  "year": "2013",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "L'Attaque des Titans",
+  "stats": [
+    {
+      "v": "4",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.5",
+      "l": "Note"
+    },
+    {
+      "v": "2013",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.5"
+    },
+    {
+      "text": "🎬 4 Saisons · 89 Éps"
+    },
+    {
+      "text": "📅 2013"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "L'Attaque des Titans - Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "À toi, dans 2000 ans : La chute de Shiganshina (1)",
+          "id": "mdejo0nbkss2"
+        },
+        {
+          "n": 2,
+          "title": "Ce jour-là : La chute de Shiganshina (2)",
+          "id": "g4nndbualkbr"
+        },
+        {
+          "n": 3,
+          "title": "Une désolation lumineuse : L'entraînement de la 104e brigade",
+          "id": "9ae1o22ekdhd"
+        },
+        {
+          "n": 4,
+          "title": "Le combat de la 104e brigade d'entraînement",
+          "id": "af0cs9serkb8"
+        },
+        {
+          "n": 5,
+          "title": "Première bataille : La défense de Trost (1)",
+          "id": "emr7rmv8iigd"
+        },
+        {
+          "n": 6,
+          "title": "Le monde vu par un garçon : La défense de Trost (2)",
+          "id": "urk8my83o0tv"
+        },
+        {
+          "n": 7,
+          "title": "Courte lame : La défense de Trost (3)",
+          "id": "bhvqkrgpvtu2"
+        },
+        {
+          "n": 8,
+          "title": "J'entends ses battements de cœur : La défense de Trost (4)",
+          "id": "bxqur1lcfwuo"
+        },
+        {
+          "n": 9,
+          "title": "Que faut-il faire de ce bras ? : La défense de Trost (5)",
+          "id": "fb2646z9ac8b"
+        },
+        {
+          "n": 10,
+          "title": "Répondre : La défense de Trost (6)",
+          "id": "sub287al8haa"
+        },
+        {
+          "n": 11,
+          "title": "Une idole : La défense de Trost (7)",
+          "id": "d0ylsouwi0vu"
+        },
+        {
+          "n": 12,
+          "title": "Blessure : La défense de Trost (8)",
+          "id": "2786f5cf44c1"
+        },
+        {
+          "n": 13,
+          "title": "Désir primitif : La défense de Trost (9)",
+          "id": "ah63c192ydr5"
+        },
+        {
+          "n": 14,
+          "title": "Ne plus regarder en arrière : La veille de la contre-offensive (1)",
+          "id": "65plge303lt0"
+        },
+        {
+          "n": 15,
+          "title": "Équipe spéciale d'opérations : La veille de la contre-offensive (2)",
+          "id": "cp6tx9vz7k4c"
+        },
+        {
+          "n": 16,
+          "title": "Ouverture : La veille de la contre-offensive (3)",
+          "id": "vpaushkoomu9"
+        },
+        {
+          "n": 17,
+          "title": "Le Titan féminin : 57e expédition hors des murs (1)",
+          "id": "dn6xow4czx9p"
+        },
+        {
+          "n": 18,
+          "title": "La forêt des grands arbres : 57e expédition hors des murs (2)",
+          "id": "mc30a2a59dr3"
+        },
+        {
+          "n": 19,
+          "title": "Par ici : 57e expédition hors des murs (3)",
+          "id": "if460j9nfgr2"
+        },
+        {
+          "n": 20,
+          "title": "Ermite : 57e expédition hors des murs (4)",
+          "id": "4ytpo4f7f4wg"
+        },
+        {
+          "n": 21,
+          "title": "Attaque surprise : 57e expédition hors des murs (5)",
+          "id": "hog2ktzfchk9"
+        },
+        {
+          "n": 22,
+          "title": "Les perdants : 57e expédition hors des murs (6)",
+          "id": "uuw0o88aymed"
+        },
+        {
+          "n": 23,
+          "title": "Malentendu : 57e expédition hors des murs (7)",
+          "id": "7oybno81ofje"
+        },
+        {
+          "n": 24,
+          "title": "Un air de déjà-vu : La 57e expédition hors des murs (8)",
+          "id": "ayfjox3wzjm0"
+        },
+        {
+          "n": 25,
+          "title": "La cicatrice : La 57e expédition hors des murs (9)",
+          "id": "kjdjancgvgpw"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "L'Attaque des Titans - Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le Titan bestial",
+          "id": "cphjb5395xh9"
+        },
+        {
+          "n": 2,
+          "title": "De retour chez toi",
+          "id": "5hzff8pp9vdy"
+        },
+        {
+          "n": 3,
+          "title": "Vers le sud-ouest",
+          "id": "gq7yhglgzfaa"
+        },
+        {
+          "n": 4,
+          "title": "Soldat",
+          "id": "g4lk0cu14oga"
+        },
+        {
+          "n": 5,
+          "title": "Christa Lenz",
+          "id": "8p3pe7wo6raj"
+        },
+        {
+          "n": 6,
+          "title": "Guerrier",
+          "id": "eqit9m0yc4p6"
+        },
+        {
+          "n": 7,
+          "title": "L'assaut",
+          "id": "41pqolctl6r3"
+        },
+        {
+          "n": 8,
+          "title": "Chasseurs",
+          "id": "2w16ra5r1n7i"
+        },
+        {
+          "n": 9,
+          "title": "Ouverture",
+          "id": "bjwlk754urpf"
+        },
+        {
+          "n": 10,
+          "title": "Enfants",
+          "id": "q0lwxkocffzu"
+        },
+        {
+          "n": 11,
+          "title": "Charge",
+          "id": "brw4vd1klyjg"
+        },
+        {
+          "n": 12,
+          "title": "Cri",
+          "id": "zj3sh7frytuz"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "L'Attaque des Titans - Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Fumigène",
+          "id": "nif0z88oa23d"
+        },
+        {
+          "n": 2,
+          "title": "Douleur",
+          "id": "5pvtpvzi0sa0"
+        },
+        {
+          "n": 3,
+          "title": "Passé",
+          "id": "bnb5sgrlgawy"
+        },
+        {
+          "n": 4,
+          "title": "Confiance",
+          "id": "cijt9eeb77vb"
+        },
+        {
+          "n": 5,
+          "title": "Réponse",
+          "id": "p4zhwgcgfl5x"
+        },
+        {
+          "n": 6,
+          "title": "Péché",
+          "id": "5xvmfe9mhnck"
+        },
+        {
+          "n": 7,
+          "title": "Souhait",
+          "id": "8biuop9pcocd"
+        },
+        {
+          "n": 8,
+          "title": "De l'autre côté du mur",
+          "id": "ntdfftqkeipa"
+        },
+        {
+          "n": 9,
+          "title": "Le roi des murs",
+          "id": "15jjbl3do7bt"
+        },
+        {
+          "n": 10,
+          "title": "Amis",
+          "id": "53gfi5cnmnlu"
+        },
+        {
+          "n": 11,
+          "title": "Témoin oculaire",
+          "id": "uq4tnb2erq5m"
+        },
+        {
+          "n": 12,
+          "title": "La nuit de la contre-attaque",
+          "id": "o3o45348f6er"
+        },
+        {
+          "n": 13,
+          "title": "La ville de nos débuts",
+          "id": "8a6kopmw0s1k"
+        },
+        {
+          "n": 14,
+          "title": "Lance foudroyante",
+          "id": "e4ejdjudqkks"
+        },
+        {
+          "n": 15,
+          "title": "Descente",
+          "id": "xu4s2zfgf9bl"
+        },
+        {
+          "n": 16,
+          "title": "Match parfait",
+          "id": "yhbt1qy3zj3h"
+        },
+        {
+          "n": 17,
+          "title": "Héros",
+          "id": "7u91nn1sv647"
+        },
+        {
+          "n": 18,
+          "title": "Soleil de minuit",
+          "id": "05vhnnxqx9zb"
+        },
+        {
+          "n": 19,
+          "title": "Le sous-sol",
+          "id": "gzorrk6lwjyk"
+        },
+        {
+          "n": 20,
+          "title": "Ce jour-là",
+          "id": "3o4bxuuys38m"
+        },
+        {
+          "n": 21,
+          "title": "Le Titan assaillant",
+          "id": "4grrv28cr73v"
+        },
+        {
+          "n": 22,
+          "title": "De l'autre côté du mur",
+          "id": "jgt62ostfhne"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "L'Attaque des Titans - Saison Finale",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "De l'autre côté de la mer",
+          "id": "u61ezizi75j9"
+        },
+        {
+          "n": 2,
+          "title": "Le train de minuit",
+          "id": "2073q684qxak"
+        },
+        {
+          "n": 3,
+          "title": "La porte de l'espoir",
+          "id": "g59qshkgh8zs"
+        },
+        {
+          "n": 4,
+          "title": "De main en main",
+          "id": "dzoj7f1y4kdj"
+        },
+        {
+          "n": 5,
+          "title": "Déclaration de guerre",
+          "id": "yuym4datutl3"
+        },
+        {
+          "n": 6,
+          "title": "Le Titan marteau d'armes",
+          "id": "9h3d2p83zp99"
+        },
+        {
+          "n": 7,
+          "title": "Attaque",
+          "id": "pwfkguw4i07r"
+        },
+        {
+          "n": 8,
+          "title": "La balle de l'assassin",
+          "id": "pd5lxgccys1v"
+        },
+        {
+          "n": 9,
+          "title": "Volontaires de l'ombre",
+          "id": "bmauaylzktbk"
+        },
+        {
+          "n": 10,
+          "title": "Arguments solides",
+          "id": "zfi468ngx64d"
+        },
+        {
+          "n": 11,
+          "title": "Faux",
+          "id": "sfc6xjfft66n"
+        },
+        {
+          "n": 12,
+          "title": "Les guides",
+          "id": "r7n4oogrv4cp"
+        },
+        {
+          "n": 13,
+          "title": "Enfants de la forêt",
+          "id": "irxlaukxjlzk"
+        },
+        {
+          "n": 14,
+          "title": "Sauvagerie",
+          "id": "2trvccoj7yyb"
+        },
+        {
+          "n": 15,
+          "title": "Le seul salut",
+          "id": "rhmp15ftdjrl"
+        },
+        {
+          "n": 16,
+          "title": "Ciel et terre",
+          "id": "zizj7cypwr3g"
+        },
+        {
+          "n": 17,
+          "title": "Jugement",
+          "id": "18u5028k18ti"
+        },
+        {
+          "n": 18,
+          "title": "Tromperie",
+          "id": "flzjbewzzzgg"
+        },
+        {
+          "n": 19,
+          "title": "Fierté",
+          "id": "9mqve07khfhr"
+        },
+        {
+          "n": 20,
+          "title": "Souvenirs d'avenir",
+          "id": "bgdup9qjpvaa"
+        },
+        {
+          "n": 21,
+          "title": "Un visiteur inattendu",
+          "id": "v7h5v2sljesd"
+        },
+        {
+          "n": 22,
+          "title": "Accomplissement",
+          "id": "145y7y4ux5ar"
+        },
+        {
+          "n": 23,
+          "title": "Coucher de soleil",
+          "id": "2p0nf9zywxva"
+        },
+        {
+          "n": 24,
+          "title": "Fierté",
+          "id": "78ud1bef2pol"
+        },
+        {
+          "n": 25,
+          "title": "La nuit de la fin",
+          "id": "49i5znj8chuh"
+        },
+        {
+          "n": 26,
+          "title": "Traître",
+          "id": "4yqg46dt48d0"
+        },
+        {
+          "n": 27,
+          "title": "Rétrospective",
+          "id": "0crcjftxgc0g"
+        },
+        {
+          "n": 28,
+          "title": "L'aube de l'humanité",
+          "id": "l5jxu91fp0qy"
+        },
+        {
+          "n": 29,
+          "title": "Le Grand Terrassement (Partie 1)",
+          "id": "qpnfmw5l7rhz"
+        },
+        {
+          "n": 30,
+          "title": "Le Grand Terrassement (Partie 2)",
+          "id": "zxcftx2swklc"
+        }
+      ]
+    }
+  }
+}

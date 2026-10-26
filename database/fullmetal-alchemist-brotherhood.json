@@ -1,0 +1,385 @@
+{
+  "id": "fullmetal-alchemist-brotherhood",
+  "title": "FullMetal Alchemist Brotherhood",
+  "poster": "https://i.imgur.com/rgJ3nnQ.jpeg",
+  "banner": "https://i.imgur.com/4GwEoN6.jpeg",
+  "bannerFallback": "https://i.imgur.com/4GwEoN6.jpeg",
+  "description": "Cette version est une seconde adaptation du manga de Hiromu Arakawa. Elle est bien plus fidèle au manga que la précédente version, et le design change quelque peu.\n\nEdward Elric et son frère Alphonse Elric sont de jeunes Alchimistes. En tentant de ramener leur mère à la vie, ils ont payé un lourd tribut, et ils tentent désormais de récupérer ce qu'ils ont perdu. Pour cela, Edward est devenu Alchimiste d'État : le Fullmetal Alchemist. Mais au cours de leurs recherches, bien des épreuves attendent les deux frères et des êtres étranges : les Homonculus, les poursuivent.",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Surnaturel",
+    "Thriller",
+    "Science-Fiction",
+    "Fantastique"
+  ],
+  "rating": "9.0",
+  "year": "2009",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "FullMetal Alchemist Brotherhood",
+  "stats": [
+    {
+      "v": "1",
+      "l": "Saisons"
+    },
+    {
+      "v": "9.0",
+      "l": "Note"
+    },
+    {
+      "v": "2009",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "9.0"
+    },
+    {
+      "text": "🎬 1 Saison · 64 Éps"
+    },
+    {
+      "text": "📅 2009"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "FullMetal Alchemist: Brotherhood - Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le Fullmetal Alchemist",
+          "id": "ktnu50oy0w2s"
+        },
+        {
+          "n": 2,
+          "title": "Le premier jour",
+          "id": "sfvkz1kja1hm"
+        },
+        {
+          "n": 3,
+          "title": "La Ville hérétique",
+          "id": "cy02608360di"
+        },
+        {
+          "n": 4,
+          "title": "Le Chagrin de l'alchimiste",
+          "id": "7fgza9p4b9i8"
+        },
+        {
+          "n": 5,
+          "title": "Pluie de chagrin",
+          "id": "8uukdyrt6r12"
+        },
+        {
+          "n": 6,
+          "title": "La Route de l'espoir",
+          "id": "7rg0a0100o0u"
+        },
+        {
+          "n": 7,
+          "title": "La Vérité cachée",
+          "id": "oaa52e6syh9h"
+        },
+        {
+          "n": 8,
+          "title": "Le Cinquième Laboratoire",
+          "id": "eel5oevf7ow9"
+        },
+        {
+          "n": 9,
+          "title": "Sentiments créés",
+          "id": "r41m9yicp3qe"
+        },
+        {
+          "n": 10,
+          "title": "Distances menaçantes",
+          "id": "fvkyybvxyjsm"
+        },
+        {
+          "n": 11,
+          "title": "Miracle à Central",
+          "id": "ic4nn4l50h9d"
+        },
+        {
+          "n": 12,
+          "title": "Une définition de la famille",
+          "id": "s6yjykqckj38"
+        },
+        {
+          "n": 13,
+          "title": "Les combattants de Burning City",
+          "id": "ns0debgp96d4"
+        },
+        {
+          "n": 14,
+          "title": "Ceux qui s'en prennent aux murs",
+          "id": "vzccqs7cq4cx"
+        },
+        {
+          "n": 15,
+          "title": "Envoyé de l'Est",
+          "id": "1plhr5e2payo"
+        },
+        {
+          "n": 16,
+          "title": "Les traces du camarade",
+          "id": "k8mo74xhnmpv"
+        },
+        {
+          "n": 17,
+          "title": "La flamme vengeresse",
+          "id": "oine4jgx5k32"
+        },
+        {
+          "n": 18,
+          "title": "La main droite de l'administrateur",
+          "id": "jjg3s4rd8ndx"
+        },
+        {
+          "n": 19,
+          "title": "La mort de l'immortel",
+          "id": "0st7zmo4e8uv"
+        },
+        {
+          "n": 20,
+          "title": "Le caveau du père",
+          "id": "d6f7xrteil2a"
+        },
+        {
+          "n": 21,
+          "title": "L'avance du fou",
+          "id": "8go8bj860943"
+        },
+        {
+          "n": 22,
+          "title": "Le dos lointain",
+          "id": "glmq37b1pxog"
+        },
+        {
+          "n": 23,
+          "title": "La jeune fille sur le champ de bataille",
+          "id": "8psqd0cz873q"
+        },
+        {
+          "n": 24,
+          "title": "À l'intérieur du ventre",
+          "id": "4ibhnpzomiy4"
+        },
+        {
+          "n": 25,
+          "title": "Des ténèbres aux lumières",
+          "id": "jypq6kfq3sof"
+        },
+        {
+          "n": 26,
+          "title": "La réunion",
+          "id": "zip0ukls7wtg"
+        },
+        {
+          "n": 27,
+          "title": "L'intermédiaire",
+          "id": "0g62yk4qme0e"
+        },
+        {
+          "n": 28,
+          "title": "Père",
+          "id": "96pllunidwxv"
+        },
+        {
+          "n": 29,
+          "title": "Lutte de fougue",
+          "id": "1ej5jn7wg42f"
+        },
+        {
+          "n": 30,
+          "title": "La reine de Briggs",
+          "id": "gdsol63ft5qg"
+        },
+        {
+          "n": 31,
+          "title": "La promesse du tunnel 5",
+          "id": "s9qp82ee90qe"
+        },
+        {
+          "n": 32,
+          "title": "L'émissaire des ténèbres",
+          "id": "znpd1qpz8c65"
+        },
+        {
+          "n": 33,
+          "title": "Les remparts de Briggs",
+          "id": "2i4b6vxy2c80"
+        },
+        {
+          "n": 34,
+          "title": "La poupée de glace",
+          "id": "f731w3t4h9df"
+        },
+        {
+          "n": 35,
+          "title": "La forme de ce pays",
+          "id": "vsqcxsvskly9"
+        },
+        {
+          "n": 36,
+          "title": "Portrait de famille",
+          "id": "vrq0ptrh6vfl"
+        },
+        {
+          "n": 37,
+          "title": "Le premier homonculus",
+          "id": "azguc4y211d7"
+        },
+        {
+          "n": 38,
+          "title": "Le conflit à East City",
+          "id": "urvrtaq6snhb"
+        },
+        {
+          "n": 39,
+          "title": "Le rêve du matin",
+          "id": "q41zdji7uws6"
+        },
+        {
+          "n": 40,
+          "title": "L'homoncule",
+          "id": "ldhjtxw14hxu"
+        },
+        {
+          "n": 41,
+          "title": "L'abysse",
+          "id": "n39afudm8dyg"
+        },
+        {
+          "n": 42,
+          "title": "La contre-offensive de l'emprunt",
+          "id": "vozm1etxnlm1"
+        },
+        {
+          "n": 43,
+          "title": "La morsure de la fourmi",
+          "id": "p6ijwn0oz01j"
+        },
+        {
+          "n": 44,
+          "title": "Plein d'ardeur",
+          "id": "lqq6dt268juc"
+        },
+        {
+          "n": 45,
+          "title": "Le jour promis",
+          "id": "r3kibqkvuw36"
+        },
+        {
+          "n": 46,
+          "title": "Ombre ascendante",
+          "id": "gsy08znuqvug"
+        },
+        {
+          "n": 47,
+          "title": "Conscience noire",
+          "id": "jmm7185oidzi"
+        },
+        {
+          "n": 48,
+          "title": "Le serment prémédité",
+          "id": "taxtu11hqayo"
+        },
+        {
+          "n": 49,
+          "title": "L'amour maternel",
+          "id": "5h0cnfu1j34k"
+        },
+        {
+          "n": 50,
+          "title": "La révolte à Central",
+          "id": "kin8bq08c7so"
+        },
+        {
+          "n": 51,
+          "title": "L'armée immortelle",
+          "id": "6nezqp6nzc8j"
+        },
+        {
+          "n": 52,
+          "title": "Une force combinée",
+          "id": "2w2gkndj1rox"
+        },
+        {
+          "n": 53,
+          "title": "La flamme de la vengeance",
+          "id": "kfu8werkucok"
+        },
+        {
+          "n": 54,
+          "title": "Au-delà de l'infinitude",
+          "id": "m8ddp0rrth3q"
+        },
+        {
+          "n": 55,
+          "title": "L'alliance des adultes",
+          "id": "tg6zxzp2kd21"
+        },
+        {
+          "n": 56,
+          "title": "Le retour du souverain",
+          "id": "ttwb2pply4a3"
+        },
+        {
+          "n": 57,
+          "title": "L'éternel repos",
+          "id": "2dnqbtazskq3"
+        },
+        {
+          "n": 58,
+          "title": "Sacrifices humains",
+          "id": "bdpqa4x2ee1b"
+        },
+        {
+          "n": 59,
+          "title": "Perdu la lumière",
+          "id": "pjpjjff3wtpv"
+        },
+        {
+          "n": 60,
+          "title": "À l'œil",
+          "id": "gv5ve81cjosc"
+        },
+        {
+          "n": 61,
+          "title": "Celui qui commande",
+          "id": "jwx32fscv15i"
+        },
+        {
+          "n": 62,
+          "title": "Une rancœur tenace",
+          "id": "3wlgyy7qubz1"
+        },
+        {
+          "n": 63,
+          "title": "L'autre côté de la porte",
+          "id": "wq3j59r5xb34"
+        },
+        {
+          "n": 64,
+          "title": "Au bout du voyage",
+          "id": "7kgrpdepkk52"
+        }
+      ]
+    }
+  }
+}

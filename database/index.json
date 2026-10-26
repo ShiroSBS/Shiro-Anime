@@ -162,8 +162,8 @@
     ]
   },
   {
-    "id": "l-attaque-des-titans",
-    "title": "L'Attaque des Titans",
+    "id": "shingeki-no-kyojin",
+    "title": "Shingeki no Kyojin",
     "poster": "https://i.imgur.com/1sohRuc.jpeg",
     "rating": "8.5",
     "year": "2013",
@@ -175,6 +175,25 @@
       "Fantastique",
       "Action",
       "Aventure"
+    ]
+  },
+  {
+    "id": "jojo-s-bizarre-adventure",
+    "title": "JoJo's Bizarre Adventure",
+    "poster": "https://i.imgur.com/0V7TDLn.jpeg",
+    "rating": "7.3",
+    "year": "2012",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Horreur",
+      "Épouvante",
+      "Science",
+      "Fiction",
+      "Fantastique"
     ]
   }
 ]

@@ -140,5 +140,25 @@
       "Science",
       "Fiction"
     ]
+  },
+  {
+    "id": "fullmetal-alchemist-brotherhood",
+    "title": "FullMetal Alchemist Brotherhood",
+    "poster": "https://i.imgur.com/rgJ3nnQ.jpeg",
+    "rating": "9.0",
+    "year": "2009",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Drame",
+      "Surnaturel",
+      "Thriller",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]

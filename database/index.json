@@ -160,5 +160,21 @@
       "Fiction",
       "Fantastique"
     ]
+  },
+  {
+    "id": "l-attaque-des-titans",
+    "title": "L'Attaque des Titans",
+    "poster": "https://i.imgur.com/1sohRuc.jpeg",
+    "rating": "8.5",
+    "year": "2013",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Science",
+      "Fiction",
+      "Fantastique",
+      "Action",
+      "Aventure"
+    ]
   }
 ]

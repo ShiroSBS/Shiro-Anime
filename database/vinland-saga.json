@@ -1,9 +1,9 @@
 {
   "id": "vinland-saga",
   "title": "Vinland Saga",
-  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg",
-  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101348-pivKKffCAwAY.jpg",
-  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg",
+  "poster": "https://i.imgur.com/bgb3DLE.jpeg",
+  "banner": "https://i.imgur.com/b5b2mUN.jpeg",
+  "bannerFallback": "https://i.imgur.com/b5b2mUN.jpeg",
   "description": "Vinland Saga nous raconte l'histoire d'un jeune Viking, Thorfinn. Ce dernier fait partie de l'équipage d'un chef de guerre du nom d'Askeladd.\nEnchainant les combats et les missions dangereuses, Thorfinn s'endurcit et gagne en maturité. Il a un objectif : la vengeance !",
   "genres": [
     "Seinen",
@@ -59,252 +59,252 @@
   "seasons": {
     "1": {
       "label": "Saison 1",
-      "title": "Saison 1",
+      "title": "Le Prologue",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Quelque part ailleurs",
           "id": "hskpjhcryb1j"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "L'épée",
           "id": "z9l1lkkoz64s"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Le troll",
           "id": "c7rqxjjylzvz"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Un véritable guerrier",
           "id": "qwjvuejium2i"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "Le fils du Troll",
           "id": "e9thilkmjauy"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "Le voyage commence",
           "id": "gtatdycrsi85"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Les Normands",
           "id": "lldxxaf62ret"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "Au-delà de la mer",
           "id": "1cgt16fjhnym"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "La bataille du pont de Londres",
           "id": "xsvtbme0bfzl"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "Ragnarök",
           "id": "74ur0bkqyatt"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Un pari",
           "id": "p7u4xywhpq09"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "Le pays sur la rive lointaine",
           "id": "ntmr415six9k"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "Fils de héros",
           "id": "5ccrl2fdjakq"
         },
         {
           "n": 14,
-          "title": "Episode 14",
+          "title": "La lumière de l'aube",
           "id": "a9magybzh5x4"
         },
         {
           "n": 15,
-          "title": "Episode 15",
+          "title": "Après Yule",
           "id": "5cyymup5k9sh"
         },
         {
           "n": 16,
-          "title": "Episode 16",
+          "title": "Histoire de bêtes",
           "id": "f7eklg62roai"
         },
         {
           "n": 17,
-          "title": "Episode 17",
+          "title": "Serviteur",
           "id": "nr9nomk8drjx"
         },
         {
           "n": 18,
-          "title": "Episode 18",
+          "title": "Hors du berceau",
           "id": "4ku7gm8g7cpu"
         },
         {
           "n": 19,
-          "title": "Episode 19",
+          "title": "Un front uni",
           "id": "xkptxl4dtyj5"
         },
         {
           "n": 20,
-          "title": "Episode 20",
+          "title": "La couronne",
           "id": "hu5qf48b426z"
         },
         {
           "n": 21,
-          "title": "Episode 21",
+          "title": "Les retrouvailles",
           "id": "ftuq2t9yj7ez"
         },
         {
           "n": 22,
-          "title": "Episode 22",
+          "title": "Loup solitaire",
           "id": "7vn5b62hejdi"
         },
         {
           "n": 23,
-          "title": "Episode 23",
+          "title": "Erreur de jugement",
           "id": "0c25th8dl9o2"
         },
         {
           "n": 24,
-          "title": "Episode 24",
+          "title": "La fin du prologue",
           "id": "fqemqzux3bkk"
         }
       ]
     },
     "2": {
       "label": "Saison 2",
-      "title": "Saison 2",
+      "title": "L'Esclave",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Esclave",
           "id": "83fezk5f2gfb"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "La ferme de Ketil",
           "id": "uuv0wekpkw7v"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Le serpent",
           "id": "it9dvjkx0uh4"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "L'éveil",
           "id": "hjslrm1n7efd"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "La voie du sang",
           "id": "gnukd601mldi"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "Il nous faut un cheval",
           "id": "g0zdp8bna0ux"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Ketil au poing de fer",
           "id": "1fhiclozmpi0"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "Un homme vide",
           "id": "bz9c1xsexx20"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "Le serment",
           "id": "7dq4ruw6gfim"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "La malédiction de la couronne",
           "id": "n3ch1lr9upcv"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Le roi et l'épée",
           "id": "lf689vtwnx56"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "Pour cet amour perdu",
           "id": "l653c0obreo3"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "Sombres nuages",
           "id": "bdpiwhtbw2ek"
         },
         {
           "n": 14,
-          "title": "Episode 14",
+          "title": "Liberté",
           "id": "9s129jscpmww"
         },
         {
           "n": 15,
-          "title": "Episode 15",
+          "title": "La tempête",
           "id": "ebjgh8ldrqqb"
         },
         {
           "n": 16,
-          "title": "Episode 16",
+          "title": "Une raison idéale",
           "id": "avc6h9stlh6r"
         },
         {
           "n": 17,
-          "title": "Episode 17",
+          "title": "Le chemin du retour",
           "id": "lnwhemnw3m1p"
         },
         {
           "n": 18,
-          "title": "Episode 18",
+          "title": "Le premier recours",
           "id": "k3v5jvy608fo"
         },
         {
           "n": 19,
-          "title": "Episode 19",
+          "title": "La bataille du domaine de Ketil",
           "id": "v0qi2dwfwlud"
         },
         {
           "n": 20,
-          "title": "Episode 20",
+          "title": "Douleur",
           "id": "7r2ddddozp4s"
         },
         {
           "n": 21,
-          "title": "Episode 21",
+          "title": "Le courage",
           "id": "kqp61dprmo0s"
         },
         {
           "n": 22,
-          "title": "Episode 22",
+          "title": "L'empereur rebelle",
           "id": "18rd7qhcv1w1"
         },
         {
           "n": 23,
-          "title": "Episode 23",
+          "title": "Les deux chemins",
           "id": "yl4jowlpedbe"
         },
         {
           "n": 24,
-          "title": "Episode 24",
+          "title": "Retour au pays",
           "id": "so62t2shwblm"
         }
       ]

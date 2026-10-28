@@ -216,5 +216,23 @@
       "Vengeance",
       "Viking"
     ]
+  },
+  {
+    "id": "one-piece",
+    "title": "One Piece",
+    "poster": "https://i.imgur.com/DqqZL4n.jpeg",
+    "rating": "8.7",
+    "year": "1999",
+    "status": "cours",
+    "statusLabel": "En cours",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Drame",
+      "Fantastique",
+      "Shônen",
+      "Kaï"
+    ]
   }
 ]

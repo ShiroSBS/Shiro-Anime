@@ -234,5 +234,34 @@
       "Shônen",
       "Kaï"
     ]
+  },
+  {
+    "id": "dragon-ball-z",
+    "title": "Dragon Ball Z",
+    "poster": "https://i.imgur.com/EuVHKcu.jpeg",
+    "rating": "8.1",
+    "year": "1989",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Aliens / Extra",
+      "terrestres",
+      "Arts martiaux",
+      "Combats",
+      "Nostalgie",
+      "Super pouvoirs",
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Drame",
+      "Fantasy",
+      "Science",
+      "fiction",
+      "Shônen",
+      "Surnaturel",
+      "Tournois",
+      "Kaï",
+      "Fantastique"
+    ]
   }
 ]

@@ -298,10 +298,10 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
 .rank-list-wrap{position:relative}
 .rank-list{display:flex;gap:26px;overflow-x:auto;overflow-y:hidden;padding:26px 60px 22px 84px;scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch;scrollbar-width:none;}
 .rank-list::-webkit-scrollbar{display:none}
-.rank-row{position:relative;flex-shrink:0;width:170px;height:250px;cursor:pointer;scroll-snap-align:start;
+.rank-row{position:relative;flex-shrink:0;width:204px;height:255px;cursor:pointer;scroll-snap-align:start;
   transition:transform .45s cubic-bezier(.22,1,.36,1);animation:cardIn .5s cubic-bezier(.22,1,.36,1) backwards;transform:translateZ(0);}
 .rank-row:hover{transform:translateY(-6px) scale(1.03)}
-.rank-poster-wrap{position:absolute;left:34px;top:0;width:136px;height:100%;border-radius:14px;overflow:hidden;z-index:1;isolation:isolate;
+.rank-poster-wrap{position:absolute;left:34px;top:0;width:170px;height:255px;border-radius:14px;overflow:hidden;z-index:1;isolation:isolate;
   border:1px solid var(--border);background:var(--bg3);box-shadow:0 16px 40px rgba(0,0,0,.6),0 0 0 1px rgba(255,255,255,.06);
   transition:border-color .45s cubic-bezier(.22,1,.36,1),box-shadow .45s cubic-bezier(.22,1,.36,1);}
 .rank-poster-wrap::before{content:'';position:absolute;inset:0;background:linear-gradient(115deg,transparent 0%,rgba(255,255,255,.32) 45%,transparent 62%);transform:translateX(-130%);transition:transform .85s cubic-bezier(.22,1,.36,1);pointer-events:none;z-index:1;}
@@ -327,8 +327,8 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
 .rank-arrow:hover{background:rgba(59,126,255,.35);border-color:rgba(59,126,255,.6);transform:translateY(-50%) scale(1.08)}
 @media(max-width:480px){
   .rank-list{padding:20px 44px 18px 54px;gap:16px}
-  .rank-row{width:118px;height:180px}
-  .rank-poster-wrap{left:22px;width:96px}
+  .rank-row{width:150px;height:192px}
+  .rank-poster-wrap{left:22px;width:128px;height:192px}
   .rank-num{font-size:88px}
   .rank-arrow{width:32px;height:32px;font-size:16px;right:6px}
 }

@@ -325,6 +325,8 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
   background:rgba(12,15,26,.8);backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,.15);color:#fff;display:flex;
   align-items:center;justify-content:center;cursor:pointer;z-index:10;font-size:20px;transition:all .3s cubic-bezier(.22,1,.36,1);}
 .rank-arrow:hover{background:rgba(59,126,255,.35);border-color:rgba(59,126,255,.6);transform:translateY(-50%) scale(1.08)}
+.rank-arrow.prev{right:auto;left:14px}
+.rank-arrow.hide{opacity:0;pointer-events:none}
 @media(max-width:480px){
   .rank-list{padding:20px 44px 18px 54px;gap:16px}
   .rank-row{width:150px;height:192px}
@@ -525,7 +527,8 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
   </div>
   <div class="rank-list-wrap">
     <div class="rank-list" id="rank-list"></div>
-    <button class="rank-arrow" onclick="scrollRankList()" aria-label="Suivant">›</button>
+    <button class="rank-arrow prev hide" onclick="scrollRow('rank-list',-1)" aria-label="Précédent">‹</button>
+    <button class="rank-arrow" onclick="scrollRow('rank-list',1)" aria-label="Suivant">›</button>
   </div>
   <div class="stats-bar" id="home-stats-bar"></div>
   <div class="section">
@@ -534,7 +537,11 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
         <h2 class="section-title">Votre historique</h2>
         <span class="see-all" id="history-clear-btn" onclick="clearHistory()" style="display:none">🗑 Tout supprimer</span>
       </div>
-      <div class="history-row" id="history-row"></div>
+      <div class="rank-list-wrap">
+        <div class="history-row" id="history-row"></div>
+        <button class="rank-arrow prev hide" onclick="scrollRow('history-row',-1)" aria-label="Précédent">‹</button>
+        <button class="rank-arrow" onclick="scrollRow('history-row',1)" aria-label="Suivant">›</button>
+      </div>
     </div>
     <div class="section-header">
       <h2 class="section-title" id="home-section-title">Saison 1</h2>
@@ -1111,6 +1118,21 @@ function renderTopRated(){
       </div>
     </div>`).join('');
 }
+function scrollRow(id,d){
+  const el=document.getElementById(id);
+  el.scrollBy({left: d*Math.round(el.clientWidth*0.8), behavior:'smooth'});
+}
+function updateRowArrows(el){
+  const w=el.parentElement,p=w.querySelector('.prev'),n=w.querySelector('.rank-arrow:not(.prev)');
+  p.classList.toggle('hide',el.scrollLeft<10);
+  n.classList.toggle('hide',el.clientWidth>0&&el.scrollLeft+el.clientWidth>=el.scrollWidth-10);
+}
+['rank-list','history-row'].forEach(id=>{
+  const el=document.getElementById(id);
+  el.addEventListener('scroll',()=>updateRowArrows(el),{passive:true});
+  new MutationObserver(()=>updateRowArrows(el)).observe(el,{childList:true});
+  window.addEventListener('resize',()=>updateRowArrows(el));
+});
 function scrollRankList(){
   const el=document.getElementById('rank-list');
   el.scrollBy({left: Math.round(el.clientWidth*0.8), behavior:'smooth'});

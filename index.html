@@ -522,10 +522,10 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
     <div class="hero-overlay"></div>
     <div class="hero-content" id="hero-content"><div style="padding-top:40px;color:var(--muted)">Chargement…</div></div>
   </div>
-  <div class="section" style="padding-bottom:0">
+  <div class="section" style="padding-bottom:0;display:none">
     <h2 class="section-title">🏆 Top 10 — Les mieux notés</h2>
   </div>
-  <div class="rank-list-wrap">
+  <div class="rank-list-wrap" style="display:none">
     <div class="rank-list" id="rank-list"></div>
     <button class="rank-arrow prev hide" onclick="scrollRow('rank-list',-1)" aria-label="Précédent">‹</button>
     <button class="rank-arrow" onclick="scrollRow('rank-list',1)" aria-label="Suivant">›</button>
@@ -1091,16 +1091,30 @@ function renderHomeForAnime(){
   document.getElementById('home-section-title').textContent=si?si.title:'';
 }
 
+// Hero = top 10 des mieux notés, défilement automatique toutes les 7 s
+function getHeroSet(){
+  return [...ANIME_INDEX].sort((a,b)=>(parseFloat(b.rating)||0)-(parseFloat(a.rating)||0)).slice(0,10);
+}
+let heroTimer=null;
+function startHeroTimer(){
+  clearInterval(heroTimer);
+  heroTimer=setInterval(()=>{
+    const home=document.getElementById('page-home');
+    if(document.hidden || !home || !home.classList.contains('active')) return;
+    heroNext();
+  },7000);
+}
 function renderHeroPagination(){
-  const heroSet = ANIME_INDEX.slice(0,8);
+  const heroSet = getHeroSet();
   const hero = document.getElementById('hero');
+  startHeroTimer();
   let pag = document.getElementById('hero-pagination');
   if(!pag){ pag=document.createElement('div'); pag.id='hero-pagination'; pag.className='hero-pagination'; hero.appendChild(pag); }
   pag.innerHTML = heroSet.map(a=>`<button class="hero-dot${a.id===currentAnimeId?' active':''}" onclick="selectHomeAnime('${a.id}')" aria-label="${a.title}"></button>`).join('')
     + `<button class="hero-arrow" onclick="heroNext()" aria-label="Suivant">›</button>`;
 }
 function heroNext(){
-  const heroSet = ANIME_INDEX.slice(0,8);
+  const heroSet = getHeroSet();
   let idx = heroSet.findIndex(a=>a.id===currentAnimeId);
   idx = (idx===-1) ? 0 : (idx+1)%heroSet.length;
   selectHomeAnime(heroSet[idx].id);

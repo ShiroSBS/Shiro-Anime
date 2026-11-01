@@ -284,5 +284,24 @@
       "Fantastique",
       "Aventure"
     ]
+  },
+  {
+    "id": "demon-slayer",
+    "title": "Demon Slayer",
+    "poster": "https://i.imgur.com/oMp2oDB.jpeg",
+    "rating": "8.4",
+    "year": "2016",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Drame",
+      "Fantastique",
+      "Historique",
+      "Surnaturel",
+      "Science",
+      "Fiction"
+    ]
   }
 ]

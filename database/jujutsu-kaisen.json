@@ -1,0 +1,375 @@
+{
+  "id": "jujutsu-kaisen",
+  "title": "Jujutsu Kaisen",
+  "poster": "https://i.imgur.com/m5qeBoy.jpeg",
+  "banner": "https://i.imgur.com/RmCY5HY.jpeg",
+  "bannerFallback": "https://i.imgur.com/RmCY5HY.jpeg",
+  "description": "Plus de 10 000 morts et disparus sont recensés chaque année au Japon. Les sentiments négatifs que relâchent les êtres humains sont en cause. Souffrance, regrets, humiliation : leur concentration dans un même endroit engendre des malédictions souvent mortelles...\nC'est ce que va découvrir Yuji Itadori, lycéen et membre du club d'occultisme. Il ne croit pas aux fantômes, mais il est doté d'une force physique hors norme qui représente un véritable atout pour les missions du groupe... jusqu'à ce que l'une d'elles prenne une mauvaise tournure. La relique qu'ils dénichent, le doigt découpé d'un démon millénaire, attire les monstres ! Sans réfléchir : le jeune homme avale la relique pour briser la malédiction ! Maintenant, il se trouve possédé par Ryômen Sukuna, le célèbre démon à deux visages. Cependant, contre toute attente, Yuji est toujours capable de garder le contrôle de son corps. Mais en dépit de cela, il est condamné à mort par l'organisation des exorcistes... Une décision qui ne pourra être repoussée qu'à une seule condition : trouver tous les doigts de Sukuna afin d'écarter la menace une bonne fois pour toutes !",
+  "genres": [
+    "Action",
+    "Aventure",
+    "School Life",
+    "Yokai",
+    "Surnaturel",
+    "Magie",
+    "Mystère",
+    "Shônen",
+    "Science",
+    "Fiction",
+    "Fantastique"
+  ],
+  "rating": "8.4",
+  "year": "2020",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Jujutsu Kaisen",
+  "stats": [
+    {
+      "v": "3",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.4",
+      "l": "Note"
+    },
+    {
+      "v": "2020",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.4"
+    },
+    {
+      "text": "🎬 3 Saisons · 59 Éps"
+    },
+    {
+      "text": "📅 2020"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Ryomen Sukuna",
+          "id": "k1vb0xfb5gpe"
+        },
+        {
+          "n": 2,
+          "title": "Pour moi-même",
+          "id": "3aerfzy7nv6o"
+        },
+        {
+          "n": 3,
+          "title": "La bâtisseuse",
+          "id": "vexhnknf7asa"
+        },
+        {
+          "n": 4,
+          "title": "Naissance de la matrice",
+          "id": "z1h7jw6q8ld5"
+        },
+        {
+          "n": 5,
+          "title": "Naissance de la matrice (2)",
+          "id": "1hb9ogiblpo3"
+        },
+        {
+          "n": 6,
+          "title": "Après la pluie",
+          "id": "sjiw9rskcwhj"
+        },
+        {
+          "n": 7,
+          "title": "Attaque surprise",
+          "id": "j5dstkfgnwld"
+        },
+        {
+          "n": 8,
+          "title": "Ennui",
+          "id": "0as1ug0jt2oy"
+        },
+        {
+          "n": 9,
+          "title": "Petit poisson et retour de bâton",
+          "id": "cpk3cvw7j0k7"
+        },
+        {
+          "n": 10,
+          "title": "Altération absolue",
+          "id": "cmhvfs7s8hkd"
+        },
+        {
+          "n": 11,
+          "title": "Intransigeance",
+          "id": "5l2t1r13i0gh"
+        },
+        {
+          "n": 12,
+          "title": "Pour toi, un jour",
+          "id": "ly3m9j5btpdl"
+        },
+        {
+          "n": 13,
+          "title": "À demain",
+          "id": "249ge9ydbul4"
+        },
+        {
+          "n": 14,
+          "title": "Le tournoi - épreuve par équipes (0)",
+          "id": "24gt4emmm296"
+        },
+        {
+          "n": 15,
+          "title": "Le tournoi - épreuve par équipes (1)",
+          "id": "unqn4748omee"
+        },
+        {
+          "n": 16,
+          "title": "Le tournoi - épreuve par équipes (2)",
+          "id": "zrm5npf7i8la"
+        },
+        {
+          "n": 17,
+          "title": "Le tournoi - épreuve par équipes (3)",
+          "id": "83bxlqrw48sp"
+        },
+        {
+          "n": 18,
+          "title": "Le sage",
+          "id": "ltrv429f6pbg"
+        },
+        {
+          "n": 19,
+          "title": "Rayon noir",
+          "id": "ekx29jjeqafp"
+        },
+        {
+          "n": 20,
+          "title": "Hors norme",
+          "id": "4i8zpe2egdgx"
+        },
+        {
+          "n": 21,
+          "title": "Le match de base-ball",
+          "id": "pzp7ln0c0q21"
+        },
+        {
+          "n": 22,
+          "title": "Instinct grégaire",
+          "id": "62io3i41y1sb"
+        },
+        {
+          "n": 23,
+          "title": "Instinct grégaire (2)",
+          "id": "talf7ts7y7vt"
+        },
+        {
+          "n": 24,
+          "title": "Complices",
+          "id": "c6zr32f5r74l"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Hidden Inventory",
+          "id": "8tpw3d0r2jtu"
+        },
+        {
+          "n": 2,
+          "title": "Hidden Inventory 2",
+          "id": "t5wo4mlit8de"
+        },
+        {
+          "n": 3,
+          "title": "Hidden Inventory 3",
+          "id": "dszad1s0jx14"
+        },
+        {
+          "n": 4,
+          "title": "Hidden Inventory 4",
+          "id": "e9qcbml4og5q"
+        },
+        {
+          "n": 5,
+          "title": "Premature Death",
+          "id": "jjpp5h2yq2r0"
+        },
+        {
+          "n": 6,
+          "title": "It's Like That",
+          "id": "vyrfeczyimf2"
+        },
+        {
+          "n": 7,
+          "title": "Evening Festival",
+          "id": "ehb4d0imp6o4"
+        },
+        {
+          "n": 8,
+          "title": "Shibuya Incident",
+          "id": "5nevc4yip2o5"
+        },
+        {
+          "n": 9,
+          "title": "Shibuya Incident - Gate, Open",
+          "id": "9tzfmxhpo5so"
+        },
+        {
+          "n": 10,
+          "title": "Pandemonium",
+          "id": "r50ddmn75tnb"
+        },
+        {
+          "n": 11,
+          "title": "Seance",
+          "id": "cfp8nx50q5fa"
+        },
+        {
+          "n": 12,
+          "title": "Dull Knife",
+          "id": "ow5w0rut0tr4"
+        },
+        {
+          "n": 13,
+          "title": "Red Scale",
+          "id": "46zb84ey36lh"
+        },
+        {
+          "n": 14,
+          "title": "Fluctuations",
+          "id": "wb46mwlsx34h"
+        },
+        {
+          "n": 15,
+          "title": "Fluctuations - Part 2",
+          "id": "ukgpe2y0anps"
+        },
+        {
+          "n": 16,
+          "title": "Thunderclap",
+          "id": "hkiuhidcn9py"
+        },
+        {
+          "n": 17,
+          "title": "Thunderclap - Part 2",
+          "id": "mlpc9yrsgoej"
+        },
+        {
+          "n": 18,
+          "title": "Right and Wrong",
+          "id": "qdx2a8zlyu23"
+        },
+        {
+          "n": 19,
+          "title": "Right and Wrong - Part 2",
+          "id": "2j8tntksm4x6"
+        },
+        {
+          "n": 20,
+          "title": "Right and Wrong - Part 3",
+          "id": "5o2cpp2o3jho"
+        },
+        {
+          "n": 21,
+          "title": "Metamorphosis",
+          "id": "qgzchpd6adtd"
+        },
+        {
+          "n": 22,
+          "title": "Metamorphosis - Part 2",
+          "id": "ozj7lgt8cmru"
+        },
+        {
+          "n": 23,
+          "title": "Shibuya Incident - Gate, Close",
+          "id": "imc2sul12e1v"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Execution",
+          "id": "o2aaje5fqotg"
+        },
+        {
+          "n": 2,
+          "title": "One More Time",
+          "id": "4vnnd7icp7w7"
+        },
+        {
+          "n": 3,
+          "title": "About the Culling Game",
+          "id": "km74mtwpvovw"
+        },
+        {
+          "n": 4,
+          "title": "Perfect Preparation",
+          "id": "wi4uzb7n8fuw"
+        },
+        {
+          "n": 5,
+          "title": "Passion",
+          "id": "igd9fzbx467j"
+        },
+        {
+          "n": 6,
+          "title": "Cog",
+          "id": "tb0prkl2qndh"
+        },
+        {
+          "n": 7,
+          "title": "Tokyo Colony No. 1",
+          "id": "iesgzj0z4j50"
+        },
+        {
+          "n": 8,
+          "title": "Tokyo Colony No. 1 - Part 2",
+          "id": "saixjlje57zj"
+        },
+        {
+          "n": 9,
+          "title": "Tokyo Colony No. 1 - Part 3",
+          "id": "5ort7np0av0q"
+        },
+        {
+          "n": 10,
+          "title": "Tokyo Colony No. 1 - Part 4",
+          "id": "x65ecezqf4ko"
+        },
+        {
+          "n": 11,
+          "title": "Tokyo Colony No. 1 - Part 5",
+          "id": "dhvqkgfswux9"
+        },
+        {
+          "n": 12,
+          "title": "Sendai Colony",
+          "id": "aq6vrzyo96pq"
+        }
+      ]
+    }
+  }
+}

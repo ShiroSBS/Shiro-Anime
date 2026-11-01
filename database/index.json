@@ -325,5 +325,24 @@
       "Fiction",
       "Fantastique"
     ]
+  },
+  {
+    "id": "my-hero-academia",
+    "title": "My Hero Academia",
+    "poster": "https://i.imgur.com/raWpXHa.jpeg",
+    "rating": "7.6",
+    "year": "2016",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Ecole",
+      "Shônen",
+      "Super Pouvoirs",
+      "Aventure",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]

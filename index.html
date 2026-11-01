@@ -68,6 +68,9 @@ body.search-open .app-shell{visibility:hidden}
 .hero-badge{display:inline-flex;align-items:center;gap:6px;background:rgba(59,126,255,.15);border:1px solid rgba(59,126,255,.35);color:var(--accent2);font-size:11px;font-weight:700;padding:4px 12px;border-radius:20px;letter-spacing:.07em;margin-bottom:16px;}
 .hero-title{font-size:clamp(32px,6vw,58px);font-weight:900;line-height:1.05;letter-spacing:-.04em;margin-bottom:14px;text-shadow:0 2px 20px rgba(0,0,0,.8);}
 .hero-title span{color:var(--accent2)}
+@keyframes heroImgIn{from{opacity:0}to{opacity:1}}
+#hero-img.swap{animation:heroImgIn .9s ease}
+.hero-content.swap{animation:fadeUp .7s cubic-bezier(.22,1,.36,1)}
 .hero-meta{display:flex;align-items:center;gap:14px;margin-bottom:12px;flex-wrap:wrap}
 .hero-desc{font-size:15px;color:rgba(238,242,255,.72);line-height:1.65;margin-bottom:22px;max-width:480px;}
 .hero-genres{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:24px}
@@ -1052,15 +1055,23 @@ function renderHistory(){
   }).join('');
 }
 
+function preloadImg(u){
+  return new Promise(r=>{ if(!u) return r(); const i=new Image(); i.onload=i.onerror=()=>r(); i.src=u; setTimeout(r,2500); });
+}
+function prefetchNextHero(){
+  const set=getHeroSet(); const i=set.findIndex(a=>a.id===currentAnimeId); const n=set[(i+1)%set.length];
+  if(n) loadAnimeData(n.id).then(d=>preloadImg(d.banner)).catch(()=>{});
+}
 async function selectHomeAnime(id){
   currentAnimeId=id; activeSeasonNum=1;
-  try{ await loadAnimeData(id); }catch(e){ console.error(e); return; }
+  try{ const d=await loadAnimeData(id); await preloadImg(d.banner); }catch(e){ console.error(e); return; }
   renderHome();
 }
 
 function renderHomeForAnime(){
   const a=getAnime();
   const hi=document.getElementById('hero-img');
+  [hi,document.getElementById('hero-content')].forEach(el=>{el.classList.remove('swap');void el.offsetWidth;el.classList.add('swap');});
   hi.src=a.banner;
   hi.onerror=()=>{hi.src=a.bannerFallback;hi.onerror=null};
   const yearChip = a.year && a.year!=='????' ? `<span class="hero-chip">📅 ${a.year}</span>` : '';
@@ -1107,7 +1118,7 @@ function startHeroTimer(){
 function renderHeroPagination(){
   const heroSet = getHeroSet();
   const hero = document.getElementById('hero');
-  startHeroTimer();
+  startHeroTimer(); prefetchNextHero();
   let pag = document.getElementById('hero-pagination');
   if(!pag){ pag=document.createElement('div'); pag.id='hero-pagination'; pag.className='hero-pagination'; hero.appendChild(pag); }
   pag.innerHTML = heroSet.map(a=>`<button class="hero-dot${a.id===currentAnimeId?' active':''}" onclick="selectHomeAnime('${a.id}')" aria-label="${a.title}"></button>`).join('')

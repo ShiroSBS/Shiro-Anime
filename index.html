@@ -1125,10 +1125,22 @@ function prefetchNextHero(){
   const set=getHeroSet(); const i=set.findIndex(a=>a.id===currentAnimeId); const n=set[(i+1)%set.length];
   if(n) loadAnimeData(n.id).then(d=>preloadImg(d.banner)).catch(()=>{});
 }
+let homeAnimeSwitchToken=0;
 async function selectHomeAnime(id){
-  currentAnimeId=id; activeSeasonNum=1;
-  try{ const d=await loadAnimeData(id); await preloadImg(d.banner); }catch(e){ console.error(e); return; }
-  renderHome();
+  if(!id || id===currentAnimeId) return;
+  const token=++homeAnimeSwitchToken;
+  try{
+    const d=await loadAnimeData(id);
+    await preloadImg(d.banner);
+    if(token!==homeAnimeSwitchToken) return;
+    currentAnimeId=id;
+    activeSeasonNum=1;
+    // Ne redessine que le hero et la zone des épisodes.
+    // L'historique, les derniers ajouts et les autres sections restent intacts.
+    renderHomeForAnime();
+  }catch(e){
+    console.error('Impossible de changer l’anime du carrousel :',e);
+  }
 }
 
 function renderHomeForAnime(){
@@ -1171,7 +1183,8 @@ function getHeroSet(){
 }
 let heroTimer=null;
 function startHeroTimer(){
-  clearInterval(heroTimer);
+  // Le timer est créé une seule fois : un changement d'anime ne le réinitialise pas.
+  if(heroTimer) return;
   heroTimer=setInterval(()=>{
     const home=document.getElementById('page-home');
     if(document.hidden || !home || !home.classList.contains('active')) return;
@@ -1181,7 +1194,8 @@ function startHeroTimer(){
 function renderHeroPagination(){
   const heroSet = getHeroSet();
   const hero = document.getElementById('hero');
-  startHeroTimer(); prefetchNextHero();
+  startHeroTimer();
+  prefetchNextHero();
   let pag = document.getElementById('hero-pagination');
   if(!pag){ pag=document.createElement('div'); pag.id='hero-pagination'; pag.className='hero-pagination'; hero.appendChild(pag); }
   pag.innerHTML = heroSet.map(a=>`<button class="hero-dot${a.id===currentAnimeId?' active':''}" onclick="selectHomeAnime('${a.id}')" aria-label="${a.title}"></button>`).join('')

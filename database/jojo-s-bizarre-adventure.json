@@ -16,7 +16,7 @@
     "Fantastique"
   ],
   "rating": "7.3",
-  "year": "2012",
+  "year": "1993",
   "status": "termine",
   "statusLabel": "Terminé",
   "heroTitle": "JoJo's Bizarre Adventure",
@@ -30,7 +30,7 @@
       "l": "Note"
     },
     {
-      "v": "2012",
+      "v": "1993",
       "l": "Année"
     },
     {
@@ -44,7 +44,7 @@
       "text": "7.3"
     },
     {
-      "text": "🎬 7 Saisons · 196 Éps"
+      "text": "🎬 7 Saisons · 197 Éps"
     },
     {
       "text": "📅 1993"
@@ -1074,6 +1074,11 @@
           "n": 6,
           "title": "Le poids du destin de Gyro",
           "id": "ib00yfz9u1g3"
+        },
+        {
+          "n": 7,
+          "title": "L'Éveil de Tusk",
+          "id": "kvqg3yko7zft"
         }
       ]
     }

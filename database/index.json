@@ -178,25 +178,6 @@
     ]
   },
   {
-    "id": "jojo-s-bizarre-adventure",
-    "title": "JoJo's Bizarre Adventure",
-    "poster": "https://i.imgur.com/0V7TDLn.jpeg",
-    "rating": "7.3",
-    "year": "2012",
-    "status": "termine",
-    "statusLabel": "Terminé",
-    "genres": [
-      "Action",
-      "Aventure",
-      "Comédie",
-      "Horreur",
-      "Épouvante",
-      "Science",
-      "Fiction",
-      "Fantastique"
-    ]
-  },
-  {
     "id": "vinland-saga",
     "title": "Vinland Saga",
     "poster": "https://i.imgur.com/bgb3DLE.jpeg",
@@ -262,6 +243,46 @@
       "Tournois",
       "Kaï",
       "Fantastique"
+    ]
+  },
+  {
+    "id": "jojo-s-bizarre-adventure",
+    "title": "JoJo's Bizarre Adventure",
+    "poster": "https://i.imgur.com/0V7TDLn.jpeg",
+    "rating": "7.3",
+    "year": "1993",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Horreur",
+      "Épouvante",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
+  },
+  {
+    "id": "code-geass",
+    "title": "Code Geass",
+    "poster": "https://i.imgur.com/XlBbJnL.jpeg",
+    "rating": "8.7",
+    "year": "2006",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Drame",
+      "Psychologique",
+      "Romance",
+      "Science",
+      "fiction",
+      "Surnaturel",
+      "Thriller",
+      "Fantastique",
+      "Aventure"
     ]
   }
 ]

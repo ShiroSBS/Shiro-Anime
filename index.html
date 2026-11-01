@@ -189,6 +189,25 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
 .footer-bottom{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:14px;max-width:1200px;margin:0 auto;padding-top:22px;border-top:1px solid var(--border);}
 @media(max-width:800px){.footer-top{grid-template-columns:1fr;gap:30px}}
 @media(max-width:480px){.site-footer{padding:36px 16px 20px}.footer-top{margin-bottom:24px}}
+
+/* === Derniers animes ajoutés === */
+.latest-anime-row{
+  display:flex;gap:16px;overflow-x:auto;overflow-y:hidden;
+  padding:4px 4px 14px;scroll-snap-type:x proximity;
+  -webkit-overflow-scrolling:touch;scrollbar-width:thin;
+  scrollbar-color:var(--accent) var(--bg3);
+}
+.latest-anime-row::-webkit-scrollbar{height:8px}
+.latest-anime-row::-webkit-scrollbar-track{background:var(--bg3);border-radius:4px}
+.latest-anime-row::-webkit-scrollbar-thumb{background:var(--accent);border-radius:4px}
+.latest-anime-row .anime-card{flex:0 0 170px;scroll-snap-align:start}
+.latest-anime-row .anime-card-poster{aspect-ratio:2/3}
+.latest-empty{color:var(--muted);font-size:13.5px;padding:18px 4px}
+@media(max-width:480px){
+  .latest-anime-row{gap:10px}
+  .latest-anime-row .anime-card{flex-basis:132px}
+}
+
 /* === Historique de visionnage === */
 .history-row{display:flex;gap:14px;flex-wrap:nowrap;overflow-x:auto;overflow-y:hidden;scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch;padding-bottom:8px;scrollbar-width:thin;scrollbar-color:var(--accent) var(--bg3);}
 .history-row::-webkit-scrollbar{height:8px}
@@ -545,6 +564,12 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
         <button class="rank-arrow prev hide" onclick="scrollRow('history-row',-1)" aria-label="Précédent">‹</button>
         <button class="rank-arrow" onclick="scrollRow('history-row',1)" aria-label="Suivant">›</button>
       </div>
+    </div>
+    <div class="section" style="padding:8px 0 28px">
+      <div class="section-header">
+        <h2 class="section-title">Derniers animes ajoutés</h2>
+      </div>
+      <div class="latest-anime-row" id="latest-anime-row"></div>
     </div>
     <div class="section-header">
       <h2 class="section-title" id="home-section-title">Saison 1</h2>
@@ -1000,7 +1025,45 @@ async function goToAnime(id){
 
 function renderHome(){
   renderHistory();
+  renderLatestAnime();
   renderHomeForAnime();
+}
+
+/* === Derniers animes ajoutés === */
+function renderLatestAnime(){
+  const row=document.getElementById('latest-anime-row');
+  if(!row)return;
+
+  const dateValue=a=>a.addedAt||a.added_at||a.dateAdded||a.date_added||a.createdAt||a.created_at||null;
+  const hasDates=ANIME_INDEX.some(a=>dateValue(a));
+  const list=ANIME_INDEX.slice();
+
+  if(hasDates){
+    list.sort((a,b)=>{
+      const da=Date.parse(dateValue(a)||'')||0;
+      const db=Date.parse(dateValue(b)||'')||0;
+      return db-da;
+    });
+  }else{
+    list.reverse();
+  }
+
+  const latest=list.slice(0,10);
+  if(!latest.length){
+    row.innerHTML='<div class="latest-empty">Aucun anime disponible pour le moment.</div>';
+    return;
+  }
+
+  row.innerHTML=latest.map(a=>`
+    <div class="anime-card" onclick="goToAnime('${a.id}')">
+      <img class="anime-card-poster" src="${a.poster}" alt="${a.title}"
+        onerror="this.src='https://placehold.co/170x255/111520/3b7eff?text=${encodeURIComponent(a.title).replace(/'/g,'%27')}'"/>
+      <div class="anime-card-info">
+        <div class="anime-card-title">${a.title}</div>
+        <div class="anime-card-sub">${a.year||''} · ⭐ ${a.rating||'—'}</div>
+      </div>
+    </div>
+  `).join('');
 }
 
 /* === Historique de visionnage (remplace l'ancien carrousel "Tous les animes") === */

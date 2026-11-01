@@ -1,0 +1,323 @@
+{
+  "id": "code-geass",
+  "title": "Code Geass",
+  "poster": "https://i.imgur.com/XlBbJnL.jpeg",
+  "banner": "https://i.imgur.com/XovOphU.jpeg",
+  "bannerFallback": "https://i.imgur.com/XovOphU.jpeg",
+  "description": "Le 10 juin 2010 du calendrier impérial, le Nouvel Empire de Britannia a écrasé les forces japonaises et a conquis le pays en moins d'un mois grâce à ses mechas nommés Knightmare. Le Japon a perdu sa liberté et a été renommé Zone 11 tandis que les japonais ont perdu leur identité et sont appelés \"Elevens\". Ces derniers sont forcés de vivre dans des ghettos tandis que les colons britanniens occupent la majeure partie du territoire. Pourtant, des mouvements rebelles naissent et les nationalistes japonais continuent la lutte pour l'indépendance.\n\nUn jeune homme nommé Lelouch s'est juré de détruire l'empire de Britannia depuis que son père, l'empereur lui-même, n'a rien fait pour pourchasser les terroristes qui ont tué sa mère et estropié sa jeune sœur. Sept ans plus tard, lors d'une altercation entre les deux camps, il rencontre un groupe de rebelles Elevens qui ont volé un secret militaire : une mystérieuse jeune fille. En entrant en contact avec elle, Lelouch obtient le Geass, un pouvoir qui lui permet de contrôler la pensée de toutes les personnes qui croisent son regard, mais qui ne fonctionne qu'une seule fois sur chacune d'elles. Grâce à ce pouvoir, Lelouch va pouvoir mener le combats qu'il a toujours voulu contre Brittania et poursuivre ses deux rêves : venger sa mère et créer un monde où sa sœur pourra vivre en paix.",
+  "genres": [
+    "Action",
+    "Drame",
+    "Psychologique",
+    "Romance",
+    "Science",
+    "fiction",
+    "Surnaturel",
+    "Thriller",
+    "Fantastique",
+    "Aventure"
+  ],
+  "rating": "8.7",
+  "year": "2006",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Code Geass",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.7",
+      "l": "Note"
+    },
+    {
+      "v": "2006",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.7"
+    },
+    {
+      "text": "🎬 2 Saisons · 50 Éps"
+    },
+    {
+      "text": "📅 2006"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le jour où le démon vient au monde",
+          "id": "m7bgh4qfhodi"
+        },
+        {
+          "n": 2,
+          "title": "L'éveil du Chevalier Blanc",
+          "id": "im23xjtacn7u"
+        },
+        {
+          "n": 3,
+          "title": "Le faux camarade de classe",
+          "id": "mfeo6qfwt4f7"
+        },
+        {
+          "n": 4,
+          "title": "Son nom est Zero",
+          "id": "yqe74tgdomz9"
+        },
+        {
+          "n": 5,
+          "title": "La Princesse et la Sorcière",
+          "id": "3txj93bwh0gc"
+        },
+        {
+          "n": 6,
+          "title": "Le masque volé",
+          "id": "ei3qf0e5t3ah"
+        },
+        {
+          "n": 7,
+          "title": "Tir sur Cornelia !",
+          "id": "sodexaq891jj"
+        },
+        {
+          "n": 8,
+          "title": "L'Ordre des Chevaliers Noirs",
+          "id": "vzjeefflycr9"
+        },
+        {
+          "n": 9,
+          "title": "Refrain",
+          "id": "h989yimhtpaf"
+        },
+        {
+          "n": 10,
+          "title": "Le Guren danse",
+          "id": "csdojimzbh1w"
+        },
+        {
+          "n": 11,
+          "title": "La bataille de Narita",
+          "id": "e3ovvgbofble"
+        },
+        {
+          "n": 12,
+          "title": "Le Messager de Kyôto",
+          "id": "kmffg9clgr4u"
+        },
+        {
+          "n": 13,
+          "title": "Shirley et l'arme",
+          "id": "s7nvzf843tgr"
+        },
+        {
+          "n": 14,
+          "title": "Geass contre Geass",
+          "id": "a6x2v6f7p3ts"
+        },
+        {
+          "n": 15,
+          "title": "Mao applaudit",
+          "id": "knonlgfp9txr"
+        },
+        {
+          "n": 16,
+          "title": "Nunnally enlevée",
+          "id": "ndwkql3ebbg8"
+        },
+        {
+          "n": 17,
+          "title": "Chevalier",
+          "id": "w85lzq7h6aqj"
+        },
+        {
+          "n": 18,
+          "title": "Je t'ordonne, Suzaku Kururugi...",
+          "id": "p7g4ri24d4q3"
+        },
+        {
+          "n": 19,
+          "title": "L'île des Dieux",
+          "id": "ltw0cwli6s0a"
+        },
+        {
+          "n": 20,
+          "title": "La Bataille de Kyûshû",
+          "id": "iuwdrwor903u"
+        },
+        {
+          "n": 21,
+          "title": "Annonce à la fête de l'académie",
+          "id": "87pzcsdn85ce"
+        },
+        {
+          "n": 22,
+          "title": "Euphie baignée de sang",
+          "id": "hp44hd9ytt8k"
+        },
+        {
+          "n": 23,
+          "title": "Avec au moins du chagrin",
+          "id": "01zb32nq6xag"
+        },
+        {
+          "n": 24,
+          "title": "Où tout s'effondre",
+          "id": "z6amho3zrdix"
+        },
+        {
+          "n": 25,
+          "title": "Zero",
+          "id": "quxfk3wyfjlo"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le jour de l'éveil du Démon",
+          "id": "5gu07yzg8t22"
+        },
+        {
+          "n": 2,
+          "title": "Plan pour un Japon indépendant",
+          "id": "nrc9i69vlee8"
+        },
+        {
+          "n": 3,
+          "title": "En prison à l'Académie",
+          "id": "hs6x90c3k6hl"
+        },
+        {
+          "n": 4,
+          "title": "Contre-attaque sur l'échafaud",
+          "id": "gmbq4tvynzsi"
+        },
+        {
+          "n": 5,
+          "title": "Les Chevaliers de la Table Ronde",
+          "id": "zksscp7ndo3b"
+        },
+        {
+          "n": 6,
+          "title": "Guet-Apens au-dessus du Pacifique",
+          "id": "15r3shx2tx4z"
+        },
+        {
+          "n": 7,
+          "title": "Le masque abandonné",
+          "id": "27myddbkcx1w"
+        },
+        {
+          "n": 8,
+          "title": "Un million de miracles",
+          "id": "wg48ojqrw9f6"
+        },
+        {
+          "n": 9,
+          "title": "Une fiancée dans la Cité Interdite",
+          "id": "pngfvkbngdsc"
+        },
+        {
+          "n": 10,
+          "title": "Quand brille le Shen Hu",
+          "id": "5foor57i2r20"
+        },
+        {
+          "n": 11,
+          "title": "La force des sentiments",
+          "id": "v2e4bfix7ax7"
+        },
+        {
+          "n": 12,
+          "title": "Love attack !",
+          "id": "gbjcej5yh8a9"
+        },
+        {
+          "n": 13,
+          "title": "L'assassin venu du passé",
+          "id": "671mep61wmui"
+        },
+        {
+          "n": 14,
+          "title": "Chasse au Geass",
+          "id": "gbopwhjs36hh"
+        },
+        {
+          "n": 15,
+          "title": "Le monde de C",
+          "id": "tplakahzux8q"
+        },
+        {
+          "n": 16,
+          "title": "Première résolution de la Fédération des Nations Unies",
+          "id": "v2522xfhuauo"
+        },
+        {
+          "n": 17,
+          "title": "De la terre dans la bouche",
+          "id": "j49zeenie9lv"
+        },
+        {
+          "n": 18,
+          "title": "La deuxième bataille de Tokyo",
+          "id": "vb85f6v5q9rw"
+        },
+        {
+          "n": 19,
+          "title": "Trahison",
+          "id": "wxyt45bnb64t"
+        },
+        {
+          "n": 20,
+          "title": "L'empereur démis",
+          "id": "9nep3sanckjo"
+        },
+        {
+          "n": 21,
+          "title": "La jonction Ragnarök",
+          "id": "xa3tzkhdz0hh"
+        },
+        {
+          "n": 22,
+          "title": "Lelouch Empereur",
+          "id": "2dk97vtr877k"
+        },
+        {
+          "n": 23,
+          "title": "Le masque de Schneizel",
+          "id": "kzbneqgb1mvw"
+        },
+        {
+          "n": 24,
+          "title": "Les cieux sous le Damoclès",
+          "id": "ahv68bmdo512"
+        },
+        {
+          "n": 25,
+          "title": "Zero Requiem",
+          "id": "y57usyztk8ma"
+        }
+      ]
+    }
+  }
+}

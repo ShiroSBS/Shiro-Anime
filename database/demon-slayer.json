@@ -1,0 +1,404 @@
+{
+  "id": "demon-slayer",
+  "title": "Demon Slayer",
+  "poster": "https://i.imgur.com/oMp2oDB.jpeg",
+  "banner": "https://i.imgur.com/bboGn4q.jpeg",
+  "bannerFallback": "https://i.imgur.com/bboGn4q.jpeg",
+  "description": "Depuis les temps anciens, il existe des rumeurs concernant des démons mangeurs d'hommes qui se cachent dans les bois. Pour cette raison, les citadins locaux ne s'y aventurent jamais la nuit. La légende raconte aussi qu'un tueur de démons déambule la nuit, chassant ces démons assoiffés de sang. Pour le jeune Tanjirô, ces rumeurs vont bientôt devenir sa dure réalité ...\n\nDepuis la mort de son père, Tanjirô a pris sur lui pour subvenir aux besoins de sa famille. Malgré cette tragédie, ils réussissent à trouver un peu de bonheur au quotidien.\n\nCependant, ce peu de bonheur se retrouve détruit le jour où Tanjirô découvre que sa famille s'est fait massacrer et que la seule survivante, sa sœur Nezuko, est devenue un démon. À sa grande surprise, Nezuko montre encore des signes d'émotion et de pensées humaines. Ainsi, commence la dure tâche de Tanjirô, celle de combattre les démons et de faire redevenir sa sœur humaine.",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantastique",
+    "Historique",
+    "Surnaturel",
+    "Science",
+    "Fiction"
+  ],
+  "rating": "4.8",
+  "year": "2016",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Demon Slayer",
+  "stats": [
+    {
+      "v": "5",
+      "l": "Saisons"
+    },
+    {
+      "v": "4.8",
+      "l": "Note"
+    },
+    {
+      "v": "2016",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "4.8"
+    },
+    {
+      "text": "🎬 5 Saisons · 63 Éps"
+    },
+    {
+      "text": "📅 2016"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Arc de la Sélection finale",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Cruauté",
+          "id": "p0sserqof2z5"
+        },
+        {
+          "n": 2,
+          "title": "Urokodaki Sakonji, le formateur",
+          "id": "8cx7wqgzkfcl"
+        },
+        {
+          "n": 3,
+          "title": "Sabito et Makomo",
+          "id": "kwcniziifph4"
+        },
+        {
+          "n": 4,
+          "title": "La Sélection finale",
+          "id": "75d2pkawfzdb"
+        },
+        {
+          "n": 5,
+          "title": "Chacun son acier",
+          "id": "55sjvcy5raht"
+        },
+        {
+          "n": 6,
+          "title": "Le chasseur accompagné d'un démon",
+          "id": "6f5gh44aj7ov"
+        },
+        {
+          "n": 7,
+          "title": "Kibutsuji Muzan",
+          "id": "pyr4kmklw0py"
+        },
+        {
+          "n": 8,
+          "title": "Le Parfum du sang d'envoûtement",
+          "id": "2lv5sr48zhq1"
+        },
+        {
+          "n": 9,
+          "title": "Les Démons aux ballons et aux flèches",
+          "id": "i71kmtn6cuwz"
+        },
+        {
+          "n": 10,
+          "title": "Nous resterons ensemble",
+          "id": "acveg4t5q4kr"
+        },
+        {
+          "n": 11,
+          "title": "La Maison aux tambours",
+          "id": "ct799asp9cr4"
+        },
+        {
+          "n": 12,
+          "title": "Zen'itsu dort, le sanglier montre les crocs",
+          "id": "uzi5pi0jta71"
+        },
+        {
+          "n": 13,
+          "title": "Ce à quoi je tiens plus qu'à ma vie",
+          "id": "bm9pmk511qxv"
+        },
+        {
+          "n": 14,
+          "title": "Le Blason des glycines",
+          "id": "721ibix61eif"
+        },
+        {
+          "n": 15,
+          "title": "Le Mont Natagumo",
+          "id": "rjx3o2k7rjdj"
+        },
+        {
+          "n": 16,
+          "title": "Faire passer les autres avant soi",
+          "id": "4eav4symrikr"
+        },
+        {
+          "n": 17,
+          "title": "Parfaire une seule technique",
+          "id": "1lgy872voiwi"
+        },
+        {
+          "n": 18,
+          "title": "Des liens factices",
+          "id": "dmegj34g0223"
+        },
+        {
+          "n": 19,
+          "title": "Le Dieu du feu",
+          "id": "8360ztdrpmfs"
+        },
+        {
+          "n": 20,
+          "title": "Une famille improvisée",
+          "id": "5q00mq8ncshd"
+        },
+        {
+          "n": 21,
+          "title": "Violation du code",
+          "id": "zuozm0qc4vsf"
+        },
+        {
+          "n": 22,
+          "title": "Le Maître",
+          "id": "x1mxvwf6hgh3"
+        },
+        {
+          "n": 23,
+          "title": "La Réunion des piliers",
+          "id": "drc4rfvs8q7k"
+        },
+        {
+          "n": 24,
+          "title": "L'Entraînement récupérateur",
+          "id": "c8co77hgc1is"
+        },
+        {
+          "n": 25,
+          "title": "Tsuyuri Kanao, la successeuse",
+          "id": "yb6108sp7av2"
+        },
+        {
+          "n": 26,
+          "title": "Nouvelle mission",
+          "id": "iyte0dyvq3f6"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Arc du Train de l’Infini",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Rengoku Kyôjurô, le pilier de la flamme",
+          "id": "rs9kapvxtqbn"
+        },
+        {
+          "n": 2,
+          "title": "Un sommeil profond",
+          "id": "i34r8jl9bgho"
+        },
+        {
+          "n": 3,
+          "title": "Si c’était réel",
+          "id": "feedd3is6biw"
+        },
+        {
+          "n": 4,
+          "title": "Affront",
+          "id": "03rn4pqvvb91"
+        },
+        {
+          "n": 5,
+          "title": "À l'avant du train",
+          "id": "3lx8asmbhqlo"
+        },
+        {
+          "n": 6,
+          "title": "Akaza",
+          "id": "8wn2709xj32p"
+        },
+        {
+          "n": 7,
+          "title": "Enflamme ton âme",
+          "id": "n13qsd7n135g"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Arc du Quartier des plaisirs",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Uzui Tengen, le pilier du son",
+          "id": "9p5htoudphbn"
+        },
+        {
+          "n": 2,
+          "title": "Infiltration au quartier des plaisirs",
+          "id": "9jqh9j3oogmx"
+        },
+        {
+          "n": 3,
+          "title": "Qui es-tu ?",
+          "id": "9z08w104e2zy"
+        },
+        {
+          "n": 4,
+          "title": "Cette nuit",
+          "id": "x4ijmuijnw2e"
+        },
+        {
+          "n": 5,
+          "title": "Combattre avec panache !",
+          "id": "sesr2stfzmnz"
+        },
+        {
+          "n": 6,
+          "title": "Des souvenirs accumulés",
+          "id": "cilk1bmjm6z4"
+        },
+        {
+          "n": 7,
+          "title": "Métamorphose",
+          "id": "jmpzuq0j6rap"
+        },
+        {
+          "n": 8,
+          "title": "Union",
+          "id": "y48kjgyvauth"
+        },
+        {
+          "n": 9,
+          "title": "Après avoir abattu une lune supérieure",
+          "id": "exvvmtmy59d1"
+        },
+        {
+          "n": 10,
+          "title": "Je n’abandonnerai jamais",
+          "id": "7uoueyhailpx"
+        },
+        {
+          "n": 11,
+          "title": "À chaque réincarnation",
+          "id": "ccvbjxvksbma"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Arc du Village des forgerons",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le rêve d'un étranger",
+          "id": "zrns7lzc98l0"
+        },
+        {
+          "n": 2,
+          "title": "Yoriichi modèle zéro",
+          "id": "ggprot2pj6yp"
+        },
+        {
+          "n": 3,
+          "title": "Le katana de plus de 300 ans",
+          "id": "ol8xwdqd3ucs"
+        },
+        {
+          "n": 4,
+          "title": "Merci, Tokitô",
+          "id": "fjtqublijsy8"
+        },
+        {
+          "n": 5,
+          "title": "Le sabre écarlate",
+          "id": "7jvar6yz60ni"
+        },
+        {
+          "n": 6,
+          "title": "Tu veux devenir un pilier, non ?",
+          "id": "4073riz995he"
+        },
+        {
+          "n": 7,
+          "title": "Les véritables monstres",
+          "id": "7nlcc8xhogtx"
+        },
+        {
+          "n": 8,
+          "title": "Le sens du prénom de Muichirô",
+          "id": "9p90d5gdzkho"
+        },
+        {
+          "n": 9,
+          "title": "Tokitô Muichirô, le pilier de la brume",
+          "id": "f6smjlghlo77"
+        },
+        {
+          "n": 10,
+          "title": "Kanroji Mitsuri, le pilier de l'amour",
+          "id": "lw3ffb6rbyen"
+        },
+        {
+          "n": 11,
+          "title": "Unis au point du jour",
+          "id": "rbjh74vrwha2"
+        }
+      ]
+    },
+    "5": {
+      "label": "Saison 5",
+      "title": "Arc de l’Entraînement des piliers",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Pour vaincre Kibutsuji Muzan",
+          "id": "fpjmgz29ysyi"
+        },
+        {
+          "n": 2,
+          "title": "La souffrance de Tomioka Giyû, pilier de l’eau",
+          "id": "tyjiy6jlvzv9"
+        },
+        {
+          "n": 3,
+          "title": "Tanjirô est rétabli et se joint à l’entraînement !",
+          "id": "ub32hy4z7001"
+        },
+        {
+          "n": 4,
+          "title": "Souris",
+          "id": "rqthkwhi3lus"
+        },
+        {
+          "n": 5,
+          "title": "Manger des démons",
+          "id": "un6k4l1nfctg"
+        },
+        {
+          "n": 6,
+          "title": "Le plus fort des pourfendeurs",
+          "id": "kuwxywc1j6fq"
+        },
+        {
+          "n": 7,
+          "title": "Himejima Gyômei, pilier du rocher",
+          "id": "hr7v6bqvmfno"
+        },
+        {
+          "n": 8,
+          "title": "Rassemblement des piliers",
+          "id": "hp4pbgswjshe"
+        }
+      ]
+    }
+  }
+}

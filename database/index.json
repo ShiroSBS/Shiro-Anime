@@ -366,5 +366,26 @@
       "Fiction",
       "Fantastique"
     ]
+  },
+  {
+    "id": "fairy-tail",
+    "title": "Fairy Tail",
+    "poster": "https://i.imgur.com/oW7WOiY.jpeg",
+    "rating": "7.2",
+    "year": "2009",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Drame",
+      "Fantasy",
+      "Shônen",
+      "Kaï",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]

@@ -194,125 +194,127 @@
       "label": "Saison 3",
       "title": "Tokyo Ghoul:re",
       "episodes": [
-        [
-  {
-    "n": 1,
-    "title": "Ceux qui chassent : Départ",
-    "id": "10iv7tthz257"
-  },
-  {
-    "n": 2,
-    "title": "Membre : Fragments",
-    "id": "nno1b4gih94u"
-  },
-  {
-    "n": 3,
-    "title": "Fraîcheur : Veille",
-    "id": "s7gwjzmzhkrk"
-  },
-  {
-    "n": 4,
-    "title": "Enjeu : Enchères",
-    "id": "aw9zyqo4i8u4"
-  },
-  {
-    "n": 5,
-    "title": "Pression : Nuit de dispersion",
-    "id": "be7325mr2tzs"
-  },
-  {
-    "n": 6,
-    "title": "Retournement : À la fin",
-    "id": "rscbfk792oc9"
-  },
-  {
-    "n": 7,
-    "title": "Esprit : Jours de souvenirs",
-    "id": "347kzicu5i35"
-  },
-  {
-    "n": 8,
-    "title": "Capture : Celui qui se tortille",
-    "id": "a7dgn69et7sf"
-  },
-  {
-    "n": 9,
-    "title": "Jeu : Fantôme",
-    "id": "jl1s7qi6sxa4"
-  },
-  {
-    "n": 10,
-    "title": "Pensée : Hésitation",
-    "id": "irpatrwaw8p7"
-  },
-  {
-    "n": 11,
-    "title": "Écriture : Échec",
-    "id": "yxk1ooy2tmao"
-  },
-  {
-    "n": 12,
-    "title": "Beau rêve : Aube",
-    "id": "rec5k1acmlev"
-  },
-  {
-    "n": 13,
-    "title": "Lieu : Et ainsi, encore une fois",
-    "id": "oa5v6e2y8vnl"
-  },
-  {
-    "n": 14,
-    "title": "Volt : Ténèbres blanches",
-    "id": "4c2s74fba7g7"
-  },
-  {
-    "n": 15,
-    "title": "Union : Jeu croisé",
-    "id": "q6ehvhnzxcb3"
-  },
-  {
-    "n": 16,
-    "title": "Vivre : Ceux qui restent",
-    "id": "xe9vwhgf78pr"
-  },
-  {
-    "n": 17,
-    "title": "Mouvement : Convergence et confusion",
-    "id": "ih63k4bb807p"
-  },
-  {
-    "n": 18,
-    "title": "Visage : Éclat",
-    "id": "hc2bdo9gbiq8"
-  },
-  {
-    "n": 19,
-    "title": "Preuve : Liens",
-    "id": "nzji1bxwenmm"
-  },
-  {
-    "n": 20,
-    "title": "Incarnation : Enfant éveillé",
-    "id": "jmm5cnif57o1"
-  },
-  {
-    "n": 21,
-    "title": "Morse : Souvenirs",
-    "id": "8g82xyomkvyd"
-  },
-  {
-    "n": 22,
-    "title": "Appel : L'autre versant de la tragédie",
-    "id": "xvm82za69y76"
-  },
-  {
-    "n": 23,
-    "title": "Acte : Rencontres",
-    "id": "pynb31yzmcwr"
-  },
-  {
-    "n": 24,
-    "title": "Le dernier épisode",
-    "id": "eri7xy1lt0zp"
+        {
+          "n": 1,
+          "title": "Ceux qui chassent : Départ",
+          "id": "10iv7tthz257"
+        },
+        {
+          "n": 2,
+          "title": "Membre : Fragments",
+          "id": "nno1b4gih94u"
+        },
+        {
+          "n": 3,
+          "title": "Fraîcheur : Veille",
+          "id": "s7gwjzmzhkrk"
+        },
+        {
+          "n": 4,
+          "title": "Enjeu : Enchères",
+          "id": "aw9zyqo4i8u4"
+        },
+        {
+          "n": 5,
+          "title": "Pression : Nuit de dispersion",
+          "id": "be7325mr2tzs"
+        },
+        {
+          "n": 6,
+          "title": "Retournement : À la fin",
+          "id": "rscbfk792oc9"
+        },
+        {
+          "n": 7,
+          "title": "Esprit : Jours de souvenirs",
+          "id": "347kzicu5i35"
+        },
+        {
+          "n": 8,
+          "title": "Capture : Celui qui se tortille",
+          "id": "a7dgn69et7sf"
+        },
+        {
+          "n": 9,
+          "title": "Jeu : Fantôme",
+          "id": "jl1s7qi6sxa4"
+        },
+        {
+          "n": 10,
+          "title": "Pensée : Hésitation",
+          "id": "irpatrwaw8p7"
+        },
+        {
+          "n": 11,
+          "title": "Écriture : Échec",
+          "id": "yxk1ooy2tmao"
+        },
+        {
+          "n": 12,
+          "title": "Beau rêve : Aube",
+          "id": "rec5k1acmlev"
+        },
+        {
+          "n": 13,
+          "title": "Lieu : Et ainsi, encore une fois",
+          "id": "oa5v6e2y8vnl"
+        },
+        {
+          "n": 14,
+          "title": "Volt : Ténèbres blanches",
+          "id": "4c2s74fba7g7"
+        },
+        {
+          "n": 15,
+          "title": "Union : Jeu croisé",
+          "id": "q6ehvhnzxcb3"
+        },
+        {
+          "n": 16,
+          "title": "Vivre : Ceux qui restent",
+          "id": "xe9vwhgf78pr"
+        },
+        {
+          "n": 17,
+          "title": "Mouvement : Convergence et confusion",
+          "id": "ih63k4bb807p"
+        },
+        {
+          "n": 18,
+          "title": "Visage : Éclat",
+          "id": "hc2bdo9gbiq8"
+        },
+        {
+          "n": 19,
+          "title": "Preuve : Liens",
+          "id": "nzji1bxwenmm"
+        },
+        {
+          "n": 20,
+          "title": "Incarnation : Enfant éveillé",
+          "id": "jmm5cnif57o1"
+        },
+        {
+          "n": 21,
+          "title": "Morse : Souvenirs",
+          "id": "8g82xyomkvyd"
+        },
+        {
+          "n": 22,
+          "title": "Appel : L'autre versant de la tragédie",
+          "id": "xvm82za69y76"
+        },
+        {
+          "n": 23,
+          "title": "Acte : Rencontres",
+          "id": "pynb31yzmcwr"
+        },
+        {
+          "n": 24,
+          "title": "Le dernier épisode",
+          "id": "eri7xy1lt0zp"
+        }
+      ]
+    }
   }
-]
+}

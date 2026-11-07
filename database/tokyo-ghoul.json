@@ -1,0 +1,318 @@
+{
+  "id": "tokyo-ghoul",
+  "title": "Tokyo Ghoul",
+  "poster": "https://i.imgur.com/aSXeppv.jpeg",
+  "banner": "https://i.imgur.com/a8d1Tq0.jpeg",
+  "bannerFallback": "https://i.imgur.com/a8d1Tq0.jpeg"
+  "description": "Tokyo est devenue une ville cruelle et impitoyable, un endroit où des créatures vicieuses appelées «goules» existent aux côtés des humains. Les habitants de cette grande métropole vivent dans la peur constante de ces sauvages sanguinaires et de leur soif de chair humaine. Cependant, la plus grande menace que ces goules posent est leur capacité dangereuse à se faire passer pour des humains et de se fondre dans la société.\nL'histoire suit Ken Kaneki, un étudiant universitaire timide qui est immédiatement attiré par Rize Kamishiro, une lectrice avide comme lui.\nCependant, Rize n'est pas exactement ce qu'elle pretend être. Durant un rendez-vous, elle manque de tuer Kaneki en lui dévoilant sa nature de goule.\nIl survit grâce aux organes de Rize, greffés à la place de ceux qu'elle avait détruit en l'attaquant. Le jeune homme est désormais un hybride, mi-humain, mi-goule et va vivre un véritable enfer.",
+  "genres": [
+    "Action",
+    "Drame",
+    "Horreur",
+    "Épouvante",
+    "Mystère",
+    "Psychologique",
+    "Seinen",
+    "Surnaturel",
+    "Science",
+    "Fiction",
+    "Fantastique"
+  ],
+  "rating": "7.6",
+  "year": "2014",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Tokyo Ghoul",
+  "stats": [
+    {
+      "v": "3",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.6",
+      "l": "Note"
+    },
+    {
+      "v": "2014",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.6"
+    },
+    {
+      "text": "🎬 3 Saisons · 48 Éps"
+    },
+    {
+      "text": "📅 2014"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Tragédie",
+          "id": "zer94ya5frid"
+        },
+        {
+          "n": 2,
+          "title": "Solitude",
+          "id": "8dndtbbtdcyi"
+        },
+        {
+          "n": 3,
+          "title": "Colombes",
+          "id": "2wcl9xmdhjf3"
+        },
+        {
+          "n": 4,
+          "title": "Dîner",
+          "id": "0gkmfvorazah"
+        },
+        {
+          "n": 5,
+          "title": "Cicatrice",
+          "id": "ap5xmvyyozkz"
+        },
+        {
+          "n": 6,
+          "title": "Ondée",
+          "id": "sjd1ibivt7ed"
+        },
+        {
+          "n": 7,
+          "title": "Emprisonnement",
+          "id": "ny9n3q1w6ps9"
+        },
+        {
+          "n": 8,
+          "title": "Cercle",
+          "id": "t25vey5rceq0"
+        },
+        {
+          "n": 9,
+          "title": "Cage",
+          "id": "ba67zua1x8eo"
+        },
+        {
+          "n": 10,
+          "title": "L'Arbre Aogiri",
+          "id": "baypeeppu61n"
+        },
+        {
+          "n": 11,
+          "title": "Frénésie",
+          "id": "k8zh51cp4slq"
+        },
+        {
+          "n": 12,
+          "title": "Goule",
+          "id": "dus6n1t14ipe"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Foi",
+          "id": "kf4z808xn63r"
+        },
+        {
+          "n": 2,
+          "title": "Fleurs dansantes",
+          "id": "msvm74wmsgdw"
+        },
+        {
+          "n": 3,
+          "title": "Pendu",
+          "id": "qxfcsuxvujr6"
+        },
+        {
+          "n": 4,
+          "title": "Profondeur",
+          "id": "gspeabm3f9r9"
+        },
+        {
+          "n": 5,
+          "title": "Fissures",
+          "id": "a074ueo9tg7z"
+        },
+        {
+          "n": 6,
+          "title": "Mille chemins",
+          "id": "exc0f81q516a"
+        },
+        {
+          "n": 7,
+          "title": "Imprégnation",
+          "id": "zv5n4by0i9cd"
+        },
+        {
+          "n": 8,
+          "title": "Les 9",
+          "id": "glv8g2rwwo98"
+        },
+        {
+          "n": 9,
+          "title": "Panoramique",
+          "id": "roo5hvs2ty1o"
+        },
+        {
+          "n": 10,
+          "title": "Dernière pluie",
+          "id": "hsyhfr1bn8ip"
+        },
+        {
+          "n": 11,
+          "title": "Des fleurs à foison",
+          "id": "bigpsxky8p68"
+        },
+        {
+          "n": 12,
+          "title": "Aiguiser",
+          "id": "tii6v2phkajp"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Tokyo Ghoul:re",
+      "episodes": [
+        [
+  {
+    "n": 1,
+    "title": "Ceux qui chassent : Départ",
+    "id": "10iv7tthz257"
+  },
+  {
+    "n": 2,
+    "title": "Membre : Fragments",
+    "id": "nno1b4gih94u"
+  },
+  {
+    "n": 3,
+    "title": "Fraîcheur : Veille",
+    "id": "s7gwjzmzhkrk"
+  },
+  {
+    "n": 4,
+    "title": "Enjeu : Enchères",
+    "id": "aw9zyqo4i8u4"
+  },
+  {
+    "n": 5,
+    "title": "Pression : Nuit de dispersion",
+    "id": "be7325mr2tzs"
+  },
+  {
+    "n": 6,
+    "title": "Retournement : À la fin",
+    "id": "rscbfk792oc9"
+  },
+  {
+    "n": 7,
+    "title": "Esprit : Jours de souvenirs",
+    "id": "347kzicu5i35"
+  },
+  {
+    "n": 8,
+    "title": "Capture : Celui qui se tortille",
+    "id": "a7dgn69et7sf"
+  },
+  {
+    "n": 9,
+    "title": "Jeu : Fantôme",
+    "id": "jl1s7qi6sxa4"
+  },
+  {
+    "n": 10,
+    "title": "Pensée : Hésitation",
+    "id": "irpatrwaw8p7"
+  },
+  {
+    "n": 11,
+    "title": "Écriture : Échec",
+    "id": "yxk1ooy2tmao"
+  },
+  {
+    "n": 12,
+    "title": "Beau rêve : Aube",
+    "id": "rec5k1acmlev"
+  },
+  {
+    "n": 13,
+    "title": "Lieu : Et ainsi, encore une fois",
+    "id": "oa5v6e2y8vnl"
+  },
+  {
+    "n": 14,
+    "title": "Volt : Ténèbres blanches",
+    "id": "4c2s74fba7g7"
+  },
+  {
+    "n": 15,
+    "title": "Union : Jeu croisé",
+    "id": "q6ehvhnzxcb3"
+  },
+  {
+    "n": 16,
+    "title": "Vivre : Ceux qui restent",
+    "id": "xe9vwhgf78pr"
+  },
+  {
+    "n": 17,
+    "title": "Mouvement : Convergence et confusion",
+    "id": "ih63k4bb807p"
+  },
+  {
+    "n": 18,
+    "title": "Visage : Éclat",
+    "id": "hc2bdo9gbiq8"
+  },
+  {
+    "n": 19,
+    "title": "Preuve : Liens",
+    "id": "nzji1bxwenmm"
+  },
+  {
+    "n": 20,
+    "title": "Incarnation : Enfant éveillé",
+    "id": "jmm5cnif57o1"
+  },
+  {
+    "n": 21,
+    "title": "Morse : Souvenirs",
+    "id": "8g82xyomkvyd"
+  },
+  {
+    "n": 22,
+    "title": "Appel : L'autre versant de la tragédie",
+    "id": "xvm82za69y76"
+  },
+  {
+    "n": 23,
+    "title": "Acte : Rencontres",
+    "id": "pynb31yzmcwr"
+  },
+  {
+    "n": 24,
+    "title": "Le dernier épisode",
+    "id": "eri7xy1lt0zp"
+  }
+]

@@ -1,0 +1,1838 @@
+{
+  "id": "fairy-tail",
+  "title": "Fairy Tail",
+  "poster": "https://i.imgur.com/oW7WOiY.jpeg",
+  "banner": "https://i.imgur.com/ZnkreIg.jpeg",
+  "bannerFallback": "https://i.imgur.com/ZnkreIg.jpeg",
+  "description": "Lucy est une jeune magicienne qui désire par dessus tout entrer dans une guilde magique.\nElle décide de se rendre à Harujion afin d'obtenir des infos sur les guildes, particulièrement la guilde Fairy Tail.\n\nLors de ses recherches, elle rencontre le mystérieux Salamander, membre de la célèbre guilde Fairy Tail.\nMalheureusement ce dernier n'est qu'un charlatan qui utilise des enchantements pour envoûter des femmes et ainsi les revendre au marché d'esclaves !\n\nAlors que Lucy se trouve sous l'envoûtement de Salamander, un garçon mystérieux du nom de Natsu accompagné d'un chat bleu pouvant parler appelé Happy, la percute et rompt le sortilège de Salamander. Pour remercier Natsu et Happy, elle décide de les inviter au restaurant. Plus tard, Salamander lui fait une proposition : si elle vient à la fête sur le bateau, qu'il organise, il la fera entrer chez Fairy Tail. Lucy accepte et s'y rend. A la fête, elle se rend compte que Salamander n'est qu'un escroc et qu'il ne fait même pas partie de Fairy Tail. Elle veut fuir mais, alors qu'elle est sur le point de se faire kidnapper, Natsu et Happy arrivent et la sauvent. C'est alors qu'elle découvre qu'ils sont des mages et qu'ils font partie de Fairy Tail.\n\nC'est le début des aventures de Natsu et Lucy au sein du monde magique de Fairy Tail !",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Fantasy",
+    "Shônen",
+    "Kaï",
+    "Science",
+    "Fiction",
+    "Fantastique"
+  ],
+  "rating": "7.2",
+  "year": "2009",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Fairy Tail",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.2",
+      "l": "Note"
+    },
+    {
+      "v": "2009",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.2"
+    },
+    {
+      "text": "🎬 2 Saisons · 353 Éps"
+    },
+    {
+      "text": "📅 2009"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Fairy Tail",
+          "id": "ay1w466c0c5e"
+        },
+        {
+          "n": 2,
+          "title": "Le Dragon de feu, le Singe et le Taureau",
+          "id": "vjxr4knpgx0a"
+        },
+        {
+          "n": 3,
+          "title": "Infiltrons le manoir d’Everlue !",
+          "id": "ei2y8k7au75m"
+        },
+        {
+          "n": 4,
+          "title": "Mon cher Kaby",
+          "id": "g3fl5smuzbvt"
+        },
+        {
+          "n": 5,
+          "title": "Le Mage à l’armure",
+          "id": "r49mbot3bxot"
+        },
+        {
+          "n": 6,
+          "title": "Fairy Tail, au cœur de la tempête",
+          "id": "ejcfh7x2y14n"
+        },
+        {
+          "n": 7,
+          "title": "Les Flammes et le Vent",
+          "id": "gs6geoludfzh"
+        },
+        {
+          "n": 8,
+          "title": "La Meilleure des équipes !",
+          "id": "a9q302svfs5n"
+        },
+        {
+          "n": 9,
+          "title": "Natsu mange un village",
+          "id": "6rha33spqe5v"
+        },
+        {
+          "n": 10,
+          "title": "Natsu contre Erza",
+          "id": "unycdtgyp095"
+        },
+        {
+          "n": 11,
+          "title": "L’Île maudite",
+          "id": "x204fizp0i4c"
+        },
+        {
+          "n": 12,
+          "title": "Les Gouttes de Lune",
+          "id": "5za2ewvvi5cq"
+        },
+        {
+          "n": 13,
+          "title": "Natsu contre les ondes de Yûka",
+          "id": "0wgyaz91jshe"
+        },
+        {
+          "n": 14,
+          "title": "Le gagnant fait ce qui lui plaît",
+          "id": "jzv1g2g4bv4o"
+        },
+        {
+          "n": 15,
+          "title": "La Magie éternelle",
+          "id": "3cuoqqu0658f"
+        },
+        {
+          "n": 16,
+          "title": "L’Île de Galuna – La Bataille finale",
+          "id": "ynbvm4kyvtii"
+        },
+        {
+          "n": 17,
+          "title": "Burst",
+          "id": "bb8xhec18n3l"
+        },
+        {
+          "n": 18,
+          "title": "La Mission ! Vers le ciel !",
+          "id": "1itpypcwjk46"
+        },
+        {
+          "n": 19,
+          "title": "Changeling",
+          "id": "9vq5w28svkij"
+        },
+        {
+          "n": 20,
+          "title": "Natsu et l’Œuf du dragon",
+          "id": "75j39lryh08m"
+        },
+        {
+          "n": 21,
+          "title": "Phantom Lord",
+          "id": "tnghey0cqc98"
+        },
+        {
+          "n": 22,
+          "title": "Lucy Heartfilia",
+          "id": "p92x3e7hix6t"
+        },
+        {
+          "n": 23,
+          "title": "15 minutes",
+          "id": "o3v0jkuqva1u"
+        },
+        {
+          "n": 24,
+          "title": "Pour ne pas voir tes larmes",
+          "id": "q07njg0tvv7v"
+        },
+        {
+          "n": 25,
+          "title": "La fleur qui s’épanouit sous la pluie",
+          "id": "cv5kkrwl66st"
+        },
+        {
+          "n": 26,
+          "title": "Les Ailes de feu",
+          "id": "d2q6gzqyxhka"
+        },
+        {
+          "n": 27,
+          "title": "Les Deux Chasseurs de dragons",
+          "id": "bm1tiw2gn7x4"
+        },
+        {
+          "n": 28,
+          "title": "La Loi des fées",
+          "id": "pmqb7kfic1sj"
+        },
+        {
+          "n": 29,
+          "title": "C’est mon choix",
+          "id": "t2reqkok9dj2"
+        },
+        {
+          "n": 30,
+          "title": "Next Generation",
+          "id": "k3jut1xc3jvz"
+        },
+        {
+          "n": 31,
+          "title": "L’Étoile tombée des cieux",
+          "id": "oov6wn9gjzc7"
+        },
+        {
+          "n": 32,
+          "title": "Le Roi des constellations",
+          "id": "d7hr4m1yyy1a"
+        },
+        {
+          "n": 33,
+          "title": "La Tour du Paradis",
+          "id": "djkzgwz7xurn"
+        },
+        {
+          "n": 34,
+          "title": "Jellal",
+          "id": "jqgewveiddh9"
+        },
+        {
+          "n": 35,
+          "title": "L’appel des ténèbres",
+          "id": "tq30vt1f6cmj"
+        },
+        {
+          "n": 36,
+          "title": "Le jeu du Paradis",
+          "id": "92027l79d3pt"
+        },
+        {
+          "n": 37,
+          "title": "L’armure du cœur",
+          "id": "iap685c8ld5j"
+        },
+        {
+          "n": 38,
+          "title": "Destinée",
+          "id": "emxyc346qfnz"
+        },
+        {
+          "n": 39,
+          "title": "Une prière pour la lumière sainte",
+          "id": "6968kwjtzvs2"
+        },
+        {
+          "n": 40,
+          "title": "La Chute de la reine des fées",
+          "id": "47mlk8d6kn9g"
+        },
+        {
+          "n": 41,
+          "title": "Home",
+          "id": "57c21vb6uizl"
+        },
+        {
+          "n": 42,
+          "title": "La Bataille de Fairy Tail",
+          "id": "fdyfzk5sy8gq"
+        },
+        {
+          "n": 43,
+          "title": "Attaque ton ami pour le sauver",
+          "id": "srzipjng45q3"
+        },
+        {
+          "n": 44,
+          "title": "Le Palais de la foudre",
+          "id": "suoi5lhi8z9r"
+        },
+        {
+          "n": 45,
+          "title": "L’avènement de Satan",
+          "id": "sv8mndawy7tx"
+        },
+        {
+          "n": 46,
+          "title": "Catastrophe à la cathédrale de Kardia",
+          "id": "rvgalknm7syc"
+        },
+        {
+          "n": 47,
+          "title": "Triple Dragon",
+          "id": "sha7ibomtrql"
+        },
+        {
+          "n": 48,
+          "title": "Fantasia",
+          "id": "d2xiu2rdwqqv"
+        },
+        {
+          "n": 49,
+          "title": "Une rencontre marquée par le destin",
+          "id": "yibjjnn0u1x5"
+        },
+        {
+          "n": 50,
+          "title": "Mission spéciale. Prends garde à l’être aimé !",
+          "id": "s8hxdn3jemw0"
+        },
+        {
+          "n": 51,
+          "title": "LOVE & LUCKY",
+          "id": "kuuvctw27h2s"
+        },
+        {
+          "n": 52,
+          "title": "Équipe de la coalition, parée !",
+          "id": "pohvn6xfv83r"
+        },
+        {
+          "n": 53,
+          "title": "Oracion Seis entre en scène !",
+          "id": "59x1lrdcsujo"
+        },
+        {
+          "n": 54,
+          "title": "La Prêtresse Céleste",
+          "id": "yjr8hyyekvw8"
+        },
+        {
+          "n": 55,
+          "title": "La Fillette et le Fantôme",
+          "id": "gw4y1mubh33s"
+        },
+        {
+          "n": 56,
+          "title": "Le Grand Prix de la mort",
+          "id": "eyujw6vxhv6z"
+        },
+        {
+          "n": 57,
+          "title": "Les Ténèbres",
+          "id": "ijd7iuv1c8rg"
+        },
+        {
+          "n": 58,
+          "title": "Duel d’esprits",
+          "id": "34k0uae0f26a"
+        },
+        {
+          "n": 59,
+          "title": "L’ancien Jellal",
+          "id": "stqqjl1o54fg"
+        },
+        {
+          "n": 60,
+          "title": "La marche de la destruction",
+          "id": "1uqwbppicp77"
+        },
+        {
+          "n": 61,
+          "title": "Un combat aérien : Natsu contre Cobra !",
+          "id": "x2msbp8lngz3"
+        },
+        {
+          "n": 62,
+          "title": "Jura, le mage sacré",
+          "id": "cq627zj971co"
+        },
+        {
+          "n": 63,
+          "title": "Tes paroles plus que tout",
+          "id": "z8ft0uciy222"
+        },
+        {
+          "n": 64,
+          "title": "Zéro",
+          "id": "u4ykup4m6hk8"
+        },
+        {
+          "n": 65,
+          "title": "De la part de Pégase",
+          "id": "nz7keu81fk66"
+        },
+        {
+          "n": 66,
+          "title": "La force des sentiments",
+          "id": "hh5h9qj583oh"
+        },
+        {
+          "n": 67,
+          "title": "Je suis avec toi",
+          "id": "i8hlw1a3vfhr"
+        },
+        {
+          "n": 68,
+          "title": "Une guilde fondée pour une personne",
+          "id": "iqn5919it197"
+        },
+        {
+          "n": 69,
+          "title": "L’Appel du dragon",
+          "id": "rmpilbppy72c"
+        },
+        {
+          "n": 70,
+          "title": "Natsu contre Grey !",
+          "id": "q6y9ac5m6iok"
+        },
+        {
+          "n": 71,
+          "title": "L’amitié est plus forte que la mort",
+          "id": "w87r63azacmo"
+        },
+        {
+          "n": 72,
+          "title": "Les mages de Fairy Tail",
+          "id": "rf9a71zcdqnh"
+        },
+        {
+          "n": 73,
+          "title": "Les cerisiers arc-en-ciel",
+          "id": "hxnysv5qzu04"
+        },
+        {
+          "n": 74,
+          "title": "Première grande mission pour Wendy",
+          "id": "li9l52tb1fpp"
+        },
+        {
+          "n": 75,
+          "title": "Les vingt-quatre heures à pied de Fairy Tail",
+          "id": "efl1bzelk1ls"
+        },
+        {
+          "n": 76,
+          "title": "Gildarts",
+          "id": "enbyfzclcbdi"
+        },
+        {
+          "n": 77,
+          "title": "Earthland",
+          "id": "7snafchnd9gz"
+        },
+        {
+          "n": 78,
+          "title": "Edolas",
+          "id": "l47466klldq3"
+        },
+        {
+          "n": 79,
+          "title": "La chasse aux fées",
+          "id": "btkarawip526"
+        },
+        {
+          "n": 80,
+          "title": "Les clés de l’espérance",
+          "id": "at6hyrmt7jpb"
+        },
+        {
+          "n": 81,
+          "title": "Fireball",
+          "id": "yzema3g6yzkp"
+        },
+        {
+          "n": 82,
+          "title": "Soyez les bienvenus",
+          "id": "cn00oem93t23"
+        },
+        {
+          "n": 83,
+          "title": "Extalia",
+          "id": "knxettk9evyq"
+        },
+        {
+          "n": 84,
+          "title": "Envole-toi vers tes amis !",
+          "id": "e1sykvwo50ub"
+        },
+        {
+          "n": 85,
+          "title": "Code DTE",
+          "id": "aw5tkn300ls5"
+        },
+        {
+          "n": 86,
+          "title": "Erza contre Erza",
+          "id": "h6ofeq44pkxm"
+        },
+        {
+          "n": 87,
+          "title": "Ce sont des vies !!!!",
+          "id": "e8edf7d6c43b"
+        },
+        {
+          "n": 88,
+          "title": "Pour la fierté du fleuve étoilé",
+          "id": "22v2r1jcgqn6"
+        },
+        {
+          "n": 89,
+          "title": "Le Harpon du dragon de l’apocalypse",
+          "id": "smmmf4nka1j3"
+        },
+        {
+          "n": 90,
+          "title": "Le Garçon de cette époque",
+          "id": "vtdql16yltd7"
+        },
+        {
+          "n": 91,
+          "title": "Les Sens du Dragon",
+          "id": "y60s77l7q8xv"
+        },
+        {
+          "n": 92,
+          "title": "Pour les vivants",
+          "id": "clbaj0eo7fh9"
+        },
+        {
+          "n": 93,
+          "title": "Je suis là, devant toi !",
+          "id": "8639ud26nj22"
+        },
+        {
+          "n": 94,
+          "title": "Bye bye Edolas",
+          "id": "a6ksbgl6fyet"
+        },
+        {
+          "n": 95,
+          "title": "Lisanna",
+          "id": "fb9toikvzb8y"
+        },
+        {
+          "n": 96,
+          "title": "Celui qui anéantit la vie",
+          "id": "cx2cr7qdghzi"
+        },
+        {
+          "n": 97,
+          "title": "Les meilleurs partenaires",
+          "id": "r5p8hnnwddgn"
+        },
+        {
+          "n": 98,
+          "title": "Qui a de la chance ?",
+          "id": "jmu3gdo8g22x"
+        },
+        {
+          "n": 99,
+          "title": "Natsu contre Gildarts",
+          "id": "vve954zxm4iv"
+        },
+        {
+          "n": 100,
+          "title": "Mest",
+          "id": "bke55xyy3ru3"
+        },
+        {
+          "n": 101,
+          "title": "Le mage noir",
+          "id": "rkg8mioeayt2"
+        },
+        {
+          "n": 102,
+          "title": "L’âme d’acier",
+          "id": "kqxxegyq6e70"
+        },
+        {
+          "n": 103,
+          "title": "Makarof à l’assaut",
+          "id": "slcc6l0xzlkb"
+        },
+        {
+          "n": 104,
+          "title": "Magie perdue",
+          "id": "5l3lmi6k93t0"
+        },
+        {
+          "n": 105,
+          "title": "Dragon de feu contre Dieu du feu",
+          "id": "gtu8ruin501l"
+        },
+        {
+          "n": 106,
+          "title": "Le monde de la grande magie",
+          "id": "yr9topew0jc2"
+        },
+        {
+          "n": 107,
+          "title": "L’arc de la matérialisation",
+          "id": "qcm31cevc844"
+        },
+        {
+          "n": 108,
+          "title": "La porte des humains",
+          "id": "oj8qh3cafnse"
+        },
+        {
+          "n": 109,
+          "title": "Lucy Fire",
+          "id": "tyt27qsad2ju"
+        },
+        {
+          "n": 110,
+          "title": "L’impasse du désespoir",
+          "id": "agl4x43l4yej"
+        },
+        {
+          "n": 111,
+          "title": "Les larmes d’amour et de vie",
+          "id": "rd5ym6bumqq3"
+        },
+        {
+          "n": 112,
+          "title": "Ce que je n’ai pas pu lui dire",
+          "id": "ph78u6uefepe"
+        },
+        {
+          "n": 113,
+          "title": "L’arbre de Tenrô",
+          "id": "tx65qoxxbof1"
+        },
+        {
+          "n": 114,
+          "title": "Erza contre Azuma",
+          "id": "mld9pkvkjikt"
+        },
+        {
+          "n": 115,
+          "title": "Fureur glaçante",
+          "id": "uq6t2tsn36i8"
+        },
+        {
+          "n": 116,
+          "title": "Le pouvoir de la vie",
+          "id": "6gu5ca7sa24u"
+        },
+        {
+          "n": 117,
+          "title": "Le grondement du tonnerre",
+          "id": "ichpegrq2m4w"
+        },
+        {
+          "n": 118,
+          "title": "L’homme sans symbole",
+          "id": "ag2at1mo834l"
+        },
+        {
+          "n": 119,
+          "title": "Les plus profondes abysses",
+          "id": "0isbtf9kx6c0"
+        },
+        {
+          "n": 120,
+          "title": "Le jour se lève sur l’île de Tenrô",
+          "id": "2qxf0tm3zcbs"
+        },
+        {
+          "n": 121,
+          "title": "Le droit d’aimer",
+          "id": "0lqthtfczk8z"
+        },
+        {
+          "n": 122,
+          "title": "Donnons-nous la main",
+          "id": "uvrwwk1zox4a"
+        },
+        {
+          "n": 123,
+          "title": "Fairy Tail, année X-791",
+          "id": "13tphsca3keq"
+        },
+        {
+          "n": 124,
+          "title": "Sept ans d’absence",
+          "id": "wknts5qzrq49"
+        },
+        {
+          "n": 125,
+          "title": "Le bal de la magie",
+          "id": "ih6bzefbgdua"
+        },
+        {
+          "n": 126,
+          "title": "Ketsupuri, le gang des pures crapules",
+          "id": "x0cxh3qidchz"
+        },
+        {
+          "n": 127,
+          "title": "La frayeur de Lucy l’invisible",
+          "id": "01bs9zrn8u89"
+        },
+        {
+          "n": 128,
+          "title": "Le souvenir d’un père",
+          "id": "0junmm43ok5l"
+        },
+        {
+          "n": 129,
+          "title": "Natsu contre Luxus ! Le duel des enragés !",
+          "id": "ucwogem7ypue"
+        },
+        {
+          "n": 130,
+          "title": "Lucy est traquée",
+          "id": "5e8drei3lqra"
+        },
+        {
+          "n": 131,
+          "title": "La fureur de la légion",
+          "id": "sfduy600j13b"
+        },
+        {
+          "n": 132,
+          "title": "La clé du ciel étoilé",
+          "id": "wjqvqp0e0j2k"
+        },
+        {
+          "n": 133,
+          "title": "Compagnons de voyage",
+          "id": "uql484ujnsix"
+        },
+        {
+          "n": 134,
+          "title": "La rhapsodie du labyrinthe",
+          "id": "dcihq8wzn6tw"
+        },
+        {
+          "n": 135,
+          "title": "Sur les traces du mythe",
+          "id": "78l8ajeyyk7w"
+        },
+        {
+          "n": 136,
+          "title": "Le retour du diable en personne",
+          "id": "j5k85v2f3tcl"
+        },
+        {
+          "n": 137,
+          "title": "Au-delà des prévisions",
+          "id": "kax5rj6612sj"
+        },
+        {
+          "n": 138,
+          "title": "Vers la guerre sainte",
+          "id": "enuv234vha4y"
+        },
+        {
+          "n": 139,
+          "title": "Lancement du compte à rebours !",
+          "id": "o2j09vy0x9eh"
+        },
+        {
+          "n": 140,
+          "title": "Voici Oracion Seis, nouvelle version !",
+          "id": "p20yn0id078g"
+        },
+        {
+          "n": 141,
+          "title": "À la poursuite de l’horloge infinie !",
+          "id": "af1dy419270h"
+        },
+        {
+          "n": 142,
+          "title": "Désordres de bataille",
+          "id": "sba03fm3yto7"
+        },
+        {
+          "n": 143,
+          "title": "Anti-Link",
+          "id": "w6xorot8v1rx"
+        },
+        {
+          "n": 144,
+          "title": "Le désespoir libéré",
+          "id": "ozkwwv3es3wq"
+        },
+        {
+          "n": 145,
+          "title": "Le cauchemar réel",
+          "id": "xzs3123d865t"
+        },
+        {
+          "n": 146,
+          "title": "La spirale du temps",
+          "id": "wr7wp88gkva1"
+        },
+        {
+          "n": 147,
+          "title": "En route vers le château infini !",
+          "id": "gk0qii1f47w0"
+        },
+        {
+          "n": 148,
+          "title": "Les larmes d’un ange",
+          "id": "aukxlnbzq0ft"
+        },
+        {
+          "n": 149,
+          "title": "J’entends la voix de mes amis",
+          "id": "8mb5t1tk5xdd"
+        },
+        {
+          "n": 150,
+          "title": "Lucy et Michelle",
+          "id": "bgd85i7p5kcx"
+        },
+        {
+          "n": 151,
+          "title": "Dents de Sabre ! Sabertooth !",
+          "id": "pdxtfngtyo51"
+        },
+        {
+          "n": 152,
+          "title": "Nous, on vise le top !",
+          "id": "y2d3anozaohz"
+        },
+        {
+          "n": 153,
+          "title": "La chanson des étoiles !",
+          "id": "psompz7nuqre"
+        },
+        {
+          "n": 154,
+          "title": "Juste le temps de se croiser",
+          "id": "fw126cy4pdhs"
+        },
+        {
+          "n": 155,
+          "title": "Crocus, la cité fleurie !",
+          "id": "041go89uil6r"
+        },
+        {
+          "n": 156,
+          "title": "Sky Labyrinth",
+          "id": "ix3giqhxulxm"
+        },
+        {
+          "n": 157,
+          "title": "Nouvelle guilde",
+          "id": "8c6dmkwlor7w"
+        },
+        {
+          "n": 158,
+          "title": "Pluie d’étoiles",
+          "id": "sb4atm3xx2lq"
+        },
+        {
+          "n": 159,
+          "title": "Lucy contre Flare",
+          "id": "x6dywqkpcbej"
+        },
+        {
+          "n": 160,
+          "title": "Mauvais présage",
+          "id": "xy8l7slw4lws"
+        },
+        {
+          "n": 161,
+          "title": "Les chariots",
+          "id": "qelbmdoxrc47"
+        },
+        {
+          "n": 162,
+          "title": "Elfman contre Bacchus",
+          "id": "vceylxqeufnr"
+        },
+        {
+          "n": 163,
+          "title": "Mirajane contre Jenny",
+          "id": "j5mfw049w7b0"
+        },
+        {
+          "n": 164,
+          "title": "Kagura contre Yukino",
+          "id": "w4mx8lxuhr0q"
+        },
+        {
+          "n": 165,
+          "title": "La rancœur enveloppée dans les voiles de la nuit",
+          "id": "t8ozohn7cadx"
+        },
+        {
+          "n": 166,
+          "title": "Pandémonium !",
+          "id": "bxb4cu48ay2j"
+        },
+        {
+          "n": 167,
+          "title": "100 contre 1 !",
+          "id": "xj22et66b98e"
+        },
+        {
+          "n": 168,
+          "title": "Luxus contre Alexei",
+          "id": "4bhbjqnsg4rr"
+        },
+        {
+          "n": 169,
+          "title": "Wendy contre Cherrya",
+          "id": "es9qmhj7amhu"
+        },
+        {
+          "n": 170,
+          "title": "Les petits poings",
+          "id": "afjzaezwz5jr"
+        },
+        {
+          "n": 171,
+          "title": "Bataille navale !",
+          "id": "zavijbt4on21"
+        },
+        {
+          "n": 172,
+          "title": "Le parfum que je te dédie",
+          "id": "se2x05oceidy"
+        },
+        {
+          "n": 173,
+          "title": "La bataille des chasseurs de dragons",
+          "id": "7adxkp8la7l6"
+        },
+        {
+          "n": 174,
+          "title": "Quatre dragons !",
+          "id": "0z35atygijdi"
+        },
+        {
+          "n": 175,
+          "title": "Natsu contre les dragons jumeaux",
+          "id": "cy6h2df43hlc"
+        },
+        {
+          "n": 176,
+          "title": "Le roi des dragons",
+          "id": "716nhg5ytvop"
+        },
+        {
+          "n": 177,
+          "title": "Le projet Éclipse",
+          "id": "o9x3rhqg37y4"
+        },
+        {
+          "n": 178,
+          "title": "La Stratège des fées",
+          "id": "o5hj7fj2gqma"
+        },
+        {
+          "n": 179,
+          "title": "Grey vs. Rufus",
+          "id": "qa9akeufzz0k"
+        },
+        {
+          "n": 180,
+          "title": "L’ordre des Loups affamés",
+          "id": "z2ei6xjzcupk"
+        },
+        {
+          "n": 181,
+          "title": "Fairy Tail vs. les bourreaux",
+          "id": "88qlxdpd7tih"
+        },
+        {
+          "n": 182,
+          "title": "Une mer de lave",
+          "id": "7agjy10k9270"
+        },
+        {
+          "n": 183,
+          "title": "Le pays où nous sommes",
+          "id": "41t0tyea9g8b"
+        },
+        {
+          "n": 184,
+          "title": "Le Pays d’encore un lendemain",
+          "id": "vjpcm96nmt8s"
+        },
+        {
+          "n": 185,
+          "title": "Erza vs. Kagura",
+          "id": "0r5fkpct0ygo"
+        },
+        {
+          "n": 186,
+          "title": "Un futur lancé vers le désespoir",
+          "id": "kim5b7yayplt"
+        },
+        {
+          "n": 187,
+          "title": "La grenouille",
+          "id": "fkcjw5vvarnm"
+        },
+        {
+          "n": 188,
+          "title": "Furieux éclairs !",
+          "id": "xbgoui767rg7"
+        },
+        {
+          "n": 189,
+          "title": "Gloria",
+          "id": "fdjo64ido2ig"
+        },
+        {
+          "n": 190,
+          "title": "Celle qui fermera la porte",
+          "id": "leaszooyhohf"
+        },
+        {
+          "n": 191,
+          "title": "Natsu vs. Rogue",
+          "id": "hi9zp475irge"
+        },
+        {
+          "n": 192,
+          "title": "Pour deux",
+          "id": "e9cwm342r95m"
+        },
+        {
+          "n": 193,
+          "title": "Sept dragons",
+          "id": "8mfauile47v5"
+        },
+        {
+          "n": 194,
+          "title": "La magie de Jilkonis",
+          "id": "x7su9er2gyfu"
+        },
+        {
+          "n": 195,
+          "title": "Humains vs humains, dragons vs dragons, humains vs dragons",
+          "id": "1malkau8ay4b"
+        },
+        {
+          "n": 196,
+          "title": "Crime et sacrifice",
+          "id": "jpm5xpbkig1o"
+        },
+        {
+          "n": 197,
+          "title": "Temps de vie",
+          "id": "k900vxl266uh"
+        },
+        {
+          "n": 198,
+          "title": "Prairie d’or",
+          "id": "3isc3znndvpv"
+        },
+        {
+          "n": 199,
+          "title": "Le grand bal",
+          "id": "4k7rk6nnzwkb"
+        },
+        {
+          "n": 200,
+          "title": "Gouttes de temps",
+          "id": "ef43ek10u14i"
+        },
+        {
+          "n": 201,
+          "title": "Cadeau",
+          "id": "snwq8zoijyzi"
+        },
+        {
+          "n": 202,
+          "title": "Bienvenue chez toi Frosh !",
+          "id": "y660hki1j3fd"
+        },
+        {
+          "n": 203,
+          "title": "Moulin Rouge",
+          "id": "q8rjkgwrbdk1"
+        },
+        {
+          "n": 204,
+          "title": "Tout pour vous satisfaire !",
+          "id": "ov7c54d52dbx"
+        },
+        {
+          "n": 205,
+          "title": "Le signal de la révolte",
+          "id": "gqvnvut1xu78"
+        },
+        {
+          "n": 206,
+          "title": "Panique à la bibliothèque",
+          "id": "tdv07v7kutjz"
+        },
+        {
+          "n": 207,
+          "title": "Jade se lève !",
+          "id": "4l36odzwpnlt"
+        },
+        {
+          "n": 208,
+          "title": "Astral Spiritus",
+          "id": "hn6amhn7rkjc"
+        },
+        {
+          "n": 209,
+          "title": "Wendy vs Aquarius. Jouons au parc d’attractions !",
+          "id": "q6fplkori7og"
+        },
+        {
+          "n": 210,
+          "title": "Cartes de la guilde VS Cartes des esprits",
+          "id": "blikt46l0hbl"
+        },
+        {
+          "n": 211,
+          "title": "Grey VS Cancer Dance Battle !",
+          "id": "vbsv8k5glgqe"
+        },
+        {
+          "n": 212,
+          "title": "Jubia vs Aries, combat mortel dans le désert !",
+          "id": "cyly1qamhuzt"
+        },
+        {
+          "n": 213,
+          "title": "Erza vs Sagittarius, la joute finale",
+          "id": "o19fx6q6odsy"
+        },
+        {
+          "n": 214,
+          "title": "Natsu vs Leo",
+          "id": "nywp85hinwku"
+        },
+        {
+          "n": 215,
+          "title": "Ophiuchus le Serpentaire",
+          "id": "exg5ulahe2b3"
+        },
+        {
+          "n": 216,
+          "title": "Des étoiles filantes plein le ciel",
+          "id": "xgn6s3b4crnu"
+        },
+        {
+          "n": 217,
+          "title": "La bête céleste",
+          "id": "35tnppiofw90"
+        },
+        {
+          "n": 218,
+          "title": "Croire",
+          "id": "2gt38hoxb3o8"
+        },
+        {
+          "n": 219,
+          "title": "Ce qui tisse la sincérité",
+          "id": "adj28mrj3288"
+        },
+        {
+          "n": 220,
+          "title": "413 jours",
+          "id": "258op5whqbr1"
+        },
+        {
+          "n": 221,
+          "title": "Le Dédale Blanc",
+          "id": "7vfaimv74eg6"
+        },
+        {
+          "n": 222,
+          "title": "Transformation !",
+          "id": "opx8hx9gl7kb"
+        },
+        {
+          "n": 223,
+          "title": "Kemokemo est arrivé !",
+          "id": "h0uyh6t24ze3"
+        },
+        {
+          "n": 224,
+          "title": "L’endroit d’où tu viens",
+          "id": "vghc7ej150un"
+        },
+        {
+          "n": 225,
+          "title": "L’homme de la foudre",
+          "id": "9ytntkslo662"
+        },
+        {
+          "n": 226,
+          "title": "Fairy Tail of the Dead Bôôôôôôôô",
+          "id": "5520s74gt2k8"
+        },
+        {
+          "n": 227,
+          "title": "Le matin d’une nouvelle aventure",
+          "id": "qjeyklxdwdw6"
+        },
+        {
+          "n": 228,
+          "title": "Mages vs. chasseurs",
+          "id": "a4b9p5ggx75r"
+        },
+        {
+          "n": 229,
+          "title": "La loi de la régression",
+          "id": "h73df4li6r7k"
+        },
+        {
+          "n": 230,
+          "title": "Le retour du démon",
+          "id": "hvmeh7afnav0"
+        },
+        {
+          "n": 231,
+          "title": "Grey vs Doriate",
+          "id": "xl95h11hi1kw"
+        },
+        {
+          "n": 232,
+          "title": "La voix de la flamme",
+          "id": "xz23932s8jc7"
+        },
+        {
+          "n": 233,
+          "title": "La chanson des fées",
+          "id": "hwignff0u4nl"
+        },
+        {
+          "n": 234,
+          "title": "Les neuf portes démoniaques",
+          "id": "04ku2kjzs5qu"
+        },
+        {
+          "n": 235,
+          "title": "Fée vs Enfer",
+          "id": "ln46sshkq9e0"
+        },
+        {
+          "n": 236,
+          "title": "L’héritage blanc",
+          "id": "4st9jk9b36mq"
+        },
+        {
+          "n": 237,
+          "title": "Natsu vs Jackal",
+          "id": "l27u0wvdtz6z"
+        },
+        {
+          "n": 238,
+          "title": "Immoralité et criminels",
+          "id": "47vin9fonl6a"
+        },
+        {
+          "n": 239,
+          "title": "Jellal vs Oracion Seis",
+          "id": "icxwxyxf4iaf"
+        },
+        {
+          "n": 240,
+          "title": "Là où les prières arrivent",
+          "id": "z6ximvqr0b0m"
+        },
+        {
+          "n": 241,
+          "title": "Réincarnation en démon",
+          "id": "2tqaj8rahkay"
+        },
+        {
+          "n": 242,
+          "title": "Tuer ou laisser vivre",
+          "id": "o0kst1i2zpmw"
+        },
+        {
+          "n": 243,
+          "title": "Wendy vs Ezer",
+          "id": "oc50u3dnsc5g"
+        },
+        {
+          "n": 244,
+          "title": "Amies pour toujours",
+          "id": "urf027d0jaib"
+        },
+        {
+          "n": 245,
+          "title": "Hell’s Core",
+          "id": "1rvphmlvwjmv"
+        },
+        {
+          "n": 246,
+          "title": "Le roi des Enfers",
+          "id": "xk94ebcgva2z"
+        },
+        {
+          "n": 247,
+          "title": "Alegria",
+          "id": "559kejhokz4e"
+        },
+        {
+          "n": 248,
+          "title": "L’attaque stellaire",
+          "id": "enmi53gsj8r8"
+        },
+        {
+          "n": 249,
+          "title": "Roi des esprits vs Roi des enfers",
+          "id": "r4qbz02zhi19"
+        },
+        {
+          "n": 250,
+          "title": "Erza vs Minerva",
+          "id": "waidx9jq9dzq"
+        },
+        {
+          "n": 251,
+          "title": "L’histoire d’un gamin",
+          "id": "mdnix5rn9oc1"
+        },
+        {
+          "n": 252,
+          "title": "Grey vs Silver",
+          "id": "zi0131pzwsgt"
+        },
+        {
+          "n": 253,
+          "title": "La transmission de Silver",
+          "id": "5ak84q69civc"
+        },
+        {
+          "n": 254,
+          "title": "Air",
+          "id": "70x1wiivnrcf"
+        },
+        {
+          "n": 255,
+          "title": "Acier",
+          "id": "ed9a2ldgkovs"
+        },
+        {
+          "n": 256,
+          "title": "Le dernier duel",
+          "id": "dm3uubg06jm4"
+        },
+        {
+          "n": 257,
+          "title": "Les ailes du désespoir",
+          "id": "opexwx72lkyv"
+        },
+        {
+          "n": 258,
+          "title": "Poing d’acier du dragon de feu",
+          "id": "9lg1uqgeksrn"
+        },
+        {
+          "n": 259,
+          "title": "00:00",
+          "id": "b6wagp9w4eqg"
+        },
+        {
+          "n": 260,
+          "title": "La fille dans le cristal",
+          "id": "q3ogx40zq5p7"
+        },
+        {
+          "n": 261,
+          "title": "Le démon absolu",
+          "id": "oewiao4puelw"
+        },
+        {
+          "n": 262,
+          "title": "Memento Mori",
+          "id": "lxsumivlosa8"
+        },
+        {
+          "n": 263,
+          "title": "Vol vers Ishgar",
+          "id": "6eexnxdj7gxv"
+        },
+        {
+          "n": 264,
+          "title": "Gouttes de feu",
+          "id": "2q1zekbfzr3t"
+        },
+        {
+          "n": 265,
+          "title": "La force de vivre",
+          "id": "ak3jskv5e6ye"
+        },
+        {
+          "n": 266,
+          "title": "Des fées dans le cœur",
+          "id": "h2uucaefdngq"
+        },
+        {
+          "n": 267,
+          "title": "L’aventure commence",
+          "id": "3fz0tw4h62ji"
+        },
+        {
+          "n": 268,
+          "title": "Chasse au trésor",
+          "id": "z1rpw2qtr0fo"
+        },
+        {
+          "n": 269,
+          "title": "Danse avec la lame",
+          "id": "jwxovbuevu7t"
+        },
+        {
+          "n": 270,
+          "title": "Un lac au clair de lune",
+          "id": "8zdyokqcegdv"
+        },
+        {
+          "n": 271,
+          "title": "Blue Skull",
+          "id": "05zw4zomv21t"
+        },
+        {
+          "n": 272,
+          "title": "Le passeur de magie",
+          "id": "2562z5fgvc7f"
+        },
+        {
+          "n": 273,
+          "title": "Trésor",
+          "id": "v0i7pkojz311"
+        },
+        {
+          "n": 274,
+          "title": "Law",
+          "id": "h8faricbaamz"
+        },
+        {
+          "n": 275,
+          "title": "L’aventure éternelle",
+          "id": "6zz6fp0safz8"
+        },
+        {
+          "n": 276,
+          "title": "Challenger",
+          "id": "0q3tf2u003b3"
+        },
+        {
+          "n": 277,
+          "title": "Message de Feu",
+          "id": "rw4hld4p88h9"
+        },
+        {
+          "n": 278,
+          "title": "Le Thanksgiving de Lamia Scale",
+          "id": "x3qgwiu9b5zr"
+        },
+        {
+          "n": 279,
+          "title": "Parce qu’il l’aime",
+          "id": "gc634u5tmsbm"
+        },
+        {
+          "n": 280,
+          "title": "Avatar",
+          "id": "1ygedrkq8zxk"
+        },
+        {
+          "n": 281,
+          "title": "Âpre combat en sous-sol",
+          "id": "07pmx496dmrb"
+        },
+        {
+          "n": 282,
+          "title": "Le plan de Purification",
+          "id": "9uyton3g0qr2"
+        },
+        {
+          "n": 283,
+          "title": "Ikusatsunagi",
+          "id": "33kcoa5fpbxs"
+        },
+        {
+          "n": 284,
+          "title": "Souvenirs",
+          "id": "o99jwtynym2w"
+        },
+        {
+          "n": 285,
+          "title": "Le Septième Maître de la guilde",
+          "id": "o6v47im2qf7z"
+        },
+        {
+          "n": 286,
+          "title": "Les lois de l’espace",
+          "id": "bhveavtw1oph"
+        },
+        {
+          "n": 287,
+          "title": "L’Empereur Spriggan",
+          "id": "7qm9gqs0iamj"
+        },
+        {
+          "n": 288,
+          "title": "La terre abandonnée par les Dieux",
+          "id": "hbee7f9zfg9p"
+        },
+        {
+          "n": 289,
+          "title": "Mavis et Zeleph",
+          "id": "zqp6q3fbzm0e"
+        },
+        {
+          "n": 290,
+          "title": "Fairy Heart",
+          "id": "3wb1az1ohfkq"
+        },
+        {
+          "n": 291,
+          "title": "La défense de Magnolia",
+          "id": "gwwntw16mqnr"
+        },
+        {
+          "n": 292,
+          "title": "Étoile du matin",
+          "id": "z16p5iuh08sa"
+        },
+        {
+          "n": 293,
+          "title": "Pour qui est ce parfum ?",
+          "id": "2iezuqv1n645"
+        },
+        {
+          "n": 294,
+          "title": "Natsu vs Zeleph",
+          "id": "mkjxps3xu2n2"
+        },
+        {
+          "n": 295,
+          "title": "400 ans d’attente",
+          "id": "1lvhzztasdgp"
+        },
+        {
+          "n": 296,
+          "title": "Ce que je veux faire",
+          "id": "mglexswl784d"
+        },
+        {
+          "n": 297,
+          "title": "Jusqu’à la fin de la bataille",
+          "id": "a40lededybtm"
+        },
+        {
+          "n": 298,
+          "title": "Dans l’immobilité du temps",
+          "id": "p9az3zg5moxu"
+        },
+        {
+          "n": 299,
+          "title": "Natsu de retour !",
+          "id": "vdrqce4sud7h"
+        },
+        {
+          "n": 300,
+          "title": "Historias des morts",
+          "id": "qcxtojibm923"
+        },
+        {
+          "n": 301,
+          "title": "Détermination",
+          "id": "zsju4955qgav"
+        },
+        {
+          "n": 302,
+          "title": "Le troisième sceau",
+          "id": "ponp40i8faxe"
+        },
+        {
+          "n": 303,
+          "title": "Tous les deux, à jamais !",
+          "id": "gvbnc0jbwcm8"
+        },
+        {
+          "n": 304,
+          "title": "Fairy Tail Zero",
+          "id": "1yw39lbgf6cq"
+        },
+        {
+          "n": 305,
+          "title": "Dragnir le blanc",
+          "id": "a9ylq3rc9r10"
+        },
+        {
+          "n": 306,
+          "title": "Le mage de l’hiver",
+          "id": "qjanukjgdyp7"
+        },
+        {
+          "n": 307,
+          "title": "Grey et Jubia",
+          "id": "csll0y7211ns"
+        },
+        {
+          "n": 308,
+          "title": "Le plus puissant démon des livres de Zeleph",
+          "id": "slcxhraa6xnv"
+        },
+        {
+          "n": 309,
+          "title": "Les liens brisés",
+          "id": "ixnfxjpr0op4"
+        },
+        {
+          "n": 310,
+          "title": "Plaisir et douleur",
+          "id": "198ewvj728i4"
+        },
+        {
+          "n": 311,
+          "title": "L’esprit de Natsu",
+          "id": "721nkena2d5m"
+        },
+        {
+          "n": 312,
+          "title": "Sting, le Dragon blanc de l’ombre",
+          "id": "rebxyfuseaah"
+        },
+        {
+          "n": 313,
+          "title": "Graine de Dragon",
+          "id": "43pmc5j6cmka"
+        },
+        {
+          "n": 314,
+          "title": "Enchantement suprême",
+          "id": "ecx3luvh1982"
+        },
+        {
+          "n": 315,
+          "title": "Dragon ou Démon",
+          "id": "lv9nb0bn6cyz"
+        },
+        {
+          "n": 316,
+          "title": "L’atout de Grey",
+          "id": "evwa1zq1g3ds"
+        },
+        {
+          "n": 317,
+          "title": "Avenir sombre",
+          "id": "xfsjkdhcyxt9"
+        },
+        {
+          "n": 318,
+          "title": "Je m’appelle…",
+          "id": "12bm03vtjsrv"
+        },
+        {
+          "n": 319,
+          "title": "Sentiments",
+          "id": "1qn6tsme36rz"
+        },
+        {
+          "n": 320,
+          "title": "Néo Eclipse",
+          "id": "09ybabz1gbab"
+        },
+        {
+          "n": 321,
+          "title": "Je ne vois plus d’amour",
+          "id": "f0g5c17ef09j"
+        },
+        {
+          "n": 322,
+          "title": "La porte des promesses",
+          "id": "1810eq7xjjpk"
+        },
+        {
+          "n": 323,
+          "title": "Les flammes du dragon déchaîné",
+          "id": "bupnt4simmsp"
+        },
+        {
+          "n": 324,
+          "title": "Lorsque les flammes s’éteignent",
+          "id": "wa8l5jlbltp9"
+        },
+        {
+          "n": 325,
+          "title": "Le monde s’écroule",
+          "id": "ber5r1jtervo"
+        },
+        {
+          "n": 326,
+          "title": "Le sort de l’espoir",
+          "id": "nck8cnakvzzz"
+        },
+        {
+          "n": 327,
+          "title": "Liés par le cœur",
+          "id": "e7szxo8xxsg8"
+        },
+        {
+          "n": 328,
+          "title": "Des compagnons irremplaçables",
+          "id": "hy2rj5rutaru"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "100 Years Quest Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Une rencontre marquée par le destin",
+          "id": "twrnh7yfq9ks"
+        },
+        {
+          "n": 2,
+          "title": "Mission spéciale. Prends garde à l'être aimé !",
+          "id": "hx4j5gv1vfke"
+        },
+        {
+          "n": 3,
+          "title": "Love & Lucky !",
+          "id": "gdpetaasar6u"
+        },
+        {
+          "n": 4,
+          "title": "Équipe de la coalition, parée !",
+          "id": "mle1cl3rlvc0"
+        },
+        {
+          "n": 5,
+          "title": "Oracion Seis entre en scène !",
+          "id": "vi9yo1kiyeuu"
+        },
+        {
+          "n": 6,
+          "title": "La prêtresse céleste",
+          "id": "k5umqymftw20"
+        },
+        {
+          "n": 7,
+          "title": "La Fillette et le Fantôme",
+          "id": "btsnzbld1swp"
+        },
+        {
+          "n": 8,
+          "title": "Le Grand Prix de la Mort",
+          "id": "l5e0mqs3zgw9"
+        },
+        {
+          "n": 9,
+          "title": "Les Ténèbres",
+          "id": "3rrl0usj8j1e"
+        },
+        {
+          "n": 10,
+          "title": "Duel d’esprits",
+          "id": "ctgp8enhbmgn"
+        },
+        {
+          "n": 11,
+          "title": "L'ancien Jellal",
+          "id": "lj3culf8nfaq"
+        },
+        {
+          "n": 12,
+          "title": "La marche de la destruction",
+          "id": "dpwa4y7cpp0w"
+        },
+        {
+          "n": 13,
+          "title": "Un combat aérien : Natsu contre Cobra !",
+          "id": "58889bl9s0ta"
+        },
+        {
+          "n": 14,
+          "title": "Jéra, le mage sacré",
+          "id": "f1k405tstagb"
+        },
+        {
+          "n": 15,
+          "title": "Tes paroles, plus que tout",
+          "id": "e9671voyailr"
+        },
+        {
+          "n": 16,
+          "title": "Zéro",
+          "id": "iz1k4xbayxs7"
+        },
+        {
+          "n": 17,
+          "title": "De la part de Pégase",
+          "id": "yhvlil4aqwul"
+        },
+        {
+          "n": 18,
+          "title": "La force des sentiments",
+          "id": "5ioz85zax86f"
+        },
+        {
+          "n": 19,
+          "title": "Je suis avec toi",
+          "id": "10osljzginhk"
+        },
+        {
+          "n": 20,
+          "title": "Une guilde fondée pour une personne",
+          "id": "ij3khxtecr00"
+        },
+        {
+          "n": 21,
+          "title": "L’appel du dragon",
+          "id": "laxglcjpjy86"
+        },
+        {
+          "n": 22,
+          "title": "Natsu contre Grey !",
+          "id": "1q4wahu84xmd"
+        },
+        {
+          "n": 23,
+          "title": "L’amitié est plus forte que la mort",
+          "id": "7jpgncah2r0c"
+        },
+        {
+          "n": 24,
+          "title": "Les mages de Fairy Tail",
+          "id": "a3fyyh8y74lj"
+        },
+        {
+          "n": 25,
+          "title": "Les cerisiers arc-en-ciel",
+          "id": "c009ziy1me4y"
+        }
+      ]
+    }
+  }
+}

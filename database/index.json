@@ -1,5 +1,5 @@
 [
-{"id":"one-punch-man","title":"One Punch Man","poster":"https://i.imgur.com/hP0GVNo.jpeg","rating":"8.2","year":"2015","status":"cours","statusLabel":"En cours","genres":["Action","Comédie","Science","fiction","Seinen","Surnaturel","Aventure","Fantastique"]},
+{"id":"one-punch-man","title":"One Punch Man","poster":"https://i.imgur.com/Ix5YdEe.jpeg","rating":"8.2","year":"2015","status":"cours","statusLabel":"En cours","genres":["Action","Comédie","Science","fiction","Seinen","Surnaturel","Aventure","Fantastique"]},
 {"id":"naruto","title":"Naruto","poster":"https://i.imgur.com/P7cVXE8.jpeg","rating":"8.0","year":"2002","status":"termine","statusLabel":"Terminé","genres":["Action","Aventure","Comédie","Drame","Fantasy","Shônen","Surnaturel","Tournois","Kaï","Science","Fiction","Fantastique"]},
 {"id":"naruto-shippuden","title":"Naruto Shippuden","poster":"https://i.imgur.com/qF3x25u.jpeg","rating":"8.2","year":"2007","status":"termine","statusLabel":"Terminé","genres":["Action","Aventure","Comédie","Drame","Shônen","Surnaturel","Kaï","Science","Fiction","Fantastique"]},
 {"id":"boruto","title":"Boruto","poster":"https://i.imgur.com/YpzD27Y.jpeg","rating":"7.0","year":"2017","status":"termine","statusLabel":"Terminé","genres":["Action","Aventure","Comédie","Drame","Shônen","Surnaturel","Kaï"]},

@@ -1,9 +1,9 @@
 {
   "id": "hajime-no-ippo",
   "title": "Hajime no Ippo",
-  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19647-cIy7ShTL6e9h.jpg",
-  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/19647-yJfiQb4GchCg.jpg",
-  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19647-cIy7ShTL6e9h.jpg",
+  "poster": "https://i.imgur.com/oKRIt2a.jpeg",
+  "banner": "https://i.imgur.com/7QDc7Sz.jpeg",
+  "bannerFallback": "https://i.imgur.com/7QDc7Sz.jpeg",
   "description": "Ippo Makunouchi est un jeune garçon de 16 ans tout ce qu'il y a de plus ordinaire. Il passe son temps libre à aider sa mère à tenir son affaire de pêche, de ce fait il n'a pas d'amis. Un jour, alors qu'il se fait maltraiter par une bande de jeunes plus âgés que lui, Takamura, un des plus grands boxeurs lui vient en aide et l'emmène dans son club de boxe pour le soigner.\nUne fois remis sur pieds, Ippo s'essaye à la boxe suite à une proposition de Takamura et il se révèle posséder une force incroyable. Takamura, subjugué par la force du jeune garçon lui propose de venir s'entraîner dans son club. Ippo découvre alors en lui une véritable passion pour la boxe. De plus, il est extrêmement heureux d'être aux cotés de Takamura qu'il voit comme son modèle. C'est alors le début d'une longue aventure semée d'embûches pour le jeune Ippo.",
   "genres": [
     "Action",
@@ -60,7 +60,7 @@
       "episodes": [
         {
           "n": 1,
-          "title": "The First Step (Le premier pas)",
+          "title": "Le premier pas",
           "id": "xs3e4391oyat"
         },
         {
@@ -75,12 +75,12 @@
         },
         {
           "n": 4,
-          "title": "simulé",
+          "title": "Un combat simulé",
           "id": "wizqgo2zk5rb"
         },
         {
           "n": 5,
-          "title": "3 mois avant la mise en rayon",
+          "title": "Trois mois avant le grand combat",
           "id": "vt6hd7n5obk4"
         },
         {
@@ -90,7 +90,7 @@
         },
         {
           "n": 7,
-          "title": "La force destructrice d’1 cm",
+          "title": "La force destructrice d’1 cm",
           "id": "ep13fllkh6xq"
         },
         {
@@ -100,12 +100,12 @@
         },
         {
           "n": 9,
-          "title": "Permis de conduire de classe C",
+          "title": "Permis de conduire de classe C",
           "id": "bezal272a57w"
         },
         {
           "n": 10,
-          "title": "Match de début !",
+          "title": "Match de début !",
           "id": "vub4e7ju5xpz"
         },
         {
@@ -125,7 +125,7 @@
         },
         {
           "n": 14,
-          "title": "Bras puissants ! Crochets contre uppercuts !",
+          "title": "Bras puissants ! Crochets contre uppercuts !",
           "id": "tdx3xgdp4vip"
         },
         {
@@ -145,12 +145,12 @@
         },
         {
           "n": 18,
-          "title": "Clinch",
+          "title": "Le corps-à-corps",
           "id": "tyy6iqbo7lbn"
         },
         {
           "n": 19,
-          "title": "KO Dream",
+          "title": "Le rêve du K.-O.",
           "id": "fgev0n5o460k"
         },
         {
@@ -215,12 +215,12 @@
         },
         {
           "n": 32,
-          "title": "Lancez votre droite !",
+          "title": "Lancez votre droite !",
           "id": "yzkidfl9esa9"
         },
         {
           "n": 33,
-          "title": "Smash Force",
+          "title": "La puissance du Smash",
           "id": "kqfm6188zu5p"
         },
         {
@@ -245,7 +245,7 @@
         },
         {
           "n": 38,
-          "title": "Les bombes Sexuelles de l'année",
+          "title": "Les belles de l'année",
           "id": "rmedmlvrzcpg"
         },
         {
@@ -270,7 +270,7 @@
         },
         {
           "n": 43,
-          "title": "La Rapidité",
+          "title": "La vitesse",
           "id": "6q0vgblmvtpj"
         },
         {
@@ -310,12 +310,12 @@
         },
         {
           "n": 51,
-          "title": "Date du groupe",
+          "title": "Le rendez-vous du groupe",
           "id": "wbj0uaefv9ld"
         },
         {
           "n": 52,
-          "title": "Challengeur",
+          "title": "Le challenger",
           "id": "mi8uxc8nta9y"
         },
         {
@@ -370,7 +370,7 @@
         },
         {
           "n": 63,
-          "title": "Burning Youth",
+          "title": "Une jeunesse ardente",
           "id": "hu50nat8jj7m"
         },
         {
@@ -415,7 +415,7 @@
         },
         {
           "n": 72,
-          "title": "Lollapalooza",
+          "title": "Le grand affrontement",
           "id": "uelcgvaz49dy"
         },
         {
@@ -425,12 +425,12 @@
         },
         {
           "n": 74,
-          "title": "erreur",
+          "title": "Une erreur",
           "id": "hvxmehnudklb"
         },
         {
           "n": 75,
-          "title": "VOUS AVEZ PRIS&#10;L'ÉTAPE SUIVANTE",
+          "title": "Vous avez franchi une nouvelle étape",
           "id": "osp8rtqx6eor"
         },
         {
@@ -446,132 +446,132 @@
       "episodes": [
         {
           "n": 1,
-          "title": "The New Step",
+          "title": "La nouvelle étape",
           "id": "ggd4yml6mn0u"
         },
         {
           "n": 2,
-          "title": "Bloody Cross",
+          "title": "La croix sanglante",
           "id": "ouruir33w6wy"
         },
         {
           "n": 3,
-          "title": "To a Promise",
+          "title": "Vers une promesse",
           "id": "yx6dxl13cshg"
         },
         {
           "n": 4,
-          "title": "Towards The World",
+          "title": "En route vers le monde",
           "id": "q7bgw9ku0n33"
         },
         {
           "n": 5,
-          "title": "The Strength of the World",
+          "title": "La force du monde",
           "id": "fxze314mnx0j"
         },
         {
           "n": 6,
-          "title": "A Figure to Chase After",
+          "title": "Un modèle à suivre",
           "id": "k9wdmjre1sr3"
         },
         {
           "n": 7,
-          "title": "The Advent of the Devil",
+          "title": "L'arrivée du démon",
           "id": "nw45m4y8s9ta"
         },
         {
           "n": 8,
-          "title": "Spirit For One Last Attack",
+          "title": "L'esprit pour une dernière attaque",
           "id": "8bb4jchyx1hp"
         },
         {
           "n": 9,
-          "title": "Inheritance Qualifications",
+          "title": "Les qualités requises pour hériter",
           "id": "mgxfcq1gw6n3"
         },
         {
           "n": 10,
-          "title": "Biting Dog",
+          "title": "Le chien mordant",
           "id": "8l6qs2tjcvlh"
         },
         {
           "n": 11,
-          "title": "Ippo vs. Hammer Nao",
+          "title": "Ippo contre Hammer Nao",
           "id": "b16r2i2tcohs"
         },
         {
           "n": 12,
-          "title": "Requirements For A Pro",
+          "title": "Les conditions pour devenir professionnel",
           "id": "k38offbejini"
         },
         {
           "n": 13,
-          "title": "Ippo At The Beach 2",
+          "title": "Ippo à la plage, deuxième partie",
           "id": "0lmnp3xq4wna"
         },
         {
           "n": 14,
-          "title": "Two Spars",
+          "title": "Deux combats d'entraînement",
           "id": "t0iz6pwdp3da"
         },
         {
           "n": 15,
-          "title": "Itagaki`s Debut Fight!",
+          "title": "Le premier combat d'Itagaki !",
           "id": "3513a6bf5stc"
         },
         {
           "n": 16,
-          "title": "The Two Hawks",
+          "title": "Les deux faucons",
           "id": "fyxqy9uthpw7"
         },
         {
           "n": 17,
-          "title": "Wild Kid",
+          "title": "L'enfant sauvage",
           "id": "4w0pmo8fmh7u"
         },
         {
           "n": 18,
-          "title": "Extreme Weight Control",
+          "title": "Un contrôle du poids extrême",
           "id": "fibs0fu7tagn"
         },
         {
           "n": 19,
-          "title": "Critical Situation",
+          "title": "Situation critique",
           "id": "5tghejk0qqua"
         },
         {
           "n": 20,
-          "title": "Junior Middleweight World Title Match",
+          "title": "Le championnat du monde des poids moyens juniors",
           "id": "rhzpuqyy2caw"
         },
         {
           "n": 21,
-          "title": "Battle of Hawk",
+          "title": "Le combat du Faucon",
           "id": "33qmegrlncp4"
         },
         {
           "n": 22,
-          "title": "Brawl",
+          "title": "La bagarre",
           "id": "1y158sx6n77q"
         },
         {
           "n": 23,
-          "title": "Supporting Hand",
+          "title": "Un soutien précieux",
           "id": "s0f7weektvr5"
         },
         {
           "n": 24,
-          "title": "The King",
+          "title": "Le Roi",
           "id": "jsu7fv1s61me"
         },
         {
           "n": 25,
-          "title": "Please Accept This Bronze Statue",
+          "title": "Accepte cette statue de bronze, s'il te plaît",
           "id": "fxsnnsiuzrf5"
         },
         {
           "n": 26,
-          "title": "New Challenger",
+          "title": "Nouveau challenger",
           "id": "8aq70o7qvpkw"
         }
       ]
@@ -582,127 +582,127 @@
       "episodes": [
         {
           "n": 1,
-          "title": "The Strongest Challenger",
+          "title": "Le challenger le plus redoutable",
           "id": "zz6kiny3dkxu"
         },
         {
           "n": 2,
-          "title": "The Dempsey Roll Destroyed",
+          "title": "Le Dempsey Roll détruit",
           "id": "2g7a237m4bmc"
         },
         {
           "n": 3,
-          "title": "A Woman's Battle",
+          "title": "Le combat d'une femme",
           "id": "aw8v9hi1ays3"
         },
         {
           "n": 4,
-          "title": "The Goddess of Victory",
+          "title": "La déesse de la victoire",
           "id": "iasln3yhgsmh"
         },
         {
           "n": 5,
-          "title": "100% Fake",
+          "title": "100 % faux",
           "id": "v1c8zgn2ivvx"
         },
         {
           "n": 6,
-          "title": "The Distance Between Me and Glory",
+          "title": "La distance qui me sépare de la gloire",
           "id": "wrl8kl5vvw8d"
         },
         {
           "n": 7,
-          "title": "Cheese Champion",
+          "title": "Le champion du fromage",
           "id": "lrdv1vciw8xh"
         },
         {
           "n": 8,
-          "title": "The Mad Dog and the Red Wolf",
+          "title": "Le chien fou et le loup rouge",
           "id": "z5wxpf3taiy4"
         },
         {
           "n": 9,
-          "title": "A Savage Scenario",
+          "title": "Un scénario impitoyable",
           "id": "w1wosncwkp3t"
         },
         {
           "n": 10,
-          "title": "The Face Of Determination",
+          "title": "Le visage de la détermination",
           "id": "pm9m7s5mta0o"
         },
         {
           "n": 11,
-          "title": "Fearless Challenger",
+          "title": "Un challenger intrépide",
           "id": "ze2kk14fttx8"
         },
         {
           "n": 12,
-          "title": "The Anti-Dempsey Perfected",
+          "title": "La parade anti-Dempsey perfectionnée",
           "id": "p2sngwnf3csa"
         },
         {
           "n": 13,
-          "title": "A Fist That Picks You Up",
+          "title": "Un poing qui te relève",
           "id": "6h8cjqk86eed"
         },
         {
           "n": 14,
-          "title": "Empowering Words",
+          "title": "Des paroles encourageantes",
           "id": "uyrdiqbnlctg"
         },
         {
           "n": 15,
-          "title": "A Storm Descends on Makunouchi Fishing Boat",
+          "title": "Une tempête s'abat sur le bateau de pêche Makunouchi",
           "id": "cfsvfqnp7wms"
         },
         {
           "n": 16,
-          "title": "Golden Eagle",
+          "title": "L'aigle royal",
           "id": "3tzks38xj71a"
         },
         {
           "n": 17,
-          "title": "Eleki's Shocker and Papaya's Coconut",
+          "title": "Le choc d'Eleki et la noix de coco de Papaya",
           "id": "55pqmieadqrf"
         },
         {
           "n": 18,
-          "title": "The Unfinished New Counter",
+          "title": "Le nouveau contre inachevé",
           "id": "h99s8dg9tgei"
         },
         {
           "n": 19,
-          "title": "Hawk vs. Eagle",
+          "title": "Le Faucon contre l'Aigle",
           "id": "vjyz40kcd0yi"
         },
         {
           "n": 20,
-          "title": "A Lesson Never Forgotten",
+          "title": "Une leçon inoubliable",
           "id": "1087egzhe8cl"
         },
         {
           "n": 21,
-          "title": "The End of the Death Match",
+          "title": "La fin du combat à mort",
           "id": "ka779gqaa6yp"
         },
         {
           "n": 22,
-          "title": "Flower of Hope",
+          "title": "La fleur de l'espoir",
           "id": "9y2zj8loc6wa"
         },
         {
           "n": 23,
-          "title": "The Courage to Live",
+          "title": "Le courage de vivre",
           "id": "0w0qmrf415n2"
         },
         {
           "n": 24,
-          "title": "Iron Fist",
+          "title": "Le poing d'acier",
           "id": "07mdrp76sp1m"
         },
         {
           "n": 25,
-          "title": "A Vow",
+          "title": "Un serment",
           "id": "u0em7f2m54hr"
         }
       ]

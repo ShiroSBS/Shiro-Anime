@@ -1,0 +1,130 @@
+{
+  "id": "chainsaw-man",
+  "title": "Chainsaw Man",
+  "poster": "https://image.tmdb.org/t/p/w780/npdB6eFzizki0WaZ1OvKcJrWe97.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5DUMPBSnHOZsbBv81GFXZXvDpo6.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/npdB6eFzizki0WaZ1OvKcJrWe97.jpg",
+  "description": "Pour rembourser ses dettes, Denji, jeune homme dans la dèche la plus totale, est exploité en tant que Devil Hunter avec son chien-démon-tronçonneuse, 'Pochita'. Mais suite à une cruelle trahison, il voit enfin une possibilité de se tirer des bas-fonds où il croupit ! Devenu surpuissant après sa fusion avec Pochita, Denji est recruté par une organisation et part à la chasse aux démons...",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Horreur",
+    "Mystère",
+    "Surnaturel",
+    "Combats",
+    "Science",
+    "fiction",
+    "Fantastique",
+    "Comédie",
+    "Drame"
+  ],
+  "rating": "8.3",
+  "year": "2022",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Chainsaw Man",
+  "stats": [
+    {
+      "v": "1",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.3",
+      "l": "Note"
+    },
+    {
+      "v": "2022",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.3"
+    },
+    {
+      "text": "🎬 1 Saisons · 12 Éps"
+    },
+    {
+      "text": "📅 2022"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Chien et Tronçonneuse",
+          "id": "6jmnrz4ecrvk"
+        },
+        {
+          "n": 2,
+          "title": "Arrivée à Tokyo",
+          "id": "ws8hkq89o4f5"
+        },
+        {
+          "n": 3,
+          "title": "Le destin de Miaouche",
+          "id": "4tth7de045kz"
+        },
+        {
+          "n": 4,
+          "title": "Sauvetage",
+          "id": "srwo6zqqnnem"
+        },
+        {
+          "n": 5,
+          "title": "Le démon-flingues",
+          "id": "hwrmoepnln8t"
+        },
+        {
+          "n": 6,
+          "title": "Tuez Denji !",
+          "id": "cm4x4ramk6xo"
+        },
+        {
+          "n": 7,
+          "title": "Le goût d'un baiser",
+          "id": "oyp7h9xd0z9w"
+        },
+        {
+          "n": 8,
+          "title": "Coups de feu",
+          "id": "g46006trkdrc"
+        },
+        {
+          "n": 9,
+          "title": "Depuis Kyoto",
+          "id": "xfq10k4lqdxu"
+        },
+        {
+          "n": 10,
+          "title": "Amochés, lessivés",
+          "id": "zc0sckx9aus5"
+        },
+        {
+          "n": 11,
+          "title": "Début de l'opération",
+          "id": "t2s8spquhpza"
+        },
+        {
+          "n": 12,
+          "title": "Katana vs tronçonneuse",
+          "id": "r9ojmnirl9j3"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/chainsaw-man/",
+  "tmdbId": 114410
+}

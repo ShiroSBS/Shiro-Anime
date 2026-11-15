@@ -1,0 +1,268 @@
+{
+  "id": "mob-psycho-100",
+  "title": "Mob Psycho 100",
+  "poster": "https://image.tmdb.org/t/p/w780/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/i314aLh8nWdoov0Tk7nEg5zTIhS.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+  "description": "L'histoire suit Kageyama Shigeo un élève de quatrième, possédant des pouvoirs psychiques. Il peut plier et soulever n'importe quel objet avec son esprit. Cependant, il s'est lentement refusé d'exercer ses capacités en public car sa trop grande puissance peut infliger des conséquences négatives aux humains \"normaux\".\n\nAujourd'hui, la seule et unique chose qu'il désire est de devenir ami avec une fille de son lycée : Tsubomi. Avec son mentor, qui ne possède aucun pouvoir, il continue de vivre paisiblement en essayant de réaliser son but.",
+  "genres": [
+    "Action",
+    "Comédie",
+    "Romance",
+    "School Life",
+    "Surnaturel",
+    "Aventure",
+    "Science",
+    "fiction",
+    "Fantastique",
+    "Drame",
+    "Psychologique",
+    "Slice of Life"
+  ],
+  "rating": "8.4",
+  "year": "2016",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Mob Psycho 100",
+  "stats": [
+    {
+      "v": "3",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.4",
+      "l": "Note"
+    },
+    {
+      "v": "2016",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.4"
+    },
+    {
+      "text": "🎬 3 Saisons · 37 Éps"
+    },
+    {
+      "text": "📅 2016"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Arataka Reigen, autoproclamé Médium de génie ~ et Mob ~",
+          "id": "3i2qs4qqpl94"
+        },
+        {
+          "n": 2,
+          "title": "Doutes d’ado ~ Entrée du club des télépathes ~",
+          "id": "1k6t2r5i2aq9"
+        },
+        {
+          "n": 3,
+          "title": "Invitation ~ En gros, devenir populaire ~",
+          "id": "f18et81z57m6"
+        },
+        {
+          "n": 4,
+          "title": "Rendez-vous pour idiots ~ Semblables ~",
+          "id": "4jtycpyzhwvy"
+        },
+        {
+          "n": 5,
+          "title": "Samouraï déserteur ~ Un Médium et moi ~",
+          "id": "qk7hdksh3grv"
+        },
+        {
+          "n": 6,
+          "title": "Discordance ~ Pour le devenir ~",
+          "id": "33st0ju5ewyc"
+        },
+        {
+          "n": 7,
+          "title": "Exaltation ~ J’ai obtenu la perte ~",
+          "id": "y2uble2rvta9"
+        },
+        {
+          "n": 8,
+          "title": "Le frère s’incline ~ L’intention de détruire ~",
+          "id": "4oh4lv3ltdhl"
+        },
+        {
+          "n": 9,
+          "title": "La Griffe ~ 7e section ~",
+          "id": "4wpw45sw3qu1"
+        },
+        {
+          "n": 10,
+          "title": "Aura maléfique ~ Le cerveau ~",
+          "id": "6y3xvlgov5t9"
+        },
+        {
+          "n": 11,
+          "title": "Mon maître ~ Le leader ~",
+          "id": "1boc3gs12vgf"
+        },
+        {
+          "n": 12,
+          "title": "Mob et Reigen ~ Le chapitre du tsuchinoko ~",
+          "id": "wfsth5cmfbdj"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "En mille morceaux ~ Quelqu'un regarde ~",
+          "id": "rt33u4dqpaqc"
+        },
+        {
+          "n": 2,
+          "title": "Légendes urbaines ~ Rumeurs et rencontre ~",
+          "id": "nalellddcqsh"
+        },
+        {
+          "n": 3,
+          "title": "Un tas de dangers ~ Anormalité ~",
+          "id": "w0qh4muy73h0"
+        },
+        {
+          "n": 4,
+          "title": "À l'intérieur ~ Esprit maléfique ~",
+          "id": "7arbdag0w0of"
+        },
+        {
+          "n": 5,
+          "title": "Discorde ~ Le choix ~",
+          "id": "vogslohxe2t8"
+        },
+        {
+          "n": 6,
+          "title": "Une solitude blanchâtre",
+          "id": "48gl5n9awj24"
+        },
+        {
+          "n": 7,
+          "title": "Au pied du mur ~ La vérité ~",
+          "id": "d0hvto3rn2mm"
+        },
+        {
+          "n": 8,
+          "title": "Quand bien même ~ Aller de l'avant ~",
+          "id": "souztduovu5f"
+        },
+        {
+          "n": 9,
+          "title": "Faites vos preuves ~ Rassemblement ~",
+          "id": "g961sjbzjcym"
+        },
+        {
+          "n": 10,
+          "title": "Frictions ~ La catégorie musclée ~",
+          "id": "66mb4p5knefa"
+        },
+        {
+          "n": 11,
+          "title": "Aux commandes ~ Le pouvoir de détection ~",
+          "id": "gsbweo8eus9s"
+        },
+        {
+          "n": 12,
+          "title": "Réinsertion sociale ~ L'amitié ~",
+          "id": "aiq4n78c49eo"
+        },
+        {
+          "n": 13,
+          "title": "Le combat final ~ L'ultime lueur ~",
+          "id": "m8v1wix7357z"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "L'avenir ~ Le plan de carrière ~",
+          "id": "tnw1l7iga53p"
+        },
+        {
+          "n": 2,
+          "title": "Haruaki Amakusa, Chasseur de fantômes ! ~ Les Cataspectres ~",
+          "id": "2p25pci4shie"
+        },
+        {
+          "n": 3,
+          "title": "Quand on chope le melon ~ 100 % ~",
+          "id": "xpgecmhe26h7"
+        },
+        {
+          "n": 4,
+          "title": "L'arbre sacré (partie 1) ~ L'entrée du gourou ~",
+          "id": "szlfesdlnk29"
+        },
+        {
+          "n": 5,
+          "title": "L'arbre sacré (partie 2) ~ Peace ~",
+          "id": "hopnz689l8et"
+        },
+        {
+          "n": 6,
+          "title": "L'arbre sacré (partie 3) ~ Smile ~",
+          "id": "ojct72bd7zom"
+        },
+        {
+          "n": 7,
+          "title": "Communications (partie 1) ~ Vacances d'hiver ~",
+          "id": "cb1cpvap0tuv"
+        },
+        {
+          "n": 8,
+          "title": "Communications (partie 2) ~ Rencontre du troisième type ~",
+          "id": "abqc98xdi32s"
+        },
+        {
+          "n": 9,
+          "title": "Mob (partie 1) ~ Déménagement ~",
+          "id": "zk0z87bf6syd"
+        },
+        {
+          "n": 10,
+          "title": "Mob (partie 2) ~ Mon rival ~",
+          "id": "nzidx30kn93x"
+        },
+        {
+          "n": 11,
+          "title": "Mob (partie 3) ~ Le traumatisme ~",
+          "id": "z95s5a4u4uau"
+        },
+        {
+          "n": 12,
+          "title": "Confidences ~ La vie suit son cours ~",
+          "id": "73gokercb6z0"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/mob-psycho-100/",
+  "tmdbId": 67075
+}

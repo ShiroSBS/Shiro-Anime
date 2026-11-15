@@ -1,0 +1,797 @@
+{
+  "id": "kingdom",
+  "title": "Kingdom",
+  "poster": "https://image.tmdb.org/t/p/w780/sQ6nRFLRLFrpJu3fDs9D5EzlKh2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5CGM0vQpq0QBcslUXqoo0unlGPZ.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/sQ6nRFLRLFrpJu3fDs9D5EzlKh2.jpg",
+  "description": "Dans la période de l'ancienne Chine (475-221 B.J.C.), Shin et Hyou sont des orphelins de guerre dans le royaume de Qin. Ils rêvent un jour de pouvoir se prouver à eux-même de pouvoir être sur un champ de guerre. Un jour, cependant, Hyou est amené au palais par un ministre, étant pris pour le roi du royaume. Étant malheureusement du coté perdant d'une guerre qui se passait, Hyou parvient à revenir au village en vie assez longtemps pour dire à Shin l'endroit où se trouverait le vrai roi. Peu de temps après, Shin rencontre un garçon ressemblant à Hyou, Ei Sei. Pour l'instant, Ei Sei est le vrai roi du royaume de Qin. plus tard, il sera l'empereur Shi Huangdi.",
+  "genres": [
+    "Action",
+    "Drame",
+    "Guerre",
+    "Aventure"
+  ],
+  "rating": "7.4",
+  "year": "2012",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Kingdom",
+  "stats": [
+    {
+      "v": "5",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.4",
+      "l": "Note"
+    },
+    {
+      "v": "2012",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.4"
+    },
+    {
+      "text": "🎬 5 Saisons · 142 Éps"
+    },
+    {
+      "text": "📅 2012"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le garçon sans nom",
+          "id": "xcigkq7j8f8s"
+        },
+        {
+          "n": 2,
+          "title": "La rencontre fatale",
+          "id": "26d5g9k7l8yc"
+        },
+        {
+          "n": 3,
+          "title": "Oh mon ami !",
+          "id": "hf5vwmopgafa"
+        },
+        {
+          "n": 4,
+          "title": "Le roi et l’épée",
+          "id": "rtnlsxjdclsv"
+        },
+        {
+          "n": 5,
+          "title": "Un cœur indestructible",
+          "id": "5ofi04w9fu16"
+        },
+        {
+          "n": 6,
+          "title": "Le chemin pour devenir un grand Général",
+          "id": "xj38ke6r3sfm"
+        },
+        {
+          "n": 7,
+          "title": "Le terrifiant peuple des montagnes",
+          "id": "w3euihe79equ"
+        },
+        {
+          "n": 8,
+          "title": "Le rêve de chacun",
+          "id": "qw8fsgxwlkp5"
+        },
+        {
+          "n": 9,
+          "title": "Maintenant, vers Kanyou !",
+          "id": "dlmep59mdarc"
+        },
+        {
+          "n": 10,
+          "title": "L’invasion de la capitale royale",
+          "id": "g6lpoa3303my"
+        },
+        {
+          "n": 11,
+          "title": "Un combat féroce commence",
+          "id": "nlg8kdy135s8"
+        },
+        {
+          "n": 12,
+          "title": "L’épée ultime",
+          "id": "w6zcy4xwe2va"
+        },
+        {
+          "n": 13,
+          "title": "Le rugissement de Rankai",
+          "id": "0boplfixfhh3"
+        },
+        {
+          "n": 14,
+          "title": "Le Pouvoir de l’épée",
+          "id": "5rdgnu1df4rh"
+        },
+        {
+          "n": 15,
+          "title": "Les Qualités d’un roi",
+          "id": "r9rnxhkfhwu3"
+        },
+        {
+          "n": 16,
+          "title": "Ryo Fui",
+          "id": "pbwhilhj5tq7"
+        },
+        {
+          "n": 17,
+          "title": "La Première Campagne",
+          "id": "lkqy11ot5v1d"
+        },
+        {
+          "n": 18,
+          "title": "La Menace des chars",
+          "id": "1qeph2dx8rvx"
+        },
+        {
+          "n": 19,
+          "title": "Une bataille ardente",
+          "id": "ytqhe0bpkopw"
+        },
+        {
+          "n": 20,
+          "title": "Ou ki fait irruption",
+          "id": "1rpc22nbcpg6"
+        },
+        {
+          "n": 21,
+          "title": "L’aptitude d’un général",
+          "id": "7uvcgwrbbzhg"
+        },
+        {
+          "n": 22,
+          "title": "Général intelligent contre Général courageux",
+          "id": "ne6p3d0erx01"
+        },
+        {
+          "n": 23,
+          "title": "Histoire nocturne",
+          "id": "f1rv8yjp9lfa"
+        },
+        {
+          "n": 24,
+          "title": "Une nouvelle épreuve",
+          "id": "94icnfptj141"
+        },
+        {
+          "n": 25,
+          "title": "Nomination",
+          "id": "3xkwa1k0cd2l"
+        },
+        {
+          "n": 26,
+          "title": "Houken, le Bushin",
+          "id": "ykyoejexxn7z"
+        },
+        {
+          "n": 27,
+          "title": "La naissance de l’unité Hi Shin",
+          "id": "o9p1dokiiztu"
+        },
+        {
+          "n": 28,
+          "title": "La flèche d’Ouki",
+          "id": "tlhs65e7okmp"
+        },
+        {
+          "n": 29,
+          "title": "Changement soudain du cours de la bataille",
+          "id": "fgsrr5xkol6k"
+        },
+        {
+          "n": 30,
+          "title": "Le Fléau",
+          "id": "e525d5u9ik1w"
+        },
+        {
+          "n": 31,
+          "title": "L’union fait la force",
+          "id": "fe0xbq6swn6h"
+        },
+        {
+          "n": 32,
+          "title": "L’unité Hi Shin prend la fuite",
+          "id": "zzopgzjov3pb"
+        },
+        {
+          "n": 33,
+          "title": "Ouki prend les armes",
+          "id": "zls14zrmt2un"
+        },
+        {
+          "n": 34,
+          "title": "Les Protagonistes centraux",
+          "id": "vrxrx2a2i4kt"
+        },
+        {
+          "n": 35,
+          "title": "Confrontation des grands Généraux",
+          "id": "p6syux0mbktt"
+        },
+        {
+          "n": 36,
+          "title": "Ouki et Kyou",
+          "id": "o158h3kk5708"
+        },
+        {
+          "n": 37,
+          "title": "Je suis aux portes de la mort",
+          "id": "h9j8fpfcpet8"
+        },
+        {
+          "n": 38,
+          "title": "Succession",
+          "id": "hwiprq4gcc2y"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Une nouvelle ère",
+          "id": "e98kvx9khdjq"
+        },
+        {
+          "n": 2,
+          "title": "Une bataille silencieuse",
+          "id": "5cq3as3uw4sl"
+        },
+        {
+          "n": 3,
+          "title": "Un banquet tumultueux",
+          "id": "ao12k0m60nl9"
+        },
+        {
+          "n": 4,
+          "title": "Le Roi et la fourmi",
+          "id": "vpa50nowjyl9"
+        },
+        {
+          "n": 5,
+          "title": "La troisième force",
+          "id": "sb7cypptr8la"
+        },
+        {
+          "n": 6,
+          "title": "Un sublime poison",
+          "id": "sz8ufzeeiy42"
+        },
+        {
+          "n": 7,
+          "title": "Le Prince maudit",
+          "id": "m5kuj431azys"
+        },
+        {
+          "n": 8,
+          "title": "Sei et Shika",
+          "id": "1jew5g9yah6k"
+        },
+        {
+          "n": 9,
+          "title": "Salvation",
+          "id": "p9dzrvz76sg5"
+        },
+        {
+          "n": 10,
+          "title": "Un amour brisé",
+          "id": "z568fldf5jw9"
+        },
+        {
+          "n": 11,
+          "title": "Rassemblement",
+          "id": "stmhuiv5kowu"
+        },
+        {
+          "n": 12,
+          "title": "Le siège de Kourou",
+          "id": "94ddu5ceug46"
+        },
+        {
+          "n": 13,
+          "title": "Ma façon de me battre",
+          "id": "f10uoojxbq15"
+        },
+        {
+          "n": 14,
+          "title": "Renpa",
+          "id": "5lnqwwv6hiqj"
+        },
+        {
+          "n": 15,
+          "title": "Une aura de général",
+          "id": "ntqkq44uuohe"
+        },
+        {
+          "n": 16,
+          "title": "Le général de minuit",
+          "id": "rb5yp7ljpp9j"
+        },
+        {
+          "n": 17,
+          "title": "Veille de bataille",
+          "id": "gekgzpvgfiq9"
+        },
+        {
+          "n": 18,
+          "title": "Premier choc",
+          "id": "1c0hf4g6nrc8"
+        },
+        {
+          "n": 19,
+          "title": "La ruse de Genpou",
+          "id": "6f2otk2qchs2"
+        },
+        {
+          "n": 20,
+          "title": "La contre-attaque de l'unité Hi Shin",
+          "id": "cdc5gyam0hfu"
+        },
+        {
+          "n": 21,
+          "title": "Bandit vs stratège",
+          "id": "ycgvfs04d3me"
+        },
+        {
+          "n": 22,
+          "title": "La proposition de Mouten",
+          "id": "lgrnzwrm0247"
+        },
+        {
+          "n": 23,
+          "title": "Les trois unités unies",
+          "id": "25gfg1kndoem"
+        },
+        {
+          "n": 24,
+          "title": "Un mur à franchir",
+          "id": "m2hyotpcyvjr"
+        },
+        {
+          "n": 25,
+          "title": "Ruse par ruse",
+          "id": "l97hee50ldte"
+        },
+        {
+          "n": 26,
+          "title": "L'Étoffe d'un général",
+          "id": "a2pujxr4b2j0"
+        },
+        {
+          "n": 27,
+          "title": "La fin a sonné",
+          "id": "c0vowyx1hg8p"
+        },
+        {
+          "n": 28,
+          "title": "La dernière stratégie",
+          "id": "2cmwxwxtytlb"
+        },
+        {
+          "n": 29,
+          "title": "Une seconde",
+          "id": "ai2ll8sdo6jz"
+        },
+        {
+          "n": 30,
+          "title": "Mes précieux camarades",
+          "id": "4g4lwgy6bm3b"
+        },
+        {
+          "n": 31,
+          "title": "Mougou ne fuira pas",
+          "id": "9m65rwc9aimv"
+        },
+        {
+          "n": 32,
+          "title": "Un âge éternel",
+          "id": "8i5kc3h2xelb"
+        },
+        {
+          "n": 33,
+          "title": "Victoire et suite",
+          "id": "v0dvn8uxxuqd"
+        },
+        {
+          "n": 34,
+          "title": "L'arrivée du stratège",
+          "id": "j1slh0slqo7u"
+        },
+        {
+          "n": 35,
+          "title": "Le test de Ten",
+          "id": "8qk8x9p7qbx6"
+        },
+        {
+          "n": 36,
+          "title": "Le combat de l'esprit",
+          "id": "gjksp3f6xd6p"
+        },
+        {
+          "n": 37,
+          "title": "La tempête approche",
+          "id": "zjfxx3yx0fu5"
+        },
+        {
+          "n": 38,
+          "title": "La scène des intrigants",
+          "id": "w24tmb9tay1t"
+        },
+        {
+          "n": 39,
+          "title": "Une nouvelle légende",
+          "id": "siar12mv45qn"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le surgissement de la coalition",
+          "id": "g3ay4botf4rc"
+        },
+        {
+          "n": 2,
+          "title": "Rencontre dans une salle",
+          "id": "e5jk2rvzdr2y"
+        },
+        {
+          "n": 3,
+          "title": "La Bataille de la porte de Kankoku",
+          "id": "icex62d9qcl3"
+        },
+        {
+          "n": 4,
+          "title": "Les Deux Champs de bataille",
+          "id": "wswg2x0c1p8n"
+        },
+        {
+          "n": 5,
+          "title": "Le jeune général se distingue",
+          "id": "kdmp5qwrtm64"
+        },
+        {
+          "n": 6,
+          "title": "Fierté mutuelle",
+          "id": "u5jus6whb6ku"
+        },
+        {
+          "n": 7,
+          "title": "La Lande parsemée de fosses",
+          "id": "8u41l6wikcst"
+        },
+        {
+          "n": 8,
+          "title": "Karin, une femme de caractère",
+          "id": "q3w673udlqo6"
+        },
+        {
+          "n": 9,
+          "title": "La harangue de Moubu",
+          "id": "i5ue65pe0dkt"
+        },
+        {
+          "n": 10,
+          "title": "Le terrible dilemme",
+          "id": "df2i3bckeom8"
+        },
+        {
+          "n": 11,
+          "title": "La dignité d'un général",
+          "id": "uxc2cdkw7vgu"
+        },
+        {
+          "n": 12,
+          "title": "L'assaut de l'armée de Karin",
+          "id": "s2jpsvl4k3rh"
+        },
+        {
+          "n": 13,
+          "title": "Le plus fort",
+          "id": "xcv7dcxdgh4e"
+        },
+        {
+          "n": 14,
+          "title": "L'homme le plus fort",
+          "id": "s0rc38au1vb1"
+        },
+        {
+          "n": 15,
+          "title": "Derrière la porte de Kankoku",
+          "id": "aphn0agqai5n"
+        },
+        {
+          "n": 16,
+          "title": "La destination de Riboku",
+          "id": "bo3x7badmbtj"
+        },
+        {
+          "n": 17,
+          "title": "L'Incarnation du génie instinctif",
+          "id": "sjemzo128wzk"
+        },
+        {
+          "n": 18,
+          "title": "La décision d'Ei Sei",
+          "id": "jwq75sho1s4x"
+        },
+        {
+          "n": 19,
+          "title": "Le discours d'Ei Sei",
+          "id": "gna6fylw6ief"
+        },
+        {
+          "n": 20,
+          "title": "La première nuit",
+          "id": "i8k4yckjswzj"
+        },
+        {
+          "n": 21,
+          "title": "Le Secret dévoilé",
+          "id": "ya2zl9s0zjnh"
+        },
+        {
+          "n": 22,
+          "title": "À bout",
+          "id": "zibm7ih6pci1"
+        },
+        {
+          "n": 23,
+          "title": "Des renforts extraordinaires",
+          "id": "31vj9ztvo9if"
+        },
+        {
+          "n": 24,
+          "title": "Profonde gratitude",
+          "id": "tjn1i8q5j3m4"
+        },
+        {
+          "n": 25,
+          "title": "Une danse de prêtresse différente",
+          "id": "9ddxlpp41u3x"
+        },
+        {
+          "n": 26,
+          "title": "Une autre voie",
+          "id": "g85isfr2sr1u"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Saison 4",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Les Sept Pays après la guerre",
+          "id": "qyu1kekynzs1"
+        },
+        {
+          "n": 2,
+          "title": "Une ombre inquiétante",
+          "id": "2xbe8jkgy2mn"
+        },
+        {
+          "n": 3,
+          "title": "Départ de la force punitive",
+          "id": "a8z2on8xiyz4"
+        },
+        {
+          "n": 4,
+          "title": "Le Siège de Tonryû",
+          "id": "dth6gmrzdjk9"
+        },
+        {
+          "n": 5,
+          "title": "L’Épée et le bouclier",
+          "id": "901bvvlla8f3"
+        },
+        {
+          "n": 6,
+          "title": "Un nouveau front stratégique",
+          "id": "1kufy90fylyc"
+        },
+        {
+          "n": 7,
+          "title": "L'Appel",
+          "id": "rrn0dzmwoq9a"
+        },
+        {
+          "n": 8,
+          "title": "Ce que représente Ten",
+          "id": "hjle4yad5gn9"
+        },
+        {
+          "n": 9,
+          "title": "Le Nom du comte Shi",
+          "id": "yo90gfwy96qh"
+        },
+        {
+          "n": 10,
+          "title": "L'Attention des sept États",
+          "id": "0vf4urhvjuwk"
+        },
+        {
+          "n": 11,
+          "title": "Un quotidien fait d'entraînement",
+          "id": "ica7h5zojew9"
+        },
+        {
+          "n": 12,
+          "title": "La Génération des grands hommes",
+          "id": "ij46tbeh0uj3"
+        },
+        {
+          "n": 13,
+          "title": "Intrigues à Kanyou",
+          "id": "pd8msc71a2u8"
+        },
+        {
+          "n": 14,
+          "title": "Un nouveau pays",
+          "id": "d99newzaqxxm"
+        },
+        {
+          "n": 15,
+          "title": "L'Homme de rien",
+          "id": "cpu5b7bj5sv1"
+        },
+        {
+          "n": 16,
+          "title": "La Cérémonie de majorité",
+          "id": "vz9gbgjl9zia"
+        },
+        {
+          "n": 17,
+          "title": "Aucun des trois camps ne cèdent rien",
+          "id": "1pv148pa9gok"
+        },
+        {
+          "n": 18,
+          "title": "La Bataille sur la rivière",
+          "id": "6rx35o705a8s"
+        },
+        {
+          "n": 19,
+          "title": "Couper les ponts",
+          "id": "lwczytlbrq6b"
+        },
+        {
+          "n": 20,
+          "title": "Un pays de rêve",
+          "id": "oko4e44ku8mf"
+        },
+        {
+          "n": 21,
+          "title": "L'Unique Chance de victoire",
+          "id": "r46o3avoi3uo"
+        },
+        {
+          "n": 22,
+          "title": "Une fuite périlleuse",
+          "id": "2mv3dd1nxthx"
+        },
+        {
+          "n": 23,
+          "title": "La Charge décisive",
+          "id": "dxq22w5t8v20"
+        },
+        {
+          "n": 24,
+          "title": "La Conclusion de la guerre civile",
+          "id": "hk2bunui8kbr"
+        },
+        {
+          "n": 25,
+          "title": "L'Heure de l'envol",
+          "id": "ff4pk4641cmj"
+        },
+        {
+          "n": 26,
+          "title": "Les Six Grands Généraux",
+          "id": "yclrm9v04v97"
+        }
+      ]
+    },
+    "5": {
+      "label": "Saison 5",
+      "title": "Saison 5",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Les monstres partent au combat",
+          "id": "j6w8l0fdk4og"
+        },
+        {
+          "n": 2,
+          "title": "L'Odeur du champ de bataille",
+          "id": "f796ed9zv709"
+        },
+        {
+          "n": 3,
+          "title": "Kokuyô la nuit",
+          "id": "r7wrkjbvb1hp"
+        },
+        {
+          "n": 4,
+          "title": "La Responsabilité d'un lieutenant",
+          "id": "iqf5towiffzy"
+        },
+        {
+          "n": 5,
+          "title": "L'implacable traversée",
+          "id": "mdjqtqgm8sc1"
+        },
+        {
+          "n": 6,
+          "title": "Le Tournant décisif de Kokuyô",
+          "id": "onvw1ndisd17"
+        },
+        {
+          "n": 7,
+          "title": "La Tragédie de Rigan",
+          "id": "601qomuz7lp8"
+        },
+        {
+          "n": 8,
+          "title": "L'espace d'un instant",
+          "id": "jhek1dhi2jrt"
+        },
+        {
+          "n": 9,
+          "title": "Infortune",
+          "id": "tnirlwx2pag5"
+        },
+        {
+          "n": 10,
+          "title": "Un cri de fierté",
+          "id": "fddo6mlj8crq"
+        },
+        {
+          "n": 11,
+          "title": "Bihei & l'Unité Hi Shin",
+          "id": "vhs6w9y0ehe9"
+        },
+        {
+          "n": 12,
+          "title": "La Nuit décisive",
+          "id": "vaaoyfmhfu90"
+        },
+        {
+          "n": 13,
+          "title": "L'Honneur de Saitaku",
+          "id": "jzrhs7rnxd6x"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/kingdom/",
+  "tmdbId": 46437
+}

@@ -519,5 +519,26 @@
     "statusLabel": "Terminé",
     "poster": "https://image.tmdb.org/t/p/w780/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/lysUnU6V0VfcthDbviuVlIqgHOR.jpg"
+  },
+  {
+    "id": "oshi-no-ko",
+    "title": "Oshi No Ko",
+    "description": "Le docteur Gorô est obstétricien dans un hôpital de campagne. Il est loin du monde de paillettes dans lequel évolue Ai Hoshino, une chanteuse au succès grandissant dont il est 'un fan absolu'. Ces deux-là vont peut-être se rencontrer dans des circonstances peu favorables, mais cet événement changera leur vie à jamais !",
+    "genres": [
+      "Seinen",
+      "Drame",
+      "Psychologique",
+      "Slice of Life",
+      "Idols",
+      "Réincarnation / Transmigration",
+      "Mystère",
+      "Surnaturel"
+    ],
+    "rating": "8.4",
+    "year": "2023",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "poster": "https://image.tmdb.org/t/p/w780/uA7ijeevw8CxM2GUe0T7zZ7WkRC.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/s76eYQi6hcAcOVYpVd9hofdyt11.jpg"
   }
 ]

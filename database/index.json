@@ -583,5 +583,25 @@
     "statusLabel": "Terminé",
     "poster": "https://image.tmdb.org/t/p/w780/xbZQ3fDl0y5mt0ARwfeyrgQ4JTw.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg"
+  },
+  {
+    "id": "hell-s-paradise",
+    "title": "Hell's Paradise",
+    "description": "Gabimaru, « Le Néant », le plus célèbre et puissant des ninjas-assassins a été capturé et croupit en prison. Affirmant n'avoir plus aucune raison de vivre, il attend désespérément qu'un bourreau parvienne à lui ôter la vie car son entraînement surhumain lui permet de résister aux pires des châtiments. C'est alors qu'il reçoit la visite d'un exécuteur pas comme les autres : une puissante manieuse de sabre et trancheuse de tête. Après un âpre combats dont il réchappe de peu, celle-ci le pousse dans ses retranchements. En échange de la vie sauve, elle lui propose un marché : il devra se rendre sur une île mystérieuse afin de récupérer un élixir d'immortalité. Seul problème : tous ceux qui se sont rendus sur cette île sont revenus découpés en morceaux...",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Science",
+      "fiction",
+      "Fantastique",
+      "Mystère",
+      "Surnaturel"
+    ],
+    "rating": "8.0",
+    "year": "2023",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "poster": "https://image.tmdb.org/t/p/w780/gd5DfLwONpkeChYfJb0p34oul8F.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/zlXW7Y5LvqTQBlhalMKc0gUrYYE.jpg"
   }
 ]

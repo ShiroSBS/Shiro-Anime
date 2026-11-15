@@ -1,0 +1,555 @@
+{
+  "id": "dr-stone",
+  "title": "Dr Stone",
+  "poster": "https://image.tmdb.org/t/p/w780/xbZQ3fDl0y5mt0ARwfeyrgQ4JTw.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/xbZQ3fDl0y5mt0ARwfeyrgQ4JTw.jpg",
+  "description": "Un jour, une lumière brillante apparaît subitement dans le ciel pétrifiant en une fraction de seconde l'humanité entière. Des millénaires plus tard, Taiju parvient à briser son enveloppe de pierre et découvre un monde où le genre humain a disparu de la surface de la terre. Avec son ami Senku, ils décident de récréer la civilisation à partir de zéro !",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Scientifique",
+    "Shônen",
+    "Comédie",
+    "Science",
+    "fiction",
+    "Fantastique"
+  ],
+  "rating": "8.1",
+  "year": "2019",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Dr Stone",
+  "stats": [
+    {
+      "v": "4",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.1",
+      "l": "Note"
+    },
+    {
+      "v": "2019",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.1"
+    },
+    {
+      "text": "🎬 4 Saisons · 94 Éps"
+    },
+    {
+      "text": "📅 2019"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Stone World",
+          "id": "dpk0ucskprql"
+        },
+        {
+          "n": 2,
+          "title": "Roi de Stone World",
+          "id": "4nbongayf7q1"
+        },
+        {
+          "n": 3,
+          "title": "Les armes de la science",
+          "id": "1ad7sfwz6c5b"
+        },
+        {
+          "n": 4,
+          "title": "Allumons un signal de fumée",
+          "id": "wc5ditkwpjb6"
+        },
+        {
+          "n": 5,
+          "title": "Stone World the beginning",
+          "id": "3uw6nsqgr3a2"
+        },
+        {
+          "n": 6,
+          "title": "Les deux nations du monde de pierre",
+          "id": "87nsm3bdx4ok"
+        },
+        {
+          "n": 7,
+          "title": "2 millions d'années en lieu sûr",
+          "id": "xki0w0ufclfl"
+        },
+        {
+          "n": 8,
+          "title": "Stone Road",
+          "id": "9k22cyusuax9"
+        },
+        {
+          "n": 9,
+          "title": "Nous brandirons la lumière de la science",
+          "id": "bxsa31zzklkz"
+        },
+        {
+          "n": 10,
+          "title": "Une alliance frivole",
+          "id": "4fhmakhas40l"
+        },
+        {
+          "n": 11,
+          "title": "Clear World",
+          "id": "rijox0iwntha"
+        },
+        {
+          "n": 12,
+          "title": "J'assurerai tes arrières, et toi, les miens",
+          "id": "6247njj2yww9"
+        },
+        {
+          "n": 13,
+          "title": "Le guerrier masqué",
+          "id": "ex6h57rc2tel"
+        },
+        {
+          "n": 14,
+          "title": "Maitre des Flammes",
+          "id": "o49yl1hp4e5c"
+        },
+        {
+          "n": 15,
+          "title": "2 millions d'années cristallisées",
+          "id": "hpffht8sar5u"
+        },
+        {
+          "n": 16,
+          "title": "Histoire du temps jadis",
+          "id": "p391pttff0t6"
+        },
+        {
+          "n": 17,
+          "title": "Cent nuits et mille cieux",
+          "id": "p8plhx3sb787"
+        },
+        {
+          "n": 18,
+          "title": "Stone Wars",
+          "id": "53vg4gyz86kl"
+        },
+        {
+          "n": 19,
+          "title": "En route vers l'ère moderne",
+          "id": "gssbhfdb5ez4"
+        },
+        {
+          "n": 20,
+          "title": "L'ère de l'énergie cinétique",
+          "id": "658fn7ftca8v"
+        },
+        {
+          "n": 21,
+          "title": "Club de travaux manuels spartiate",
+          "id": "jgh99nhitzna"
+        },
+        {
+          "n": 22,
+          "title": "The Treasure",
+          "id": "d99fkc7k8em7"
+        },
+        {
+          "n": 23,
+          "title": "Déferlante scientifique",
+          "id": "utr6uh5n2czz"
+        },
+        {
+          "n": 24,
+          "title": "Que nos voix portent vers l'infini",
+          "id": "txx15dvkzwah"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Stone Wars Beginning",
+          "id": "s37gzk2nbic5"
+        },
+        {
+          "n": 2,
+          "title": "Hotline",
+          "id": "fmi343d02m5d"
+        },
+        {
+          "n": 3,
+          "title": "Un coup de fil du défunt",
+          "id": "06jvg8jlhw6o"
+        },
+        {
+          "n": 4,
+          "title": "Tous à l'attaque",
+          "id": "61gfu8uc40q4"
+        },
+        {
+          "n": 5,
+          "title": "Steam Gorilla",
+          "id": "0nf6o6y1ge8s"
+        },
+        {
+          "n": 6,
+          "title": "Prison Break",
+          "id": "qo7auriejip5"
+        },
+        {
+          "n": 7,
+          "title": "Une mission ultra-secrète",
+          "id": "20ulno02qx9j"
+        },
+        {
+          "n": 8,
+          "title": "Final Battle",
+          "id": "5iehynq1b7p2"
+        },
+        {
+          "n": 9,
+          "title": "Ceux que l'on brise et ceux que l'on sauve",
+          "id": "47uvkr4aldqu"
+        },
+        {
+          "n": 10,
+          "title": "Le duo le plus fort de l'humanité",
+          "id": "iy2swn1fj9s0"
+        },
+        {
+          "n": 11,
+          "title": "Prologue of Dr. Stone",
+          "id": "oosgvxmtb3ix"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "New World Map",
+          "id": "v5xsz0z7d5lh"
+        },
+        {
+          "n": 2,
+          "title": "Désirs = justice",
+          "id": "mk5vjbu3a85d"
+        },
+        {
+          "n": 3,
+          "title": "Premier contact",
+          "id": "bwny0d0a72yo"
+        },
+        {
+          "n": 4,
+          "title": "Les yeux de la science",
+          "id": "v3haj42r0t4e"
+        },
+        {
+          "n": 5,
+          "title": "Perseus, le navire de la science",
+          "id": "8yrdpd1leshv"
+        },
+        {
+          "n": 6,
+          "title": "Treasure Box",
+          "id": "o7ylqasvrll1"
+        },
+        {
+          "n": 7,
+          "title": "La lumière de l'espoir et du désespoir",
+          "id": "10hlvoxbjzym"
+        },
+        {
+          "n": 8,
+          "title": "Notre atout est dans le navire de la science",
+          "id": "anfz8nyf9wsj"
+        },
+        {
+          "n": 9,
+          "title": "La science de la beauté",
+          "id": "enwp3v1kwbao"
+        },
+        {
+          "n": 10,
+          "title": "Science Wars",
+          "id": "6jalm1dt9s84"
+        },
+        {
+          "n": 11,
+          "title": "Le miracle, tu l'accompliras de tes mains",
+          "id": "el4pymstoct8"
+        },
+        {
+          "n": 12,
+          "title": "Le royaume de la science contre-attaque",
+          "id": "8afl26h6vvip"
+        },
+        {
+          "n": 13,
+          "title": "Le vrai visage de Médusa",
+          "id": "hqzv97fgmf48"
+        },
+        {
+          "n": 14,
+          "title": "Jeu de négociation cérébral",
+          "id": "cva50d6dizr7"
+        },
+        {
+          "n": 15,
+          "title": "La bataille en trois dimensions",
+          "id": "3l7lw866fg5d"
+        },
+        {
+          "n": 16,
+          "title": "Guerre totale",
+          "id": "lrcnd9mooc8l"
+        },
+        {
+          "n": 17,
+          "title": "Joker",
+          "id": "i3nrv2buvliy"
+        },
+        {
+          "n": 18,
+          "title": "L'éclat de la destruction",
+          "id": "o017ggjgmok9"
+        },
+        {
+          "n": 19,
+          "title": "Le dernier homme debout",
+          "id": "hg2zho9e9x2n"
+        },
+        {
+          "n": 20,
+          "title": "Premier rêve",
+          "id": "slrfrl1rdkus"
+        },
+        {
+          "n": 21,
+          "title": "L'île aux trésors",
+          "id": "ecklpkfhn1i8"
+        },
+        {
+          "n": 22,
+          "title": "Au-delà du Nouveau Monde",
+          "id": "guhnda63gshm"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Saison 4",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Ryusui VS Senku",
+          "id": "cms2pdblpf2o"
+        },
+        {
+          "n": 2,
+          "title": "Voyage scientifique",
+          "id": "tj32v42tfy9v"
+        },
+        {
+          "n": 3,
+          "title": "Un piège à insectes dans les ténèbres",
+          "id": "q1a6bgqi0vsr"
+        },
+        {
+          "n": 4,
+          "title": "Dr X",
+          "id": "ehgue7ddfyha"
+        },
+        {
+          "n": 5,
+          "title": "Doctor VS doctor",
+          "id": "k6s6219tet6r"
+        },
+        {
+          "n": 6,
+          "title": "La science est élégante",
+          "id": "6a8gay6pdnvn"
+        },
+        {
+          "n": 7,
+          "title": "Deux scientifiques",
+          "id": "7an9nqiglaos"
+        },
+        {
+          "n": 8,
+          "title": "Verrouillage",
+          "id": "6m2bkpyi4uey"
+        },
+        {
+          "n": 9,
+          "title": "Les lumières de la science",
+          "id": "squu205j4clu"
+        },
+        {
+          "n": 10,
+          "title": "Un chemin croulant de terre",
+          "id": "fmiytds3avci"
+        },
+        {
+          "n": 11,
+          "title": "Ceux qui connaissent les règles et ceux qui les font",
+          "id": "9f08vhsl7dq7"
+        },
+        {
+          "n": 12,
+          "title": "Retrouvailles",
+          "id": "0xs6l4w2pk4r"
+        },
+        {
+          "n": 13,
+          "title": "Les yeux levés vers la même lune",
+          "id": "mg3rvxnfa1dz"
+        },
+        {
+          "n": 14,
+          "title": "Earth Race",
+          "id": "ahau2s23x1q5"
+        },
+        {
+          "n": 15,
+          "title": "Transperçons les mailles du filet",
+          "id": "migygd8s3x31"
+        },
+        {
+          "n": 16,
+          "title": "Medusa mechanism",
+          "id": "9imqqamvyxzc"
+        },
+        {
+          "n": 17,
+          "title": "D’une effroyable beauté",
+          "id": "y72be25wndlc"
+        },
+        {
+          "n": 18,
+          "title": "Diamond heart",
+          "id": "i1d2603l9map"
+        },
+        {
+          "n": 19,
+          "title": "Stone Sanctuary",
+          "id": "m52ikz059lp4"
+        },
+        {
+          "n": 20,
+          "title": "Ce que j'ai cherché à détruire jadis",
+          "id": "da33i9p2zn81"
+        },
+        {
+          "n": 21,
+          "title": "Our Dr Stone",
+          "id": "kvr0asbxdgwz"
+        },
+        {
+          "n": 22,
+          "title": "Jusqu’à nos retrouvailles",
+          "id": "1xkxa2mpk6qa"
+        },
+        {
+          "n": 23,
+          "title": "Une scientifique solitaire",
+          "id": "6wm6nq429bor"
+        },
+        {
+          "n": 24,
+          "title": "Whole new world",
+          "id": "j7h6zbbzsa2j"
+        },
+        {
+          "n": 25,
+          "title": "Future engine",
+          "id": "97daqr30czfs"
+        },
+        {
+          "n": 26,
+          "title": "Fire",
+          "id": "rtomrgr62un2"
+        },
+        {
+          "n": 27,
+          "title": "L'univers est écrit en langue mathématique",
+          "id": "id0cdeswn4rx"
+        },
+        {
+          "n": 28,
+          "title": "L'aube des ordinateurs",
+          "id": "zojxlc0al67y"
+        },
+        {
+          "n": 29,
+          "title": "La dure réalité de la fusée",
+          "id": "ppm6yykobdte"
+        },
+        {
+          "n": 30,
+          "title": "Stone to Space",
+          "id": "srkshpmysoem"
+        },
+        {
+          "n": 31,
+          "title": "Unknown known",
+          "id": "71dzrgzuma5r"
+        },
+        {
+          "n": 32,
+          "title": "Challengers scientifiques",
+          "id": "5me0fxxkx06u"
+        },
+        {
+          "n": 33,
+          "title": "Celui qui désirait tout",
+          "id": "ku4f19p0uf3v"
+        },
+        {
+          "n": 34,
+          "title": "Countdown",
+          "id": "xdik0mq70bcp"
+        },
+        {
+          "n": 35,
+          "title": "Giant Step",
+          "id": "z5czzxi25q1n"
+        },
+        {
+          "n": 36,
+          "title": "Why-man",
+          "id": "rna2t1y0129j"
+        },
+        {
+          "n": 37,
+          "title": "Ceux qui rendent l'avenir excitant",
+          "id": "l0sx3xn58w7o"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/dr-stone/",
+  "tmdbId": 86031
+}

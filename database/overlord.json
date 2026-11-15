@@ -1,0 +1,345 @@
+{
+  "id": "overlord",
+  "title": "Overlord",
+  "poster": "https://image.tmdb.org/t/p/w780/aSjpVCanDAwCopdjIgWwrxOWnWf.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/aSjpVCanDAwCopdjIgWwrxOWnWf.jpg",
+  "description": "L'histoire débute dans un jeu qui se nomme Yggdrasil, le jeu le plus populaire du moment. Cependant ce dernier décide de fermer ses serveurs à minuit.\n\nNous suivons alors un joueur sous le pseudonyme de Momonga. Ce dernier est le chef de la guilde et décide, tout seul, d'attendre jusqu'à la fermeture du jeu. Problème, alors que minuit vient de passer, notre cher Momonga est toujours dans le jeu.\n\nC'est alors qu'il remarque rapidement que ce n'est plus le jeu auquel il passait ses journées. Les commandes du jeux n'existent plus et les PNJ sont devenus des êtres ayant des sentiments et une existence qui leur sont propres.\n\nBien que désorienté, Momonga prend rapidement les choses en main et décide de faire de son nom une légende grâce à ses Gardiens de niveaux.",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantasy",
+    "Science",
+    "fiction",
+    "Seinen",
+    "Isekai",
+    "Fantastique"
+  ],
+  "rating": "7.6",
+  "year": "2015",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Overlord",
+  "stats": [
+    {
+      "v": "4",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.6",
+      "l": "Note"
+    },
+    {
+      "v": "2015",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.6"
+    },
+    {
+      "text": "🎬 4 Saisons · 52 Éps"
+    },
+    {
+      "text": "📅 2015"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "La Fin et le commencement",
+          "id": "myjmuwj85373"
+        },
+        {
+          "n": 2,
+          "title": "Les Gardiens des niveaux",
+          "id": "phflykmjs1id"
+        },
+        {
+          "n": 3,
+          "title": "La Bataille de Carné",
+          "id": "f6y68t6qyq9h"
+        },
+        {
+          "n": 4,
+          "title": "Le maître de la mort",
+          "id": "yt2kfwntcx5j"
+        },
+        {
+          "n": 5,
+          "title": "Les deux aventuriers",
+          "id": "cuk3uakl5rbh"
+        },
+        {
+          "n": 6,
+          "title": "Voyage",
+          "id": "sbox1wuaagf4"
+        },
+        {
+          "n": 7,
+          "title": "Le Vénérable de la forêt",
+          "id": "9hc2wr1xtur7"
+        },
+        {
+          "n": 8,
+          "title": "Les lames jumelles qui pourfendent la mort",
+          "id": "zdsu1zol2p18"
+        },
+        {
+          "n": 9,
+          "title": "Le Guerrier des ténèbres",
+          "id": "4xuupc91jh6h"
+        },
+        {
+          "n": 10,
+          "title": "Le Maître vampire",
+          "id": "m1c9d39s1dez"
+        },
+        {
+          "n": 11,
+          "title": "Confusion et compréhension",
+          "id": "yjefgh5ncdir"
+        },
+        {
+          "n": 12,
+          "title": "La Valkyrie sanglante",
+          "id": "024b10avbql7"
+        },
+        {
+          "n": 13,
+          "title": "Joueur contre PNJ",
+          "id": "5vs75wcfsp8g"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Prélude au désespoir",
+          "id": "2s68rewwc45l"
+        },
+        {
+          "n": 2,
+          "title": "Départ",
+          "id": "mzgcg0fzpb7s"
+        },
+        {
+          "n": 3,
+          "title": "L'union des hommes-lézards",
+          "id": "6idqvkul4lep"
+        },
+        {
+          "n": 4,
+          "title": "L'armée de la mort",
+          "id": "dvpoelfnwtze"
+        },
+        {
+          "n": 5,
+          "title": "Divinité glaciale",
+          "id": "p8tuik17pcys"
+        },
+        {
+          "n": 6,
+          "title": "Sauveur et sauvé",
+          "id": "3ef503zkse4w"
+        },
+        {
+          "n": 7,
+          "title": "Les roses bleues",
+          "id": "e3gf8q3wvfg1"
+        },
+        {
+          "n": 8,
+          "title": "La détermination du jeune homme",
+          "id": "ztaxlrgqrixm"
+        },
+        {
+          "n": 9,
+          "title": "Ces étincelles qui virevoltent",
+          "id": "ari1rchmn67u"
+        },
+        {
+          "n": 10,
+          "title": "Prélude à la révolte de la capitale",
+          "id": "k575onncqmwi"
+        },
+        {
+          "n": 11,
+          "title": "Jaldabaoth",
+          "id": "j5u0os783dnz"
+        },
+        {
+          "n": 12,
+          "title": "Bataille décisive à la capitale",
+          "id": "n2muag8lrm3l"
+        },
+        {
+          "n": 13,
+          "title": "Le plus puissant des atouts",
+          "id": "lx8ldfd8819x"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "La mélancolie du souverain",
+          "id": "1cayn1wc9dup"
+        },
+        {
+          "n": 2,
+          "title": "Retour au village de Carné",
+          "id": "0a6clvvzv3vi"
+        },
+        {
+          "n": 3,
+          "title": "La vie trépidante d'Enri",
+          "id": "yqomjy1cbetj"
+        },
+        {
+          "n": 4,
+          "title": "Le géant de l'Est, le serpent de l'Ouest",
+          "id": "43qq14o60m31"
+        },
+        {
+          "n": 5,
+          "title": "Les deux leaders",
+          "id": "wqoj9xp7kqcy"
+        },
+        {
+          "n": 6,
+          "title": "Invitation à la mort",
+          "id": "ax0wwec8j21b"
+        },
+        {
+          "n": 7,
+          "title": "Les papillons pris dans la toile d'araignée",
+          "id": "8kwtd7qa2nlc"
+        },
+        {
+          "n": 8,
+          "title": "Un fragile espoir",
+          "id": "p6yvuy360gwp"
+        },
+        {
+          "n": 9,
+          "title": "Joutes verbales",
+          "id": "zejluau4eezo"
+        },
+        {
+          "n": 10,
+          "title": "Préparatifs de guerre",
+          "id": "jwnd9s1yccnl"
+        },
+        {
+          "n": 11,
+          "title": "L'autre bataille",
+          "id": "t6tvwzjtb0fg"
+        },
+        {
+          "n": 12,
+          "title": "Le grand massacre",
+          "id": "skip65julugh"
+        },
+        {
+          "n": 13,
+          "title": "PVP",
+          "id": "bai4mh2z61il"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Saison 4",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le Royaume Sorcier d'Ainz Ooal Gown",
+          "id": "2lfwfhhhmql1"
+        },
+        {
+          "n": 2,
+          "title": "Le royaume de Re-Estize",
+          "id": "394ywwuda6bw"
+        },
+        {
+          "n": 3,
+          "title": "L'empire de Baharuth",
+          "id": "wsyx2lbdox77"
+        },
+        {
+          "n": 4,
+          "title": "Le souverain conspirateur",
+          "id": "ft67eyrp7zhd"
+        },
+        {
+          "n": 5,
+          "title": "Vers le pays nain",
+          "id": "62cg9lrg1dbl"
+        },
+        {
+          "n": 6,
+          "title": "Crise imminente",
+          "id": "hvi95dmgtkjo"
+        },
+        {
+          "n": 7,
+          "title": "Le Seigneur dragon des glaces",
+          "id": "7ll2qrew7xal"
+        },
+        {
+          "n": 8,
+          "title": "Une manoeuvre inattendue",
+          "id": "stqsnvehzlmw"
+        },
+        {
+          "n": 9,
+          "title": "Le début de l'effondrement",
+          "id": "fjukix4u1jr7"
+        },
+        {
+          "n": 10,
+          "title": "Le dernier roi",
+          "id": "bfvo4ducajb2"
+        },
+        {
+          "n": 11,
+          "title": "Des pièges bien agencés",
+          "id": "mr8t3ne4v24y"
+        },
+        {
+          "n": 12,
+          "title": "L'Invasion de la capitale royale",
+          "id": "opzaphrpo49t"
+        },
+        {
+          "n": 13,
+          "title": "La Sorcière du royaume déchu",
+          "id": "2mvdx4y2ah83"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/overlord/",
+  "tmdbId": 64196
+}

@@ -1,0 +1,396 @@
+{
+  "id": "the-rising-of-the-shield-hero",
+  "title": "The Rising of the Shield Hero",
+  "poster": "https://image.tmdb.org/t/p/w780/hm7AAWOMNxGzpGolgzNATgnyQbb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/63hr8JQSfsxWtY6JxJGxyUYDw5Q.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/hm7AAWOMNxGzpGolgzNATgnyQbb.jpg",
+  "description": "Naofumi se voit un jour invoqué dans un monde fantastique avec trois autres personnes afin de devenir les héros de ce monde. Dès leur arrivée, chacun se retrouve équipé d'une des quatre armes légendaires où Naofumi hérite d'un simple bouclier considéré comme le plus inutile des quatre équipements.\nEn raison de son manque de charisme, Naofumi finit malheureusement avec une seule coéquipière tandis que les autres en avaient plusieurs. Et comme si cela ne suffisait pas, lors du deuxième jour, il a été trahi, accusé à tort et volé par ladite partenaire.\nMéprisé de tous, du roi aux paysans, le jeune homme ne pense désormais plus qu'à se venger !",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Psychologique",
+    "Romance",
+    "Science",
+    "fiction",
+    "Fantastique"
+  ],
+  "rating": "7.6",
+  "year": "2019",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "The Rising of the Shield Hero",
+  "stats": [
+    {
+      "v": "4",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.6",
+      "l": "Note"
+    },
+    {
+      "v": "2019",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.6"
+    },
+    {
+      "text": "🎬 4 Saisons · 62 Éps"
+    },
+    {
+      "text": "📅 2019"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le héros au bouclier",
+          "id": "f3vij17mvhaf"
+        },
+        {
+          "n": 2,
+          "title": "La jeune esclave",
+          "id": "zg69jp9il93b"
+        },
+        {
+          "n": 3,
+          "title": "La vague de calamités",
+          "id": "birdrknya27a"
+        },
+        {
+          "n": 4,
+          "title": "La berceuse de l’aube",
+          "id": "zgd7iocmkmpw"
+        },
+        {
+          "n": 5,
+          "title": "Pâte phyllo",
+          "id": "krybzjeqyui5"
+        },
+        {
+          "n": 6,
+          "title": "Nouvelle coéquipière",
+          "id": "8z4lbzx8w15m"
+        },
+        {
+          "n": 7,
+          "title": "Le saint de l’oiseau divin",
+          "id": "e1c6l23hwxri"
+        },
+        {
+          "n": 8,
+          "title": "Le bouclier du courroux",
+          "id": "myokngwirds0"
+        },
+        {
+          "n": 9,
+          "title": "Fondant",
+          "id": "1gr1lnxkhbt2"
+        },
+        {
+          "n": 10,
+          "title": "Dans la tourmente",
+          "id": "tgxp9kdhuuob"
+        },
+        {
+          "n": 11,
+          "title": "Calamités, le retour",
+          "id": "3e11d06q70ln"
+        },
+        {
+          "n": 12,
+          "title": "La ténébreuse inconnue",
+          "id": "xsyoc0q1roy9"
+        },
+        {
+          "n": 13,
+          "title": "Le démon au bouclier",
+          "id": "qsi6f8ntlstw"
+        },
+        {
+          "n": 14,
+          "title": "Des souvenirs indélébiles",
+          "id": "ns6wnbjv79af"
+        },
+        {
+          "n": 15,
+          "title": "Raphtalia",
+          "id": "5ag371l4vyeu"
+        },
+        {
+          "n": 16,
+          "title": "La reine des filoriaux",
+          "id": "fhbi0x31d82j"
+        },
+        {
+          "n": 17,
+          "title": "L’héritage de la promesse",
+          "id": "e1ywlxa4rgmi"
+        },
+        {
+          "n": 18,
+          "title": "Complots à la chaîne",
+          "id": "bv0lewa4htn7"
+        },
+        {
+          "n": 19,
+          "title": "Les quatre saints ancestraux",
+          "id": "zr04j0rm493r"
+        },
+        {
+          "n": 20,
+          "title": "Combat entre le bien et le mal",
+          "id": "7cw7egcieiv3"
+        },
+        {
+          "n": 21,
+          "title": "Le retour triomphal de Naofumi",
+          "id": "gunha3akbt4j"
+        },
+        {
+          "n": 22,
+          "title": "La réunion des héros",
+          "id": "nmf9c6tl169k"
+        },
+        {
+          "n": 23,
+          "title": "Les îles Carmila",
+          "id": "eb5px2mtyddd"
+        },
+        {
+          "n": 24,
+          "title": "Les gardiens d’un autre monde",
+          "id": "6z590kksg2r8"
+        },
+        {
+          "n": 25,
+          "title": "L’avènement du héros au bouclier",
+          "id": "lpsjkq6rf04t"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Un nouveau cri",
+          "id": "o0gx09epygly"
+        },
+        {
+          "n": 2,
+          "title": "Les traces de la tortue spirituelle",
+          "id": "ru6lbcxfayuc"
+        },
+        {
+          "n": 3,
+          "title": "La terre tremble",
+          "id": "4nzjfj816371"
+        },
+        {
+          "n": 4,
+          "title": "Vestiges dans le brouillard",
+          "id": "yk1r4ab5iz2d"
+        },
+        {
+          "n": 5,
+          "title": "Aust Penglai",
+          "id": "0m5ezrpzeajw"
+        },
+        {
+          "n": 6,
+          "title": "Poursuite",
+          "id": "qbtf2816ogyi"
+        },
+        {
+          "n": 7,
+          "title": "Labyrinthe infini",
+          "id": "pdztkgmu1onb"
+        },
+        {
+          "n": 8,
+          "title": "Départ enneigé",
+          "id": "4dz2wysbw4wc"
+        },
+        {
+          "n": 9,
+          "title": "La nymphe qui fredonne",
+          "id": "n0v7v6016hl3"
+        },
+        {
+          "n": 10,
+          "title": "Le héros à l’épée",
+          "id": "wjzhsgmltmr4"
+        },
+        {
+          "n": 11,
+          "title": "Kizuna",
+          "id": "029cnh3thuiw"
+        },
+        {
+          "n": 12,
+          "title": "Raison de combattre",
+          "id": "x0nskym88r8z"
+        },
+        {
+          "n": 13,
+          "title": "Fleurs de souvenirs",
+          "id": "0hcu9syuvdoc"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le Colisée de l’ombre",
+          "id": "vcdcgb2wervs"
+        },
+        {
+          "n": 2,
+          "title": "Nadia",
+          "id": "008zt95hnhap"
+        },
+        {
+          "n": 3,
+          "title": "La fratrie des tigres blancs",
+          "id": "dcoclcgomwzj"
+        },
+        {
+          "n": 4,
+          "title": "Plan de capture du héros à la lance",
+          "id": "v4uvna1wd9lj"
+        },
+        {
+          "n": 5,
+          "title": "Chacun son chemin",
+          "id": "755wpi7rjcn9"
+        },
+        {
+          "n": 6,
+          "title": "La pointe de lance de la force",
+          "id": "lsgkkgon0ybw"
+        },
+        {
+          "n": 7,
+          "title": "La fille et le dragon",
+          "id": "a42lcyk5nnj1"
+        },
+        {
+          "n": 8,
+          "title": "Le nid du dragon",
+          "id": "v36rb42pkr4r"
+        },
+        {
+          "n": 9,
+          "title": "Dragon démoniaque",
+          "id": "yl12gqjdl3ns"
+        },
+        {
+          "n": 10,
+          "title": "Perfect = Hide = Justice",
+          "id": "gqjkyrttuu9e"
+        },
+        {
+          "n": 11,
+          "title": "Justice contre justice",
+          "id": "gjfg47l190uo"
+        },
+        {
+          "n": 12,
+          "title": "Ceux qu’il faut protéger",
+          "id": "uk6wnirg56gd"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Saison 4",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Siltvelt",
+          "id": "iqv9afk3bn4x"
+        },
+        {
+          "n": 2,
+          "title": "Hospitalité",
+          "id": "92dav1mmacv4"
+        },
+        {
+          "n": 3,
+          "title": "Ce que sont de vrais sujets",
+          "id": "hwt61df8l6r7"
+        },
+        {
+          "n": 4,
+          "title": "Le pouvoir confié",
+          "id": "2ky9qorn5z3z"
+        },
+        {
+          "n": 5,
+          "title": "Tigre blanc",
+          "id": "1mbqsajok2tb"
+        },
+        {
+          "n": 6,
+          "title": "Départ",
+          "id": "3u4rmiru4bzq"
+        },
+        {
+          "n": 7,
+          "title": "Débarquement à Q’ten Lo",
+          "id": "vb7tiixd804o"
+        },
+        {
+          "n": 8,
+          "title": "Grand Boa",
+          "id": "38sj8kec0r7x"
+        },
+        {
+          "n": 9,
+          "title": "Zodia",
+          "id": "as043dxl2zyj"
+        },
+        {
+          "n": 10,
+          "title": "Prière",
+          "id": "b0wqj6xu8tt8"
+        },
+        {
+          "n": 11,
+          "title": "La prêtresse de l’Oracle",
+          "id": "75lrt1m5bej3"
+        },
+        {
+          "n": 12,
+          "title": "Le retour de l’Impératrice",
+          "id": "j7kv7ch976a9"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/the-rising-of-the-shield-hero/",
+  "tmdbId": 83095
+}

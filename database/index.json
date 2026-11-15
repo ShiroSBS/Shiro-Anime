@@ -860,5 +860,27 @@
     "statusLabel": "Terminé",
     "poster": "https://image.tmdb.org/t/p/w780/96R4bV7dB8ramaWceNKsxvJgCUd.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/gDvxT2z6TNxervG97WfpePRZ3aR.jpg"
+  },
+  {
+    "id": "psycho-pass",
+    "title": "Psycho Pass",
+    "description": "L'histoire se déroule dans un futur où il est désormais possible de quantifier l'état mental d'une personne, ceci est désigné par le terme Psycho-Pass. Grâce à ce système, il est possible de repérer les criminels en devenir.\n\nLa Section d'Investigation Criminelle pour laquelle travaille Shinya Kogami est chargée d'appliquer les mesures lorsqu'un individu est jugé dangereux. Akane Tsunemori est une fraîche recrue qui intègre tout juste la section et qui se rendra vite compte que sur le terrain, les choses ne sont pas comme elle les a apprises.",
+    "genres": [
+      "Action",
+      "Drame",
+      "Psychologique",
+      "Science",
+      "fiction",
+      "Thriller",
+      "Crime",
+      "Fantastique",
+      "Aventure"
+    ],
+    "rating": "8.1",
+    "year": "2012",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "poster": "https://image.tmdb.org/t/p/w780/uWnP6qTcc4imPJ9ZHaXlPQlcYnB.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/4z8u57awz954GRuK7W86HlhyeeM.jpg"
   }
 ]

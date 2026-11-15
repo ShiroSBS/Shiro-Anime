@@ -19,29 +19,6 @@
     ]
   },
   {
-    "id": "naruto",
-    "title": "Naruto",
-    "poster": "https://i.imgur.com/P7cVXE8.jpeg",
-    "rating": "8.0",
-    "year": "2002",
-    "status": "termine",
-    "statusLabel": "Terminé",
-    "genres": [
-      "Action",
-      "Aventure",
-      "Comédie",
-      "Drame",
-      "Fantasy",
-      "Shônen",
-      "Surnaturel",
-      "Tournois",
-      "Kaï",
-      "Science",
-      "Fiction",
-      "Fantastique"
-    ]
-  },
-  {
     "id": "naruto-shippuden",
     "title": "Naruto Shippuden",
     "poster": "https://i.imgur.com/qF3x25u.jpeg",
@@ -926,5 +903,30 @@
     "statusLabel": "Terminé",
     "poster": "https://image.tmdb.org/t/p/w780/xOHfmElQRMRTAD11uMHsRH7X6UH.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/zhtEYosjlYtNavbvImxcs36We4i.jpg"
+  },
+  {
+    "id": "naruto",
+    "title": "Naruto",
+    "description": "Dans le village de Konoha vit Naruto, un jeune garçon détesté et craint des villageois du fait qu'il détienne en lui Kyuubi (démon renard à neuf queues) d'une incroyable force, qui a tué un grand nombre de personnes. Le ninja le plus puissant de Konoha à l'époque, le quatrième Hokage, Minato Namikaze, réussit à sceller ce démon dans le corps de Naruto.\nMalheureusement il y laissa la vie.\n\nC'est ainsi que douze ans plus tard, Naruto rêve de devenir le plus grand Hokage de Konoha afin que tous le reconnaissent à sa juste valeur. Mais la route pour devenir Hokage est très longue et Naruto sera confronté à un bon nombre d'épreuves et devra affronter de nombreux ennemis pour atteindre son but !",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Drame",
+      "Fantasy",
+      "Shônen",
+      "Surnaturel",
+      "Tournois",
+      "Kaï",
+      "Science",
+      "fiction",
+      "Fantastique"
+    ],
+    "rating": "8.0",
+    "year": "2002",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "poster": "https://image.tmdb.org/t/p/w780/ekkT8myO7RcmcR7odMAXOC3b5IZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg"
   }
 ]

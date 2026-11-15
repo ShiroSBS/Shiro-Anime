@@ -1,0 +1,194 @@
+{
+  "id": "steins-gate",
+  "title": "Steins Gate",
+  "poster": "https://image.tmdb.org/t/p/w780/96R4bV7dB8ramaWceNKsxvJgCUd.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/36Ech63X2KU8JUXIBAo167kIC2k.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/96R4bV7dB8ramaWceNKsxvJgCUd.jpg",
+  "description": "Dans un quartier d'Otaku à Akihabara, un groupe d'amis modifient leurs micro-ondes de manière à en faire un dispositif qui leur permet d'envoyer des messages écrits vers le passé.\nUne organisation, CERN, a mené différentes recherches à propos des voyages temporels.\nÀ présent, le groupe, ayant effectué plusieurs expériences diverses, doit absolument éviter de se faire capturer par cette organisation qui les perturbe en les traquant...",
+  "genres": [
+    "Comédie",
+    "Drame",
+    "Mystère",
+    "Psychologique",
+    "Romance",
+    "Science",
+    "fiction",
+    "Thriller",
+    "Animation",
+    "Fantastique"
+  ],
+  "rating": "8.9",
+  "year": "2011",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Steins Gate",
+  "stats": [
+    {
+      "v": "1",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.9",
+      "l": "Note"
+    },
+    {
+      "v": "2011",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.9"
+    },
+    {
+      "text": "🎬 1 Saisons · 25 Éps"
+    },
+    {
+      "text": "📅 2011"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Steins;Gate",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "w4h2mttdrxja"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "u0zaapodggm5"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "5350b2t4bweu"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "9xoo5id1urss"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "7xdbo2i7xr6x"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "eyxk5um0nx35"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "vkeqtm8rd2gd"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "rd2apjgq1039"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "l680405nn01h"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "j33spwwpmqed"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "5oqxprqmq3jx"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "2w86upsywi3o"
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": "cclko71yxeop"
+        },
+        {
+          "n": 14,
+          "title": "Épisode 14",
+          "id": "hzx80eh9hieg"
+        },
+        {
+          "n": 15,
+          "title": "Épisode 15",
+          "id": "ngn15r80m2rh"
+        },
+        {
+          "n": 16,
+          "title": "Épisode 16",
+          "id": "d8x4gsdvm599"
+        },
+        {
+          "n": 17,
+          "title": "Épisode 17",
+          "id": "si90g7b5f4pa"
+        },
+        {
+          "n": 18,
+          "title": "Épisode 18",
+          "id": "7gizoahagdkr"
+        },
+        {
+          "n": 19,
+          "title": "Épisode 19",
+          "id": "g5ccuw7sidm7"
+        },
+        {
+          "n": 20,
+          "title": "Épisode 20",
+          "id": "pcqfs3m09bpv"
+        },
+        {
+          "n": 21,
+          "title": "Épisode 21",
+          "id": "cowaczhqy8ff"
+        },
+        {
+          "n": 22,
+          "title": "Épisode 22",
+          "id": "zljk1wqkz9rj"
+        },
+        {
+          "n": 23,
+          "title": "Épisode 23",
+          "id": "hkb9clh6qhdf"
+        },
+        {
+          "n": 24,
+          "title": "Épisode 24",
+          "id": "782xnae0hke2"
+        },
+        {
+          "n": 25,
+          "title": "Épisode 25",
+          "id": "vtd5ds0ujnji"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/steins-gate/",
+  "tmdbId": 42509
+}

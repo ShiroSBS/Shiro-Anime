@@ -620,5 +620,24 @@
     "statusLabel": "Terminé",
     "poster": "https://image.tmdb.org/t/p/w780/sQ6nRFLRLFrpJu3fDs9D5EzlKh2.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/5CGM0vQpq0QBcslUXqoo0unlGPZ.jpg"
+  },
+  {
+    "id": "haikyuu",
+    "title": "Haikyuu",
+    "description": "Shôyô Hinata, surnommé Shô, aime plus que tout jouer au volley-ball et ce, malgré sa petite taille. Malheureusement, suite à une sévère défaite, son club de collège a été dissous, tous les membres étant partis.\nMais Shô est bien décidé à jouer de nouveau et choisit son futur lycée en fonction de son ambition. Il intègre donc le lycée Karasuno, où a joué son idole, le Petit Géant, tout en espérant faire aussi bien que lui.",
+    "genres": [
+      "Action",
+      "Sport",
+      "Comédie",
+      "Shônen",
+      "Tournois",
+      "Drame"
+    ],
+    "rating": "8.3",
+    "year": "2014",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "poster": "https://image.tmdb.org/t/p/w780/8WEr48swcqe89Zsy5sdrGCASlIg.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg"
   }
 ]

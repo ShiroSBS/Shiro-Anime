@@ -1,0 +1,641 @@
+{
+  "id": "sword-art-online",
+  "title": "Sword Art Online",
+  "poster": "https://image.tmdb.org/t/p/w780/p8KOAD8CQpjnvge8v2O357uBbPj.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6ip9uRTyzdzsKoroCopKblDqfOk.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/p8KOAD8CQpjnvge8v2O357uBbPj.jpg",
+  "description": "En 2022, l'humanité a réussi à créer une réalité virtuelle. Grâce à un casque, les humains peuvent se plonger entièrement dans le monde virtuel en étant comme déconnectés de la réalité, et Sword Art Online est le premier MMORPG a utiliser ce système. Mais voila que le premier jour de jeu, 10 000 personnes se retrouvent piégées dans cette réalité virtuelle par son créateur : Akihiko Kayaba. Le seul moyen d'en sortir est de finir le jeu. Mais ce ne sera pas facile de sortir de ce monde virtuel puisque si un joueur perd la partie, il meurt également dans la vraie vie.\nKirito décide alors de partir à la conquête du jeu en solo, avec pour avantage le fait de faire partie des 1 000 ex-bêta-testeurs, mais arrivera-t-il à terminer les 99 donjons et leurs boss ?",
+  "genres": [
+    "Action",
+    "Drame",
+    "Fantasy",
+    "Romance",
+    "Science",
+    "fiction",
+    "Fantastique",
+    "Aventure"
+  ],
+  "rating": "7.0",
+  "year": "2012",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Sword Art Online",
+  "stats": [
+    {
+      "v": "5",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.0",
+      "l": "Note"
+    },
+    {
+      "v": "2012",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.0"
+    },
+    {
+      "text": "🎬 5 Saisons · 110 Éps"
+    },
+    {
+      "text": "📅 2012"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le Monde de l'épée",
+          "id": "gd4ix7rdot5x"
+        },
+        {
+          "n": 2,
+          "title": "Batteur",
+          "id": "rjh8cwt6flei"
+        },
+        {
+          "n": 3,
+          "title": "Le Renne au nez rouge",
+          "id": "n71b0jhi6u1i"
+        },
+        {
+          "n": 4,
+          "title": "L'Épéiste noir",
+          "id": "yjnf3f8bcspr"
+        },
+        {
+          "n": 5,
+          "title": "Incident interne",
+          "id": "4ch0hqld5aax"
+        },
+        {
+          "n": 6,
+          "title": "Le Fantôme vengeur",
+          "id": "vkr9w0ngkh0r"
+        },
+        {
+          "n": 7,
+          "title": "La Température du cœur",
+          "id": "8awoa6j8653k"
+        },
+        {
+          "n": 8,
+          "title": "La Danse de l'épée noire et blanche",
+          "id": "zjf154bp6v2p"
+        },
+        {
+          "n": 9,
+          "title": "Le Démon aux yeux azur",
+          "id": "h19x25151n8j"
+        },
+        {
+          "n": 10,
+          "title": "Intentions meurtrières rouge sang",
+          "id": "qo4qsvpz5hzd"
+        },
+        {
+          "n": 11,
+          "title": "La Jeune fille de la rosée du matin",
+          "id": "78q52ghlnefk"
+        },
+        {
+          "n": 12,
+          "title": "Le Cœur de Yui",
+          "id": "bnp7ge20jn45"
+        },
+        {
+          "n": 13,
+          "title": "Les Abîmes de l'enfer",
+          "id": "s6bkztj9c45c"
+        },
+        {
+          "n": 14,
+          "title": "La Fin du monde",
+          "id": "ije6yi80g6yc"
+        },
+        {
+          "n": 15,
+          "title": "Le Retour au monde réel",
+          "id": "8s40wixe7k3r"
+        },
+        {
+          "n": 16,
+          "title": "Le Monde des fées",
+          "id": "kzho4t073ebx"
+        },
+        {
+          "n": 17,
+          "title": "La Reine prisonnières",
+          "id": "6go7skdiv9xm"
+        },
+        {
+          "n": 18,
+          "title": "L'Arbre du monde",
+          "id": "v13e1118zq54"
+        },
+        {
+          "n": 19,
+          "title": "Ruger Corridor",
+          "id": "qlzwjnp6ar6b"
+        },
+        {
+          "n": 20,
+          "title": "Le Général impétueux",
+          "id": "p9ggk6szv3pa"
+        },
+        {
+          "n": 21,
+          "title": "La Vérité sur Alfheim",
+          "id": "8nqq633y2jvj"
+        },
+        {
+          "n": 22,
+          "title": "La Grande quête",
+          "id": "ctojgpazw1z6"
+        },
+        {
+          "n": 23,
+          "title": "Le Lien",
+          "id": "v5frbau4ulvt"
+        },
+        {
+          "n": 24,
+          "title": "Héros en armure",
+          "id": "rft9llrq9i9n"
+        },
+        {
+          "n": 25,
+          "title": "La Graine du monde",
+          "id": "g80g2mc9c6x0"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "r8pih8q3eehh"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "hk7txljj6cvg"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "hvdu9qzz4h4x"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "7u4895ho3295"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "cd1q05bh46tn"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "0fvpc9lzxvs7"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "5cdsdkwusosi"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "vivso12nwhin"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "3dybb190a3wp"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "aqz39uuj304y"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "1fas46b9uw7p"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "a312s1pbj49e"
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": "ay5helvm4mef"
+        },
+        {
+          "n": 14,
+          "title": "Épisode 14",
+          "id": "x2seuacs60dq"
+        },
+        {
+          "n": 15,
+          "title": "Episode 14.5",
+          "id": "sgpn71xdgpdg"
+        },
+        {
+          "n": 16,
+          "title": "Épisode 16",
+          "id": "1wo3pi9syuos"
+        },
+        {
+          "n": 17,
+          "title": "Épisode 17",
+          "id": "a6o1jz9zhefx"
+        },
+        {
+          "n": 18,
+          "title": "Épisode 18",
+          "id": "tmk0yj7h05fo"
+        },
+        {
+          "n": 19,
+          "title": "Épisode 19",
+          "id": "6sr1pzkzmx0s"
+        },
+        {
+          "n": 20,
+          "title": "Épisode 20",
+          "id": "27g1q3f180sf"
+        },
+        {
+          "n": 21,
+          "title": "Épisode 21",
+          "id": "1u5b97lfmcp4"
+        },
+        {
+          "n": 22,
+          "title": "Épisode 22",
+          "id": "pjivfepjyptj"
+        },
+        {
+          "n": 23,
+          "title": "Épisode 23",
+          "id": "vmmctehk0obk"
+        },
+        {
+          "n": 24,
+          "title": "Épisode 24",
+          "id": "gbc1ic2cu1ur"
+        },
+        {
+          "n": 25,
+          "title": "Épisode 25",
+          "id": "e1f9imjlilz9"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Autre monde",
+          "id": "hgv9g8lyeg58"
+        },
+        {
+          "n": 2,
+          "title": "L'Arbre du demon",
+          "id": "oi0sv39dd8j7"
+        },
+        {
+          "n": 3,
+          "title": "Les Massifs lointains",
+          "id": "tmm0myeipkbi"
+        },
+        {
+          "n": 4,
+          "title": "Départ",
+          "id": "yrvzx9inhske"
+        },
+        {
+          "n": 5,
+          "title": "Tortue marine",
+          "id": "mdsqho9tis72"
+        },
+        {
+          "n": 6,
+          "title": "Projet Alicization",
+          "id": "4kqdheb5by1b"
+        },
+        {
+          "n": 7,
+          "title": "L'École de l'épée",
+          "id": "72f76aaephi1"
+        },
+        {
+          "n": 8,
+          "title": "L'Orgueil d'un épéiste",
+          "id": "rjxj1amje5e3"
+        },
+        {
+          "n": 9,
+          "title": "Les Devoirs des nobles",
+          "id": "qaj59mybrwv4"
+        },
+        {
+          "n": 10,
+          "title": "La Table des interdits",
+          "id": "fas7nieg4ocz"
+        },
+        {
+          "n": 11,
+          "title": "La Cathédrale centrale",
+          "id": "2u3aeobtqc17"
+        },
+        {
+          "n": 12,
+          "title": "Le Sage de la bibliothèque",
+          "id": "hk0eym52pebz"
+        },
+        {
+          "n": 13,
+          "title": "Le Plan de Cardinal !",
+          "id": "32o1i7k1gfys"
+        },
+        {
+          "n": 14,
+          "title": "Le Chevalier écarlate",
+          "id": "e01tnix2ojke"
+        },
+        {
+          "n": 15,
+          "title": "Le Chevalier du soleil ardent",
+          "id": "w6b2yrdeyrwv"
+        },
+        {
+          "n": 16,
+          "title": "Le Chevalier d'Osmanthe",
+          "id": "qj88j8duddca"
+        },
+        {
+          "n": 17,
+          "title": "La Trêve",
+          "id": "uqu2c1l4p4jk"
+        },
+        {
+          "n": 18,
+          "title": "Le Héros légendaire",
+          "id": "4rmzd2y0w718"
+        },
+        {
+          "n": 19,
+          "title": "Le Sceau de l'œil droit",
+          "id": "j1iougwogp47"
+        },
+        {
+          "n": 20,
+          "title": "Synthesize",
+          "id": "4k0niq5vmi9t"
+        },
+        {
+          "n": 21,
+          "title": "Le 32e chevalier",
+          "id": "g9hqerhqxx2n"
+        },
+        {
+          "n": 22,
+          "title": "Le Géant d'épées",
+          "id": "h466xz6frt8u"
+        },
+        {
+          "n": 23,
+          "title": "Administrateur",
+          "id": "5j1j4axhcq30"
+        },
+        {
+          "n": 24,
+          "title": "Mon héros",
+          "id": "ucrdz16z1htx"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Saison 4",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Dans les terres septentrionales",
+          "id": "r4ytfbnwvcaf"
+        },
+        {
+          "n": 2,
+          "title": "L'Attaque",
+          "id": "0utdsr3qovbc"
+        },
+        {
+          "n": 3,
+          "title": "Le Dernier test de charge",
+          "id": "zh2dnngn9nxf"
+        },
+        {
+          "n": 4,
+          "title": "Territoire obscur",
+          "id": "d7u7fk6az7tt"
+        },
+        {
+          "n": 5,
+          "title": "La Veille du combat",
+          "id": "ddwb18y2zsg3"
+        },
+        {
+          "n": 6,
+          "title": "Le Combat des chevaliers",
+          "id": "9gt8fipdwfq7"
+        },
+        {
+          "n": 7,
+          "title": "Le Sceau des défaits",
+          "id": "0k4dj3b9ectb"
+        },
+        {
+          "n": 8,
+          "title": "De sang et de vie",
+          "id": "j4eydvjz41c4"
+        },
+        {
+          "n": 9,
+          "title": "D'épée et de poing",
+          "id": "q85yti6kpc4g"
+        },
+        {
+          "n": 10,
+          "title": "La Déesse créatrice, Stacia",
+          "id": "1chal48n0sys"
+        },
+        {
+          "n": 11,
+          "title": "Choix impitoyable",
+          "id": "kd34v9mo85ca"
+        },
+        {
+          "n": 12,
+          "title": "Rayon de lumière",
+          "id": "kiuxf1v4v1te"
+        },
+        {
+          "n": 13,
+          "title": "La Grande guerre de l'Underworld",
+          "id": "yh4l9olj6hfe"
+        },
+        {
+          "n": 14,
+          "title": "Au bout de l'infini",
+          "id": "wrfhwhqkdeh3"
+        },
+        {
+          "n": 15,
+          "title": "Agitation",
+          "id": "9p8gl86x5jaj"
+        },
+        {
+          "n": 16,
+          "title": "Code 871",
+          "id": "8u57suhcpuad"
+        },
+        {
+          "n": 17,
+          "title": "Le Fils du malin",
+          "id": "9yselbvk3i46"
+        },
+        {
+          "n": 18,
+          "title": "Souvenirs",
+          "id": "r5dwhn650zd7"
+        },
+        {
+          "n": 19,
+          "title": "L'Éveil",
+          "id": "p6v3c80fadk3"
+        },
+        {
+          "n": 20,
+          "title": "L'Épée du ciel nocturne",
+          "id": "7r7zpfbwie5w"
+        },
+        {
+          "n": 21,
+          "title": "Par-delà le temps",
+          "id": "caxcvvwn1y0e"
+        },
+        {
+          "n": 22,
+          "title": "Alice",
+          "id": "z0uot6ur56km"
+        },
+        {
+          "n": 23,
+          "title": "Monde nouveau",
+          "id": "t888qwke4eat"
+        }
+      ]
+    },
+    "5": {
+      "label": "Saison 5",
+      "title": "Alternative Gun Gale Online Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Érase una extradición",
+          "id": "n9jz7oidofv0"
+        },
+        {
+          "n": 2,
+          "title": "Érase un colapso",
+          "id": "l1mhds3vfun0"
+        },
+        {
+          "n": 3,
+          "title": "Érase un robot de cocina",
+          "id": "iopk8u3tquiq"
+        },
+        {
+          "n": 4,
+          "title": "Érase un presidente de vacaciones",
+          "id": "mq29peq8x7co"
+        },
+        {
+          "n": 5,
+          "title": "Érase un anuncio",
+          "id": "0nparrtzrgti"
+        },
+        {
+          "n": 6,
+          "title": "Érase un billete de cincuenta euros",
+          "id": "o4rx78gzdh3i"
+        },
+        {
+          "n": 7,
+          "title": "Érase un escándalo",
+          "id": "zt4ie9sv8pta"
+        },
+        {
+          "n": 8,
+          "title": "Érase un descubrimiento macabro",
+          "id": "trcsp1eo3vom"
+        },
+        {
+          "n": 9,
+          "title": "Érase una emisora pirata",
+          "id": "83q5o5cv7jjc"
+        },
+        {
+          "n": 10,
+          "title": "Érase un funeral con sorpresa",
+          "id": "36u1gl5fcoxu"
+        },
+        {
+          "n": 11,
+          "title": "Érase una lista de bodas",
+          "id": "f5meb75mpffe"
+        },
+        {
+          "n": 12,
+          "title": "Érase un paripé",
+          "id": "2pgmkkiu6jhg"
+        },
+        {
+          "n": 13,
+          "title": "Érase un adiós",
+          "id": "jgk14crvt42n"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/sword-art-online/",
+  "tmdbId": 45782
+}

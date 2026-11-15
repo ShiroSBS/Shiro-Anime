@@ -902,5 +902,29 @@
     "statusLabel": "Terminé",
     "poster": "https://i.imgur.com/oKRIt2a.jpeg",
     "banner": "https://i.imgur.com/7QDc7Sz.jpeg"
+  },
+  {
+    "id": "inazuma-eleven",
+    "title": "Inazuma Eleven",
+    "description": "Inazuma eleven est à la base un RPG de football lorsqu'il se transpose par la suite en anime. Se basant sur le jeu, l'anime relate les aventures de Endou Mamoru, un gardien de but talentueux, inscrit dans le club de foot de son collège Raimon ainsi que 5 autres membres. Cependant, leur minorité actuelle et la nonchalance de ses coéquipiers les empêche d'être pris au sérieux par les autres clubs. En conséquence, le fille du directeur leur lance un ultimatum : ils doivent gagner un match contre l'académie de Teikoku, une équipe puissante. Endou, plus que jamais motivé se lance à la recherche d'autres membres dans l'espoir de garder son club et ensuite de participer au fameux tournoi du 'Football Frontier'.",
+    "genres": [
+      "Amitié",
+      "Football",
+      "Jeux",
+      "Sport",
+      "Tournois",
+      "Shônen",
+      "Science",
+      "fiction",
+      "Fantastique",
+      "Drame",
+      "Surnaturel"
+    ],
+    "rating": "7.7",
+    "year": "2008",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "poster": "https://image.tmdb.org/t/p/w780/xOHfmElQRMRTAD11uMHsRH7X6UH.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/zhtEYosjlYtNavbvImxcs36We4i.jpg"
   }
 ]

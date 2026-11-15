@@ -562,5 +562,26 @@
     "statusLabel": "Terminé",
     "poster": "https://image.tmdb.org/t/p/w780/axws4rIfl3W2fcT7Pu81D8J1hHO.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/xkNnQ3IGGRQcXnl1zTb5H6Vb3SP.jpg"
+  },
+  {
+    "id": "dr-stone",
+    "title": "Dr Stone",
+    "description": "Un jour, une lumière brillante apparaît subitement dans le ciel pétrifiant en une fraction de seconde l'humanité entière. Des millénaires plus tard, Taiju parvient à briser son enveloppe de pierre et découvre un monde où le genre humain a disparu de la surface de la terre. Avec son ami Senku, ils décident de récréer la civilisation à partir de zéro !",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Scientifique",
+      "Shônen",
+      "Comédie",
+      "Science",
+      "fiction",
+      "Fantastique"
+    ],
+    "rating": "8.1",
+    "year": "2019",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "poster": "https://image.tmdb.org/t/p/w780/xbZQ3fDl0y5mt0ARwfeyrgQ4JTw.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg"
   }
 ]

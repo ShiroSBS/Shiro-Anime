@@ -1,0 +1,262 @@
+{
+  "id": "blue-lock",
+  "title": "Blue Lock",
+  "poster": "https://image.tmdb.org/t/p/w780/fcKH1NQzoTXiYO1OrhaFFwTKhBp.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/d6fvIolrtAjhtqwvbthVWqbMBrL.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/fcKH1NQzoTXiYO1OrhaFFwTKhBp.jpg",
+  "description": "Coupe du monde 2018, l'équipe de football du Japon est éliminée en huitièmes de finale... Ce nouvel échec incite l'Union japonaise de football à fonder le 'Blue Lock' : un centre de formation révolutionnaire rassemblant les 300 meilleurs attaquants lycéens du pays. L'objectif du coach du Blue Lock, Jinpachi Ego, est clair : détecter l'unique attaquant qui écrasera tous ses rivaux par son talent et son hyper-individualisme ! Pour Yoichi Isagi, joueur bouillonnant encore inconnu, il n'y a pas d'alternative... S'il veut survivre au programme hautement sélectif qui l'attend, il devra abandonner le jeu collectif et se transcender pour devenir l'attaquant ultime !",
+  "genres": [
+    "Action",
+    "Drame",
+    "Psychologique",
+    "Shônen",
+    "Sport",
+    "Tournois",
+    "Aventure"
+  ],
+  "rating": "7.9",
+  "year": "2022",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Blue Lock",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.9",
+      "l": "Note"
+    },
+    {
+      "v": "2022",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.9"
+    },
+    {
+      "text": "🎬 2 Saisons · 38 Éps"
+    },
+    {
+      "text": "📅 2022"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Rêve",
+          "id": "qa7ze7g6twmn"
+        },
+        {
+          "n": 2,
+          "title": "Monstre",
+          "id": "qeflansqxg6u"
+        },
+        {
+          "n": 3,
+          "title": "Le « zéro » du football",
+          "id": "6igdat5sfvmq"
+        },
+        {
+          "n": 4,
+          "title": "Prémonition et intuition",
+          "id": "z2e041cmxhr0"
+        },
+        {
+          "n": 5,
+          "title": "Renaître",
+          "id": "qprg494i9nf4"
+        },
+        {
+          "n": 6,
+          "title": "Je suis désolé",
+          "id": "q4u1149jmc1j"
+        },
+        {
+          "n": 7,
+          "title": "Se précipiter",
+          "id": "pz2tiu1hx3eu"
+        },
+        {
+          "n": 8,
+          "title": "La formule des objectifs",
+          "id": "pykjs7jc0x26"
+        },
+        {
+          "n": 9,
+          "title": "Éveil",
+          "id": "l71m8qokmngh"
+        },
+        {
+          "n": 10,
+          "title": "Juste comme ça",
+          "id": "m3hi2tn8v6gv"
+        },
+        {
+          "n": 11,
+          "title": "La pièce finale",
+          "id": "tr784hagbqc6"
+        },
+        {
+          "n": 12,
+          "title": "La deuxième sélection",
+          "id": "pl1pua14w5lt"
+        },
+        {
+          "n": 13,
+          "title": "HAUT 3",
+          "id": "jr3jzx0qb2nm"
+        },
+        {
+          "n": 14,
+          "title": "Les génies et les gens ordinaires",
+          "id": "t08imgen4ui8"
+        },
+        {
+          "n": 15,
+          "title": "Dévorer",
+          "id": "dskbfr70aaxm"
+        },
+        {
+          "n": 16,
+          "title": "Tri-Fusion",
+          "id": "c3354d7t270v"
+        },
+        {
+          "n": 17,
+          "title": "Âne",
+          "id": "r3hljxfgex9t"
+        },
+        {
+          "n": 18,
+          "title": "La scène pour le leader",
+          "id": "2meirewpbew1"
+        },
+        {
+          "n": 19,
+          "title": "Garçon dansant",
+          "id": "98sohd8woxiq"
+        },
+        {
+          "n": 20,
+          "title": "Jeu Super Link-Up",
+          "id": "nexysyicsqwp"
+        },
+        {
+          "n": 21,
+          "title": "Je ne suis pas là",
+          "id": "fhdgpk023hvh"
+        },
+        {
+          "n": 22,
+          "title": "Voix",
+          "id": "v6b52yub6imy"
+        },
+        {
+          "n": 23,
+          "title": "Chance",
+          "id": "g4wnj1kkqmvo"
+        },
+        {
+          "n": 24,
+          "title": "Le moment est venu",
+          "id": "gvcocz8f2iec"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Essais",
+          "id": "hl4oztqpfwgm"
+        },
+        {
+          "n": 2,
+          "title": "L'Assassin et le Ninja",
+          "id": "e26bnxgf0p2g"
+        },
+        {
+          "n": 3,
+          "title": "Le monde des sentiments",
+          "id": "xkory9yi3glb"
+        },
+        {
+          "n": 4,
+          "title": "Caméléon",
+          "id": "b5ytexsf5kqi"
+        },
+        {
+          "n": 5,
+          "title": "Couler",
+          "id": "fvf4xuznxgnt"
+        },
+        {
+          "n": 6,
+          "title": "Grande scène",
+          "id": "zas3cu0c82m2"
+        },
+        {
+          "n": 7,
+          "title": "Itoshi Sae",
+          "id": "2hllevjpo9xk"
+        },
+        {
+          "n": 8,
+          "title": "Gènes bleus",
+          "id": "ibihb5r2oulg"
+        },
+        {
+          "n": 9,
+          "title": "Neige nocturne",
+          "id": "nt5pgwwi6akn"
+        },
+        {
+          "n": 10,
+          "title": "Les Subs montent sur scène",
+          "id": "0pls7dfdh6q8"
+        },
+        {
+          "n": 11,
+          "title": "Ce que vous nous avez appris",
+          "id": "5asce3gatt9t"
+        },
+        {
+          "n": 12,
+          "title": "Fleurs",
+          "id": "oq9eb40wnkik"
+        },
+        {
+          "n": 13,
+          "title": "Pas seul",
+          "id": "pfy34b348d1u"
+        },
+        {
+          "n": 14,
+          "title": "Dernière attaque",
+          "id": "dpl81wqjf780"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/blue-lock/",
+  "tmdbId": 131041
+}

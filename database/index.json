@@ -772,5 +772,26 @@
     "statusLabel": "Terminé",
     "poster": "https://image.tmdb.org/t/p/w780/722YXK2bm7Ht8AWFRRE73MjfYsc.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/wJzHFl5mq6JFbD6equTleJuzlnk.jpg"
+  },
+  {
+    "id": "overlord",
+    "title": "Overlord",
+    "description": "L'histoire débute dans un jeu qui se nomme Yggdrasil, le jeu le plus populaire du moment. Cependant ce dernier décide de fermer ses serveurs à minuit.\n\nNous suivons alors un joueur sous le pseudonyme de Momonga. Ce dernier est le chef de la guilde et décide, tout seul, d'attendre jusqu'à la fermeture du jeu. Problème, alors que minuit vient de passer, notre cher Momonga est toujours dans le jeu.\n\nC'est alors qu'il remarque rapidement que ce n'est plus le jeu auquel il passait ses journées. Les commandes du jeux n'existent plus et les PNJ sont devenus des êtres ayant des sentiments et une existence qui leur sont propres.\n\nBien que désorienté, Momonga prend rapidement les choses en main et décide de faire de son nom une légende grâce à ses Gardiens de niveaux.",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Fantasy",
+      "Science",
+      "fiction",
+      "Seinen",
+      "Isekai",
+      "Fantastique"
+    ],
+    "rating": "7.6",
+    "year": "2015",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "poster": "https://image.tmdb.org/t/p/w780/aSjpVCanDAwCopdjIgWwrxOWnWf.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg"
   }
 ]

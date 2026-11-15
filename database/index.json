@@ -837,5 +837,28 @@
     "statusLabel": "Terminé",
     "poster": "https://image.tmdb.org/t/p/w780/qf0l0nQ2t06Es3cSXflqx6l6vsJ.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/dOCpqck500K9JmdEIOye6Ivmoip.jpg"
+  },
+  {
+    "id": "steins-gate",
+    "title": "Steins Gate",
+    "description": "Dans un quartier d'Otaku à Akihabara, un groupe d'amis modifient leurs micro-ondes de manière à en faire un dispositif qui leur permet d'envoyer des messages écrits vers le passé.\nUne organisation, CERN, a mené différentes recherches à propos des voyages temporels.\nÀ présent, le groupe, ayant effectué plusieurs expériences diverses, doit absolument éviter de se faire capturer par cette organisation qui les perturbe en les traquant...",
+    "genres": [
+      "Comédie",
+      "Drame",
+      "Mystère",
+      "Psychologique",
+      "Romance",
+      "Science",
+      "fiction",
+      "Thriller",
+      "Animation",
+      "Fantastique"
+    ],
+    "rating": "8.9",
+    "year": "2011",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "poster": "https://image.tmdb.org/t/p/w780/96R4bV7dB8ramaWceNKsxvJgCUd.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/gDvxT2z6TNxervG97WfpePRZ3aR.jpg"
   }
 ]

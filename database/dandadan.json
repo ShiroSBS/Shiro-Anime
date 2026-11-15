@@ -1,0 +1,196 @@
+{
+  "id": "dandadan",
+  "title": "Dandadan",
+  "poster": "https://image.tmdb.org/t/p/w780/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
+  "description": "Momo Ayase et Ken Takakura sont tous deux lycéens. Tandis que la première croit aux fantômes, le second est fasciné par les extraterrestres. Évidemment, chacun se moque des croyances de l'autre. Incapables de se convaincre, ils se lancent un défi pour savoir lequel des deux a raison. Momo se retrouve dans un hôpital où des créatures de l'espace sont censées se trouver et Ken dans un tunnel hanté. C'est le début d'une romance survoltée où l'occulte, le paranormal et le surnaturel se bousculent dans un chaos haletant !",
+  "genres": [
+    "Action",
+    "Comédie",
+    "Horreur",
+    "Mystère",
+    "Romance",
+    "Aventure",
+    "Science",
+    "fiction",
+    "Fantastique",
+    "Drame",
+    "Surnaturel"
+  ],
+  "rating": "8.3",
+  "year": "2024",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Dandadan",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.3",
+      "l": "Note"
+    },
+    {
+      "v": "2024",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.3"
+    },
+    {
+      "text": "🎬 2 Saisons · 24 Éps"
+    },
+    {
+      "text": "📅 2024"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Serait-ce une romance qui commence ?",
+          "id": "x930et4kebxj"
+        },
+        {
+          "n": 2,
+          "title": "On dirait bien un extraterrestre !",
+          "id": "mqj1d4buntek"
+        },
+        {
+          "n": 3,
+          "title": "Le choc des vioques",
+          "id": "eipv5n71qh4x"
+        },
+        {
+          "n": 4,
+          "title": "Dégommons Mémé-Turbo !",
+          "id": "lw3tggpv33ud"
+        },
+        {
+          "n": 5,
+          "title": "Où sont passées ses baloches ?!",
+          "id": "sznyzu35c2ch"
+        },
+        {
+          "n": 6,
+          "title": "Celle-là, c'est un danger",
+          "id": "jn0pc89cl1p9"
+        },
+        {
+          "n": 7,
+          "title": "Un monde plus doux",
+          "id": "5wlj9zgfem4n"
+        },
+        {
+          "n": 8,
+          "title": "J'ai ce drôle de sentiment",
+          "id": "ro8brrecoyts"
+        },
+        {
+          "n": 9,
+          "title": "Fusion ! Serpo + Demon de Dover + Nessy !",
+          "id": "gw0qvwllbywk"
+        },
+        {
+          "n": 10,
+          "title": "La mutilation de bétail, vous connaissez ?",
+          "id": "cnnshcesurmf"
+        },
+        {
+          "n": 11,
+          "title": "Son premier amour",
+          "id": "m7ljigfdgbyv"
+        },
+        {
+          "n": 12,
+          "title": "En route pour la maison maudite !",
+          "id": "3j21q8bi9afn"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Like, This Is the Legend of the Giant Snake",
+          "id": "s0eujneryt7k"
+        },
+        {
+          "n": 2,
+          "title": "The Evil Eye",
+          "id": "ceb03r1s50yw"
+        },
+        {
+          "n": 3,
+          "title": "You Won't Get Away With This!",
+          "id": "uv94eqdvu20r"
+        },
+        {
+          "n": 4,
+          "title": "That's, Like, Way Deadly!",
+          "id": "ci6spcvpqcnu"
+        },
+        {
+          "n": 5,
+          "title": "We Can All Stay There Together!",
+          "id": "jd0mn7ndxr66"
+        },
+        {
+          "n": 6,
+          "title": "We Became a Family",
+          "id": "afmtv0wju547"
+        },
+        {
+          "n": 7,
+          "title": "Feeling Kinda Gloomy",
+          "id": "vvcyygrp3tgk"
+        },
+        {
+          "n": 8,
+          "title": "You Can Do It, Okarun!",
+          "id": "8i261rs06khr"
+        },
+        {
+          "n": 9,
+          "title": "I Want to Rebuild the House",
+          "id": "0bxb9q0la0bh"
+        },
+        {
+          "n": 10,
+          "title": "The Secret Art of Being Attractive",
+          "id": "dpii4bzgejde"
+        },
+        {
+          "n": 11,
+          "title": "Hey, It's a Kaiju",
+          "id": "exvthrrfhwog"
+        },
+        {
+          "n": 12,
+          "title": "Clash! Space Kaiju vs. Giant Robot!",
+          "id": "nn8anacz5edl"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/dandadan/",
+  "tmdbId": 240411
+}

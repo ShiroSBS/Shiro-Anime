@@ -1,0 +1,482 @@
+{
+  "id": "re-zero",
+  "title": "Re:Zero",
+  "poster": "https://image.tmdb.org/t/p/w780/6oMgY7vYeF0CJdyKMqM6ygLvdLt.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/6oMgY7vYeF0CJdyKMqM6ygLvdLt.jpg",
+  "description": "Un jour un jeune homme nommé Natsuki Subaru, à la sortie d'une supérette, est transporté dans un monde parallèle sans aucune explication. En essayant de comprendre pour quoi il se trouve ici, Subaru est attaqué par une bande de brigands mais est sauvé par une jeune fille : Emilia. Pour la remercier de l'aide qu'elle lui a fournie, il décide à son tour de l'aider à retrouver une voleuse qui lui a dérobé quelque chose.\n\nUn beau jour, Emilia et Subaru sont attaqués et tués par une mystérieuse personne. Cependant, Subaru se réveille au lieu et au jour où il est arrivé dans ce monde. C'est à ce moment-là qu'il se rend compte qu'il peut retourner dans le passé après être mort.\n\nPour échapper à son funeste destin, Subaru décide d'utiliser son pouvoir pour sauver Emilia et pour se sauver lui-même.",
+  "genres": [
+    "Comédie",
+    "Drame",
+    "Fantasy",
+    "Psychologique",
+    "Romance",
+    "Thriller",
+    "Isekai",
+    "Kaï",
+    "Action",
+    "Aventure",
+    "Mystère",
+    "Science",
+    "fiction",
+    "Fantastique"
+  ],
+  "rating": "8.1",
+  "year": "2016",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Re:Zero",
+  "stats": [
+    {
+      "v": "5",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.1",
+      "l": "Note"
+    },
+    {
+      "v": "2016",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.1"
+    },
+    {
+      "text": "🎬 5 Saisons · 77 Éps"
+    },
+    {
+      "text": "📅 2016"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1 Director's Cut",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "La fin du commencement et le début de la fin",
+          "id": "stmivapghhtq"
+        },
+        {
+          "n": 2,
+          "title": "Retrouvailles avec la sorcière",
+          "id": "9o5fuhu3r1pz"
+        },
+        {
+          "n": 3,
+          "title": "Une vie qui commence de zéro dans un autre monde",
+          "id": "x6bfzf6kfz9u"
+        },
+        {
+          "n": 4,
+          "title": "Dans l’intimité du manoir Roswaal",
+          "id": "s7t7fxe73d5h"
+        },
+        {
+          "n": 5,
+          "title": "Au loin, le matin promis",
+          "id": "091bjx9djked"
+        },
+        {
+          "n": 6,
+          "title": "Le cliquetis de la chaîne",
+          "id": "t3ihd65qvbb4"
+        },
+        {
+          "n": 7,
+          "title": "Retour à la case départ pour Subaru Natsuki",
+          "id": "nxc8jcs4923b"
+        },
+        {
+          "n": 8,
+          "title": "Pleure, pleure encore, puis sèche tes larmes",
+          "id": "x7oej5p1pauo"
+        },
+        {
+          "n": 9,
+          "title": "Le sens du courage",
+          "id": "xaebswtksc94"
+        },
+        {
+          "n": 10,
+          "title": "Une méthode d’ogre",
+          "id": "4hrbep29im5h"
+        },
+        {
+          "n": 11,
+          "title": "Rem",
+          "id": "y9czzqo5kfk0"
+        },
+        {
+          "n": 12,
+          "title": "Retour à la capitale",
+          "id": "dbms9bgydyce"
+        },
+        {
+          "n": 13,
+          "title": "Subaru Natsuki, chevalier autoproclamé",
+          "id": "j78g5dtknfdw"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Each One's Promise",
+          "id": "pgpscjq20213"
+        },
+        {
+          "n": 2,
+          "title": "The Next Location",
+          "id": "lwde430wlhik"
+        },
+        {
+          "n": 3,
+          "title": "The Long-Awaited Reunion",
+          "id": "fn08nl0sxzok"
+        },
+        {
+          "n": 4,
+          "title": "Parent and Child",
+          "id": "8mkto0rhfrmz"
+        },
+        {
+          "n": 5,
+          "title": "A Step Forward",
+          "id": "x6jouryk8q3d"
+        },
+        {
+          "n": 6,
+          "title": "The Maiden's Gospel",
+          "id": "qqe290rib2wj"
+        },
+        {
+          "n": 7,
+          "title": "Friend",
+          "id": "lm6pb8nb06ba"
+        },
+        {
+          "n": 8,
+          "title": "The Value of Life",
+          "id": "y3z6r2zsi9gk"
+        },
+        {
+          "n": 9,
+          "title": "Love Love Love Love Love Love You",
+          "id": "uzqeqh80hd08"
+        },
+        {
+          "n": 10,
+          "title": "I Know Hell",
+          "id": "kyq3ntvptlo3"
+        },
+        {
+          "n": 11,
+          "title": "The Taste of Death",
+          "id": "dnbzih51vcly"
+        },
+        {
+          "n": 12,
+          "title": "The Witches' Tea Party",
+          "id": "0auo7ri2xmf7"
+        },
+        {
+          "n": 13,
+          "title": "The Sounds That Make You Want to Cry",
+          "id": "j5lvynhggi12"
+        },
+        {
+          "n": 14,
+          "title": "Straight Bet",
+          "id": "xwzioltrdy6u"
+        },
+        {
+          "n": 15,
+          "title": "Otto Suwen / A Reason to Believe",
+          "id": "dsoncgdqslmp"
+        },
+        {
+          "n": 16,
+          "title": "Nobody Can Lift a Quain Stone Alone",
+          "id": "pl9tcfz9z4ba"
+        },
+        {
+          "n": 17,
+          "title": "A Journey Through Memories",
+          "id": "k8oand1gnv28"
+        },
+        {
+          "n": 18,
+          "title": "The Day Betelgeuse Laughed",
+          "id": "wine28j4807y"
+        },
+        {
+          "n": 19,
+          "title": "The Permafrost of Elior Forest",
+          "id": "pacnar0f8sgj"
+        },
+        {
+          "n": 20,
+          "title": "The Beginning of the Sanctuary and the Beginning of the End",
+          "id": "y1aoagdss3pl"
+        },
+        {
+          "n": 21,
+          "title": "Reunion of Roars",
+          "id": "ns6btcze3eh5"
+        },
+        {
+          "n": 22,
+          "title": "Happiness Reflected on the Water's Surface",
+          "id": "o72zj0oja5pa"
+        },
+        {
+          "n": 23,
+          "title": "Love Me Down to My Blood and Guts",
+          "id": "ns3ynkspwukw"
+        },
+        {
+          "n": 24,
+          "title": "Choose Me",
+          "id": "hjn0949ka562"
+        },
+        {
+          "n": 25,
+          "title": "Offbeat Steps Under the Moonlight",
+          "id": "4j34i1l9ox5p"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Theatrical Malice",
+          "id": "n2l3zso485lp"
+        },
+        {
+          "n": 2,
+          "title": "A Showdown of Fire and Ice",
+          "id": "hr5rc8bkf8f4"
+        },
+        {
+          "n": 3,
+          "title": "Gorgeous Tiger",
+          "id": "ztem5kvj0x5o"
+        },
+        {
+          "n": 4,
+          "title": "Operation: Take Back the Government Office",
+          "id": "avc30c15z08t"
+        },
+        {
+          "n": 5,
+          "title": "A Dark Torrent",
+          "id": "r1bfmlz70rqm"
+        },
+        {
+          "n": 6,
+          "title": "Conditions of the Knight",
+          "id": "ux4p17a0hpxc"
+        },
+        {
+          "n": 7,
+          "title": "The Newest of Heroes and the Most Ancient of Heroes",
+          "id": "th6eojiqz9yt"
+        },
+        {
+          "n": 8,
+          "title": "The One I'll Love Someday",
+          "id": "byr99fju065l"
+        },
+        {
+          "n": 9,
+          "title": "City Scramble",
+          "id": "rg1likzuliw7"
+        },
+        {
+          "n": 10,
+          "title": "The Plan to Conquer Greed",
+          "id": "ln9e3fgbv1aq"
+        },
+        {
+          "n": 11,
+          "title": "Liliana Masquerade",
+          "id": "e9jjva67lnjy"
+        },
+        {
+          "n": 12,
+          "title": "Regulus Corneas",
+          "id": "xeu1cqmnvy44"
+        },
+        {
+          "n": 13,
+          "title": "The Warrior's Commendation",
+          "id": "4q7oa3ekv24h"
+        },
+        {
+          "n": 14,
+          "title": "Theresia van Astrea",
+          "id": "5i3kq51mvif3"
+        },
+        {
+          "n": 15,
+          "title": "A Hideous Dinner Party",
+          "id": "21bsk4c2nozh"
+        },
+        {
+          "n": 16,
+          "title": "The Result of the Battle for Priestella",
+          "id": "1jltwbtzsmah"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Saison 4",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "The Reason I'm Taking You With Me / Gorgeous Tiger Reloaded",
+          "id": "lxhi9m865zcu"
+        },
+        {
+          "n": 2,
+          "title": "Overcome Sand Time",
+          "id": "uu7nkohdears"
+        },
+        {
+          "n": 3,
+          "title": "The Keeper of the Watchtower",
+          "id": "6ulmekn9hea3"
+        },
+        {
+          "n": 4,
+          "title": "A White Sky Asterism",
+          "id": "230otv983irk"
+        },
+        {
+          "n": 5,
+          "title": "Stick Swinger",
+          "id": "ean63aqsb6ku"
+        },
+        {
+          "n": 6,
+          "title": "Julius Juukulius",
+          "id": "zb38swxaap39"
+        },
+        {
+          "n": 7,
+          "title": "Walking Out of the Convenience Store and Into a Wondrous World",
+          "id": "phnai68ln5ea"
+        },
+        {
+          "n": 8,
+          "title": "Who Are You?",
+          "id": "ytkti9ekpied"
+        },
+        {
+          "n": 9,
+          "title": "Empty Shell",
+          "id": "qp0jwtpbqkyh"
+        },
+        {
+          "n": 10,
+          "title": "Murder Is a Habit",
+          "id": "ooz9x3wwhn93"
+        },
+        {
+          "n": 11,
+          "title": "Re:ZERO -Starting Life in Another World-",
+          "id": "vt6yyua6w81q"
+        },
+        {
+          "n": 12,
+          "title": "From Now On",
+          "id": "ermk0qvbiklp"
+        },
+        {
+          "n": 13,
+          "title": "Stand Up",
+          "id": "tgc412ba77el"
+        },
+        {
+          "n": 14,
+          "title": "Five Obstacles",
+          "id": "lkhjxfhvxowl"
+        },
+        {
+          "n": 15,
+          "title": "A Single-Minded Star",
+          "id": "1ss1igif1py0"
+        },
+        {
+          "n": 16,
+          "title": "Subaru Natsuki",
+          "id": "f39myekxy6df"
+        },
+        {
+          "n": 17,
+          "title": "Good Loser",
+          "id": "c1wnqs04x10w"
+        },
+        {
+          "n": 18,
+          "title": "Ram",
+          "id": "oj8hrn3722yf"
+        },
+        {
+          "n": 19,
+          "title": "Shaula / Hero",
+          "id": "ex1odrpy1pjj"
+        }
+      ]
+    },
+    "5": {
+      "label": "Saison 5",
+      "title": "Kai",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "5egw6fy2fai8"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "v2g3kyvsc1u7"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "neqnfdy8l5rl"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "ox3y4pdd7oih"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/re-zero/",
+  "tmdbId": 65942
+}

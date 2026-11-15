@@ -1,0 +1,449 @@
+{
+  "id": "kuroko-no-basket",
+  "title": "Kuroko no Basket",
+  "poster": "https://image.tmdb.org/t/p/w780/xdLZ2M1BRE5B4juZ6piJZUIcsMf.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fOyOP702oDeGyM2H4I8mQ5pdKne.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/xdLZ2M1BRE5B4juZ6piJZUIcsMf.jpg",
+  "description": "La Génération Miracle, la fameuse équipe du collège Teikou composée de cinq génies. Une légende raconte qu'un sixième membre fantôme aurait fait partie de cette équipe, un membre que les cinq autres respectaient et considéraient comme leur supérieur.\n\nC'est la rentrée des classes au lycée Seirin et le club de basket compte désormais dans ses rangs Taiga Kagami, joueur impulsif et prometteur revenu d'Amérique, qui rêve d'écraser la Génération Miracle et devenir le numéro 1 du Japon, et Kuroko Tetsuya, garçon très effacé que personne ne remarque et peu doué pour le basket. Ce dernier aurait pourtant fait partie de la fameuse équipe de Teikou, à la grande surprise de tout le monde. Très vite, Kuroko s'intéressera à Kagami et décidera de l'aider à devenir le meilleur du Japon...",
+  "genres": [
+    "Comédie",
+    "Drame",
+    "Sport"
+  ],
+  "rating": "7.8",
+  "year": "2012",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Kuroko no Basket",
+  "stats": [
+    {
+      "v": "3",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.8",
+      "l": "Note"
+    },
+    {
+      "v": "2012",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.8"
+    },
+    {
+      "text": "🎬 3 Saisons · 75 Éps"
+    },
+    {
+      "text": "📅 2012"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Kuroko, c'est moi",
+          "id": "kqdog2c872r2"
+        },
+        {
+          "n": 2,
+          "title": "Je suis très sérieux",
+          "id": "0ucb2uwyk78i"
+        },
+        {
+          "n": 3,
+          "title": "Vous êtes trop forts pour nous ? Parfait",
+          "id": "4xs9zd1jfxez"
+        },
+        {
+          "n": 4,
+          "title": "Je compte sur vous pour contre-attaquer !",
+          "id": "syrnob5qmv8d"
+        },
+        {
+          "n": 5,
+          "title": "Ton basket",
+          "id": "vys7clar56d7"
+        },
+        {
+          "n": 6,
+          "title": "Laisse-moi te dire deux choses",
+          "id": "j2u7wlqdbre3"
+        },
+        {
+          "n": 7,
+          "title": "Showtime",
+          "id": "k4jwao1uvg1c"
+        },
+        {
+          "n": 8,
+          "title": "Les choses sont très claires",
+          "id": "y3o0amch6r3d"
+        },
+        {
+          "n": 9,
+          "title": "Tout pour vaincre",
+          "id": "q1do91hyelfe"
+        },
+        {
+          "n": 10,
+          "title": "Ce serait embarrassant",
+          "id": "xqreodlbsr5y"
+        },
+        {
+          "n": 11,
+          "title": "Il ne s'agit pas de ça !",
+          "id": "jngd6swx0764"
+        },
+        {
+          "n": 12,
+          "title": "\"La victoire\", pour toi, c'est quoi ?",
+          "id": "5u6kcrahat8h"
+        },
+        {
+          "n": 13,
+          "title": "Je le savais",
+          "id": "3ti8w76p2vxu"
+        },
+        {
+          "n": 14,
+          "title": "Comme deux gouttes d'eau",
+          "id": "kunou1dxm181"
+        },
+        {
+          "n": 15,
+          "title": "Laisse-moi rire",
+          "id": "e8py3vv3h2zu"
+        },
+        {
+          "n": 16,
+          "title": "Quand faut y aller...",
+          "id": "4gqjqxjvad8k"
+        },
+        {
+          "n": 17,
+          "title": "Un ramassis de tarés",
+          "id": "wqj1lvsh7nuz"
+        },
+        {
+          "n": 18,
+          "title": "Abandonner, ça jamais !",
+          "id": "w5r4h7xgyyyb"
+        },
+        {
+          "n": 19,
+          "title": "Vers de nouveaux défis",
+          "id": "5lnsqcggvaxx"
+        },
+        {
+          "n": 20,
+          "title": "On dit pas « je veux » !",
+          "id": "hflxanrpgd20"
+        },
+        {
+          "n": 21,
+          "title": "C'est parti !",
+          "id": "4xktoz9p07t3"
+        },
+        {
+          "n": 22,
+          "title": "Même si ça doit me prendre toute une vie",
+          "id": "4hvpqenecwho"
+        },
+        {
+          "n": 23,
+          "title": "Immature !",
+          "id": "08a8asdq5x5u"
+        },
+        {
+          "n": 24,
+          "title": "Arrêtez de vous faire des films !",
+          "id": "ixduvk0o4ru9"
+        },
+        {
+          "n": 25,
+          "title": "Mon basket et le tien",
+          "id": "y4o96m60p8ky"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Une rencontre inattendue",
+          "id": "u5xwa4i5e0ak"
+        },
+        {
+          "n": 2,
+          "title": "Rendez-vous à la Winter Cup !",
+          "id": "tiamsvhtxk8j"
+        },
+        {
+          "n": 3,
+          "title": "Renaissance !",
+          "id": "i57c983tpmpv"
+        },
+        {
+          "n": 4,
+          "title": "Une seule réponse possible",
+          "id": "torfh45ro27r"
+        },
+        {
+          "n": 5,
+          "title": "On t'attendait",
+          "id": "7za9voxmpg1a"
+        },
+        {
+          "n": 6,
+          "title": "Il y a un moment que je les ai dépassées",
+          "id": "u48qvy0jsjy5"
+        },
+        {
+          "n": 7,
+          "title": "Abandonne !",
+          "id": "9leqiar7tv78"
+        },
+        {
+          "n": 8,
+          "title": "Le Club de basket-ball du lycée Seirin !",
+          "id": "rdw94bagxkvj"
+        },
+        {
+          "n": 9,
+          "title": "Je vais te battre !",
+          "id": "fovysc0pjum9"
+        },
+        {
+          "n": 10,
+          "title": "Confiance !",
+          "id": "qxxtog7zii51"
+        },
+        {
+          "n": 11,
+          "title": "Ras-le-bol !",
+          "id": "iw7q5ham4wjc"
+        },
+        {
+          "n": 12,
+          "title": "On compte sur votre indulgence",
+          "id": "yaxchstzpc3k"
+        },
+        {
+          "n": 13,
+          "title": "Je te le jure",
+          "id": "nfl6r3gy1f0a"
+        },
+        {
+          "n": 14,
+          "title": "Vains efforts",
+          "id": "gs7v4gwj7ihi"
+        },
+        {
+          "n": 15,
+          "title": "Grisé",
+          "id": "5uz1z30b85kb"
+        },
+        {
+          "n": 16,
+          "title": "On va gagner ici et maintenant !",
+          "id": "eczsfr4mqsjw"
+        },
+        {
+          "n": 17,
+          "title": "Episode 16.5",
+          "id": "m9n6jmkes2xj"
+        },
+        {
+          "n": 18,
+          "title": "Je perdrai pas",
+          "id": "4y5x32jmw5af"
+        },
+        {
+          "n": 19,
+          "title": "Apprends-moi",
+          "id": "tdfztwmlxb6j"
+        },
+        {
+          "n": 20,
+          "title": "Comment voulez-vous que ce soit simple ?",
+          "id": "jxx95fhmwlhx"
+        },
+        {
+          "n": 21,
+          "title": "Nos premiers points !",
+          "id": "ago5mzagyk0y"
+        },
+        {
+          "n": 22,
+          "title": "Mon choix est fait !",
+          "id": "iybm4ejitncx"
+        },
+        {
+          "n": 23,
+          "title": "Je refuse de perdre",
+          "id": "e7wiwvgtts08"
+        },
+        {
+          "n": 24,
+          "title": "J'en ai marre",
+          "id": "046h19h0vkz6"
+        },
+        {
+          "n": 25,
+          "title": "On va gagner !",
+          "id": "ixkmvlnicv41"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Je joue à fond, c'est tout",
+          "id": "55ho0d0qmywq"
+        },
+        {
+          "n": 2,
+          "title": "C'est à moi",
+          "id": "3trv1rk0gau3"
+        },
+        {
+          "n": 3,
+          "title": "Dégage de ma route !",
+          "id": "azup781zut3k"
+        },
+        {
+          "n": 4,
+          "title": "Je les prends !",
+          "id": "v9e41xahi02s"
+        },
+        {
+          "n": 5,
+          "title": "Je n'en connais pas !",
+          "id": "5j9wnuxwdi12"
+        },
+        {
+          "n": 6,
+          "title": "Je vous les offrirai !",
+          "id": "51oqhul5cwzi"
+        },
+        {
+          "n": 7,
+          "title": "J'en rirais presque !",
+          "id": "t6hgcu5ecaev"
+        },
+        {
+          "n": 8,
+          "title": "La véritable lumière",
+          "id": "1pzztexu0f5i"
+        },
+        {
+          "n": 9,
+          "title": "Ne nous sous-estimez-pas !",
+          "id": "hlgp17idtudf"
+        },
+        {
+          "n": 10,
+          "title": "Pour la victoire !",
+          "id": "nkampmp0modh"
+        },
+        {
+          "n": 11,
+          "title": "Cette fois sera la bonne !",
+          "id": "33onkrub7mxr"
+        },
+        {
+          "n": 12,
+          "title": "S'il y a un joueur ultime...",
+          "id": "ax7eg0vb8tiu"
+        },
+        {
+          "n": 13,
+          "title": "Un jour de ciel bleu",
+          "id": "roz9lvir6gnl"
+        },
+        {
+          "n": 14,
+          "title": "Désolé...",
+          "id": "sweeb1gx8fdk"
+        },
+        {
+          "n": 15,
+          "title": "C'est fini...",
+          "id": "p40k1qs04fs9"
+        },
+        {
+          "n": 16,
+          "title": "Qu'est-ce que la victoire ?",
+          "id": "zmxw8y5x1hbh"
+        },
+        {
+          "n": 17,
+          "title": "L'ultime Tip-Off !",
+          "id": "0siy9aite2bb"
+        },
+        {
+          "n": 18,
+          "title": "On ne peut pas rêver mieux, non ?",
+          "id": "o8ao84p4stxw"
+        },
+        {
+          "n": 19,
+          "title": "Il n'y aura pas de miracle",
+          "id": "2amftn1vxbiu"
+        },
+        {
+          "n": 20,
+          "title": "La volonté d'être une ombre",
+          "id": "37zuv6y7iwpf"
+        },
+        {
+          "n": 21,
+          "title": "Je suis au taquet, là !",
+          "id": "hk53l9n2afla"
+        },
+        {
+          "n": 22,
+          "title": "Ceci est un avertissement",
+          "id": null
+        },
+        {
+          "n": 23,
+          "title": "Pourquoi ne pas laisser tomber ?",
+          "id": "sxvwvecltygh"
+        },
+        {
+          "n": 24,
+          "title": "C'était donc toi ?",
+          "id": null
+        },
+        {
+          "n": 25,
+          "title": "Autant de fois que tu voudras",
+          "id": null
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/kuroko-no-basket/",
+  "tmdbId": 45783
+}

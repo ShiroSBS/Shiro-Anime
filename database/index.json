@@ -540,5 +540,27 @@
     "statusLabel": "Terminé",
     "poster": "https://image.tmdb.org/t/p/w780/uA7ijeevw8CxM2GUe0T7zZ7WkRC.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/s76eYQi6hcAcOVYpVd9hofdyt11.jpg"
+  },
+  {
+    "id": "fire-force",
+    "title": "Fire Force",
+    "description": "Le monde est horrifié par le phénomène de combustion humaine où l'humanité peut s'enflammer à tout moment. Des brigades spéciales Fire Force ont donc été créées avec pour mission d'éclaircir le mystère de ce phénomène.\nOn suit ainsi le jeune Shinra Kusakabe, surnommé le Démon, qui vient d'intégrer la 8e brigade dans le seul but de devenir un héros et de connaitre la vérité sur l'incendie qui a coûté la vie de sa famille il y a douze ans !",
+    "genres": [
+      "Action",
+      "Drame",
+      "Comédie",
+      "Surnaturel",
+      "Shônen",
+      "Aventure",
+      "Science",
+      "fiction",
+      "Fantastique"
+    ],
+    "rating": "7.6",
+    "year": "2019",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "poster": "https://image.tmdb.org/t/p/w780/axws4rIfl3W2fcT7Pu81D8J1hHO.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/xkNnQ3IGGRQcXnl1zTb5H6Vb3SP.jpg"
   }
 ]

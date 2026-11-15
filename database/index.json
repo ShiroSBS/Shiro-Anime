@@ -749,5 +749,28 @@
     "statusLabel": "Terminé",
     "poster": "https://image.tmdb.org/t/p/w780/p8KOAD8CQpjnvge8v2O357uBbPj.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/wJi7fRmHw0wRMldUY28sSzXpp4G.jpg"
+  },
+  {
+    "id": "blue-exorcist",
+    "title": "Blue Exorcist",
+    "description": "Okumura Rin est le fils de Fujimoto Shirō, un Exorciste. À cause de sa grande maladresse ou de sa force démesurée, il est incapable de conserver un boulot très longtemps et fait le désespoir de son père. Son frère jumeau, Yukio, qui va bientôt quitter le temple pour suivre ses études, est également très inquiet pour l'avenir de son frère.\n\nMais Rin a le don de se fourrer dans des situations inextricables. Un jour, alors qu'il est aux prises avec une bande, l'un des garçons qui l'agresse prend soudainement l'apparence d'un démon et tente de lui brûler les yeux. Des flammes, contrôlées par Rin, surgissent alors et repoussent ses assaillants.\n\nLe père Fujimoto lui apprend peu après que ces flammes sont la marque de Satan... qui n'est autre que le véritable père de Rin. Après cette agression, le père décide de mettre Rin à l'abri, mais c'est déjà trop tard. Satan a appris la nouvelle et vient récupérer son fils... pour s'en servir.\n\nC'est à la suite de cette entrevue désastreuse que Rin décidera de devenir Exorciste, mais un Exorciste bien particulier, puisqu'il est un démon qui chasse les démons.",
+    "genres": [
+      "Action",
+      "Comédie",
+      "Drame",
+      "Surnaturel",
+      "Science",
+      "fiction",
+      "Fantastique",
+      "Mystère",
+      "Aventure",
+      "Fantasy"
+    ],
+    "rating": "7.2",
+    "year": "2011",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "poster": "https://image.tmdb.org/t/p/w780/722YXK2bm7Ht8AWFRRE73MjfYsc.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/wJzHFl5mq6JFbD6equTleJuzlnk.jpg"
   }
 ]

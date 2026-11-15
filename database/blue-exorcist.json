@@ -1,0 +1,458 @@
+{
+  "id": "blue-exorcist",
+  "title": "Blue Exorcist",
+  "poster": "https://image.tmdb.org/t/p/w780/722YXK2bm7Ht8AWFRRE73MjfYsc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ccfSWNBjieb6jRTHgO7MUmQMU0l.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/722YXK2bm7Ht8AWFRRE73MjfYsc.jpg",
+  "description": "Okumura Rin est le fils de Fujimoto Shirō, un Exorciste. À cause de sa grande maladresse ou de sa force démesurée, il est incapable de conserver un boulot très longtemps et fait le désespoir de son père. Son frère jumeau, Yukio, qui va bientôt quitter le temple pour suivre ses études, est également très inquiet pour l'avenir de son frère.\n\nMais Rin a le don de se fourrer dans des situations inextricables. Un jour, alors qu'il est aux prises avec une bande, l'un des garçons qui l'agresse prend soudainement l'apparence d'un démon et tente de lui brûler les yeux. Des flammes, contrôlées par Rin, surgissent alors et repoussent ses assaillants.\n\nLe père Fujimoto lui apprend peu après que ces flammes sont la marque de Satan... qui n'est autre que le véritable père de Rin. Après cette agression, le père décide de mettre Rin à l'abri, mais c'est déjà trop tard. Satan a appris la nouvelle et vient récupérer son fils... pour s'en servir.\n\nC'est à la suite de cette entrevue désastreuse que Rin décidera de devenir Exorciste, mais un Exorciste bien particulier, puisqu'il est un démon qui chasse les démons.",
+  "genres": [
+    "Action",
+    "Comédie",
+    "Drame",
+    "Surnaturel",
+    "Science",
+    "fiction",
+    "Fantastique",
+    "Mystère",
+    "Aventure",
+    "Fantasy"
+  ],
+  "rating": "7.2",
+  "year": "2011",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Blue Exorcist",
+  "stats": [
+    {
+      "v": "5",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.2",
+      "l": "Note"
+    },
+    {
+      "v": "2011",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.2"
+    },
+    {
+      "text": "🎬 5 Saisons · 73 Éps"
+    },
+    {
+      "text": "📅 2011"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le mal est tapi au fond de nous",
+          "id": "vaepfl3vtm5c"
+        },
+        {
+          "n": 2,
+          "title": "La porte de la Géhenne",
+          "id": "oyxxcbx1w68m"
+        },
+        {
+          "n": 3,
+          "title": "Aîné et cadet",
+          "id": "svmgyhk0v2bs"
+        },
+        {
+          "n": 4,
+          "title": "Le jardin d'Amahara",
+          "id": "34rt64aif55h"
+        },
+        {
+          "n": 5,
+          "title": "L'enfant du temple maudit",
+          "id": "l3x0wb4nksls"
+        },
+        {
+          "n": 6,
+          "title": "Le cuisinier fantôme",
+          "id": "saht7l8zxdgb"
+        },
+        {
+          "n": 7,
+          "title": "Entre amis",
+          "id": "h5q5sawglx14"
+        },
+        {
+          "n": 8,
+          "title": "Il y avait un malade",
+          "id": "30o4xnotensh"
+        },
+        {
+          "n": 9,
+          "title": "Trauma",
+          "id": "e4ieiiob9o11"
+        },
+        {
+          "n": 10,
+          "title": "Cait Sith",
+          "id": "ukxer4xfnf0d"
+        },
+        {
+          "n": 11,
+          "title": "Le Démon des Profondeurs",
+          "id": "ocjlldpdc0ut"
+        },
+        {
+          "n": 12,
+          "title": "Démons en action",
+          "id": "cmdumm1ts1yb"
+        },
+        {
+          "n": 13,
+          "title": "La preuve",
+          "id": "8dl3c5n9txzt"
+        },
+        {
+          "n": 14,
+          "title": "Une joyeuse excursion",
+          "id": "bc7uneixdw4n"
+        },
+        {
+          "n": 15,
+          "title": "Sympathie",
+          "id": "leyvabd8yx3o"
+        },
+        {
+          "n": 16,
+          "title": "Un pari",
+          "id": "e3wur7u70ls3"
+        },
+        {
+          "n": 17,
+          "title": "Tentation",
+          "id": "iwzrkdo0huli"
+        },
+        {
+          "n": 18,
+          "title": "Cyclone",
+          "id": "6wlfkl9vq51i"
+        },
+        {
+          "n": 19,
+          "title": "Un jour comme un autre",
+          "id": "7gljfn4mqqio"
+        },
+        {
+          "n": 20,
+          "title": "Le masque",
+          "id": "9fbl6akqdvzp"
+        },
+        {
+          "n": 21,
+          "title": "Le jardin des secrets",
+          "id": "blb1l08nrx6u"
+        },
+        {
+          "n": 22,
+          "title": "Chasse aux démons",
+          "id": "dn7evf260jw8"
+        },
+        {
+          "n": 23,
+          "title": "Vérité",
+          "id": "wbjmfejlj94p"
+        },
+        {
+          "n": 24,
+          "title": "Les bâtards de Satan",
+          "id": "f4aux5croxlb"
+        },
+        {
+          "n": 25,
+          "title": "Ô temps ! Arrête-toi !",
+          "id": "ey4ndiseoyhh"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Début des hostilités",
+          "id": "pushqxp88bv4"
+        },
+        {
+          "n": 2,
+          "title": "Panier de crabes",
+          "id": "vvvpg96hx49w"
+        },
+        {
+          "n": 3,
+          "title": "Soupçons en chaîne",
+          "id": "g3hvmwne102r"
+        },
+        {
+          "n": 4,
+          "title": "Sans foi ni loi",
+          "id": "b4nc081yycqz"
+        },
+        {
+          "n": 5,
+          "title": "Le Hasard des rencontres",
+          "id": "mz4qawrf99an"
+        },
+        {
+          "n": 6,
+          "title": "Paroles mielleuses",
+          "id": "6f58gajn40vg"
+        },
+        {
+          "n": 7,
+          "title": "Embrasement",
+          "id": "7cu3410l6ifw"
+        },
+        {
+          "n": 8,
+          "title": "De père en fils",
+          "id": "jpfm39hx8mdr"
+        },
+        {
+          "n": 9,
+          "title": "Le Chêne et le roseau",
+          "id": "tvfbo5n2js99"
+        },
+        {
+          "n": 10,
+          "title": "Inébranlable",
+          "id": "w8apwwmoc41p"
+        },
+        {
+          "n": 11,
+          "title": "De Mille feux",
+          "id": "bhaxqrm8szic"
+        },
+        {
+          "n": 12,
+          "title": "Sans préjugé",
+          "id": "0miuv3fl5rh9"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Un monde grouillant",
+          "id": "rhhb118jlzfm"
+        },
+        {
+          "n": 2,
+          "title": "L'antre du secret",
+          "id": "jz95avuxmxkj"
+        },
+        {
+          "n": 3,
+          "title": "Le cross festival",
+          "id": "lwg709zklwz2"
+        },
+        {
+          "n": 4,
+          "title": "La taupe",
+          "id": "oqixhhmwqp6z"
+        },
+        {
+          "n": 5,
+          "title": "Destin",
+          "id": "6mn8o4lws971"
+        },
+        {
+          "n": 6,
+          "title": "Plus personne sur qui compter",
+          "id": "8ale7rryvdaz"
+        },
+        {
+          "n": 7,
+          "title": "Égarement",
+          "id": "4q1iaijlmpwp"
+        },
+        {
+          "n": 8,
+          "title": "Détermination",
+          "id": "yio54dozuhzq"
+        },
+        {
+          "n": 9,
+          "title": "À l'aide",
+          "id": "mvvebhsxgq0i"
+        },
+        {
+          "n": 10,
+          "title": "Camarades",
+          "id": "1vw48vrtxow7"
+        },
+        {
+          "n": 11,
+          "title": "Araignée rose",
+          "id": "ml1h1f2suumi"
+        },
+        {
+          "n": 12,
+          "title": "Intentions cachées",
+          "id": "5vzxi2d1meax"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Saison 4 Partie 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Motivation",
+          "id": "n32l2rjfnoo1"
+        },
+        {
+          "n": 2,
+          "title": "Souffrance",
+          "id": "jfwc19f5pfaj"
+        },
+        {
+          "n": 3,
+          "title": "Foyer",
+          "id": "idr4ldd4yfwu"
+        },
+        {
+          "n": 4,
+          "title": "Adieux",
+          "id": "cmcrzdk48cnv"
+        },
+        {
+          "n": 5,
+          "title": "Les larmes aux yeux",
+          "id": "rdmdvhkhmvd4"
+        },
+        {
+          "n": 6,
+          "title": "Le Jingzhe",
+          "id": "pi880wj2m0le"
+        },
+        {
+          "n": 7,
+          "title": "Feuilles anormales",
+          "id": "y15ji5hmy8os"
+        },
+        {
+          "n": 8,
+          "title": "Joyeux anniv-Noël",
+          "id": "sllpujk5kqv2"
+        },
+        {
+          "n": 9,
+          "title": "Les noces",
+          "id": "i1ajwxmvfow9"
+        },
+        {
+          "n": 10,
+          "title": "Sous la neige",
+          "id": "poc1y0rh35jp"
+        },
+        {
+          "n": 11,
+          "title": "Au-delà des neiges",
+          "id": "95wnfghi3ik6"
+        },
+        {
+          "n": 12,
+          "title": "Adieux",
+          "id": "5xms67tqhq26"
+        }
+      ]
+    },
+    "5": {
+      "label": "Saison 5",
+      "title": "Saison 4 Partie 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Shirô et Yuri",
+          "id": "kw9pyjafl76h"
+        },
+        {
+          "n": 2,
+          "title": "Vérité",
+          "id": "xxhmzr2jxvvx"
+        },
+        {
+          "n": 3,
+          "title": "Solitude",
+          "id": "8w0blllbw8s4"
+        },
+        {
+          "n": 4,
+          "title": "Le réveil de Satan",
+          "id": "oonthz1pa9do"
+        },
+        {
+          "n": 5,
+          "title": "Au-delà du corps",
+          "id": "myak4fi8mch4"
+        },
+        {
+          "n": 6,
+          "title": "Si seulement je n'existais pas",
+          "id": "vccnkywkkzw4"
+        },
+        {
+          "n": 7,
+          "title": "La veille",
+          "id": "ajpms01o5jrp"
+        },
+        {
+          "n": 8,
+          "title": "La nuit bleue",
+          "id": "3wzbkq6z6go8"
+        },
+        {
+          "n": 9,
+          "title": "Combat à mort",
+          "id": "tz1xlr3yyn97"
+        },
+        {
+          "n": 10,
+          "title": "Lumière",
+          "id": "mxpf5kto8en8"
+        },
+        {
+          "n": 11,
+          "title": "Promesse",
+          "id": "x8ns4rkhwz5l"
+        },
+        {
+          "n": 12,
+          "title": "Merci",
+          "id": "xtt400fconkd"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/blue-exorcist/",
+  "tmdbId": 38464
+}

@@ -1,0 +1,1491 @@
+{
+  "id": "inazuma-eleven",
+  "title": "Inazuma Eleven",
+  "poster": "https://image.tmdb.org/t/p/w780/xOHfmElQRMRTAD11uMHsRH7X6UH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7kebIBq83PbCfutA6RAGj06Iv4E.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/xOHfmElQRMRTAD11uMHsRH7X6UH.jpg",
+  "description": "Inazuma eleven est à la base un RPG de football lorsqu'il se transpose par la suite en anime. Se basant sur le jeu, l'anime relate les aventures de Endou Mamoru, un gardien de but talentueux, inscrit dans le club de foot de son collège Raimon ainsi que 5 autres membres. Cependant, leur minorité actuelle et la nonchalance de ses coéquipiers les empêche d'être pris au sérieux par les autres clubs. En conséquence, le fille du directeur leur lance un ultimatum : ils doivent gagner un match contre l'académie de Teikoku, une équipe puissante. Endou, plus que jamais motivé se lance à la recherche d'autres membres dans l'espoir de garder son club et ensuite de participer au fameux tournoi du 'Football Frontier'.",
+  "genres": [
+    "Amitié",
+    "Football",
+    "Jeux",
+    "Sport",
+    "Tournois",
+    "Shônen",
+    "Science",
+    "fiction",
+    "Fantastique",
+    "Drame",
+    "Surnaturel"
+  ],
+  "rating": "7.7",
+  "year": "2008",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Inazuma Eleven",
+  "stats": [
+    {
+      "v": "7",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.7",
+      "l": "Note"
+    },
+    {
+      "v": "2008",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.7"
+    },
+    {
+      "text": "🎬 7 Saisons · 277 Éps"
+    },
+    {
+      "text": "📅 2008"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Jouons au football !",
+          "id": "29nyzy8wottq"
+        },
+        {
+          "n": 2,
+          "title": "Face à face avec la Royal Academy !",
+          "id": "q5448xz7h2m1"
+        },
+        {
+          "n": 3,
+          "title": "À la recherche de la meilleure technique !",
+          "id": "icvoimtr2dhe"
+        },
+        {
+          "n": 4,
+          "title": "La Tornade du Dragon !",
+          "id": "pmpe9ncamicr"
+        },
+        {
+          "n": 5,
+          "title": "Où est le cahier secret ?",
+          "id": "msikrk37u0sp"
+        },
+        {
+          "n": 6,
+          "title": "Le Trampoline du Tonnerre",
+          "id": "frb206h7daim"
+        },
+        {
+          "n": 7,
+          "title": "Le Centre d'entraînement secret",
+          "id": "aiw8l3ggufw7"
+        },
+        {
+          "n": 8,
+          "title": "Les cyber-joueurs de foot !",
+          "id": "ks27gf3z8txq"
+        },
+        {
+          "n": 9,
+          "title": "Willy entre en scène",
+          "id": "1ffgct03qlz7"
+        },
+        {
+          "n": 10,
+          "title": "L’espion de la Royal Academy !",
+          "id": "t9edj9nwen35"
+        },
+        {
+          "n": 11,
+          "title": "Recherche entraîneur désespérément !",
+          "id": "nictqay802r6"
+        },
+        {
+          "n": 12,
+          "title": "Finale contre la Royal Academy, première partie",
+          "id": "h564ks1ldoai"
+        },
+        {
+          "n": 13,
+          "title": "Finale contre la Royal Academy, deuxième partie",
+          "id": "duqx38ggzg7h"
+        },
+        {
+          "n": 14,
+          "title": "Le Onze légendaire !",
+          "id": "l8lwbhs4i5ol"
+        },
+        {
+          "n": 15,
+          "title": "Et c'est parti pour le championnat national !",
+          "id": "39dcs1dtc1ci"
+        },
+        {
+          "n": 16,
+          "title": "Les joueurs de foot ninjas",
+          "id": "lqxmbc1sau4x"
+        },
+        {
+          "n": 17,
+          "title": "La décision de Jude",
+          "id": "lefi7yh0fblm"
+        },
+        {
+          "n": 18,
+          "title": "Il faut pulvériser la Muraille Infinie !",
+          "id": "0lvx5tp660s7"
+        },
+        {
+          "n": 19,
+          "title": "Le retour d'un petit génie du ballon rond",
+          "id": "vcy0a0m6kycn"
+        },
+        {
+          "n": 20,
+          "title": "La super technique du Triangle Z !",
+          "id": "4axazpznk32d"
+        },
+        {
+          "n": 21,
+          "title": "Bataille féroce contre le collège Kirkwood !",
+          "id": "i7h21js10r46"
+        },
+        {
+          "n": 22,
+          "title": "Surpasser la Main Céleste !",
+          "id": "eph37a7yn92d"
+        },
+        {
+          "n": 23,
+          "title": "Le défi de Byron",
+          "id": "3qd9twocbszq"
+        },
+        {
+          "n": 24,
+          "title": "Au camp d'entraînement !",
+          "id": "cecxv9he58ch"
+        },
+        {
+          "n": 25,
+          "title": "Le grand match : Première partie",
+          "id": "siqvr17q2bs2"
+        },
+        {
+          "n": 26,
+          "title": "Le grand match : deuxième partie : La Magie contre les Dieux",
+          "id": "jl5r97sk3jju"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Un vent nouveau !",
+          "id": "nd91icbanbtx"
+        },
+        {
+          "n": 2,
+          "title": "Les esprits guerriers !",
+          "id": "ey06lccani7w"
+        },
+        {
+          "n": 3,
+          "title": "Le club de Raimon menacé !",
+          "id": "ozy2tzpja48d"
+        },
+        {
+          "n": 4,
+          "title": "Une sélection inattendue",
+          "id": "4zdy4alwr5x1"
+        },
+        {
+          "n": 5,
+          "title": "Un match arrangé !",
+          "id": "y5ckh85hz8r9"
+        },
+        {
+          "n": 6,
+          "title": "Dernière passe, dernier espoir !",
+          "id": "hxie3ryaqwxz"
+        },
+        {
+          "n": 7,
+          "title": "Le coach Mark Evans fait son apparition !",
+          "id": "ehbevwekhy83"
+        },
+        {
+          "n": 8,
+          "title": "Les qualités d'un capitaine",
+          "id": "3wxhf0zt8qy7"
+        },
+        {
+          "n": 9,
+          "title": "Levée de rideau sur la Route du Sacre !",
+          "id": "g51qv7s3sy7c"
+        },
+        {
+          "n": 10,
+          "title": "Quand les joueurs se rebellent",
+          "id": "ec4jnqyf32cw"
+        },
+        {
+          "n": 11,
+          "title": "Le secret de Victor",
+          "id": "664cb3ly5kv7"
+        },
+        {
+          "n": 12,
+          "title": "De nouveaux adversaires !",
+          "id": "6njuth3rqdcl"
+        },
+        {
+          "n": 13,
+          "title": "Le réveil de Raimon",
+          "id": "lldfu5wj703m"
+        },
+        {
+          "n": 14,
+          "title": "La super technique de JP",
+          "id": "7ssic8k4dstw"
+        },
+        {
+          "n": 15,
+          "title": "Le retour de Jude Sharp",
+          "id": "ublltrlfrpk0"
+        },
+        {
+          "n": 16,
+          "title": "La redoutable Royal Academy !",
+          "id": "mzcfwzhk6ffl"
+        },
+        {
+          "n": 17,
+          "title": "Le tonnerre gronde !",
+          "id": "c3jj6c2fc6fn"
+        },
+        {
+          "n": 18,
+          "title": "Une révolution !",
+          "id": "rm122x6r98x9"
+        },
+        {
+          "n": 19,
+          "title": "Le Défi de l'Académie de la Baie des Pirates",
+          "id": "d5bf263ymejm"
+        },
+        {
+          "n": 20,
+          "title": "L'esprit Guerrier d'Arion prend son envol",
+          "id": "8yyb50cm977u"
+        },
+        {
+          "n": 21,
+          "title": "Un nouveau joueur dans l'équipe !",
+          "id": "s0auwnpicrad"
+        },
+        {
+          "n": 22,
+          "title": "Tous réunis pour la révolution !",
+          "id": "6fdx0rctmk95"
+        },
+        {
+          "n": 23,
+          "title": "Le stade Aérodrome !",
+          "id": "4i9c8pgdnief"
+        },
+        {
+          "n": 24,
+          "title": "La renaissance du vrai football !",
+          "id": "37feosn13nzr"
+        },
+        {
+          "n": 25,
+          "title": "Il revient !",
+          "id": "eeucz069mzls"
+        },
+        {
+          "n": 26,
+          "title": "Le Diable Blanc !",
+          "id": "ep5gjpzj3zvq"
+        },
+        {
+          "n": 27,
+          "title": "La bataille de glace",
+          "id": "hqq1gifehqom"
+        },
+        {
+          "n": 28,
+          "title": "Jude Sharp prend les commandes",
+          "id": "0mgzsl0plfd1"
+        },
+        {
+          "n": 29,
+          "title": "Retrouvailles avec Kirkwood",
+          "id": "vr1rv14sjc8u"
+        },
+        {
+          "n": 30,
+          "title": "Duel de stratégies",
+          "id": "6vu1s61fm47i"
+        },
+        {
+          "n": 31,
+          "title": "Musashi, le samouraï vaillant !",
+          "id": "opnxtoxykvwv"
+        },
+        {
+          "n": 32,
+          "title": "Un vent de révolte !",
+          "id": "l2spune0zcer"
+        },
+        {
+          "n": 33,
+          "title": "Un mystérieux adversaire : le collège des Mirages !",
+          "id": "ii3d7stw8bsl"
+        },
+        {
+          "n": 34,
+          "title": "Personne ne peut arrêter le Tir Feu Follet !",
+          "id": "tqnao2n0mylw"
+        },
+        {
+          "n": 35,
+          "title": "Un étonnant changement de gardien",
+          "id": "8qametg8tdho"
+        },
+        {
+          "n": 36,
+          "title": "Une rencontre tant attendue",
+          "id": "5dcobrggc6tt"
+        },
+        {
+          "n": 37,
+          "title": "Génie en cours intensif !",
+          "id": "ur0k8cjoh3aj"
+        },
+        {
+          "n": 38,
+          "title": "L'Esprit Guerrier de Sol Daystar",
+          "id": "bdct8y0t68vw"
+        },
+        {
+          "n": 39,
+          "title": "Arion contre Sol Daystar",
+          "id": "tbnzntn2d6kq"
+        },
+        {
+          "n": 40,
+          "title": "Arion, le nouveau capitaine",
+          "id": "s98ne4vs3uqz"
+        },
+        {
+          "n": 41,
+          "title": "La grande finale au stade Zenith !",
+          "id": "vn2eb7z2vhs0"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "kypdonksnuh4"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "njtv40wk7zg3"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "jvb3mlomcr4w"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "ao3wdi2cck7i"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "xdsynm7enp1l"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "syincmwcc9e6"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "ga9kmvw01nts"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "rzvkgljwnzpw"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "7lkuvvv27s2e"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "5z74k04s7gs7"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "5s4cvs3iyq99"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "k2ix7h1smnyl"
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": "qevkfvry86sw"
+        },
+        {
+          "n": 14,
+          "title": "Épisode 14",
+          "id": "t4yimo3i7by3"
+        },
+        {
+          "n": 15,
+          "title": "Épisode 15",
+          "id": "uce6v6laa3ku"
+        },
+        {
+          "n": 16,
+          "title": "Épisode 16",
+          "id": "affuag993c5s"
+        },
+        {
+          "n": 17,
+          "title": "Épisode 17",
+          "id": "8ajv2y1n7p3h"
+        },
+        {
+          "n": 18,
+          "title": "Épisode 18",
+          "id": "c3d9swsy0a0l"
+        },
+        {
+          "n": 19,
+          "title": "Épisode 19",
+          "id": "shgmfo3e6ht8"
+        },
+        {
+          "n": 20,
+          "title": "Épisode 20",
+          "id": "udz1dverurpn"
+        },
+        {
+          "n": 21,
+          "title": "Épisode 21",
+          "id": "j3gk2ypxhh6l"
+        },
+        {
+          "n": 22,
+          "title": "Épisode 22",
+          "id": "dugngimaot3r"
+        },
+        {
+          "n": 23,
+          "title": "Épisode 23",
+          "id": "vn05mr2ts5w5"
+        },
+        {
+          "n": 24,
+          "title": "Épisode 24",
+          "id": "bp7pm7mita3b"
+        },
+        {
+          "n": 25,
+          "title": "Épisode 25",
+          "id": "npwjjb87x0aq"
+        },
+        {
+          "n": 26,
+          "title": "Épisode 26",
+          "id": "2msws1kv9eo5"
+        },
+        {
+          "n": 27,
+          "title": "Épisode 27",
+          "id": "kdbt78o4647k"
+        },
+        {
+          "n": 28,
+          "title": "Épisode 28",
+          "id": "j8k14ifr18ni"
+        },
+        {
+          "n": 29,
+          "title": "Épisode 29",
+          "id": "n28g0r1aspam"
+        },
+        {
+          "n": 30,
+          "title": "Épisode 30",
+          "id": "yvk637bso08k"
+        },
+        {
+          "n": 31,
+          "title": "Épisode 31",
+          "id": "wtpcg2df2zsd"
+        },
+        {
+          "n": 32,
+          "title": "Épisode 32",
+          "id": "463t4yx3lca8"
+        },
+        {
+          "n": 33,
+          "title": "Épisode 33",
+          "id": "zu3h3rxttx5t"
+        },
+        {
+          "n": 34,
+          "title": "Épisode 34",
+          "id": "hcilqpsf2s96"
+        },
+        {
+          "n": 35,
+          "title": "Épisode 35",
+          "id": "0z2m00thebfq"
+        },
+        {
+          "n": 36,
+          "title": "Épisode 36",
+          "id": "203ra139zo5h"
+        },
+        {
+          "n": 37,
+          "title": "Épisode 37",
+          "id": "98vjvcode4l8"
+        },
+        {
+          "n": 38,
+          "title": "Épisode 38",
+          "id": "kcj590z0rwn8"
+        },
+        {
+          "n": 39,
+          "title": "Épisode 39",
+          "id": "s49am6s3fi2e"
+        },
+        {
+          "n": 40,
+          "title": "Épisode 40",
+          "id": "e6uxyotk6zeh"
+        },
+        {
+          "n": 41,
+          "title": "Épisode 41",
+          "id": "95rr8pis41is"
+        },
+        {
+          "n": 42,
+          "title": "Épisode 42",
+          "id": "c923ofi0j8rt"
+        },
+        {
+          "n": 43,
+          "title": "Épisode 43",
+          "id": "777x7em8kscg"
+        },
+        {
+          "n": 44,
+          "title": "Épisode 44",
+          "id": "oucim2sammrj"
+        },
+        {
+          "n": 45,
+          "title": "Épisode 45",
+          "id": "r8zpd3pq2t4v"
+        },
+        {
+          "n": 46,
+          "title": "Épisode 46",
+          "id": "9xb3ii8ahwsq"
+        },
+        {
+          "n": 47,
+          "title": "Épisode 47",
+          "id": "zicavmds3ptp"
+        },
+        {
+          "n": 48,
+          "title": "Épisode 48",
+          "id": "2xahvhadq11l"
+        },
+        {
+          "n": 49,
+          "title": "Épisode 49",
+          "id": "108ssmp7p9z6"
+        },
+        {
+          "n": 50,
+          "title": "Épisode 50",
+          "id": "yg69z4hh7vqx"
+        },
+        {
+          "n": 51,
+          "title": "Épisode 51",
+          "id": "h6xww1wj6d3u"
+        },
+        {
+          "n": 52,
+          "title": "Épisode 52",
+          "id": "rhcgk71zb07y"
+        },
+        {
+          "n": 53,
+          "title": "Épisode 53",
+          "id": "xb8zsuzg2zwc"
+        },
+        {
+          "n": 54,
+          "title": "Épisode 54",
+          "id": "m6ajh1ckcz4z"
+        },
+        {
+          "n": 55,
+          "title": "Épisode 55",
+          "id": "0bvpmcwd29c9"
+        },
+        {
+          "n": 56,
+          "title": "Épisode 56",
+          "id": "385ogzuob2bu"
+        },
+        {
+          "n": 57,
+          "title": "Épisode 57",
+          "id": "n3dcqudq9tj1"
+        },
+        {
+          "n": 58,
+          "title": "Épisode 58",
+          "id": "r6cujt530cnn"
+        },
+        {
+          "n": 59,
+          "title": "Épisode 59",
+          "id": "ld1s0b1ewujf"
+        },
+        {
+          "n": 60,
+          "title": "Épisode 60",
+          "id": "potzl5tfyr96"
+        },
+        {
+          "n": 61,
+          "title": "Épisode 61",
+          "id": null
+        },
+        {
+          "n": 62,
+          "title": "Épisode 62",
+          "id": null
+        },
+        {
+          "n": 63,
+          "title": "Épisode 63",
+          "id": null
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "GO",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "0c4yuuvta523"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "xcmkpn3y0j7c"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "60c0tqig0d1s"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "lh9r8fza7smo"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "f7459iu50h2m"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "qa3uuo149c14"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "g7b544q8cr7p"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "cs5aqqh60q94"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "cb6asm5bja59"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "q8aoza8uqgql"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "225qanmu8nex"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "y0245fzs3w7g"
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": "kbupsttk8kq9"
+        },
+        {
+          "n": 14,
+          "title": "Épisode 14",
+          "id": "e5c3qjaen2qc"
+        },
+        {
+          "n": 15,
+          "title": "Épisode 15",
+          "id": "4izbrnfvvwl7"
+        },
+        {
+          "n": 16,
+          "title": "Épisode 16",
+          "id": "n6j26id22og5"
+        },
+        {
+          "n": 17,
+          "title": "Épisode 17",
+          "id": "q6h6ws1fczl7"
+        },
+        {
+          "n": 18,
+          "title": "Épisode 18",
+          "id": "lcz4kickiuzp"
+        },
+        {
+          "n": 19,
+          "title": "Épisode 19",
+          "id": "bum0imjvajdg"
+        },
+        {
+          "n": 20,
+          "title": "Épisode 20",
+          "id": "kay08lvedv0r"
+        },
+        {
+          "n": 21,
+          "title": "Épisode 21",
+          "id": "nsjrgyn3ql0l"
+        },
+        {
+          "n": 22,
+          "title": "Épisode 22",
+          "id": "c9z1zqdesibz"
+        },
+        {
+          "n": 23,
+          "title": "Épisode 23",
+          "id": "2z3u0e2v9ytg"
+        },
+        {
+          "n": 24,
+          "title": "Épisode 24",
+          "id": "ex2wps5ufaxj"
+        },
+        {
+          "n": 25,
+          "title": "Épisode 25",
+          "id": "f3ovxaouzkj6"
+        },
+        {
+          "n": 26,
+          "title": "Épisode 26",
+          "id": "xx5eteundyve"
+        },
+        {
+          "n": 27,
+          "title": "Épisode 27",
+          "id": "dtelun3rqk7d"
+        },
+        {
+          "n": 28,
+          "title": "Épisode 28",
+          "id": "0fezkoxwmg8m"
+        },
+        {
+          "n": 29,
+          "title": "Épisode 29",
+          "id": "th9ezkpep3dg"
+        },
+        {
+          "n": 30,
+          "title": "Épisode 30",
+          "id": "b87h7ptu5237"
+        },
+        {
+          "n": 31,
+          "title": "Épisode 31",
+          "id": "qjffea2w0kbz"
+        },
+        {
+          "n": 32,
+          "title": "Épisode 32",
+          "id": "xwvaiws6dt12"
+        },
+        {
+          "n": 33,
+          "title": "Épisode 33",
+          "id": "h70o63p1oc4y"
+        },
+        {
+          "n": 34,
+          "title": "Épisode 34",
+          "id": "rl0iqrpy6v5u"
+        },
+        {
+          "n": 35,
+          "title": "Épisode 35",
+          "id": "l4c7vnm8yr4o"
+        },
+        {
+          "n": 36,
+          "title": "Épisode 36",
+          "id": "d36rd8liave6"
+        },
+        {
+          "n": 37,
+          "title": "Épisode 37",
+          "id": "var0sxtounhp"
+        },
+        {
+          "n": 38,
+          "title": "Épisode 38",
+          "id": "fyifegz793iw"
+        },
+        {
+          "n": 39,
+          "title": "Épisode 39",
+          "id": "jed0a55a00v2"
+        },
+        {
+          "n": 40,
+          "title": "Épisode 40",
+          "id": "2m7vjjw457wv"
+        },
+        {
+          "n": 41,
+          "title": "Épisode 41",
+          "id": "1x8ivzmyyyxh"
+        },
+        {
+          "n": 42,
+          "title": "Épisode 42",
+          "id": "15o5h4juvv87"
+        },
+        {
+          "n": 43,
+          "title": "Épisode 43",
+          "id": "8eqpd2mb6dgb"
+        },
+        {
+          "n": 44,
+          "title": "Épisode 44",
+          "id": "u42d3u5ndx89"
+        },
+        {
+          "n": 45,
+          "title": "Épisode 45",
+          "id": "55rlb34pj3gu"
+        },
+        {
+          "n": 46,
+          "title": "Épisode 46",
+          "id": "oh7t0zfq7351"
+        },
+        {
+          "n": 47,
+          "title": "Épisode 47",
+          "id": "diwp46d6dh19"
+        }
+      ]
+    },
+    "5": {
+      "label": "Saison 5",
+      "title": "GO: Chrono Stones",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "2t1vq6ogpn2j"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "o490znkl4lqz"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "5l45rcx2os0u"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "m0uo2xl1icga"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "7ovwf3ap5vlc"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "pr9h7840j3le"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "iachndcsp8n9"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "tcfjv1di6a6w"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "acchdt9ff2sd"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "81edvmd04x20"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "5tm7zrshce28"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "lrutxp538nbf"
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": "m0knl6g6ejgo"
+        },
+        {
+          "n": 14,
+          "title": "Épisode 14",
+          "id": "z4vge6u7tp5g"
+        },
+        {
+          "n": 15,
+          "title": "Épisode 15",
+          "id": "ar57cr2ms2ok"
+        },
+        {
+          "n": 16,
+          "title": "Épisode 16",
+          "id": "q7mhrbvc8226"
+        },
+        {
+          "n": 17,
+          "title": "Épisode 17",
+          "id": "zh4kehsyrpqr"
+        },
+        {
+          "n": 18,
+          "title": "Épisode 18",
+          "id": "jkphcyrxgt1p"
+        },
+        {
+          "n": 19,
+          "title": "Épisode 19",
+          "id": "kdv80enhshh4"
+        },
+        {
+          "n": 20,
+          "title": "Épisode 20",
+          "id": "6eblaluh8cuk"
+        },
+        {
+          "n": 21,
+          "title": "Épisode 21",
+          "id": "bpi638kyxnfr"
+        },
+        {
+          "n": 22,
+          "title": "Épisode 22",
+          "id": "snkm5jf0wyf9"
+        },
+        {
+          "n": 23,
+          "title": "Épisode 23",
+          "id": "3rcr3puezlpt"
+        },
+        {
+          "n": 24,
+          "title": "Épisode 24",
+          "id": "wh6phife1xsk"
+        },
+        {
+          "n": 25,
+          "title": "Épisode 25",
+          "id": "imr13e5l0h54"
+        },
+        {
+          "n": 26,
+          "title": "Épisode 26",
+          "id": "vxke2s06sxgi"
+        },
+        {
+          "n": 27,
+          "title": "Épisode 27",
+          "id": "bqzrbuzkubwp"
+        },
+        {
+          "n": 28,
+          "title": "Épisode 28",
+          "id": "0xt82o3tj1v7"
+        },
+        {
+          "n": 29,
+          "title": "Épisode 29",
+          "id": "s3fsr1p1a69w"
+        },
+        {
+          "n": 30,
+          "title": "Épisode 30",
+          "id": "fktoh6k23oy3"
+        },
+        {
+          "n": 31,
+          "title": "Épisode 31",
+          "id": "nlgwxlfc76k5"
+        },
+        {
+          "n": 32,
+          "title": "Épisode 32",
+          "id": "ziiaz4dbfgw3"
+        },
+        {
+          "n": 33,
+          "title": "Épisode 33",
+          "id": "gylt4gwidmjy"
+        },
+        {
+          "n": 34,
+          "title": "Épisode 34",
+          "id": "rojgq0lg0jcl"
+        },
+        {
+          "n": 35,
+          "title": "Épisode 35",
+          "id": "55fgq6kkyof3"
+        },
+        {
+          "n": 36,
+          "title": "Épisode 36",
+          "id": "v226khbpvqfa"
+        },
+        {
+          "n": 37,
+          "title": "Épisode 37",
+          "id": "tzukzggkhl5b"
+        },
+        {
+          "n": 38,
+          "title": "Épisode 38",
+          "id": "e0o7z033vjue"
+        },
+        {
+          "n": 39,
+          "title": "Épisode 39",
+          "id": "u10rnabojhjs"
+        },
+        {
+          "n": 40,
+          "title": "Épisode 40",
+          "id": "goxlnpv6cgdz"
+        },
+        {
+          "n": 41,
+          "title": "Épisode 41",
+          "id": "5k0us4tzy352"
+        },
+        {
+          "n": 42,
+          "title": "Épisode 42",
+          "id": "1htirci6qqjt"
+        },
+        {
+          "n": 43,
+          "title": "Épisode 43",
+          "id": "nz8z5cpe2nn5"
+        },
+        {
+          "n": 44,
+          "title": "Épisode 44",
+          "id": "uti4mz1bsgyi"
+        },
+        {
+          "n": 45,
+          "title": "Épisode 45",
+          "id": "h5xodaxwde1s"
+        },
+        {
+          "n": 46,
+          "title": "Épisode 46",
+          "id": "rz60gczmehwx"
+        },
+        {
+          "n": 47,
+          "title": "Épisode 47",
+          "id": "dj6v4mfc31pz"
+        },
+        {
+          "n": 48,
+          "title": "Épisode 48",
+          "id": "4rjd959sk3rf"
+        },
+        {
+          "n": 49,
+          "title": "Épisode 49",
+          "id": "sftzw6ptumnf"
+        },
+        {
+          "n": 50,
+          "title": "Épisode 50",
+          "id": "tha4keocioek"
+        },
+        {
+          "n": 51,
+          "title": "Épisode 51",
+          "id": "u1bs1d5nk50r"
+        }
+      ]
+    },
+    "6": {
+      "label": "Saison 6",
+      "title": "GO: Galaxy",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "pv0368sfgx2y"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "dhhzp56wra2j"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "q7kzo1ludiz2"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "20zdkrruh4vh"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "3tzful3bjoz5"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "ndu23sjnvjoq"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "9lajtkwlwjxf"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "1r212advauwo"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "1pl5im15kdiv"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "53zhemywa0db"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "a7vmg1436idg"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "g4o48txm23ql"
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": "0yibxp6xcdd1"
+        },
+        {
+          "n": 14,
+          "title": "Épisode 14",
+          "id": "yw0hpsahpefu"
+        },
+        {
+          "n": 15,
+          "title": "Épisode 15",
+          "id": "7u7lcu498mm6"
+        },
+        {
+          "n": 16,
+          "title": "Épisode 16",
+          "id": "eeyho6r3rze0"
+        },
+        {
+          "n": 17,
+          "title": "Épisode 17",
+          "id": "21b7fp4xl03i"
+        },
+        {
+          "n": 18,
+          "title": "Épisode 18",
+          "id": "r7bc46uy4ega"
+        },
+        {
+          "n": 19,
+          "title": "Épisode 19",
+          "id": "s3ji2x9d0dcw"
+        },
+        {
+          "n": 20,
+          "title": "Épisode 20",
+          "id": "6fu8ek3hg445"
+        },
+        {
+          "n": 21,
+          "title": "Épisode 21",
+          "id": "90tb7bebmgbd"
+        },
+        {
+          "n": 22,
+          "title": "Épisode 22",
+          "id": "lm0xzthbbulp"
+        },
+        {
+          "n": 23,
+          "title": "Épisode 23",
+          "id": "noygq2p52z53"
+        },
+        {
+          "n": 24,
+          "title": "Épisode 24",
+          "id": "f42ylkqpfzom"
+        },
+        {
+          "n": 25,
+          "title": "Épisode 25",
+          "id": "9t8ogy95al2o"
+        },
+        {
+          "n": 26,
+          "title": "Épisode 26",
+          "id": "9j7ilarr2ghs"
+        },
+        {
+          "n": 27,
+          "title": "Épisode 27",
+          "id": "sml4xesbwgas"
+        },
+        {
+          "n": 28,
+          "title": "Épisode 28",
+          "id": "vbpjk7hpjcc3"
+        },
+        {
+          "n": 29,
+          "title": "Épisode 29",
+          "id": "1eep19eb2jxn"
+        },
+        {
+          "n": 30,
+          "title": "Épisode 30",
+          "id": "srfnfej3hue3"
+        },
+        {
+          "n": 31,
+          "title": "Épisode 31",
+          "id": "7h733ykswe3n"
+        },
+        {
+          "n": 32,
+          "title": "Épisode 32",
+          "id": "yrtf8ry3ixw9"
+        },
+        {
+          "n": 33,
+          "title": "Épisode 33",
+          "id": "8x0opq0g2ehr"
+        },
+        {
+          "n": 34,
+          "title": "Épisode 34",
+          "id": "3o64ybcen6ls"
+        },
+        {
+          "n": 35,
+          "title": "Épisode 35",
+          "id": "jwss7n59knvk"
+        },
+        {
+          "n": 36,
+          "title": "Épisode 36",
+          "id": "zp7brb33aij1"
+        },
+        {
+          "n": 37,
+          "title": "Épisode 37",
+          "id": "turt6fs0oz0i"
+        },
+        {
+          "n": 38,
+          "title": "Épisode 38",
+          "id": "ilgkqveplrls"
+        },
+        {
+          "n": 39,
+          "title": "Épisode 39",
+          "id": "kxa338hfejd9"
+        },
+        {
+          "n": 40,
+          "title": "Épisode 40",
+          "id": "3g0lq4yl1ja0"
+        },
+        {
+          "n": 41,
+          "title": "Épisode 41",
+          "id": "nxbxfxbt74pe"
+        },
+        {
+          "n": 42,
+          "title": "Épisode 42",
+          "id": "qkxnv91ugpvi"
+        },
+        {
+          "n": 43,
+          "title": "Épisode 43",
+          "id": "6vknddpu1wzg"
+        }
+      ]
+    },
+    "7": {
+      "label": "Saison 7",
+      "title": "Outer Code",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "https://www.youtube.com/embed/fkm9rXSF7RA"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "https://www.youtube.com/embed/H5bhXQLoSUw"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "https://www.youtube.com/embed/3P3UWP0-ouc"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "https://www.youtube.com/embed/NJZ5Pa5SORU"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "https://www.youtube.com/embed/Qp9TDl4429k"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "https://www.youtube.com/embed/LMN9N12w9a4"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/inazuma-eleven/",
+  "tmdbId": 42912
+}

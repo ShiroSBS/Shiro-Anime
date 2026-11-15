@@ -430,5 +430,29 @@
     "statusLabel": "Terminé",
     "poster": "https://image.tmdb.org/t/p/w780/npdB6eFzizki0WaZ1OvKcJrWe97.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/fOUKSCbZzaoQKsO39enivHnWDid.jpg"
+  },
+  {
+    "id": "frieren",
+    "title": "Frieren",
+    "description": "Le jeune héros Himmel et ses compagnons, l'elfe Frieren, le nain Eisen et le prêtre Heiter, rentrent victorieux de leur combats contre le roi des démons. Au bout de dix années d'efforts, ils ont ramené la paix dans le royaume. Il est temps pour eux de retrouver une vie normale... Difficile à imaginer après tant d'aventures en commun ! Frieren, elle, ne semble guère touchée par la séparation. Pour la magicienne à la longévité exceptionnelle, une décennie ne pèse pas lourd. Elle reprend la route en solo et promet de retrouver ses camarades un demi-siècle plus tard. Elle tient parole... mais ces retrouvailles sont aussi les derniers instants passés avec Himmel, devenu un vieillard qui s'éteint paisiblement sous ses yeux. Frieren est sous le choc... La vie des humains est si courte ! L'elfe a beau être experte en magie, il lui reste encore un long chemin à parcourir pour comprendre la race humaine... Son nouvel objectif : s'initier aux arcanes du cœur !",
+    "genres": [
+      "Shônen",
+      "Aventure",
+      "Drame",
+      "Fantasy",
+      "Slice of Life",
+      "Elfe",
+      "Magie",
+      "Action",
+      "Science",
+      "fiction",
+      "Fantastique"
+    ],
+    "rating": "9.0",
+    "year": "2023",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "poster": "https://image.tmdb.org/t/p/w780/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg"
   }
 ]

@@ -540,29 +540,5 @@
     "statusLabel": "Terminé",
     "poster": "https://image.tmdb.org/t/p/w780/uA7ijeevw8CxM2GUe0T7zZ7WkRC.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/s76eYQi6hcAcOVYpVd9hofdyt11.jpg"
-  },
-  {
-    "id": "seven-deadly-sins",
-    "title": "Seven Deadly Sins",
-    "description": "Les \"Seven Deadly Sins\" sont un groupe de chevaliers qui ont conspiré pour renverser le royaume de Britannia. Ils ont été éradiqués par les Chevaliers Sacrés, cependant certaines rumeurs laissent prétendre qu'ils sont toujours en vie.\nDix ans plus tard, les Chevaliers Sacrés ont fait un coup d'état, emprisonnant le Roi pour devenir les nouveaux dirigeants tyranniques du Royaume.\nElizabeth, la troisième fille du Roi, passe ses journées à la recherche des \"Seven Deadly Sins\", les seules personnes capables de récupérer le Royaume des mains de ces tyrans. Durant ses recherches, elle perd conscience dans la taverne de Meliodas, un jeune garçon parcourant le monde en compagnie de son cochon.\nRapidement, Elizabeth va se rendre compte que Meliodas n'est pas qu'un simple propriétaire de taverne, mais une personne à la puissance démesurée.",
-    "genres": [
-      "Action",
-      "Aventure",
-      "Comédie",
-      "Fantasy",
-      "Romance",
-      "Shônen",
-      "Surnaturel",
-      "Science",
-      "fiction",
-      "Fantastique",
-      "Ecchi"
-    ],
-    "rating": "7.2",
-    "year": "2014",
-    "status": "termine",
-    "statusLabel": "Terminé",
-    "poster": "https://image.tmdb.org/t/p/w780/6SWVJvCIC9B16u6wASZ8FEaNssz.jpg",
-    "banner": "https://i.imgur.com/SkdAYlr.jpeg"
   }
 ]

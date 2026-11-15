@@ -454,5 +454,29 @@
     "statusLabel": "Terminé",
     "poster": "https://image.tmdb.org/t/p/w780/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg"
+  },
+  {
+    "id": "dandadan",
+    "title": "Dandadan",
+    "description": "Momo Ayase et Ken Takakura sont tous deux lycéens. Tandis que la première croit aux fantômes, le second est fasciné par les extraterrestres. Évidemment, chacun se moque des croyances de l'autre. Incapables de se convaincre, ils se lancent un défi pour savoir lequel des deux a raison. Momo se retrouve dans un hôpital où des créatures de l'espace sont censées se trouver et Ken dans un tunnel hanté. C'est le début d'une romance survoltée où l'occulte, le paranormal et le surnaturel se bousculent dans un chaos haletant !",
+    "genres": [
+      "Action",
+      "Comédie",
+      "Horreur",
+      "Mystère",
+      "Romance",
+      "Aventure",
+      "Science",
+      "fiction",
+      "Fantastique",
+      "Drame",
+      "Surnaturel"
+    ],
+    "rating": "8.3",
+    "year": "2024",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "poster": "https://image.tmdb.org/t/p/w780/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/uNTrRKIOyKYISthoeizghtXPEOK.jpg"
   }
 ]

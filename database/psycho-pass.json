@@ -1,0 +1,239 @@
+{
+  "id": "psycho-pass",
+  "title": "Psycho Pass",
+  "poster": "https://image.tmdb.org/t/p/w780/uWnP6qTcc4imPJ9ZHaXlPQlcYnB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4z8u57awz954GRuK7W86HlhyeeM.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/uWnP6qTcc4imPJ9ZHaXlPQlcYnB.jpg",
+  "description": "L'histoire se déroule dans un futur où il est désormais possible de quantifier l'état mental d'une personne, ceci est désigné par le terme Psycho-Pass. Grâce à ce système, il est possible de repérer les criminels en devenir.\n\nLa Section d'Investigation Criminelle pour laquelle travaille Shinya Kogami est chargée d'appliquer les mesures lorsqu'un individu est jugé dangereux. Akane Tsunemori est une fraîche recrue qui intègre tout juste la section et qui se rendra vite compte que sur le terrain, les choses ne sont pas comme elle les a apprises.",
+  "genres": [
+    "Action",
+    "Drame",
+    "Psychologique",
+    "Science",
+    "fiction",
+    "Thriller",
+    "Crime",
+    "Fantastique",
+    "Aventure"
+  ],
+  "rating": "8.1",
+  "year": "2012",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Psycho Pass",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.1",
+      "l": "Note"
+    },
+    {
+      "v": "2012",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.1"
+    },
+    {
+      "text": "🎬 2 Saisons · 33 Éps"
+    },
+    {
+      "text": "📅 2012"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Facteur criminel",
+          "id": "v1pme5zym25n"
+        },
+        {
+          "n": 2,
+          "title": "Une personne apte",
+          "id": "pzi4g5hd48m7"
+        },
+        {
+          "n": 3,
+          "title": "Les règles de l'élevage",
+          "id": "m5nkwt037svp"
+        },
+        {
+          "n": 4,
+          "title": "Un masque caché de tous",
+          "id": "1vquhvpcvhtx"
+        },
+        {
+          "n": 5,
+          "title": "Un visage caché de tous",
+          "id": "czqrpkeu4s5a"
+        },
+        {
+          "n": 6,
+          "title": "Le retour du prince fou",
+          "id": "qi675qlorzpm"
+        },
+        {
+          "n": 7,
+          "title": "La signification de l'orchidée",
+          "id": "uga9kldy898h"
+        },
+        {
+          "n": 8,
+          "title": "Et vient le silence",
+          "id": "1zx0delg13w5"
+        },
+        {
+          "n": 9,
+          "title": "Le fruit défendu",
+          "id": "vmxs52r2g67t"
+        },
+        {
+          "n": 10,
+          "title": "Le jeu de Mathusalem",
+          "id": "tkx44r2wi2c4"
+        },
+        {
+          "n": 11,
+          "title": "La cène",
+          "id": "unj8zu722sp6"
+        },
+        {
+          "n": 12,
+          "title": "Le carrefour du diable",
+          "id": "96fdaejfq9p9"
+        },
+        {
+          "n": 13,
+          "title": "L'invitation des abysses",
+          "id": "we6dam867qhe"
+        },
+        {
+          "n": 14,
+          "title": "Le doux poison",
+          "id": "47q93g2bu6mi"
+        },
+        {
+          "n": 15,
+          "title": "La ville où le souffre se répand",
+          "id": "l6xa197cvx7j"
+        },
+        {
+          "n": 16,
+          "title": "La porte du jugement",
+          "id": "xn6j19bzr7lf"
+        },
+        {
+          "n": 17,
+          "title": "Un cœur de fer",
+          "id": "agig1g1mrdqu"
+        },
+        {
+          "n": 18,
+          "title": "Une promesse écrite à l'eau",
+          "id": "8vz2w2c4th6a"
+        },
+        {
+          "n": 19,
+          "title": "Ombre transparente",
+          "id": "tatrwcpoc7xi"
+        },
+        {
+          "n": 20,
+          "title": "Là où la justice se trouve",
+          "id": "dz7he28w6zo9"
+        },
+        {
+          "n": 21,
+          "title": "La récompense maculée de sang",
+          "id": "gl2u54t8azs8"
+        },
+        {
+          "n": 22,
+          "title": "Un monde parfait",
+          "id": "fjcg85eezjd5"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "L'équilibre de la justice",
+          "id": "gmaorblfwwj3"
+        },
+        {
+          "n": 2,
+          "title": "Une vérité qui se révèle subrepticement",
+          "id": "1fgnrergxiz8"
+        },
+        {
+          "n": 3,
+          "title": "Probatio Diabolica",
+          "id": "kln4i5lfuoa4"
+        },
+        {
+          "n": 4,
+          "title": "Le salut de Job",
+          "id": "rri2q33kwlts"
+        },
+        {
+          "n": 5,
+          "title": "Jeux non interdits",
+          "id": "iu5omhg13c7o"
+        },
+        {
+          "n": 6,
+          "title": "Ceux qui jettent des pierres",
+          "id": "xauagrokifay"
+        },
+        {
+          "n": 7,
+          "title": "Les enfants introuvables",
+          "id": "2lludjkz1b03"
+        },
+        {
+          "n": 8,
+          "title": "L'Immaculée Conception",
+          "id": "p5swyowdli6r"
+        },
+        {
+          "n": 9,
+          "title": "Le paradoxe du Tout-Puissant",
+          "id": "it0m8612zmyw"
+        },
+        {
+          "n": 10,
+          "title": "Les critères du diable",
+          "id": "mfi83jccfxjq"
+        },
+        {
+          "n": 11,
+          "title": "Quelle couleur ?",
+          "id": "8rtc4qli22sj"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/psycho-pass/",
+  "tmdbId": 43865
+}

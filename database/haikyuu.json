@@ -1,0 +1,508 @@
+{
+  "id": "haikyuu",
+  "title": "Haikyuu",
+  "poster": "https://image.tmdb.org/t/p/w780/8WEr48swcqe89Zsy5sdrGCASlIg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/8WEr48swcqe89Zsy5sdrGCASlIg.jpg",
+  "description": "Shôyô Hinata, surnommé Shô, aime plus que tout jouer au volley-ball et ce, malgré sa petite taille. Malheureusement, suite à une sévère défaite, son club de collège a été dissous, tous les membres étant partis.\nMais Shô est bien décidé à jouer de nouveau et choisit son futur lycée en fonction de son ambition. Il intègre donc le lycée Karasuno, où a joué son idole, le Petit Géant, tout en espérant faire aussi bien que lui.",
+  "genres": [
+    "Action",
+    "Sport",
+    "Comédie",
+    "Shônen",
+    "Tournois",
+    "Drame"
+  ],
+  "rating": "8.3",
+  "year": "2014",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Haikyuu",
+  "stats": [
+    {
+      "v": "4",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.3",
+      "l": "Note"
+    },
+    {
+      "v": "2014",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.3"
+    },
+    {
+      "text": "🎬 4 Saisons · 85 Éps"
+    },
+    {
+      "text": "📅 2014"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Une fin et un début",
+          "id": "brg7wjtfe5u6"
+        },
+        {
+          "n": 2,
+          "title": "Le club de volley-ball de Karasuno",
+          "id": "yvlso77r515t"
+        },
+        {
+          "n": 3,
+          "title": "Le plus puissant allié",
+          "id": "xtc7kebpajbp"
+        },
+        {
+          "n": 4,
+          "title": "La vue du sommet",
+          "id": "2jtytnl3354m"
+        },
+        {
+          "n": 5,
+          "title": "Le stress des gens timides",
+          "id": "bq5pqr3h4kom"
+        },
+        {
+          "n": 6,
+          "title": "Une équipe intrigante",
+          "id": "riydahwrdql9"
+        },
+        {
+          "n": 7,
+          "title": "Contre le grand roi",
+          "id": "fohzlianzfk4"
+        },
+        {
+          "n": 8,
+          "title": "Le Champion de l'équipe",
+          "id": "6vm07edyah9h"
+        },
+        {
+          "n": 9,
+          "title": "La passe au Champion",
+          "id": "x6dd8zl44u61"
+        },
+        {
+          "n": 10,
+          "title": "Admiration",
+          "id": "tq75r1lw1bpf"
+        },
+        {
+          "n": 11,
+          "title": "Détermination",
+          "id": "3w86hzqboits"
+        },
+        {
+          "n": 12,
+          "title": "Retrouvailles entre Chats et Corbeaux",
+          "id": "6fxmhjsaeibe"
+        },
+        {
+          "n": 13,
+          "title": "Rival",
+          "id": "8sdkznwjx9um"
+        },
+        {
+          "n": 14,
+          "title": "Des adversaires redoutables",
+          "id": "kxesqi2g6qob"
+        },
+        {
+          "n": 15,
+          "title": "Résurrection",
+          "id": "lio619mfjrm4"
+        },
+        {
+          "n": 16,
+          "title": "Gagnants et perdants",
+          "id": "mzz4qza8cc6q"
+        },
+        {
+          "n": 17,
+          "title": "Le mur de fer",
+          "id": "7mw96vzgc4vx"
+        },
+        {
+          "n": 18,
+          "title": "Des arrières couverts",
+          "id": "235zwtq585pq"
+        },
+        {
+          "n": 19,
+          "title": "Le chef d'orchestre",
+          "id": "eauvi3ci08vc"
+        },
+        {
+          "n": 20,
+          "title": "Oikawa Tōru n’est pas un génie",
+          "id": "2hyw0rlv1c62"
+        },
+        {
+          "n": 21,
+          "title": "La force d'un aîné",
+          "id": "otf5d4rzmqj0"
+        },
+        {
+          "n": 22,
+          "title": "Évolution",
+          "id": "vp4it5o9z1ui"
+        },
+        {
+          "n": 23,
+          "title": "Ce qui va changer le cours du jeu",
+          "id": "v3ltjpwya0tn"
+        },
+        {
+          "n": 24,
+          "title": "Le roi solitaire n'est plus",
+          "id": "qudcha6lnss4"
+        },
+        {
+          "n": 25,
+          "title": "Le troisième jour",
+          "id": "s1rth846cx3f"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Let's go, Tokyo !",
+          "id": "540h4i4sx850"
+        },
+        {
+          "n": 2,
+          "title": "Rayons de soleil",
+          "id": "6mir44li48qr"
+        },
+        {
+          "n": 3,
+          "title": "Le villageois B",
+          "id": "ewzzrmumhnyq"
+        },
+        {
+          "n": 4,
+          "title": "Le Champion central",
+          "id": "ff9swptys898"
+        },
+        {
+          "n": 5,
+          "title": "Avidité",
+          "id": "v5y444xf6wke"
+        },
+        {
+          "n": 6,
+          "title": "Tempo",
+          "id": "vzm96ynx3wrm"
+        },
+        {
+          "n": 7,
+          "title": "Lever de lune",
+          "id": "hws1oskyo06c"
+        },
+        {
+          "n": 8,
+          "title": "Héros illusoire",
+          "id": "fdcvmobrjftx"
+        },
+        {
+          "n": 9,
+          "title": "Contre le parapluie",
+          "id": "dis1cmzzxi8e"
+        },
+        {
+          "n": 10,
+          "title": "Rouages",
+          "id": "r83rdh0kr7uf"
+        },
+        {
+          "n": 11,
+          "title": "Au-dessus",
+          "id": "ozcjxk15bh13"
+        },
+        {
+          "n": 12,
+          "title": "Début du match",
+          "id": "ymfi09e5u8nw"
+        },
+        {
+          "n": 13,
+          "title": "Une force pure et simple",
+          "id": "xszmhrjmmugj"
+        },
+        {
+          "n": 14,
+          "title": "En pleine croissance",
+          "id": "7eg60kj5dv5y"
+        },
+        {
+          "n": 15,
+          "title": "Terrain de jeu",
+          "id": "6vcq59qhht8f"
+        },
+        {
+          "n": 16,
+          "title": "Aux suivants",
+          "id": "icq93xyoie9k"
+        },
+        {
+          "n": 17,
+          "title": "La lutte d'un froussard",
+          "id": "7m1lq6f0j13e"
+        },
+        {
+          "n": 18,
+          "title": "Les perdants",
+          "id": "y7ex13qkv2cy"
+        },
+        {
+          "n": 19,
+          "title": "Le mur de fer s’élèvera autant de fois que nécessaire",
+          "id": "rjj88n9svq3v"
+        },
+        {
+          "n": 20,
+          "title": "Balayés",
+          "id": "ci0erv205jy0"
+        },
+        {
+          "n": 21,
+          "title": "Démolisseur",
+          "id": "22ffesly49xb"
+        },
+        {
+          "n": 22,
+          "title": "La lutte d'un ancien froussard",
+          "id": "7412zh5ufjw1"
+        },
+        {
+          "n": 23,
+          "title": "Une équipe",
+          "id": "hwukwbq0sm1g"
+        },
+        {
+          "n": 24,
+          "title": "Changement extrême",
+          "id": "7u8w8c3xpf7x"
+        },
+        {
+          "n": 25,
+          "title": "Déclaration de guerre",
+          "id": "v59471dken9x"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Présentation",
+          "id": "a7g7m2m7yp0i"
+        },
+        {
+          "n": 2,
+          "title": "La menace gauchère",
+          "id": "kvrzbgkslhlj"
+        },
+        {
+          "n": 3,
+          "title": "Guess Monster",
+          "id": "rownhkts7s99"
+        },
+        {
+          "n": 4,
+          "title": "Halo lunaire",
+          "id": "h8ow2qukpytj"
+        },
+        {
+          "n": 5,
+          "title": "L'individuel vs le collectif",
+          "id": "zc84moqkkj5e"
+        },
+        {
+          "n": 6,
+          "title": "La réaction chimique d'une rencontre",
+          "id": "wrax5rb137gk"
+        },
+        {
+          "n": 7,
+          "title": "Ressentiment",
+          "id": "wkdq1rggqs7h"
+        },
+        {
+          "n": 8,
+          "title": "Un type détestable",
+          "id": "7oullx1eg217"
+        },
+        {
+          "n": 9,
+          "title": "Les fous de volley",
+          "id": "nkymjjawuywr"
+        },
+        {
+          "n": 10,
+          "title": "Bataille de concepts",
+          "id": "di2yiczp2u7q"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Saison 4",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Les présentations",
+          "id": "innz6z3y63nb"
+        },
+        {
+          "n": 2,
+          "title": "Désorienté",
+          "id": "4q9pkeivdncr"
+        },
+        {
+          "n": 3,
+          "title": "Point de vue",
+          "id": "c058yhluuegd"
+        },
+        {
+          "n": 4,
+          "title": "La facilité",
+          "id": "loarsvhlv8ki"
+        },
+        {
+          "n": 5,
+          "title": "Affamé",
+          "id": "1wch3d931pq9"
+        },
+        {
+          "n": 6,
+          "title": "Exaltation",
+          "id": "2fnojaeeenv0"
+        },
+        {
+          "n": 7,
+          "title": "Retour",
+          "id": "pbvmateq13wj"
+        },
+        {
+          "n": 8,
+          "title": "Challengeur",
+          "id": "f1v70v8c5nfq"
+        },
+        {
+          "n": 9,
+          "title": "Dernière soirée",
+          "id": "s72ukvwyhi9e"
+        },
+        {
+          "n": 10,
+          "title": "En première ligne",
+          "id": "exzg84vn7jaw"
+        },
+        {
+          "n": 11,
+          "title": "Tout s'enchaîne",
+          "id": "14fwaeazykfi"
+        },
+        {
+          "n": 12,
+          "title": "Une image saisissante",
+          "id": "80jum1m3cz96"
+        },
+        {
+          "n": 13,
+          "title": "Le deuxième jour",
+          "id": "1x2qk3rdsk0k"
+        },
+        {
+          "n": 14,
+          "title": "Rythme",
+          "id": "v09151lpqh5i"
+        },
+        {
+          "n": 15,
+          "title": "Chercher et trouver",
+          "id": "ucvo6wqiwcbn"
+        },
+        {
+          "n": 16,
+          "title": "Coeur brisé",
+          "id": "3o2hy3b7ej7b"
+        },
+        {
+          "n": 17,
+          "title": "Chats VS Singes",
+          "id": "zhdsd88ar59l"
+        },
+        {
+          "n": 18,
+          "title": "Pris au piège",
+          "id": "keyxj831zuh8"
+        },
+        {
+          "n": 19,
+          "title": "Les plus forts challengeurs",
+          "id": "oe41ael4y5vs"
+        },
+        {
+          "n": 20,
+          "title": "Le capitaine",
+          "id": "c9sog4btgriv"
+        },
+        {
+          "n": 21,
+          "title": "Le héros",
+          "id": "qwxje09jx5s3"
+        },
+        {
+          "n": 22,
+          "title": "Piton",
+          "id": "k1yxqzxcwf6y"
+        },
+        {
+          "n": 23,
+          "title": "Naissance d'un roi silencieux",
+          "id": "0y84zo07vwzf"
+        },
+        {
+          "n": 24,
+          "title": "Le festin des monstres",
+          "id": "i2hm7uunbrgk"
+        },
+        {
+          "n": 25,
+          "title": "La terre promise",
+          "id": "vnsc1w8351v3"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/haikyuu/",
+  "tmdbId": 60863
+}

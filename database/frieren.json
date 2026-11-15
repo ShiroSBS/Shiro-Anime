@@ -1,0 +1,266 @@
+{
+  "id": "frieren",
+  "title": "Frieren",
+  "poster": "https://image.tmdb.org/t/p/w780/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/emGCHnRPru5LLWcKbSFzUEUisac.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+  "description": "Le jeune héros Himmel et ses compagnons, l'elfe Frieren, le nain Eisen et le prêtre Heiter, rentrent victorieux de leur combats contre le roi des démons. Au bout de dix années d'efforts, ils ont ramené la paix dans le royaume. Il est temps pour eux de retrouver une vie normale... Difficile à imaginer après tant d'aventures en commun ! Frieren, elle, ne semble guère touchée par la séparation. Pour la magicienne à la longévité exceptionnelle, une décennie ne pèse pas lourd. Elle reprend la route en solo et promet de retrouver ses camarades un demi-siècle plus tard. Elle tient parole... mais ces retrouvailles sont aussi les derniers instants passés avec Himmel, devenu un vieillard qui s'éteint paisiblement sous ses yeux. Frieren est sous le choc... La vie des humains est si courte ! L'elfe a beau être experte en magie, il lui reste encore un long chemin à parcourir pour comprendre la race humaine... Son nouvel objectif : s'initier aux arcanes du cœur !",
+  "genres": [
+    "Shônen",
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Slice of Life",
+    "Elfe",
+    "Magie",
+    "Action",
+    "Science",
+    "fiction",
+    "Fantastique"
+  ],
+  "rating": "9.0",
+  "year": "2023",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Frieren",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "9.0",
+      "l": "Note"
+    },
+    {
+      "v": "2023",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "9.0"
+    },
+    {
+      "text": "🎬 2 Saisons · 38 Éps"
+    },
+    {
+      "text": "📅 2023"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "La fin de l'aventure",
+          "id": "g319fdfnrqk6"
+        },
+        {
+          "n": 2,
+          "title": "Magie ou pas, peu importe",
+          "id": "tuylcf78d5hj"
+        },
+        {
+          "n": 3,
+          "title": "Le zoltraak",
+          "id": "auatkkzjtis2"
+        },
+        {
+          "n": 4,
+          "title": "Là où reposent les âmes",
+          "id": "gwj7oq1rgb7f"
+        },
+        {
+          "n": 5,
+          "title": "Mirages",
+          "id": "yzj3z16zweu6"
+        },
+        {
+          "n": 6,
+          "title": "Le héros du village",
+          "id": "7y10bamob5wk"
+        },
+        {
+          "n": 7,
+          "title": "Comme un conte de fées",
+          "id": "y5eo0n19oqqf"
+        },
+        {
+          "n": 8,
+          "title": "Frieren la Fossoyeuse",
+          "id": "c9pw9tj129ee"
+        },
+        {
+          "n": 9,
+          "title": "Aura la Guillotine",
+          "id": "6y58hwd0o85t"
+        },
+        {
+          "n": 10,
+          "title": "Une mage redoutable",
+          "id": "qr74tv58yhg9"
+        },
+        {
+          "n": 11,
+          "title": "L'hiver des Contrées du nord",
+          "id": "lul5j2g6vius"
+        },
+        {
+          "n": 12,
+          "title": "Le véritable héros",
+          "id": "lf4ero7ahkfd"
+        },
+        {
+          "n": 13,
+          "title": "Répulsion envers un semblable",
+          "id": "n7tmj3kow4fs"
+        },
+        {
+          "n": 14,
+          "title": "Le privilège de la jeunesse",
+          "id": "1jg40mtia79a"
+        },
+        {
+          "n": 15,
+          "title": "L'odeur des ennuis",
+          "id": "cekrvm1owbo1"
+        },
+        {
+          "n": 16,
+          "title": "Amis de longue vie",
+          "id": "u9t4fgc0rn4x"
+        },
+        {
+          "n": 17,
+          "title": "Faites bon voyage",
+          "id": "pjs9xklar57s"
+        },
+        {
+          "n": 18,
+          "title": "L'examen de mage de premier niveau",
+          "id": "rehbbr50qa7w"
+        },
+        {
+          "n": 19,
+          "title": "Une stratégie soignée",
+          "id": "7kbosfcllc10"
+        },
+        {
+          "n": 20,
+          "title": "Meurtres nécessaires",
+          "id": "ca4jknach2i5"
+        },
+        {
+          "n": 21,
+          "title": "Le monde de la magie",
+          "id": "nhvnqva9bv3z"
+        },
+        {
+          "n": 22,
+          "title": "D'alliés à ennemis",
+          "id": "k8taqeqcyyp9"
+        },
+        {
+          "n": 23,
+          "title": "La conquête du donjon",
+          "id": "1ri0mknwk31w"
+        },
+        {
+          "n": 24,
+          "title": "Des copies conformes",
+          "id": "t9ikfa0g4mrb"
+        },
+        {
+          "n": 25,
+          "title": "Le point faible",
+          "id": "ykntwi5xtq8w"
+        },
+        {
+          "n": 26,
+          "title": "Les sommets de la magie",
+          "id": "1jlaub2m25ez"
+        },
+        {
+          "n": 27,
+          "title": "L'âge des Hommes",
+          "id": "bhcc7lsqtvb4"
+        },
+        {
+          "n": 28,
+          "title": "Nos retrouvailles en deviendraient gênantes",
+          "id": "0hkzaocwnxse"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Shall We Go, Then?",
+          "id": "gc8vuvonw7wx"
+        },
+        {
+          "n": 2,
+          "title": "The Hero of the South",
+          "id": "mpxiemvse1cy"
+        },
+        {
+          "n": 3,
+          "title": "Somewhere She'd Like",
+          "id": "42htq19lmkcu"
+        },
+        {
+          "n": 4,
+          "title": "Other People's Homes",
+          "id": "0imev1vfkwn1"
+        },
+        {
+          "n": 5,
+          "title": "Logistics in the Northern Plateau",
+          "id": "w4l8g0b71bol"
+        },
+        {
+          "n": 6,
+          "title": "A Demon-Slaying Request",
+          "id": "f2e60woompm7"
+        },
+        {
+          "n": 7,
+          "title": "The Divine Revolte",
+          "id": "xnthistms3qo"
+        },
+        {
+          "n": 8,
+          "title": "A Magnificent End",
+          "id": "vdytbwsxylta"
+        },
+        {
+          "n": 9,
+          "title": "Himmel's Memoirs",
+          "id": "hz3lbsyoffxy"
+        },
+        {
+          "n": 10,
+          "title": "A Beautiful Sight",
+          "id": "479bk06edy33"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/frieren/",
+  "tmdbId": 209867
+}

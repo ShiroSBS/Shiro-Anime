@@ -1,0 +1,197 @@
+{
+  "id": "hell-s-paradise",
+  "title": "Hell's Paradise",
+  "poster": "https://image.tmdb.org/t/p/w780/gd5DfLwONpkeChYfJb0p34oul8F.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cTvQ1cIqFvytOGlD65WV56jB4fQ.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/gd5DfLwONpkeChYfJb0p34oul8F.jpg",
+  "description": "Gabimaru, « Le Néant », le plus célèbre et puissant des ninjas-assassins a été capturé et croupit en prison. Affirmant n'avoir plus aucune raison de vivre, il attend désespérément qu'un bourreau parvienne à lui ôter la vie car son entraînement surhumain lui permet de résister aux pires des châtiments. C'est alors qu'il reçoit la visite d'un exécuteur pas comme les autres : une puissante manieuse de sabre et trancheuse de tête. Après un âpre combats dont il réchappe de peu, celle-ci le pousse dans ses retranchements. En échange de la vie sauve, elle lui propose un marché : il devra se rendre sur une île mystérieuse afin de récupérer un élixir d'immortalité. Seul problème : tous ceux qui se sont rendus sur cette île sont revenus découpés en morceaux...",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Science",
+    "fiction",
+    "Fantastique",
+    "Mystère",
+    "Surnaturel"
+  ],
+  "rating": "8.0",
+  "year": "2023",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Hell's Paradise",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.0",
+      "l": "Note"
+    },
+    {
+      "v": "2023",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.0"
+    },
+    {
+      "text": "🎬 2 Saisons · 25 Éps"
+    },
+    {
+      "text": "📅 2023"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le condamné et le bourreau",
+          "id": "08yvuhgp5yrx"
+        },
+        {
+          "n": 2,
+          "title": "Sélection et choix",
+          "id": "28wga6yuf3cl"
+        },
+        {
+          "n": 3,
+          "title": "Force et faiblesse",
+          "id": "6lxdcn012ujf"
+        },
+        {
+          "n": 4,
+          "title": "Enfer et paradis",
+          "id": "rrqfalhsdeop"
+        },
+        {
+          "n": 5,
+          "title": "Samouraï et femme",
+          "id": "cxokjzd9imxv"
+        },
+        {
+          "n": 6,
+          "title": "Cœur et raison",
+          "id": "6n13xh2hyfn4"
+        },
+        {
+          "n": 7,
+          "title": "Fleur et offrande",
+          "id": "xghgecjnpc29"
+        },
+        {
+          "n": 8,
+          "title": "Disciple et maître",
+          "id": "zhwspsfowupa"
+        },
+        {
+          "n": 9,
+          "title": "Dieu et homme",
+          "id": "y673g0bop2i9"
+        },
+        {
+          "n": 10,
+          "title": "Yin et Yang",
+          "id": "5e4y2f2fus1w"
+        },
+        {
+          "n": 11,
+          "title": "Fort et faible",
+          "id": "g1q5nzqmzp1m"
+        },
+        {
+          "n": 12,
+          "title": "Ombrelle et encre",
+          "id": "b569jfxx20ch"
+        },
+        {
+          "n": 13,
+          "title": "Rêve et réalité",
+          "id": "4idglloyapeo"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Dawn and Confusion",
+          "id": "562dwgauju30"
+        },
+        {
+          "n": 2,
+          "title": "Reality and Fantasy",
+          "id": "bk563tc9vprk"
+        },
+        {
+          "n": 3,
+          "title": "Immutability and Change",
+          "id": "2g4jb4zmdnea"
+        },
+        {
+          "n": 4,
+          "title": "The Samurai Code and Carnage",
+          "id": "hi3xykz0e6cm"
+        },
+        {
+          "n": 5,
+          "title": "Humans and Sages",
+          "id": "gikauhzvi4m4"
+        },
+        {
+          "n": 6,
+          "title": "Conflict and Growing Together",
+          "id": "cy8emj9zdnpb"
+        },
+        {
+          "n": 7,
+          "title": "Two People and One Person",
+          "id": "tj9jwcj4gfxm"
+        },
+        {
+          "n": 8,
+          "title": "Chrysanthemum and Peach",
+          "id": "6npfd73cjnqe"
+        },
+        {
+          "n": 9,
+          "title": "Love and Karma",
+          "id": "0l5muyzo82qa"
+        },
+        {
+          "n": 10,
+          "title": "Master and Student",
+          "id": "emhrhw31czib"
+        },
+        {
+          "n": 11,
+          "title": "Ephemeralness and Fire",
+          "id": "nh6ree6og0r8"
+        },
+        {
+          "n": 12,
+          "title": "Endings and Beginnings",
+          "id": "jh7wq69oq537"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/hells-paradise/",
+  "tmdbId": 117465
+}

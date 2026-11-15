@@ -1,0 +1,254 @@
+{
+  "id": "oshi-no-ko",
+  "title": "Oshi No Ko",
+  "poster": "https://image.tmdb.org/t/p/w780/uA7ijeevw8CxM2GUe0T7zZ7WkRC.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2ezi54W0Q00Kn0zgYydNFEj3obS.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/uA7ijeevw8CxM2GUe0T7zZ7WkRC.jpg",
+  "description": "Le docteur Gorô est obstétricien dans un hôpital de campagne. Il est loin du monde de paillettes dans lequel évolue Ai Hoshino, une chanteuse au succès grandissant dont il est 'un fan absolu'. Ces deux-là vont peut-être se rencontrer dans des circonstances peu favorables, mais cet événement changera leur vie à jamais !",
+  "genres": [
+    "Seinen",
+    "Drame",
+    "Psychologique",
+    "Slice of Life",
+    "Idols",
+    "Réincarnation / Transmigration",
+    "Mystère",
+    "Surnaturel"
+  ],
+  "rating": "8.4",
+  "year": "2023",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Oshi No Ko",
+  "stats": [
+    {
+      "v": "3",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.4",
+      "l": "Note"
+    },
+    {
+      "v": "2023",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.4"
+    },
+    {
+      "text": "🎬 3 Saisons · 35 Éps"
+    },
+    {
+      "text": "📅 2023"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Une mère et ses enfants",
+          "id": "9z5dgon6akao"
+        },
+        {
+          "n": 2,
+          "title": "La troisième option",
+          "id": "gixzfwe6befm"
+        },
+        {
+          "n": 3,
+          "title": "Une série adaptée d'un manga",
+          "id": "3rzud1oejun4"
+        },
+        {
+          "n": 4,
+          "title": "Acteur",
+          "id": "lpuofuann9em"
+        },
+        {
+          "n": 5,
+          "title": "Téléréalité de rencontre",
+          "id": "bl6m0i6w1kb7"
+        },
+        {
+          "n": 6,
+          "title": "Ego-surfing",
+          "id": "knw4evpai4nb"
+        },
+        {
+          "n": 7,
+          "title": "Buzz",
+          "id": "3oxlifs4adkt"
+        },
+        {
+          "n": 8,
+          "title": "Première fois",
+          "id": "xb9pq3rs4262"
+        },
+        {
+          "n": 9,
+          "title": "B Komachi",
+          "id": "o5c4djx1dp8h"
+        },
+        {
+          "n": 10,
+          "title": "Pression",
+          "id": "oor79j8fzfdu"
+        },
+        {
+          "n": 11,
+          "title": "Idoles",
+          "id": "03ztpdh26n9t"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Tokyo Blade",
+          "id": "pti14bjwf0dx"
+        },
+        {
+          "n": 2,
+          "title": "Game of Telephone",
+          "id": "4et2pnl34arx"
+        },
+        {
+          "n": 3,
+          "title": "Rewriting",
+          "id": "n2ap1hauxuj0"
+        },
+        {
+          "n": 4,
+          "title": "Emotional Acting",
+          "id": "fhmspwaew3d4"
+        },
+        {
+          "n": 5,
+          "title": "The Curtain Rises",
+          "id": "wcmisf825w60"
+        },
+        {
+          "n": 6,
+          "title": "Growth",
+          "id": "pxzs0ot2qxsb"
+        },
+        {
+          "n": 7,
+          "title": "Sun",
+          "id": "czp0bk2gxop3"
+        },
+        {
+          "n": 8,
+          "title": "Trigger",
+          "id": "68pku9ogknb5"
+        },
+        {
+          "n": 9,
+          "title": "Dream",
+          "id": "n5z69dkiyo3r"
+        },
+        {
+          "n": 10,
+          "title": "Liberation",
+          "id": "79sa3doerfix"
+        },
+        {
+          "n": 11,
+          "title": "Freedom",
+          "id": "ojvnpndm9efl"
+        },
+        {
+          "n": 12,
+          "title": "Reunion",
+          "id": "vm70ptdohyh3"
+        },
+        {
+          "n": 13,
+          "title": "Wish",
+          "id": "5r58wkgei0w4"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Down Bad",
+          "id": "hamyfoitmt0y"
+        },
+        {
+          "n": 2,
+          "title": "Calculating",
+          "id": "4t807p9457zb"
+        },
+        {
+          "n": 3,
+          "title": "Correctness",
+          "id": "ae6cpd3e0wc9"
+        },
+        {
+          "n": 4,
+          "title": "Blind",
+          "id": "gjg32nil9g9z"
+        },
+        {
+          "n": 5,
+          "title": "Casting",
+          "id": "alrwyms88945"
+        },
+        {
+          "n": 6,
+          "title": "Idols and Relationships",
+          "id": "njmhdv3pwm28"
+        },
+        {
+          "n": 7,
+          "title": "Breakdown",
+          "id": "yc7373vwi2gt"
+        },
+        {
+          "n": 8,
+          "title": "Plan",
+          "id": "60zf7n9crzx0"
+        },
+        {
+          "n": 9,
+          "title": "Greed and Passion",
+          "id": "y9b3beh3hxjk"
+        },
+        {
+          "n": 10,
+          "title": "Private Audition",
+          "id": "kdt5fnk89zpi"
+        },
+        {
+          "n": 11,
+          "title": "The Beginning",
+          "id": "icaptcwni7m9"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/oshi-no-ko/",
+  "tmdbId": 203737
+}

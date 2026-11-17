@@ -810,7 +810,7 @@ async function showResumeBanner(){
   if(!anime)return;
   const eps=anime.seasons[p.s]?.episodes; if(!eps||p.i>=eps.length)return;
   const ep=eps[p.i]; if(!ep.id)return;
-  document.getElementById('resume-ep-info').textContent=`${anime.title} · ${seasonDisplayName(anime,p.s,true)} · Ép.${ep.n} — ${ep.title}`;
+  document.getElementById('resume-ep-info').textContent=`${anime.title} · ${seasonDisplayName(anime,p.s,true)} · Ép.${ep.n} — ${epTitre(ep)}`;
   setTimeout(()=>document.getElementById('resume-banner').classList.add('show'),700);
 }
 function dismissResume(){document.getElementById('resume-banner').classList.remove('show')}
@@ -1367,6 +1367,12 @@ function isOAVSeason(anime, seasonNum){
   const season=anime?.seasons?.[seasonNum];
   return /\b(?:OAV|OVA)\b/i.test(`${season?.title||''} ${season?.label||''}`);
 }
+// Titre d'épisode toujours affiché en français : sans titre -> « Épisode N » ; « Episode N » (anglais) -> « Épisode N »
+function epTitre(ep){
+  const t=(ep&&ep.title!=null?String(ep.title):'').trim();
+  if(!t) return `Épisode ${ep&&ep.n!=null?ep.n:''}`.trim();
+  return t.replace(/^(?:episode|ep\.?)\s*(\d+)$/i,'Épisode $1');
+}
 function seasonDisplayName(anime, seasonNum, short=false){
   if(isOAVSeason(anime,seasonNum)) return 'OAV';
   return short ? `S${seasonNum}` : `Saison ${seasonNum}`;
@@ -1438,7 +1444,7 @@ function epCardHTML(ep,idx,season,animeId){
       ${!u?`<div class="ep-play-btn"><div class="ep-play-circle"><svg width="18" height="18" viewBox="0 0 24 24" fill="white"><path d="M8 5v14l11-7z"/></svg></div></div>`:''}
     </div>
     <div class="ep-info">
-      <div class="ep-title">${ep.title}</div>
+      <div class="ep-title">${epTitre(ep)}</div>
       <div class="ep-sub">${a.title} · ${seasonDisplayName(a,season,true)}</div>
       ${!u?'<span class="ep-vf-badge">🇫🇷 VF</span>':'<span style="display:inline-block;margin-top:6px;padding:2px 8px;border-radius:4px;font-size:10px;color:#888;background:rgba(100,100,100,.12);border:1px solid rgba(100,100,100,.18)">Non disponible</span>'}
     </div>
@@ -1458,8 +1464,8 @@ function playEpisode(season,idx){
   if (window.armShiroIntroMask) window.armShiroIntroMask();
   document.getElementById('player-iframe').src = `https://ansembed.net/embed-${ep.id}.html`;
   document.getElementById('player-ep-label').textContent=`Épisode ${ep.n}`;
-  document.getElementById('player-ep-title').textContent=ep.title;
-  document.getElementById('breadcrumb-ep').textContent=`${seasonDisplayName(a,season,true)} · Ép.${ep.n} — ${ep.title}`;
+  document.getElementById('player-ep-title').textContent=epTitre(ep);
+  document.getElementById('breadcrumb-ep').textContent=`${seasonDisplayName(a,season,true)} · Ép.${ep.n} — ${epTitre(ep)}`;
   document.getElementById('breadcrumb-anime').textContent=a.title;
   document.getElementById('watch-topbar-title').textContent=a.title;
   document.getElementById('watch-topbar-ep').textContent=`${seasonDisplayName(a,season)} · Épisode ${ep.n}`;
@@ -1486,7 +1492,7 @@ function renderSidebars(){
     return `<div class="ep-list-item${isActive?' active':''}${u?' unavailable':''}" ${!u?`onclick="playEpisode(${watchSidebarSeason},${i})"`:'title="Non disponible"'}>
       <div class="ep-list-num">${isActive?'▶':(u?'🔒':ep.n)}</div>
       <div class="ep-list-info">
-        <div class="ep-list-title">${ep.title}</div>
+        <div class="ep-list-title">${epTitre(ep)}</div>
         <div class="ep-list-sub">${u?'Non disponible':'Épisode '+ep.n+' · VF'}</div>
       </div>
       <div class="ep-list-play">${isActive?'▶':''}</div>

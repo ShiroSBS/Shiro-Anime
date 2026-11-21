@@ -16,7 +16,7 @@
     "Fantastique"
   ],
   "rating": "7.3",
-  "year": "2012",
+  "year": "1993",
   "status": "termine",
   "statusLabel": "Terminé",
   "heroTitle": "JoJo's Bizarre Adventure",
@@ -30,7 +30,7 @@
       "l": "Note"
     },
     {
-      "v": "2012",
+      "v": "1993",
       "l": "Année"
     },
     {
@@ -44,10 +44,10 @@
       "text": "7.3"
     },
     {
-      "text": "🎬 7 Saisons · 198 Éps"
+      "text": "🎬 7 Saisons · 200 Éps"
     },
     {
-      "text": "📅 2012"
+      "text": "📅 1993"
     },
     {
       "color": "#94a3b8",
@@ -1084,8 +1084,20 @@
           "n": 8,
           "title": "La puissance du Spin",
           "id": "5c1qu6sjyuve"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "v8yu7hcdbj5c"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "y5198ymr0zoj"
         }
       ]
     }
-  }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/jojos-bizarre-adventure/",
+  "tmdbId": 45790
 }

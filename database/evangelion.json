@@ -1,0 +1,198 @@
+{
+  "id": "evangelion",
+  "title": "Evangelion",
+  "poster": "https://image.tmdb.org/t/p/w780/y2ah9t0navXyIvoHg1uIbIHO3tt.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2NNKYsWXoO9w8fMctWX7utqyh95.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/y2ah9t0navXyIvoHg1uIbIHO3tt.jpg",
+  "description": "En 2000, une gigantesque explosion se produit en Antarctique, provoquant un cataclysme (raz-de-marée, fonte des calottes polaires) qui dévaste une grande partie de la planète. Les autorités déclarent que cette catastrophe était due à la chute d'un astéroïde sur la planète.\n\nQuinze ans plus tard, l'humanité a surmonté cet événement, appelé le Second Impact. Mais de mystérieuses créatures nommées Anges font leur apparition, et tentent de détruire Tokyo-3, la nouvelle capitale forteresse du Japon, construite après le Second Impact.\n\nPour les combattre, l'organisation secrète NERV a mis au point une arme ultime, l'Evangelion ou l'Eva, robot géant anthropoïde piloté.\n\nShinji Ikari, quatorze ans, se rend à Tokyo-3 sur invitation de son père, qu'il n'a pas revu depuis dix ans. Il est loin de se douter qu'il sera impliqué dans un conflit qui pourrait bien signifier la fin de l'humanité quoi qu'il arrive...",
+  "genres": [
+    "Action",
+    "Drame",
+    "Psychologique",
+    "Science",
+    "fiction",
+    "Shônen",
+    "Fantastique",
+    "Mechas",
+    "Mystère"
+  ],
+  "rating": "?",
+  "year": "????",
+  "status": "cours",
+  "statusLabel": "En cours",
+  "heroTitle": "Evangelion",
+  "stats": [
+    {
+      "v": "1",
+      "l": "Saisons"
+    },
+    {
+      "v": "?",
+      "l": "Note"
+    },
+    {
+      "v": "????",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "?"
+    },
+    {
+      "text": "🎬 1 Saisons · 26 Éps"
+    },
+    {
+      "text": "📅 ????"
+    },
+    {
+      "color": "#4ade80",
+      "text": "● En cours"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "L'attaque de l'Ange",
+          "id": "haxmvuweba6z"
+        },
+        {
+          "n": 2,
+          "title": "Plafonds inconnus",
+          "id": "hhlq2bvobiy3"
+        },
+        {
+          "n": 3,
+          "title": "Le téléphone ne sonne pas",
+          "id": "dezxwi1fiiq7"
+        },
+        {
+          "n": 4,
+          "title": "La pluie, après la fuite",
+          "id": "p1gvdbclp412"
+        },
+        {
+          "n": 5,
+          "title": "Rei, par-delà son cœur",
+          "id": "ihkeqer84aq3"
+        },
+        {
+          "n": 6,
+          "title": "Combat décisif à Tokyo-3",
+          "id": "3e49ayok0g4x"
+        },
+        {
+          "n": 7,
+          "title": "Construit par l'homme",
+          "id": "an8ta1cxfkv5"
+        },
+        {
+          "n": 8,
+          "title": "L'arrivée d'Asuka au Japon",
+          "id": "mj722v2yicq8"
+        },
+        {
+          "n": 9,
+          "title": "Juste un instant, les cœurs, à l'unisson",
+          "id": "41vzj116wxc3"
+        },
+        {
+          "n": 10,
+          "title": "Magmadiver",
+          "id": "zf93ntr2t4aj"
+        },
+        {
+          "n": 11,
+          "title": "Dans les ténèbres immobiles",
+          "id": "jtg35dw710od"
+        },
+        {
+          "n": 12,
+          "title": "De la valeur d'un miracle",
+          "id": "lcy6dyoczfnt"
+        },
+        {
+          "n": 13,
+          "title": "L'invasion de l'Ange",
+          "id": "wk243wljhuxk"
+        },
+        {
+          "n": 14,
+          "title": "SEELE, trône de l'âme",
+          "id": "sup0oqk86eg7"
+        },
+        {
+          "n": 15,
+          "title": "Mensonges et silence",
+          "id": "cmj9j7fpl1m4"
+        },
+        {
+          "n": 16,
+          "title": "La  désespérance, et après...",
+          "id": "4xu2ag92dn26"
+        },
+        {
+          "n": 17,
+          "title": "Le quatrième qualifié",
+          "id": "lr6k0eexqtha"
+        },
+        {
+          "n": 18,
+          "title": "Le droit de vie ou de mort",
+          "id": "0zhvrt32jqhd"
+        },
+        {
+          "n": 19,
+          "title": "La guerre d'un homme",
+          "id": "qu7eyw4gt73v"
+        },
+        {
+          "n": 20,
+          "title": "Forme du cœur, miroir des gens",
+          "id": "g3gbol5kkg77"
+        },
+        {
+          "n": 21,
+          "title": "NERV, la naissance",
+          "id": "zndw6vmctvor"
+        },
+        {
+          "n": 22,
+          "title": "Humain, au moins d'aspect",
+          "id": "crfp7eot0877"
+        },
+        {
+          "n": 23,
+          "title": "Larmes",
+          "id": "5ux2zoys674d"
+        },
+        {
+          "n": 24,
+          "title": "Le dernier messager",
+          "id": "o16kwcdf1vui"
+        },
+        {
+          "n": 25,
+          "title": "Un monde s'achève",
+          "id": "yroateti2lcg"
+        },
+        {
+          "n": 26,
+          "title": "La bête qui criait « moi » au centre du monde",
+          "id": "9elwt9ejq8db"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/evangelion/",
+  "tmdbId": 890
+}

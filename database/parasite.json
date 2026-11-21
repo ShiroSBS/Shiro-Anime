@@ -1,0 +1,189 @@
+{
+  "id": "parasite",
+  "title": "Parasite",
+  "poster": "https://image.tmdb.org/t/p/w780/opXYjjZRfsExo4IyQElEg1R3Jdj.jpg",
+  "banner": "https://image.tmdb.org/t/p/w1280/cKXl5GVk6o5P8LHKFa7hbwYFLv6.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/opXYjjZRfsExo4IyQElEg1R3Jdj.jpg",
+  "description": "Depuis des milliers d'années, l'Homme se trouve au sommet de la chaîne alimentaire. Jusqu'à ce jour où de mystérieuses sphères, abritant d'étranges parasites, se répandent un peu partout sur Terre. Rapidement, les entités prennent possession de certains habitants. Nul ne sait d'où elles viennent, mais ce qui semble certain, c'est qu'elles sont là pour débarrasser le monde de l'espèce humaine.\n\nShinichi, jeune lycéen, est un « hôte » dont le cerveau a miraculeusement été épargné : et pour cause, Migi, son parasite, a pris possession de son bras droit ! Ce cas exceptionnel va déboucher sur une singulière cohabitation. Car au-delà de la fusion physique opérée entre Migi et Shinichi, qui partagent désormais le même corps et la même vie, va se développer un lien d'attachement particulier où les deux êtres vont apprendre chacun l'un de l'autre. Alors que Shinichi se découvre doté d'incroyables facultés physiques, il prend aussi conscience de la menace qui plane sur ses proches... et sur l'humanité tout entière.",
+  "genres": [
+    "Action",
+    "Drame",
+    "Horreur",
+    "Psychologique",
+    "Romance",
+    "School Life",
+    "Science",
+    "fiction",
+    "Fantastique",
+    "Aventure"
+  ],
+  "rating": "6.4",
+  "year": "2022",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Parasite",
+  "stats": [
+    {
+      "v": "1",
+      "l": "Saisons"
+    },
+    {
+      "v": "6.4",
+      "l": "Note"
+    },
+    {
+      "v": "2022",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "6.4"
+    },
+    {
+      "text": "🎬 1 Saisons · 24 Éps"
+    },
+    {
+      "text": "📅 2022"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "8xionb4ee7dh"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "1gwdprb538tr"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "xvjy80sjcds1"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "10ijka9cpfl7"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "erborxxf54c7"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "b95e6k810m8p"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "kj8x5trsrkf6"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "9nmxecggppjw"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "5ez5wozzg11l"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "fingle5qdovn"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "l9ki02zv04ni"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "6o2zrt2axzvi"
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": "1d25sjf4s9bu"
+        },
+        {
+          "n": 14,
+          "title": "Épisode 14",
+          "id": "n3bltjt6ixr1"
+        },
+        {
+          "n": 15,
+          "title": "Épisode 15",
+          "id": "hv5mhkg2gaai"
+        },
+        {
+          "n": 16,
+          "title": "Épisode 16",
+          "id": "191qxtq94i4f"
+        },
+        {
+          "n": 17,
+          "title": "Épisode 17",
+          "id": "8ta7sggfpo7f"
+        },
+        {
+          "n": 18,
+          "title": "Épisode 18",
+          "id": "cdtrmkqxvgni"
+        },
+        {
+          "n": 19,
+          "title": "Épisode 19",
+          "id": "ytbfvjc5gnol"
+        },
+        {
+          "n": 20,
+          "title": "Épisode 20",
+          "id": "61mmlwguy447"
+        },
+        {
+          "n": 21,
+          "title": "Épisode 21",
+          "id": "d3ep7dbx9vca"
+        },
+        {
+          "n": 22,
+          "title": "Épisode 22",
+          "id": "da5we4w8yule"
+        },
+        {
+          "n": 23,
+          "title": "Épisode 23",
+          "id": "dt1b0ro2jdbl"
+        },
+        {
+          "n": 24,
+          "title": "Épisode 24",
+          "id": "68gx2cowaqdg"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/parasite/",
+  "tmdbId": 42507
+}

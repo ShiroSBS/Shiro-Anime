@@ -1031,5 +1031,29 @@
     "statusLabel": "Terminé",
     "poster": "https://image.tmdb.org/t/p/w780/3kTFL3PAeTyS8gGZAh0iYG6NNjt.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/czrAvoN103RYYX8lhkZPs2zgnkl.jpg"
+  },
+  {
+    "id": "the-eminence-in-shadow",
+    "title": "The Eminence in Shadow",
+    "description": "Les grands héros et les méchants diaboliques sont le genre de personnages que les gens ont envie d'être mais pas Cid Kagenou. Il aspire à devenir le véritable cerveau derrière tout cela, à tirer les ficelles et à faire en sorte que ses machinations dirigent toute l'histoire. Dans sa vie antérieure, il n'avait pas pu atteindre son objectif. Cependant, il va désormais renaître dans un monde de magie et montrer la véritable éminence de l'ombre ! Alors que Cid prétend n'être qu'une personne dans la moyenne, il recrute des membres pour sa fausse organisation nommée Shadow Garden dans le but de faire tomber le faux mystérieux culte qui se cache dans l'ombre. Grâce à de nombreuses improvisations, Cid dirige sa fausse organisation contre l'infâme, et pourtant étonnamment réel, culte de Diabolos.",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Ecchi",
+      "Fantasy",
+      "Shônen",
+      "Isekai",
+      "Harem",
+      "Science",
+      "fiction",
+      "Fantastique"
+    ],
+    "rating": "8.1",
+    "year": "2022",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "poster": "https://image.tmdb.org/t/p/w780/7JKYmtLydAwo9ZsEmAknZiO4U8g.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/htD5SJpPOvkmAowU80KrWnN59WO.jpg"
   }
 ]

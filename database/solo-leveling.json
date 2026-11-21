@@ -1,9 +1,9 @@
 {
   "id": "solo-leveling",
   "title": "Solo Leveling",
-  "poster": "https://image.tmdb.org/t/p/w780/a7i9OdTUo9jZ1XoraCRIQNJ6ACX.jpg",
-  "banner": "https://image.tmdb.org/t/p/w1280/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
-  "bannerFallback": "https://image.tmdb.org/t/p/w780/a7i9OdTUo9jZ1XoraCRIQNJ6ACX.jpg",
+  "poster": "https://image.tmdb.org/t/p/w780/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
   "description": "Dix ans auparavant, des portails ont commencé à apparaître un peu partout dans le monde. Ces portails ont la particularité de connecter le monde à d'autres dimensions, donjons ou mondes parallèles. En même temps, certaines personnes ont développé des capacités afin de pouvoir chasser ces portails. On appelle ceux qui reçoivent un Éveil, des Chasseurs.\n\nSung Jin Woo est considéré comme le plus faible des Chasseurs de rang E... Autrement dit le plus faible parmi les faibles. Il est tellement faible qu'il est surnommé par ses confrères, le « Faible ». Avec une équipe de Chasseurs, il se rend dans un donjon de rang D. Malheureusement, l'équipe se retrouve piégée dans une salle avec des monstres qui ne sont pas du tout du niveau du donjon... S'en suit un massacre... Et Sung Jin Woo, aux portes de la mort arrive à acquérir une capacité pour le moins étrange...\n\nSung Jin Woo va-t-il réussir à devenir le plus puissant des Chasseurs tout en surmontant les épreuves et conspirations ?",
   "genres": [
     "Action",
@@ -60,62 +60,62 @@
         {
           "n": 1,
           "title": "I'm Used to It",
-          "id": null
+          "id": "1rmffamz6ppj"
         },
         {
           "n": 2,
           "title": "If I Had One More Chance",
-          "id": null
+          "id": "t8bqkdra7ex2"
         },
         {
           "n": 3,
           "title": "It's Like a Game",
-          "id": null
+          "id": "5on7i18vixxr"
         },
         {
           "n": 4,
           "title": "I've Gotta Get Stronger",
-          "id": null
+          "id": "khw582farzq6"
         },
         {
           "n": 5,
           "title": "A Pretty Good Deal",
-          "id": null
+          "id": "5ip1p5qeezrn"
         },
         {
           "n": 6,
           "title": "The Real Hunt Begins",
-          "id": null
+          "id": "slbc3uftnuis"
         },
         {
           "n": 7,
           "title": "Let's See How Far I Can Go",
-          "id": null
+          "id": "eaa8uybwb9eh"
         },
         {
           "n": 8,
           "title": "This Is Frustrating",
-          "id": null
+          "id": "wyc7nf2crlkr"
         },
         {
           "n": 9,
           "title": "You've Been Hiding Your Skills",
-          "id": null
+          "id": "d4riz517xwhu"
         },
         {
           "n": 10,
           "title": "What Is This, a Picnic?",
-          "id": null
+          "id": "52fwihjq8t1q"
         },
         {
           "n": 11,
           "title": "A Knight Who Defends an Empty Throne",
-          "id": null
+          "id": "c8a77yn6g7wq"
         },
         {
           "n": 12,
           "title": "Arise",
-          "id": null
+          "id": "sv61wf5asj2e"
         }
       ]
     },
@@ -126,67 +126,67 @@
         {
           "n": 1,
           "title": "You Aren't E-Rank, Are You?",
-          "id": null
+          "id": "35zsjnji8itm"
         },
         {
           "n": 2,
           "title": "I Suppose You Aren't Aware",
-          "id": null
+          "id": "k9yh3djdimai"
         },
         {
           "n": 3,
           "title": "Still a Long Way to Go",
-          "id": null
+          "id": "ojqq7fjz2i90"
         },
         {
           "n": 4,
           "title": "I Need to Stop Faking",
-          "id": null
+          "id": "rire9okoqkpa"
         },
         {
           "n": 5,
           "title": "This is What We're Trained to Do",
-          "id": null
+          "id": "644iaqju5m4o"
         },
         {
           "n": 6,
           "title": "Don't Look Down on My Guys",
-          "id": null
+          "id": "qm4fc3200jt8"
         },
         {
           "n": 7,
           "title": "The 10th S-Rank Hunter",
-          "id": null
+          "id": "hmjhkh1szz2e"
         },
         {
           "n": 8,
           "title": "Looking Up Was Tiring Me Out",
-          "id": null
+          "id": "5mdffi9j76hu"
         },
         {
           "n": 9,
           "title": "It was All Worth It",
-          "id": null
+          "id": "7t07bxc117bm"
         },
         {
           "n": 10,
           "title": "We Need a Hero",
-          "id": null
+          "id": "o101pn1td9xv"
         },
         {
           "n": 11,
           "title": "It's Going to Get Even More Intense",
-          "id": null
+          "id": "fwxwytpdj3yc"
         },
         {
           "n": 12,
           "title": "Are You the King of Humans",
-          "id": null
+          "id": "j5c1xe84lmlp"
         },
         {
           "n": 13,
           "title": "On to the Next Target",
-          "id": null
+          "id": "eag8ss46ajcc"
         }
       ]
     }

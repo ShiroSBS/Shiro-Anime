@@ -1055,5 +1055,28 @@
     "statusLabel": "Terminé",
     "poster": "https://image.tmdb.org/t/p/w780/7JKYmtLydAwo9ZsEmAknZiO4U8g.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/htD5SJpPOvkmAowU80KrWnN59WO.jpg"
+  },
+  {
+    "id": "tensei-shitara-slime-datta-ken",
+    "title": "Tensei Shitara Slime Datta Ken",
+    "description": "Satoru, employé de bureau lambda, se fait assassiner par un criminel en pleine rue. Son histoire aurait dû s'arrêter là, mais il se retrouve soudain réincarné dans un autre monde sous la forme d'un Slime, le monstre le plus faible du bestiaire fantastique.\nSon nouveau corps est équipé de deux compétences uniques : « Prédateur », lui permettant de récupérer les aptitudes de ses adversaires, et « Grand sage », grâce à laquelle il acquiert une compréhension aigüe de son environnement. Mais même muni de ces armes, ses chances de survie semblent encore limitées...",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Drame",
+      "Fantasy",
+      "Seinen",
+      "Isekai",
+      "Science",
+      "fiction",
+      "Fantastique"
+    ],
+    "rating": "8.0",
+    "year": "2018",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "poster": "https://image.tmdb.org/t/p/w780/pzujcdPAoH361NObVrtbA7zACE7.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg"
   }
 ]

@@ -1,0 +1,344 @@
+{
+  "id": "les-carnets-de-l-apothicaire",
+  "title": "Les Carnets de l'Apothicaire",
+  "poster": "https://image.tmdb.org/t/p/w780/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
+  "description": "À l'Est se trouve une terre gouvernée par un empereur, dont les épouses et les femmes au service de l'Etat vivent dans un vaste complexe appelé hougong, le palais arrière. Maomao, une fille modeste élevée par son père apothicaire, n'avait jamais imaginé que l'arrière-palais aurait quelque chose à voir avec elle jusqu'à ce qu'elle soit kidnappée et vendue pour y travailler comme servante.\n\nBien qu'elle ait l'air ordinaire, Maomao a l'esprit vif, aiguisé et possède une connaissance approfondie de la médecine. C'est son secret, jusqu'à ce qu'elle rencontre Jinshi, un résident du palais au moins aussi perspicace qu'elle. Il voit à travers la façade de Maomao et fait d'elle goûteuse personnelle d'une des favorites de l'empereur pour qu'elle puisse goûter la nourriture de la dame à la recherche d'un poison !",
+  "genres": [
+    "Drame",
+    "Historique",
+    "Mystère",
+    "Slice of Life",
+    "Seinen",
+    "Crime",
+    "Enquête",
+    "Médecine"
+  ],
+  "rating": "8.8",
+  "year": "2023",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Les Carnets de l'Apothicaire",
+  "stats": [
+    {
+      "v": "3",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.8",
+      "l": "Note"
+    },
+    {
+      "v": "2023",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.8"
+    },
+    {
+      "text": "🎬 3 Saisons · 53 Éps"
+    },
+    {
+      "text": "📅 2023"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Mao Mao",
+          "id": "h2qfdsj72sr9"
+        },
+        {
+          "n": 2,
+          "title": "La Très Atrabilaire Apothicaire",
+          "id": "fo79ui1hvgf3"
+        },
+        {
+          "n": 3,
+          "title": "Nuisances spectrales",
+          "id": "v2cgcgrjyh19"
+        },
+        {
+          "n": 4,
+          "title": "Manœuvres d’intimidation",
+          "id": "mdrxg73jthmu"
+        },
+        {
+          "n": 5,
+          "title": "Sourdes Machinations",
+          "id": "ue57k8m5qknx"
+        },
+        {
+          "n": 6,
+          "title": "Le Banquet",
+          "id": "pzenjd3rccjp"
+        },
+        {
+          "n": 7,
+          "title": "Retour aux sources",
+          "id": "ibynf131i43v"
+        },
+        {
+          "n": 8,
+          "title": "La Paille",
+          "id": "1azfhd8bfgfa"
+        },
+        {
+          "n": 9,
+          "title": "Suicide ou homicide ?",
+          "id": "6867krtt9bpg"
+        },
+        {
+          "n": 10,
+          "title": "Le Miel",
+          "id": "0i7azuednrw6"
+        },
+        {
+          "n": 11,
+          "title": "De une, de deux",
+          "id": "o2vj1ia9b96l"
+        },
+        {
+          "n": 12,
+          "title": "L’Eunuque et la Courtisane",
+          "id": "jog3domyjz50"
+        },
+        {
+          "n": 13,
+          "title": "À l’assaut de la cour extérieure",
+          "id": "elf0fath10f6"
+        },
+        {
+          "n": 14,
+          "title": "La Nouvelle Concubine",
+          "id": "vmfzu61i4qwa"
+        },
+        {
+          "n": 15,
+          "title": "L'Émincé",
+          "id": "2rc0m864vziq"
+        },
+        {
+          "n": 16,
+          "title": "Le Plomb",
+          "id": "racrbdccogx3"
+        },
+        {
+          "n": 17,
+          "title": "Promenade en ville",
+          "id": "9ldk6fyb2c6m"
+        },
+        {
+          "n": 18,
+          "title": "Les draps",
+          "id": "nlsur8sdxv5x"
+        },
+        {
+          "n": 19,
+          "title": "Coïncidence ou malveillance ?",
+          "id": "ty4qebqygkxi"
+        },
+        {
+          "n": 20,
+          "title": "Le Datura",
+          "id": "83cjaojicwnv"
+        },
+        {
+          "n": 21,
+          "title": "Mission Rachat",
+          "id": "xc1g7wfwvmfo"
+        },
+        {
+          "n": 22,
+          "title": "Les Roses bleues",
+          "id": "83ilwp9zb2y8"
+        },
+        {
+          "n": 23,
+          "title": "Balsamine et Oxalis",
+          "id": "xkzwm0270wwi"
+        },
+        {
+          "n": 24,
+          "title": "Jinshi et Mao Mao",
+          "id": "am9129zcm2em"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Maomao and Maomao",
+          "id": "jttw9vgvf6kh"
+        },
+        {
+          "n": 2,
+          "title": "Caravan",
+          "id": "xv02hc46i0q1"
+        },
+        {
+          "n": 3,
+          "title": "Corpse Fungus",
+          "id": "ptv3xmxv7des"
+        },
+        {
+          "n": 4,
+          "title": "Mirror",
+          "id": "bhh9vstw4se1"
+        },
+        {
+          "n": 5,
+          "title": "The Moon Fairy",
+          "id": "ijug597uauds"
+        },
+        {
+          "n": 6,
+          "title": "The Crystal Pavilion, for the Third Time",
+          "id": "4zgz872u2ldz"
+        },
+        {
+          "n": 7,
+          "title": "The Shrine of Choosing",
+          "id": "n5mskmy5p1q5"
+        },
+        {
+          "n": 8,
+          "title": "The Empress Dowager",
+          "id": "to60m7vx2t6p"
+        },
+        {
+          "n": 9,
+          "title": "The Late Emperor",
+          "id": "ydjdta2m6wjo"
+        },
+        {
+          "n": 10,
+          "title": "A Ghost Story",
+          "id": "wa4k2w55h00j"
+        },
+        {
+          "n": 11,
+          "title": "The Hunt",
+          "id": "v663fvg36vv2"
+        },
+        {
+          "n": 12,
+          "title": "Ka Zuigetsu",
+          "id": "6vnh13roc1b0"
+        },
+        {
+          "n": 13,
+          "title": "The Baths",
+          "id": "3xggk2h2vhos"
+        },
+        {
+          "n": 14,
+          "title": "The Dancing Ghost",
+          "id": "1b68p5is1w1p"
+        },
+        {
+          "n": 15,
+          "title": "Ice",
+          "id": "nc2lfbb3vqxo"
+        },
+        {
+          "n": 16,
+          "title": "Festering Resentment",
+          "id": "0tivfmqboapo"
+        },
+        {
+          "n": 17,
+          "title": "The Fox Village",
+          "id": "0jiv2uqogr6m"
+        },
+        {
+          "n": 18,
+          "title": "Lantern Plant",
+          "id": "rgjno8d6oq8o"
+        },
+        {
+          "n": 19,
+          "title": "Festival",
+          "id": "ds1gi4wpsp8a"
+        },
+        {
+          "n": 20,
+          "title": "The Stronghold",
+          "id": "2kh3jw3gg7dd"
+        },
+        {
+          "n": 21,
+          "title": "Taibon",
+          "id": "d1akezesn656"
+        },
+        {
+          "n": 22,
+          "title": "Royal Guard",
+          "id": "uzvja6zvvvw5"
+        },
+        {
+          "n": 23,
+          "title": "The Shi Clan",
+          "id": "5i3wkqjktvy8"
+        },
+        {
+          "n": 24,
+          "title": "The Beginning",
+          "id": "9zpqb1lyqtvh"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Locusts",
+          "id": "zd6lcjmb5hyf"
+        },
+        {
+          "n": 2,
+          "title": "The Fire-Rat Cloak",
+          "id": "hy43ql21ltdc"
+        },
+        {
+          "n": 3,
+          "title": "Let Them Eat Cake",
+          "id": "chqfj86aipfg"
+        },
+        {
+          "n": 4,
+          "title": "The Last Volume",
+          "id": "3npfc5o2gs9x"
+        },
+        {
+          "n": 5,
+          "title": "The White-Snake Immortal",
+          "id": "tsqojqm2c8sq"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/les-carnets-de-lapothicaire/",
+  "tmdbId": 220542
+}

@@ -1,0 +1,608 @@
+{
+  "id": "seven-deadly-sins",
+  "title": "Seven Deadly Sins",
+  "poster": "https://image.tmdb.org/t/p/w780/6SWVJvCIC9B16u6wASZ8FEaNssz.jpg",
+  "banner": "https://image.tmdb.org/t/p/w1280/dd1tEbUU9NLLo3drq39NknpHQ6v.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/6SWVJvCIC9B16u6wASZ8FEaNssz.jpg",
+  "description": "Les \"Seven Deadly Sins\" sont un groupe de chevaliers qui ont conspiré pour renverser le royaume de Britannia. Ils ont été éradiqués par les Chevaliers Sacrés, cependant certaines rumeurs laissent prétendre qu'ils sont toujours en vie.\nDix ans plus tard, les Chevaliers Sacrés ont fait un coup d'état, emprisonnant le Roi pour devenir les nouveaux dirigeants tyranniques du Royaume.\nElizabeth, la troisième fille du Roi, passe ses journées à la recherche des \"Seven Deadly Sins\", les seules personnes capables de récupérer le Royaume des mains de ces tyrans. Durant ses recherches, elle perd conscience dans la taverne de Meliodas, un jeune garçon parcourant le monde en compagnie de son cochon.\nRapidement, Elizabeth va se rendre compte que Meliodas n'est pas qu'un simple propriétaire de taverne, mais une personne à la puissance démesurée.",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Fantasy",
+    "Romance",
+    "Shônen",
+    "Surnaturel",
+    "Science",
+    "fiction",
+    "Fantastique",
+    "Ecchi"
+  ],
+  "rating": "7.2",
+  "year": "2014",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Seven Deadly Sins",
+  "stats": [
+    {
+      "v": "4",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.2",
+      "l": "Note"
+    },
+    {
+      "v": "2014",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.2"
+    },
+    {
+      "text": "🎬 4 Saisons · 104 Éps"
+    },
+    {
+      "text": "📅 2014"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "LE DÉPART DU GARÇON",
+          "id": "pfckin2b3rai"
+        },
+        {
+          "n": 2,
+          "title": "LA FORCE INCONNUE",
+          "id": "cxafdvago63b"
+        },
+        {
+          "n": 3,
+          "title": "LES QUATRE CAVALIERS DE L'APOCALYPSE",
+          "id": "pr268xepaifz"
+        },
+        {
+          "n": 4,
+          "title": "LE DÉMON DU RAVIN DE L'ÉCHO",
+          "id": "tbyozivfswlg"
+        },
+        {
+          "n": 5,
+          "title": "UNE DÉTERMINATION QUI SE RENFORCE",
+          "id": "gjbwe1i7dl2n"
+        },
+        {
+          "n": 6,
+          "title": "SISTANA ÉBRANLÉE",
+          "id": "9589omphgnmg"
+        },
+        {
+          "n": 7,
+          "title": "LE NOM DE LA MAGIE",
+          "id": "ywdv5zopalpu"
+        },
+        {
+          "n": 8,
+          "title": "DE JEUNES HÉROS",
+          "id": "vyweuv6xh99p"
+        },
+        {
+          "n": 9,
+          "title": "MAÎTRE ET ÉLÈVE",
+          "id": "qj8tfbvaootv"
+        },
+        {
+          "n": 10,
+          "title": "LE RUGISSEMENT DE LA DESTRUCTION",
+          "id": "p4ou1eat1pbv"
+        },
+        {
+          "n": 11,
+          "title": "UN VRAI CHEVALIER SACRÉ",
+          "id": "xm0rf4l1pfjr"
+        },
+        {
+          "n": 12,
+          "title": "UNE SINISTRE ENTREPRISE",
+          "id": "v9s7nlm8y1mj"
+        },
+        {
+          "n": 13,
+          "title": "PRIS AU PIÈGE",
+          "id": "2om5ildgmv76"
+        },
+        {
+          "n": 14,
+          "title": "LE BÉLIER DE LA LUXURE",
+          "id": "zlu8xm178597"
+        },
+        {
+          "n": 15,
+          "title": "LES TALISMANS OBSCURS",
+          "id": "9hm12exd6etz"
+        },
+        {
+          "n": 16,
+          "title": "LE DÉPART DE SIN",
+          "id": "h9zml5gsamw5"
+        },
+        {
+          "n": 17,
+          "title": "LE ROI DE LIONÈS",
+          "id": "tqleu2q5nbpt"
+        },
+        {
+          "n": 18,
+          "title": "LA RENCONTRE DES CHEVALIERS DE LA PROPHÉTIE",
+          "id": "0eqnrxi5gpaw"
+        },
+        {
+          "n": 19,
+          "title": "LIONÈS EN FLAMMES",
+          "id": "t849m1r4vocx"
+        },
+        {
+          "n": 20,
+          "title": "DOMPTER UN CHEVAL SAUVAGE",
+          "id": "89h43r5wijla"
+        },
+        {
+          "n": 21,
+          "title": "LES QUATRE CHEVALIERS CONTRE LES SERVITEURS DU CHAOS",
+          "id": "adofydei4uu3"
+        },
+        {
+          "n": 22,
+          "title": "DES CŒURS BRÛLANTS ET GELÉS",
+          "id": "7bzbleq1le1l"
+        },
+        {
+          "n": 23,
+          "title": "LES CHEVALIERS SACRÉS ROYAUX CONTRE MELA-GALLAND",
+          "id": "mk81qzuh5mr8"
+        },
+        {
+          "n": 24,
+          "title": "L'AVÈNEMENT",
+          "id": "dhay93qk5y96"
+        },
+        {
+          "n": 25,
+          "title": "La Majesté du Roi",
+          "id": "5pzgnqierwgv"
+        },
+        {
+          "n": 26,
+          "title": "Décision de se séparer",
+          "id": "fafynjur50vj"
+        },
+        {
+          "n": 27,
+          "title": "GUINEVERE",
+          "id": "c5vkuuyd44md"
+        },
+        {
+          "n": 28,
+          "title": "La Confrontation",
+          "id": "uyek6m6ielet"
+        },
+        {
+          "n": 29,
+          "title": "Ville De Bataille",
+          "id": "75qbadivrxuq"
+        },
+        {
+          "n": 30,
+          "title": "Les Flammes Du Souvenir",
+          "id": "nl2wlfx5ci2d"
+        },
+        {
+          "n": 31,
+          "title": "Le Roi Fou",
+          "id": "4i4xqjxs4cwg"
+        },
+        {
+          "n": 32,
+          "title": "Le Sauveur",
+          "id": "lnfhg9uj81l7"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "v6r1jr9189ob"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "o2qhs70gfqrj"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "x8h0bc89kmkz"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "hml7rmk2fjjj"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "tgw3oponle8p"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "yax2vtu9aafp"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "34qyvq6ifnul"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "shtklvtmd8ci"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "vx8rk53yyggo"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "s1n4ob32jjxe"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "k3jxygfljsxp"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "n7s9ujc5x72x"
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": "duqe74cjogju"
+        },
+        {
+          "n": 14,
+          "title": "Épisode 14",
+          "id": "jm9wc7n92mj1"
+        },
+        {
+          "n": 15,
+          "title": "Épisode 15",
+          "id": "wxabwngoq4kz"
+        },
+        {
+          "n": 16,
+          "title": "Épisode 16",
+          "id": "3n904bqbu6he"
+        },
+        {
+          "n": 17,
+          "title": "Épisode 17",
+          "id": "jwku8dwoswhb"
+        },
+        {
+          "n": 18,
+          "title": "Épisode 18",
+          "id": "ftmd1cq3cacf"
+        },
+        {
+          "n": 19,
+          "title": "Épisode 19",
+          "id": "mgevydj7hr99"
+        },
+        {
+          "n": 20,
+          "title": "Épisode 20",
+          "id": "ab78sst3rglk"
+        },
+        {
+          "n": 21,
+          "title": "Épisode 21",
+          "id": "qxaoigfotlnb"
+        },
+        {
+          "n": 22,
+          "title": "Épisode 22",
+          "id": "g2zk0wex9e0f"
+        },
+        {
+          "n": 23,
+          "title": "Épisode 23",
+          "id": "cn86na5cfats"
+        },
+        {
+          "n": 24,
+          "title": "Épisode 24",
+          "id": "um6ayhwk91b3"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "fp8j6ovjm8fq"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "g0n0wcljc3oa"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "scjabteszydz"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "xkik2qrvp9h8"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "o3ofyzi3jrz6"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "yjrn291hc14q"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "3apb3une14gr"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "9jrl1wdgdhug"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "6bb28redogvy"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "m7dgbtu8336t"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "nh9lcfrxmf8o"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "ff2kxttx4haz"
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": "wf9x20e29nrk"
+        },
+        {
+          "n": 14,
+          "title": "Épisode 14",
+          "id": "n5nii2dfl8xf"
+        },
+        {
+          "n": 15,
+          "title": "Épisode 15",
+          "id": "qo0cj4vrn74z"
+        },
+        {
+          "n": 16,
+          "title": "Épisode 16",
+          "id": "2jj0x1q875nb"
+        },
+        {
+          "n": 17,
+          "title": "Épisode 17",
+          "id": "evop6lma9tft"
+        },
+        {
+          "n": 18,
+          "title": "Épisode 18",
+          "id": "m79dnyubcebi"
+        },
+        {
+          "n": 19,
+          "title": "Épisode 19",
+          "id": "8rxr0kneyah2"
+        },
+        {
+          "n": 20,
+          "title": "Épisode 20",
+          "id": "81icd7tenpmh"
+        },
+        {
+          "n": 21,
+          "title": "Épisode 21",
+          "id": "zg8c853uwgsg"
+        },
+        {
+          "n": 22,
+          "title": "Épisode 22",
+          "id": "h1v1si4f5cxe"
+        },
+        {
+          "n": 23,
+          "title": "Épisode 23",
+          "id": "vmcfz7x75msg"
+        },
+        {
+          "n": 24,
+          "title": "Épisode 24",
+          "id": "44fq7zzzmn2w"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Saison 4",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "vodntd5j98dl"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "xd1tbksw88z9"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "u2snf8mhmogy"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "gxm6qa6oih4n"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "28k7iplmyex7"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "7f11uhs4c5lb"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "86519ptra70f"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "8jzi3qacumcj"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "o8bgpv10fhlc"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "lzvydc2361to"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "exnhphfgkood"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "ilyy8j8z9icq"
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": "wguqjflng0yg"
+        },
+        {
+          "n": 14,
+          "title": "Épisode 14",
+          "id": "whp24k2py5k9"
+        },
+        {
+          "n": 15,
+          "title": "Épisode 15",
+          "id": "cwagi648fl1w"
+        },
+        {
+          "n": 16,
+          "title": "Épisode 16",
+          "id": "vphr2zs9m6w4"
+        },
+        {
+          "n": 17,
+          "title": "Épisode 17",
+          "id": "5elkmub0t94d"
+        },
+        {
+          "n": 18,
+          "title": "Épisode 18",
+          "id": "ej16fcscy4lm"
+        },
+        {
+          "n": 19,
+          "title": "Épisode 19",
+          "id": "02nspgg2c3ol"
+        },
+        {
+          "n": 20,
+          "title": "Épisode 20",
+          "id": "51j77xx4095k"
+        },
+        {
+          "n": 21,
+          "title": "Épisode 21",
+          "id": "qrnsg44v6xi9"
+        },
+        {
+          "n": 22,
+          "title": "Épisode 22",
+          "id": "zi0yil1s2ign"
+        },
+        {
+          "n": 23,
+          "title": "Épisode 23",
+          "id": "j7o3chpj63o1"
+        },
+        {
+          "n": 24,
+          "title": "Épisode 24",
+          "id": "2phjsemldmk1"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/seven-deadly-sins/",
+  "tmdbId": 218843
+}

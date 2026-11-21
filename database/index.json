@@ -1097,5 +1097,25 @@
     "statusLabel": "Terminé",
     "poster": "https://image.tmdb.org/t/p/w780/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/d3yNn379emGP8xztqeOsB9oLNG2.jpg"
+  },
+  {
+    "id": "kaguya-sama-love-is-war",
+    "title": "Kaguya-sama - Love is War",
+    "description": "Kaguya Shinomiya, vice-présidente du conseil des élèves ne voit pas l'amour comme tout le monde. Pour elle, c'est un combats qu'elle doit livrer avec la personne dont elle est amoureuse, Miyuki Shirogane, qui n'est autre que le président du conseil des élèves et qui partage une vision de l'amour assez similaire. Bien que tous les deux éprouvent des sentiments réciproques, leur orgueil fait que le premier qui osera se déclarer devra alors se soumettre à l'autre..",
+    "genres": [
+      "Comédie",
+      "Drame",
+      "Romance",
+      "School Life",
+      "Seinen",
+      "Psychologique",
+      "Slice of Life"
+    ],
+    "rating": "8.3",
+    "year": "2019",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "poster": "https://image.tmdb.org/t/p/w780/A6txuwvCMxm9bGX6RE95Wm7FreF.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/dJ8yrSokdTMnhKJw06MllSfCegb.jpg"
   }
 ]

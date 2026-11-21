@@ -950,5 +950,25 @@
     "statusLabel": "En cours",
     "poster": "https://image.tmdb.org/t/p/w780/y2ah9t0navXyIvoHg1uIbIHO3tt.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/2NNKYsWXoO9w8fMctWX7utqyh95.jpg"
+  },
+  {
+    "id": "mashle",
+    "title": "Mashle",
+    "description": "Dans un monde où la magie fait loi, il était une fois Mash Burnedead ! Élevé au fin fond de la forêt, le jeune garçon passe ses journées entre séances de musculation et dégustations de choux à la crème.\nMais un jour, un agent de police découvre son secret : il est né sans pouvoirs magiques, ce qui est puni de mort ! Pour survivre, il va devoir postuler à Easton, une prestigieuse académie de magie, et en devenir le meilleur élève...\nLa magie n'a plus qu'à bien se tenir : avec sa musculature affûtée et sa force hors du commun, Mash compte bien pulvériser tous les sorts et briser les codes de cette société !",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Fantastique",
+      "Science",
+      "fiction",
+      "Fantasy"
+    ],
+    "rating": "7.6",
+    "year": "2023",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "poster": "https://image.tmdb.org/t/p/w780/yORTvQOQTZzZ9JRIpRH4QaIaQBm.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/p1swd15DRtCnNj20U904dbXeVsi.jpg"
   }
 ]

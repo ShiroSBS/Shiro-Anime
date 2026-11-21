@@ -1078,5 +1078,24 @@
     "statusLabel": "Terminé",
     "poster": "https://image.tmdb.org/t/p/w780/pzujcdPAoH361NObVrtbA7zACE7.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg"
+  },
+  {
+    "id": "classroom-of-the-elite",
+    "title": "Classroom of the Elite",
+    "description": "L'histoire prend place dans le lycée Kōdo Ikusei, une école prestigieuse dotée d'installations ultramodernes où 100% des étudiants vont ensuite à l'université ou entrent dans la vie active. Les élèves ont une liberté totale, ils peuvent avoir la coupe de cheveux qu'ils désirent et apporter n'importe quel bien personnel dans l'établissement. Kōdo Ikusei est comme le paradis, mais seulement en apparence, en effet seulement les étudiants avec de bons résultats reçoivent ce genre de traitement.\nDans cette école, chaque mois, selon les notes et le comportement d'une classe, celle-ci se voit attribuer un nombre de points en conséquence. Ces points permettent l'achat en tout genre au sein de l'école (nourriture, jeux, consoles, ...). De plus chaque groupe est classé en fonction du nombre de points reçus.\nKiyotaka Ayanokōji est un élève de la classe D, regroupant les pires élèves de l'établissement, ceux avec les résultats les plus mauvais. Pour une certaine raison, Kiyotaka a été négligent durant les examens d'entrée et a donc été placé dans cette fameuse classe.\nAprès avoir rencontré Suzune Horikita et Kikyō Kushida, deux élèves de sa classe, Kiyotaka Ayanokōji et ses nouvelles camarades décident ensemble de coopérer afin d'améliorer les notes de leur classe et essayeront d'atteindre les classes supérieures.",
+    "genres": [
+      "Comédie",
+      "Drame",
+      "School Life",
+      "Slice of Life",
+      "Mystère",
+      "Psychologique"
+    ],
+    "rating": "7.6",
+    "year": "2017",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "poster": "https://image.tmdb.org/t/p/w780/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/d3yNn379emGP8xztqeOsB9oLNG2.jpg"
   }
 ]

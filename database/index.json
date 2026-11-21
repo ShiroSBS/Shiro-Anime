@@ -268,7 +268,7 @@
     "title": "JoJo's Bizarre Adventure",
     "poster": "https://i.imgur.com/0V7TDLn.jpeg",
     "rating": "7.3",
-    "year": "2012",
+    "year": "1993",
     "status": "termine",
     "statusLabel": "Terminé",
     "genres": [
@@ -280,7 +280,9 @@
       "Science",
       "Fiction",
       "Fantastique"
-    ]
+    ],
+    "description": "Angleterre 1868, Lord George Joestar, un noble anglais vient d'avoir un accident en calèche, les seuls survivants sont son fils et lui-même. Il revient à lui quelques temps après l'accident et remercie l'homme qui se trouvait près de lui, Dario Brando. Un homme peu scrupuleux aimant l'alcool et qui s'apprêtait à voler le Lord.\n\n12 ans plus tard, Dario meurt et envoie son fils Dio vivre chez les Joestar. Là-bas vit le fils du Lord, Jonathan Joestar, surnommé Jojo, rêvant de devenir un véritable gentleman. Jojo mène la belle vie et chaque jour est calme et paisible pour lui. Seulement l'arrivée de Dio va tout bouleverser. Dio veut prendre la place de Jojo et va tout faire pour l'anéantir moralement et devenir l'héritier de la fortune des Joestar. Leur destin à tous les deux n'en sera que plus lié avec un étrange masque aztèque aux capacités mystérieuses...",
+    "banner": "https://i.imgur.com/zNNcChk.jpeg"
   },
   {
     "id": "tokyo-ghoul",

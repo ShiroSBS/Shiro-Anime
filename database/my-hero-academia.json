@@ -111,12 +111,12 @@
         },
         {
           "n": 11,
-          "title": "Game Over",
+          "title": "Jeu terminé",
           "id": "4955134"
         },
         {
           "n": 12,
-          "title": "All Might",
+          "title": "Tout pourrait",
           "id": "4955151"
         },
         {
@@ -268,7 +268,7 @@
         },
         {
           "n": 2,
-          "title": "Wild Wild Pussycats",
+          "title": "Chats sauvages sauvages",
           "id": "4826619"
         },
         {
@@ -303,7 +303,7 @@
         },
         {
           "n": 9,
-          "title": "All For One",
+          "title": "Tout pour un",
           "id": "4911044"
         },
         {
@@ -313,7 +313,7 @@
         },
         {
           "n": 11,
-          "title": "One For All",
+          "title": "Un pour tous",
           "id": "4826677"
         },
         {
@@ -399,12 +399,12 @@
         },
         {
           "n": 2,
-          "title": "Overhaul",
+          "title": "Révision",
           "id": "4954971"
         },
         {
           "n": 3,
-          "title": "Boy Meets...",
+          "title": "Un garçon rencontre...",
           "id": "4954974"
         },
         {
@@ -489,7 +489,7 @@
         },
         {
           "n": 20,
-          "title": "Gold Tips Imperial",
+          "title": "Pointes d'or impériales",
           "id": "4954997"
         },
         {
@@ -509,7 +509,7 @@
         },
         {
           "n": 24,
-          "title": "Japanese Hero Chart",
+          "title": "Tableau des héros japonais",
           "id": "4955004"
         },
         {
@@ -570,7 +570,7 @@
         },
         {
           "n": 10,
-          "title": "La surcharge de One For All",
+          "title": "Le supplément de One For All",
           "id": "4804734"
         },
         {
@@ -620,7 +620,7 @@
         },
         {
           "n": 20,
-          "title": "My Villain Academia",
+          "title": "Mon université de méchant",
           "id": "4804751"
         },
         {
@@ -630,7 +630,7 @@
         },
         {
           "n": 22,
-          "title": "Sad Man's Parade",
+          "title": "Défilé des hommes tristes",
           "id": "4804757"
         },
         {
@@ -776,7 +776,7 @@
         },
         {
           "n": 25,
-          "title": "Connexion",
+          "title": "Rapport",
           "id": "5106833"
         }
       ]
@@ -797,7 +797,7 @@
         },
         {
           "n": 3,
-          "title": "Memories - Heroes",
+          "title": "Souvenirs - Héros",
           "id": "5533034"
         },
         {
@@ -807,7 +807,7 @@
         },
         {
           "n": 5,
-          "title": "In Extremis",
+          "title": "En extrême",
           "id": "5545771"
         },
         {
@@ -847,7 +847,7 @@
         },
         {
           "n": 13,
-          "title": "Extras",
+          "title": "Suppléments",
           "id": "5603332"
         },
         {
@@ -892,7 +892,7 @@
         },
         {
           "n": 22,
-          "title": "Armored All Might",
+          "title": "Blindé toute puissance",
           "id": "5714060"
         },
         {
@@ -923,7 +923,7 @@
         },
         {
           "n": 2,
-          "title": "The End of an Era, and...",
+          "title": "La fin d'une époque et...",
           "id": "6048735"
         },
         {
@@ -933,7 +933,7 @@
         },
         {
           "n": 4,
-          "title": "Alter : Explosion !",
+          "title": "Modifier : Explosion !",
           "id": "6058085"
         },
         {
@@ -968,7 +968,7 @@
         },
         {
           "n": 11,
-          "title": "My Hero Academia",
+          "title": "Mon université de héros",
           "id": "6184059"
         }
       ]

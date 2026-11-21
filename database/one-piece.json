@@ -20,7 +20,7 @@
   "heroTitle": "One Piece",
   "stats": [
     {
-      "v": "19",
+      "v": "11",
       "l": "Saisons"
     },
     {
@@ -42,7 +42,7 @@
       "text": "8.7"
     },
     {
-      "text": "🎬 19 Saisons · 1123 Éps"
+      "text": "🎬 11 Saisons · 1123 Éps"
     },
     {
       "text": "📅 1999"
@@ -5733,46 +5733,6 @@
           "id": "lue2j0uo349r"
         }
       ]
-    },
-    "12": {
-      "label": "Saison 12",
-      "title": "Kai - Saga 1 (East Blue)",
-      "episodes": []
-    },
-    "13": {
-      "label": "Saison 13",
-      "title": "Kai - Saga 2 (Alabasta)",
-      "episodes": []
-    },
-    "14": {
-      "label": "Saison 14",
-      "title": "Kai - Saga 3 (Ile céleste)",
-      "episodes": []
-    },
-    "15": {
-      "label": "Saison 15",
-      "title": "Kai - Saga 4 (Water Seven)",
-      "episodes": []
-    },
-    "16": {
-      "label": "Saison 16",
-      "title": "Kai - Saga 5 (Thriller Bark)",
-      "episodes": []
-    },
-    "17": {
-      "label": "Saison 17",
-      "title": "Kai - Saga 6 (Guerre au Sommet)",
-      "episodes": []
-    },
-    "18": {
-      "label": "Saison 18",
-      "title": "Kai - Saga 7 (Ile des Hommes-Poissons)",
-      "episodes": []
-    },
-    "19": {
-      "label": "Saison 19",
-      "title": "Kai - Saga 8 (Dressrosa)",
-      "episodes": []
     }
   },
   "sourceUrl": "https://anime-sama.to/catalogue/one-piece/"

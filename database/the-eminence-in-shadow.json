@@ -1,0 +1,236 @@
+{
+  "id": "the-eminence-in-shadow",
+  "title": "The Eminence in Shadow",
+  "poster": "https://image.tmdb.org/t/p/w780/7JKYmtLydAwo9ZsEmAknZiO4U8g.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/7JKYmtLydAwo9ZsEmAknZiO4U8g.jpg",
+  "description": "Les grands héros et les méchants diaboliques sont le genre de personnages que les gens ont envie d'être mais pas Cid Kagenou. Il aspire à devenir le véritable cerveau derrière tout cela, à tirer les ficelles et à faire en sorte que ses machinations dirigent toute l'histoire. Dans sa vie antérieure, il n'avait pas pu atteindre son objectif. Cependant, il va désormais renaître dans un monde de magie et montrer la véritable éminence de l'ombre ! Alors que Cid prétend n'être qu'une personne dans la moyenne, il recrute des membres pour sa fausse organisation nommée Shadow Garden dans le but de faire tomber le faux mystérieux culte qui se cache dans l'ombre. Grâce à de nombreuses improvisations, Cid dirige sa fausse organisation contre l'infâme, et pourtant étonnamment réel, culte de Diabolos.",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Ecchi",
+    "Fantasy",
+    "Shônen",
+    "Isekai",
+    "Harem",
+    "Science",
+    "fiction",
+    "Fantastique"
+  ],
+  "rating": "8.1",
+  "year": "2022",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "The Eminence in Shadow",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.1",
+      "l": "Note"
+    },
+    {
+      "v": "2022",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.1"
+    },
+    {
+      "text": "🎬 2 Saisons · 32 Éps"
+    },
+    {
+      "text": "📅 2022"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Un camarade détestable",
+          "id": "r6dnxqg4ouvz"
+        },
+        {
+          "n": 2,
+          "title": "La Création de Shadow Garden",
+          "id": "1xpgiwv8ywo5"
+        },
+        {
+          "n": 3,
+          "title": "L’Escrime des laborieux",
+          "id": "n9z1bv0m5786"
+        },
+        {
+          "n": 4,
+          "title": "La Récompense des tortionnaires",
+          "id": "bxnuknz4h6c4"
+        },
+        {
+          "n": 5,
+          "title": "Je suis...",
+          "id": "5a9wwg5xdf7o"
+        },
+        {
+          "n": 6,
+          "title": "Les Imposteurs",
+          "id": "825afbrp2lu2"
+        },
+        {
+          "n": 7,
+          "title": "Le Complot et le tournoi sanglant",
+          "id": "n58q82ogrx8h"
+        },
+        {
+          "n": 8,
+          "title": "Assaut sur l’Académie des Magelames",
+          "id": "dhf2t6rha3l8"
+        },
+        {
+          "n": 9,
+          "title": "Au bout du mensonge",
+          "id": "pk1fhw55d5h2"
+        },
+        {
+          "n": 10,
+          "title": "Lindblum, terre sainte et capitale de la duperie",
+          "id": "auw82nb2wzxb"
+        },
+        {
+          "n": 11,
+          "title": "Les Épreuves de la Déesse",
+          "id": "cximp58ebfjb"
+        },
+        {
+          "n": 12,
+          "title": "La Vérité dans les souvenirs",
+          "id": "2rus4gf47wlk"
+        },
+        {
+          "n": 13,
+          "title": "Combat sanglant pour l'anéantissement",
+          "id": "vsjkox487l46"
+        },
+        {
+          "n": 14,
+          "title": "Tes mensonges, tes souhaits",
+          "id": "t2p092sfoa5e"
+        },
+        {
+          "n": 15,
+          "title": "La force du plus faible",
+          "id": "a76bzjfnxzhy"
+        },
+        {
+          "n": 16,
+          "title": "Intentions invisibles",
+          "id": "a8gncmzhszv0"
+        },
+        {
+          "n": 17,
+          "title": "Le clair de lune qui perçait les ténèbres",
+          "id": "lg77cnvjqquh"
+        },
+        {
+          "n": 18,
+          "title": "Tout jouer sur un instant",
+          "id": "8rw7in97b0nx"
+        },
+        {
+          "n": 19,
+          "title": "Le Pantin dansant",
+          "id": "sc9kezg0j431"
+        },
+        {
+          "n": 20,
+          "title": "La venue du démon",
+          "id": "y4ldzv1uxfc6"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "La Cité sans loi",
+          "id": "c8euqtar68vj"
+        },
+        {
+          "n": 2,
+          "title": "La Terre du repos",
+          "id": "ntreoop3vwnk"
+        },
+        {
+          "n": 3,
+          "title": "L'heure du réveil.",
+          "id": "qi9pui8oftfv"
+        },
+        {
+          "n": 4,
+          "title": "Le Masque du mensonge",
+          "id": "gxhby0e1rx7y"
+        },
+        {
+          "n": 5,
+          "title": "Celui qui tire les ficelles",
+          "id": "lkkg9riwmhsn"
+        },
+        {
+          "n": 6,
+          "title": "John Smith",
+          "id": "g49h03j16fw5"
+        },
+        {
+          "n": 7,
+          "title": "Ce qui m’est cher",
+          "id": "yx2iay916vtq"
+        },
+        {
+          "n": 8,
+          "title": "Les Larmes du dragon",
+          "id": "m25kx26tlfx1"
+        },
+        {
+          "n": 9,
+          "title": "L'Apparition d'une ville en ruines",
+          "id": "wydoh8x1jgra"
+        },
+        {
+          "n": 10,
+          "title": "L'Oiseau en cage",
+          "id": "0xp5azz82pen"
+        },
+        {
+          "n": 11,
+          "title": "La Décision",
+          "id": "bn0hyqqs1ppv"
+        },
+        {
+          "n": 12,
+          "title": "Tout en haut",
+          "id": "pvfwjh8qpogb"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/the-eminence-in-shadow/",
+  "tmdbId": 119495
+}

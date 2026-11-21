@@ -1,0 +1,653 @@
+{
+  "id": "tensei-shitara-slime-datta-ken",
+  "title": "Tensei Shitara Slime Datta Ken",
+  "poster": "https://image.tmdb.org/t/p/w780/pzujcdPAoH361NObVrtbA7zACE7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/pzujcdPAoH361NObVrtbA7zACE7.jpg",
+  "description": "Satoru, employé de bureau lambda, se fait assassiner par un criminel en pleine rue. Son histoire aurait dû s'arrêter là, mais il se retrouve soudain réincarné dans un autre monde sous la forme d'un Slime, le monstre le plus faible du bestiaire fantastique.\nSon nouveau corps est équipé de deux compétences uniques : « Prédateur », lui permettant de récupérer les aptitudes de ses adversaires, et « Grand sage », grâce à laquelle il acquiert une compréhension aigüe de son environnement. Mais même muni de ces armes, ses chances de survie semblent encore limitées...",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Fantasy",
+    "Seinen",
+    "Isekai",
+    "Science",
+    "fiction",
+    "Fantastique"
+  ],
+  "rating": "8.0",
+  "year": "2018",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Tensei Shitara Slime Datta Ken",
+  "stats": [
+    {
+      "v": "5",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.0",
+      "l": "Note"
+    },
+    {
+      "v": "2018",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.0"
+    },
+    {
+      "text": "🎬 5 Saisons · 112 Éps"
+    },
+    {
+      "text": "📅 2018"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "wubqsszeneyo"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "82jgyisx7hq0"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "kuqj1f8pus78"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "4a9qt74sehvh"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "qjhadupolgkk"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "uir6kj4smaq9"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "7rkg68yg4z67"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "0msmjfokkra5"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "50iwuuyirqe3"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "l7uqvw2qd86t"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "9ipnlvkxe6yx"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "devskmuionma"
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": "h2lyxk7a6utq"
+        },
+        {
+          "n": 14,
+          "title": "Épisode 14",
+          "id": "xtmzw1fqxf0m"
+        },
+        {
+          "n": 15,
+          "title": "Épisode 15",
+          "id": "ti40o5dr9rsp"
+        },
+        {
+          "n": 16,
+          "title": "Épisode 16",
+          "id": "qxw8tejc9c76"
+        },
+        {
+          "n": 17,
+          "title": "Épisode 17",
+          "id": "9l83xg1zgf3p"
+        },
+        {
+          "n": 18,
+          "title": "Épisode 18",
+          "id": "vtnm9q3mglr9"
+        },
+        {
+          "n": 19,
+          "title": "Épisode 19",
+          "id": "3u4akpn2rsl0"
+        },
+        {
+          "n": 20,
+          "title": "Épisode 20",
+          "id": "8jy9vul8qsyn"
+        },
+        {
+          "n": 21,
+          "title": "Épisode 21",
+          "id": "ubiwern8fz79"
+        },
+        {
+          "n": 22,
+          "title": "Épisode 22",
+          "id": "6gthpu6is1b6"
+        },
+        {
+          "n": 23,
+          "title": "Épisode 23",
+          "id": "zmxkhh3vdgbh"
+        },
+        {
+          "n": 24,
+          "title": "Épisode 24",
+          "id": "1izdfbj0uu5o"
+        },
+        {
+          "n": 25,
+          "title": "Épisode 25",
+          "id": "ixsl9y8qnynd"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "2laqwr6xpyr4"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "mb889hbg2arv"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "qj0xtar1mu47"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "pe831mv629qy"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "zp4tdhks0xj8"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "yfps1u98743m"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "2jz8prsomx91"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "xpykwzwqc868"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "8go939w4lrh2"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "05drrlagh56n"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "7hx52si84uy2"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "77st1xe21dmi"
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": "79uqupmir3kk"
+        },
+        {
+          "n": 14,
+          "title": "Épisode 14",
+          "id": "c4fpsdbj8n7f"
+        },
+        {
+          "n": 15,
+          "title": "Épisode 15",
+          "id": "3dbcd5ffoq1v"
+        },
+        {
+          "n": 16,
+          "title": "Épisode 16",
+          "id": "zwimnfk6nmyj"
+        },
+        {
+          "n": 17,
+          "title": "Épisode 17",
+          "id": "fh332vxeyvep"
+        },
+        {
+          "n": 18,
+          "title": "Épisode 18",
+          "id": "t61649caryn1"
+        },
+        {
+          "n": 19,
+          "title": "Épisode 19",
+          "id": "d0wb9m6j5jw9"
+        },
+        {
+          "n": 20,
+          "title": "Épisode 20",
+          "id": "sptt3z6oyajh"
+        },
+        {
+          "n": 21,
+          "title": "Épisode 21",
+          "id": "30j5z1a62o6f"
+        },
+        {
+          "n": 22,
+          "title": "Épisode 22",
+          "id": "e1ojcu4jol1v"
+        },
+        {
+          "n": 23,
+          "title": "Épisode 23",
+          "id": "cc576tn4lg8z"
+        },
+        {
+          "n": 24,
+          "title": "Épisode 24",
+          "id": "cfdogllun71a"
+        },
+        {
+          "n": 25,
+          "title": "Épisode 25",
+          "id": "o7teooqjzjnt"
+        },
+        {
+          "n": 26,
+          "title": "Épisode 26",
+          "id": "rxwba8e933s3"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "q8utdybnlm25"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "olt9odiyqei8"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "lfn6dhb6x66j"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "cqnok7czvd5h"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "p9jpppilw4c1"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "0x8gcfklhv6m"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "na2ea89goq16"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "07ipmpe4bq7v"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "ffukku91fue7"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "yuyefdiyzew4"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "6cwp1wie0hj7"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "sru25y0cd464"
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": "09eoo3tn52v9"
+        },
+        {
+          "n": 14,
+          "title": "Épisode 14",
+          "id": "9p60qvxuej9s"
+        },
+        {
+          "n": 15,
+          "title": "Épisode 15",
+          "id": "ytf3otrvjit1"
+        },
+        {
+          "n": 16,
+          "title": "Épisode 16",
+          "id": "1ot4tr67z099"
+        },
+        {
+          "n": 17,
+          "title": "Épisode 17",
+          "id": "qk4t1aswoon1"
+        },
+        {
+          "n": 18,
+          "title": "Épisode 18",
+          "id": "g3z6sxemeajq"
+        },
+        {
+          "n": 19,
+          "title": "Épisode 19",
+          "id": "hopmoflek08g"
+        },
+        {
+          "n": 20,
+          "title": "Épisode 20",
+          "id": "15952agx1vdn"
+        },
+        {
+          "n": 21,
+          "title": "Épisode 21",
+          "id": "nr56zbit51zc"
+        },
+        {
+          "n": 22,
+          "title": "Épisode 22",
+          "id": "jl0lsv1a0hd2"
+        },
+        {
+          "n": 23,
+          "title": "Épisode 23",
+          "id": "pypi6p4umiuf"
+        },
+        {
+          "n": 24,
+          "title": "Épisode 24",
+          "id": "zia2c4m0oinb"
+        },
+        {
+          "n": 25,
+          "title": "Épisode 25",
+          "id": "glw0e4rce3yx"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Saison 4",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Un nouveau quotidien",
+          "id": "k9afnnvugu0m"
+        },
+        {
+          "n": 2,
+          "title": "Le donjon évolue",
+          "id": "hisgx6qrhndb"
+        },
+        {
+          "n": 3,
+          "title": "Le lancement des Avatars",
+          "id": "nvr93j36hzw9"
+        },
+        {
+          "n": 4,
+          "title": "Invitation",
+          "id": "78gttlxm0jcm"
+        },
+        {
+          "n": 5,
+          "title": "Le premier pas",
+          "id": "4nj7y4sgv1tz"
+        },
+        {
+          "n": 6,
+          "title": "Le conseil des pays de l’Ouest",
+          "id": "msnrk7d9qx6i"
+        },
+        {
+          "n": 7,
+          "title": "L’identité du cerveau",
+          "id": "e7gg67baqb4b"
+        },
+        {
+          "n": 8,
+          "title": "Le piège de l'avidité",
+          "id": "wza38r26e1rg"
+        },
+        {
+          "n": 9,
+          "title": "Enquête sur les ruines",
+          "id": "3wivbgrhgfpa"
+        },
+        {
+          "n": 10,
+          "title": "L'avidité personnifiée",
+          "id": "8nje350gcqof"
+        },
+        {
+          "n": 11,
+          "title": "L'ami de Millim",
+          "id": "0gwhgovu6b6v"
+        },
+        {
+          "n": 12,
+          "title": "L'évolution de Tempest",
+          "id": "e5x4asonbxyo"
+        },
+        {
+          "n": 13,
+          "title": "De nouveaux alliés",
+          "id": "qd5j8me774oh"
+        },
+        {
+          "n": 14,
+          "title": "La Légion noire",
+          "id": "hdde1a53696x"
+        },
+        {
+          "n": 15,
+          "title": "Une menace plane",
+          "id": "7p2fmqv5ixe5"
+        },
+        {
+          "n": 16,
+          "title": "Gran, le Brave de l'aube",
+          "id": "uhq11cf4cle1"
+        },
+        {
+          "n": 17,
+          "title": "Convergence à Ruberios",
+          "id": "bc3675pceuum"
+        },
+        {
+          "n": 18,
+          "title": "Conflit à l'Ouest",
+          "id": "h8pxo2e0ibij"
+        },
+        {
+          "n": 19,
+          "title": "Mort et disparition",
+          "id": "4r4kidutp0qp"
+        },
+        {
+          "n": 20,
+          "title": "Chronoa la Brave – Partie 1",
+          "id": "30lfrje025oy"
+        },
+        {
+          "n": 21,
+          "title": "Chronoa la Brave – Partie 2",
+          "id": "bmufak8e1j3s"
+        },
+        {
+          "n": 22,
+          "title": "Là où dorment leurs âmes",
+          "id": "sytaxsijvkgf"
+        },
+        {
+          "n": 23,
+          "title": "L'espoir de Granbell",
+          "id": "py43r7c3a744"
+        },
+        {
+          "n": 24,
+          "title": "L'éveil de la Brave",
+          "id": "sudqtupu7clh"
+        }
+      ]
+    },
+    "5": {
+      "label": "Saison 5",
+      "title": "The Slime Diaries",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "7qanm4jok84o"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "66hrip4vxpd5"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "7d1fddaqwts0"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "69epwi1eq71s"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "atu24zlm4vdr"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "ia63fo74a5qh"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "7iere3eja2io"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "875vfj1uu5ox"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "xe0auy3wmy16"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "d5z04mjaalt3"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "ti783y1atlyy"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "ossddwgtwnye"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/tensei-shitara-slime-datta-ken/",
+  "tmdbId": 82684
+}

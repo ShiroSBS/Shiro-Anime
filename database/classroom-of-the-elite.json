@@ -1,0 +1,353 @@
+{
+  "id": "classroom-of-the-elite",
+  "title": "Classroom of the Elite",
+  "poster": "https://image.tmdb.org/t/p/w780/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg",
+  "description": "L'histoire prend place dans le lycée Kōdo Ikusei, une école prestigieuse dotée d'installations ultramodernes où 100% des étudiants vont ensuite à l'université ou entrent dans la vie active. Les élèves ont une liberté totale, ils peuvent avoir la coupe de cheveux qu'ils désirent et apporter n'importe quel bien personnel dans l'établissement. Kōdo Ikusei est comme le paradis, mais seulement en apparence, en effet seulement les étudiants avec de bons résultats reçoivent ce genre de traitement.\nDans cette école, chaque mois, selon les notes et le comportement d'une classe, celle-ci se voit attribuer un nombre de points en conséquence. Ces points permettent l'achat en tout genre au sein de l'école (nourriture, jeux, consoles, ...). De plus chaque groupe est classé en fonction du nombre de points reçus.\nKiyotaka Ayanokōji est un élève de la classe D, regroupant les pires élèves de l'établissement, ceux avec les résultats les plus mauvais. Pour une certaine raison, Kiyotaka a été négligent durant les examens d'entrée et a donc été placé dans cette fameuse classe.\nAprès avoir rencontré Suzune Horikita et Kikyō Kushida, deux élèves de sa classe, Kiyotaka Ayanokōji et ses nouvelles camarades décident ensemble de coopérer afin d'améliorer les notes de leur classe et essayeront d'atteindre les classes supérieures.",
+  "genres": [
+    "Comédie",
+    "Drame",
+    "School Life",
+    "Slice of Life",
+    "Mystère",
+    "Psychologique"
+  ],
+  "rating": "7.6",
+  "year": "2017",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Classroom of the Elite",
+  "stats": [
+    {
+      "v": "4",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.6",
+      "l": "Note"
+    },
+    {
+      "v": "2017",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.6"
+    },
+    {
+      "text": "🎬 4 Saisons · 54 Éps"
+    },
+    {
+      "text": "📅 2017"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Qu’est-ce qui est mauvais ? Tout ce qui vient de la faiblesse.",
+          "id": "ivvgkzp5u2qx"
+        },
+        {
+          "n": 2,
+          "title": "C’est une grande habileté que de savoir cacher son habileté.",
+          "id": "92hr0j859j6p"
+        },
+        {
+          "n": 3,
+          "title": "L’homme est le seul animal qui marchande. Aucun chien n’échange d’os avec un autre.",
+          "id": "a1wl9pvzjfi4"
+        },
+        {
+          "n": 4,
+          "title": "Il ne faut pas s'offenser que les autres nous cachent la vérité, puisque nous nous la cachons si souvent à nous-mêmes.",
+          "id": "0fhtfhs7l5d2"
+        },
+        {
+          "n": 5,
+          "title": "L'enfer, c'est les autres.",
+          "id": "20r6h3md4i4g"
+        },
+        {
+          "n": 6,
+          "title": "Il y a deux sortes de mensonges, celui de de fait qui regarde le passé, celui de droit qui regarde l'avenir.",
+          "id": "9atualuzrgyo"
+        },
+        {
+          "n": 7,
+          "title": "Rien n'est si dangereux qu'un ignorant ami. Mieux vaudrait un sage ennemi.",
+          "id": "znz9vmk5hpf9"
+        },
+        {
+          "n": 8,
+          "title": "Vous qui entrez, laissez toute espérance.",
+          "id": "ohxi3zhy2dma"
+        },
+        {
+          "n": 9,
+          "title": "L'homme est condamné à être libre",
+          "id": "lncas0bhu437"
+        },
+        {
+          "n": 10,
+          "title": "Le plus dangereux dans la traîtrise, c'est que chacun cache un traître au fond de soi",
+          "id": "0g3g0krtqeiz"
+        },
+        {
+          "n": 11,
+          "title": "Mais en général, ce que l'homme appelle destin ne sont que ses propres actes stupides",
+          "id": "vxgau6m7iy7q"
+        },
+        {
+          "n": 12,
+          "title": "Le génie désigne l'homme qui vit un cran au-dessus de la folie",
+          "id": "s5x8j9y4bcst"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Souviens-toi de garder une âme égale dans l’adversité.",
+          "id": "f82ebhf9cxit"
+        },
+        {
+          "n": 2,
+          "title": "Il y a pour les hommes deux péchés capitaux, d’où découlent tous les autres : impatience et paresse.",
+          "id": "vfu3t4ijlqp7"
+        },
+        {
+          "n": 3,
+          "title": "Les plus grandes âmes sont capables des plus grands vices aussi bien que des plus grandes vertus.",
+          "id": "jlvl2sb9jupi"
+        },
+        {
+          "n": 4,
+          "title": "Il est nécessaire d’éduquer les futurs talents.",
+          "id": "lz7u9n9cvaeb"
+        },
+        {
+          "n": 5,
+          "title": "Chaque échec est une étape vers le succès.",
+          "id": "wzt0no9jhc32"
+        },
+        {
+          "n": 6,
+          "title": "L’adversité est la route qui conduit le plus sûrement à la vérité.",
+          "id": "mszjgceviyyi"
+        },
+        {
+          "n": 7,
+          "title": "Douter de tout ou tout croire, ce sont deux solutions également commodes, qui l'une et l'autre nous dispensent de réfléchir.",
+          "id": "detnw1y8k16n"
+        },
+        {
+          "n": 8,
+          "title": "La blessure vit toujours au fond du cœur.",
+          "id": "3929zghdk4jb"
+        },
+        {
+          "n": 9,
+          "title": "Ne pas se corriger après une faute, c’est là qu’est la faute.",
+          "id": "2oi09356qum7"
+        },
+        {
+          "n": 10,
+          "title": "Souvent le peuple désire sa ruine, trompé par la fausse apparence.",
+          "id": "awy4ccptoxse"
+        },
+        {
+          "n": 11,
+          "title": "Celui qui n’est pas maître de soi reste à jamais un valet.",
+          "id": "n1uf77uvxm3x"
+        },
+        {
+          "n": 12,
+          "title": "La force sans prudence succombe sous son propre poids.",
+          "id": "h8e08f31l3qy"
+        },
+        {
+          "n": 13,
+          "title": "Le plus dangereux ennemi que tu puisses rencontrer sera toujours toi-même.",
+          "id": "t997ayqkgaw6"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le principe de croissance le plus fort réside dans le choix humain",
+          "id": "pa9wxjzjgfln"
+        },
+        {
+          "n": 2,
+          "title": "L'homme est un loup pour l'homme",
+          "id": "z8b8scaest5c"
+        },
+        {
+          "n": 3,
+          "title": "On n’oublie pas lorsque l’on veut oublier",
+          "id": "ijsybr9zv6wj"
+        },
+        {
+          "n": 4,
+          "title": "Tu as le droit de remplir les devoirs qui t’échoient, mais pas de jouir du fruit de tes actes",
+          "id": "kld2xxnqw5tk"
+        },
+        {
+          "n": 5,
+          "title": "La fortune sourit aux audacieux",
+          "id": "960iqz252xee"
+        },
+        {
+          "n": 6,
+          "title": "Il vaut mieux recevoir une injure que de la faire",
+          "id": "8flrbnqd7m7c"
+        },
+        {
+          "n": 7,
+          "title": "Les gens feront n’importe quoi, peu importe l’absurdité, afin d’éviter de faire face à leur propre âme",
+          "id": "61evudnl0xza"
+        },
+        {
+          "n": 8,
+          "title": "Ceux qui ne peuvent se rappeler le passé sont condamnés à le répéter.",
+          "id": "xsexuokql4g0"
+        },
+        {
+          "n": 9,
+          "title": "L’application excessive du droit ou de la justice mène à l’injustice.",
+          "id": "1ybuvvusisvh"
+        },
+        {
+          "n": 10,
+          "title": "La première cause des conclusions absurdes, je l’attribue au manque de méthode.",
+          "id": "6b1oivondwra"
+        },
+        {
+          "n": 11,
+          "title": "Il n'y a qu'une loi en sentiment. C'est de faire le bonheur de ceux qu'on aime",
+          "id": "n8mrpm08ghd0"
+        },
+        {
+          "n": 12,
+          "title": "Changer mes désirs plutôt que l'ordre du monde.",
+          "id": "coboxz7ygrr0"
+        },
+        {
+          "n": 13,
+          "title": "L'amour est le meilleur des maîtres",
+          "id": "yshsz00tw84p"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Saison 4",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "L'assassin de la salle blanche",
+          "id": "hnje473mzit3"
+        },
+        {
+          "n": 2,
+          "title": "Contrat et paiement",
+          "id": "l6alotizf9sv"
+        },
+        {
+          "n": 3,
+          "title": "La détermination d’un leader",
+          "id": "l4a5pstg2lb3"
+        },
+        {
+          "n": 4,
+          "title": "Là où la lame pointe",
+          "id": "84z381rxzgeg"
+        },
+        {
+          "n": 5,
+          "title": "L'homme à 20 millions",
+          "id": "iece3dc5anfn"
+        },
+        {
+          "n": 6,
+          "title": "Lutte mouvementée",
+          "id": "9erv7ry1uicy"
+        },
+        {
+          "n": 7,
+          "title": "Manigances",
+          "id": "9hck9obi6dji"
+        },
+        {
+          "n": 8,
+          "title": "Ce que regardent les dragons",
+          "id": "cur1nhk4wwwq"
+        },
+        {
+          "n": 9,
+          "title": "Un début inquiétant",
+          "id": "kt7jqmyre845"
+        },
+        {
+          "n": 10,
+          "title": "Sentiments inavoués",
+          "id": "uyo58jfgct3w"
+        },
+        {
+          "n": 11,
+          "title": "Liens",
+          "id": "gp6aeiv17zpz"
+        },
+        {
+          "n": 12,
+          "title": "Au bout de la vengeance",
+          "id": "wldsn5vkkg9j"
+        },
+        {
+          "n": 13,
+          "title": "Noyé sous la pluie",
+          "id": "fjqd6k61m8np"
+        },
+        {
+          "n": 14,
+          "title": "Le noble prodige",
+          "id": "zyak106ai6tg"
+        },
+        {
+          "n": 15,
+          "title": "Force et volonté",
+          "id": "qh2t1fwm5iib"
+        },
+        {
+          "n": 16,
+          "title": "Pour l'avenir désiré",
+          "id": "8mrbc8eqdya6"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/classroom-of-the-elite/",
+  "tmdbId": 72517
+}

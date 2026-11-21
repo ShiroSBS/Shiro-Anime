@@ -1,0 +1,196 @@
+{
+  "id": "wind-breaker",
+  "title": "Wind Breaker",
+  "poster": "https://image.tmdb.org/t/p/w780/3kTFL3PAeTyS8gGZAh0iYG6NNjt.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/vEblyD3KEjfnxFBedU2rwurOd4N.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/3kTFL3PAeTyS8gGZAh0iYG6NNjt.jpg",
+  "description": "Haruka Sakura est le genre de lycéen qui fait passer la baston avant les révisions. Fraîchement débarqué en ville, c'est donc le sourire aux lèvres qu'il compte pousser les portes du lycée Fûrin, l'établissement scolaire au pire taux de délinquance du pays... Les intentions de Haruka sont claires : se mesurer aux meilleurs bagarreurs de ce bahut et devenir le meilleur de tous ! Mais entre-temps, il se retrouve mêlé à une altercation avec une bande de brutes dans un des quartiers de la ville, avant d'être sauvé in extremis par des élèves de son lycée. Haruka réalise alors à quel genre de phénomènes il risque d'avoir affaire...",
+  "genres": [
+    "Action",
+    "Shônen",
+    "School Life",
+    "Aventure",
+    "Comédie",
+    "Drame"
+  ],
+  "rating": "7.7",
+  "year": "2024",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Wind Breaker",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.7",
+      "l": "Note"
+    },
+    {
+      "v": "2024",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.7"
+    },
+    {
+      "text": "🎬 2 Saisons · 25 Éps"
+    },
+    {
+      "text": "📅 2024"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Sakura et Fûrin",
+          "id": "snlvyxw6al4i"
+        },
+        {
+          "n": 2,
+          "title": "Le héros idéal",
+          "id": "boi0stdft2q9"
+        },
+        {
+          "n": 3,
+          "title": "Celui qui se tient au sommet",
+          "id": "t5c67w7eck6d"
+        },
+        {
+          "n": 4,
+          "title": "Conflit",
+          "id": "s5b5ncsmgole"
+        },
+        {
+          "n": 5,
+          "title": "Un mec gentil",
+          "id": "ifyz4n7ppjmh"
+        },
+        {
+          "n": 6,
+          "title": "Je te suivrai jusqu’au bout",
+          "id": "77ojqcel7vh3"
+        },
+        {
+          "n": 7,
+          "title": "Je peux pas perdre",
+          "id": "kkugsxi9yvnm"
+        },
+        {
+          "n": 8,
+          "title": "Échange de points de vue",
+          "id": "sk9r8nzwzgqi"
+        },
+        {
+          "n": 9,
+          "title": "La méthode Umemiya",
+          "id": "6m0dssjpno8a"
+        },
+        {
+          "n": 10,
+          "title": "La discute",
+          "id": "30pe89ozy9a5"
+        },
+        {
+          "n": 11,
+          "title": "Nouveaux potes",
+          "id": "headpqauc4cu"
+        },
+        {
+          "n": 12,
+          "title": "À la hauteur",
+          "id": "rgsm1q8o3i03"
+        },
+        {
+          "n": 13,
+          "title": "Pour un pote",
+          "id": "5ug8xluto7br"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "RAGE",
+          "id": "wzdvbiwxgls3"
+        },
+        {
+          "n": 2,
+          "title": "CONCLUSION",
+          "id": "3oa31rrn7ylj"
+        },
+        {
+          "n": 3,
+          "title": "Re:start",
+          "id": "bhfie79d85x7"
+        },
+        {
+          "n": 4,
+          "title": "SENPAI'S TEACHINGS",
+          "id": "yo9mmwons2wo"
+        },
+        {
+          "n": 5,
+          "title": "A PLACE I BELONG",
+          "id": "1hz6618dcm18"
+        },
+        {
+          "n": 6,
+          "title": "HIDDEN FEELINGS",
+          "id": "hsfwksw4rjkq"
+        },
+        {
+          "n": 7,
+          "title": "NIGHT STREET",
+          "id": "dx1l2gwf5qua"
+        },
+        {
+          "n": 8,
+          "title": "SHARED FRONTLINES",
+          "id": "d0n63jbwuv0l"
+        },
+        {
+          "n": 9,
+          "title": "SHALL WE DANCE?",
+          "id": "vh25oah3ipji"
+        },
+        {
+          "n": 10,
+          "title": "SALVATION",
+          "id": "1r7o1frzyumi"
+        },
+        {
+          "n": 11,
+          "title": "AFTER THE STORM",
+          "id": "3hvdy5kpsxe9"
+        },
+        {
+          "n": 12,
+          "title": "STRENGTH FOR ANOTHER",
+          "id": "6am5lplrpiuk"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/wind-breaker-manga/",
+  "tmdbId": 223500
+}

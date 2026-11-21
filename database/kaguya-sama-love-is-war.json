@@ -1,0 +1,263 @@
+{
+  "id": "kaguya-sama-love-is-war",
+  "title": "Kaguya-sama - Love is War",
+  "poster": "https://image.tmdb.org/t/p/w780/A6txuwvCMxm9bGX6RE95Wm7FreF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/y1nea0aZ2W7weK6ij6cEpVPPpvX.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/A6txuwvCMxm9bGX6RE95Wm7FreF.jpg",
+  "description": "Kaguya Shinomiya, vice-présidente du conseil des élèves ne voit pas l'amour comme tout le monde. Pour elle, c'est un combats qu'elle doit livrer avec la personne dont elle est amoureuse, Miyuki Shirogane, qui n'est autre que le président du conseil des élèves et qui partage une vision de l'amour assez similaire. Bien que tous les deux éprouvent des sentiments réciproques, leur orgueil fait que le premier qui osera se déclarer devra alors se soumettre à l'autre..",
+  "genres": [
+    "Comédie",
+    "Drame",
+    "Romance",
+    "School Life",
+    "Seinen",
+    "Psychologique",
+    "Slice of Life"
+  ],
+  "rating": "8.3",
+  "year": "2019",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Kaguya-sama - Love is War",
+  "stats": [
+    {
+      "v": "3",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.3",
+      "l": "Note"
+    },
+    {
+      "v": "2019",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.3"
+    },
+    {
+      "text": "🎬 3 Saisons · 37 Éps"
+    },
+    {
+      "text": "📅 2019"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Je veux qu'il m'invite au cinéma / Kaguya veut qu'on l'arrête / Kaguya veut manger",
+          "id": "gg3n1takmj9q"
+        },
+        {
+          "n": 2,
+          "title": "Kaguya veut échanger / Fujiwara veut sortir / Shirogane Miyuki veut se cacher",
+          "id": "k7k6v3a7liri"
+        },
+        {
+          "n": 3,
+          "title": "Shirogane Miyuki ne l'a pas encore fait / Kaguya veut qu'on devine / Kaguya veut marcher",
+          "id": "1735duvckghx"
+        },
+        {
+          "n": 4,
+          "title": "Kaguya veut adorer / Le B.D.E. veut faire dire / Kaguya veut recevoir / Shirogane Miyuki veut parler",
+          "id": "zzh5xmgiezax"
+        },
+        {
+          "n": 5,
+          "title": "Kaguya veut bien faire / Shirogane Miyuki veut montrer ce qu'il sait faire / Kaguya veut qu'on lui tienne",
+          "id": "9ilr7nth2i0m"
+        },
+        {
+          "n": 6,
+          "title": "Ishigami Yū veut survivre / Fujiwara Chika veut tester / Kaguya veut qu'on la remarque",
+          "id": "smrgojcpjq5p"
+        },
+        {
+          "n": 7,
+          "title": "Shirogane Miyuki veut travailler / Kaguya veut qu'on la rejoigne / Kaguya veut supporter",
+          "id": "58debr2d9bie"
+        },
+        {
+          "n": 8,
+          "title": "Kaguya veut se faire appeler / Shirogane Miyuki ne peut pas perdre / C'est ainsi qu'Ishigami Yū ferma les yeux",
+          "id": "azfo1ih0cy3n"
+        },
+        {
+          "n": 9,
+          "title": "Kaguya veut raccompagner / Fujiwara Chika veut rendre visite / À propos de Shinomiya Kaguya (1re partie)",
+          "id": "9ubv4tykhs87"
+        },
+        {
+          "n": 10,
+          "title": "Kaguya ne pardonne pas / Kaguya veut pardonner / Shirogane Miyuki veut sortir",
+          "id": "gg5w4xs94o2s"
+        },
+        {
+          "n": 11,
+          "title": "Hayasaka Ai veut se baigner / Fujiwara Chika veut vraiment manger / Shirogane Miyuki veut la voir / Je n'entends pas le feu d'artifice (partie 1)",
+          "id": "6odcg2c17pfd"
+        },
+        {
+          "n": 12,
+          "title": "Je n'entends pas le feu d'artifice (partie 2) / Kaguya ne veut pas l'esquiver",
+          "id": "r8yrck4e8m5x"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Hayasaka Ai veut défendre / Le B.D.E. n'y croit pas / Kaguya veut se marier / Kaguya veut célébrer",
+          "id": "q86kwtp5d1kp"
+        },
+        {
+          "n": 2,
+          "title": "Kaguya veut demander / Kaguya veut offrir / Fujiwara Chika veut vérifier",
+          "id": "fwyz2wgnuckn"
+        },
+        {
+          "n": 3,
+          "title": "Shirogane Miyuki veut contempler / Le 67e Bureau des Élèves / Kaguya ne veut pas appeler",
+          "id": "vw0r3k3gt1jh"
+        },
+        {
+          "n": 4,
+          "title": "Hayasaka Ai veut séduire / Kaguya veut une déclaration / Iino Miko veut redresser",
+          "id": "d0xnwnn5o4g0"
+        },
+        {
+          "n": 5,
+          "title": "Shirogane Miyuki veut être populaire / Kashiwagi Nagisa veut réconforter / Shirogane Miyuki veut chanter / Kaguya veut éliminer",
+          "id": "h7dnwqps2iw0"
+        },
+        {
+          "n": 6,
+          "title": "On ne peut rire d'Iino Miko / On veut faire sourire Iino Miko / Kaguya n'a pas été appelée",
+          "id": "gymnpf3amfjx"
+        },
+        {
+          "n": 7,
+          "title": "Kaguya veut déshabiller / Kaguya veut produire / Shirogane Miyuki veut faire lire / Kaguya-sama aime les aquariums",
+          "id": "uo22qob88lb8"
+        },
+        {
+          "n": 8,
+          "title": "Iino Miko veut réprimer / Kaguya n'as pas peur / Kaguya veut être examinée",
+          "id": "9yhqf6i6nlii"
+        },
+        {
+          "n": 9,
+          "title": "C'est ainsi qu'Ishigami Yū ferma les yeux (2) / Kaguya veut toucher / Kaguya refuse pas",
+          "id": "8lfadf3pe0w1"
+        },
+        {
+          "n": 10,
+          "title": "Shirogane Kei ne peut interroger / Shirogane Miyuki veut danser / Osaragi Kobachi veut surveiller / Le père de Shirogane veut savoir",
+          "id": "jfz8ckvbzsxu"
+        },
+        {
+          "n": 11,
+          "title": "C'est ainsi qu'Ishigami Yū ferma les yeux (3) / Shirogane Miyuki et Ishigami Yū / Ōtomo Kyōko ne le remarque pas",
+          "id": "zyfrufuok2bx"
+        },
+        {
+          "n": 12,
+          "title": "Le B.D.E. veut être photographié / Le B.D.E. veut photographier / Fujiwara Chika veut faire gonfler",
+          "id": "dgeb6pd6qm85"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Iino Miko veut être apaisée / Kaguya ne se rend pas compte / Fujiwara Chika veut affronter",
+          "id": "8otx9bpykdt3"
+        },
+        {
+          "n": 2,
+          "title": "Shirogane Miyuki veut temporiser / Kaguya veut le sortir de là / Kaguya veut entraver",
+          "id": "kza3hjca80h2"
+        },
+        {
+          "n": 3,
+          "title": "Kashiwagi Nagisa veut condamner / Shijô Maki veut agir / Shirogane Miyuki veut qu'on lui fasse confiance",
+          "id": "7noa9o6pqnob"
+        },
+        {
+          "n": 4,
+          "title": "La mission impossible de Shinomiya Kaguya, « La coquille de l'hirondelle » p.1 - Ishigami Yû veut répondre - Fujiwara Chika veut rester dormir",
+          "id": "ylget2071so8"
+        },
+        {
+          "n": 5,
+          "title": "Fujiwara Chika veut graver - Hayasaka Ai veut discuter - Shijô Maki veut de l'aide",
+          "id": "x88v4lzaenh0"
+        },
+        {
+          "n": 6,
+          "title": "Le BDE veut avancer - Shirogane Miyuki veut une déclaration 2 - Shirogane Miyuki veut une déclaration 3",
+          "id": "jrcelwij9xwy"
+        },
+        {
+          "n": 7,
+          "title": "Iino Miko ne peut pas aimer 1 - On veut parler du festival - Shirogane Miyuki veut gonfler",
+          "id": "nfnalrlp5p4f"
+        },
+        {
+          "n": 8,
+          "title": "Shirogane Kei veut se vanter - À propos de Shinomiya Kaguya 2 - Kaguya veut se déclarer",
+          "id": "cy23lbtvg1ij"
+        },
+        {
+          "n": 9,
+          "title": "Année de seconde, printemps - Le festival de Kaguya - Le festival d'Ishigami Yû",
+          "id": "jhbih888lwyl"
+        },
+        {
+          "n": 10,
+          "title": "Makihara Kozue veut s'amuser - Fujiwara Chika veut dévoiler - Le festival de Shirogane Miyuki",
+          "id": "db2jn07zhgr4"
+        },
+        {
+          "n": 11,
+          "title": "Shirogane Miyuki veut une déclaration 4 - Koyasu Tsubame veut refuser - Shirogane Miyuki veut une déclaration 5",
+          "id": "d0jzfk56afi9"
+        },
+        {
+          "n": 12,
+          "title": "Kaguya veut se déclarer 2 - Kaguya veut se déclarer 3 - Les deux déclarations, première partie",
+          "id": "jprf0z005nf5"
+        },
+        {
+          "n": 13,
+          "title": "Les deux déclarations, deuxième partie - Fête de clôture de l'académie Shûchiin",
+          "id": "lxe8uhuy1gz1"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/kaguya-sama-love-is-war/",
+  "tmdbId": 83121
+}

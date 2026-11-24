@@ -2,8 +2,8 @@
   "id": "boruto",
   "title": "Boruto",
   "poster": "https://i.imgur.com/YpzD27Y.jpeg",
-  "banner": "https://i.imgur.com/7GZ3Mao.jpeg",
-  "bannerFallback": "https://i.imgur.com/7GZ3Mao.jpeg",
+  "banner": "https://image.tmdb.org/t/p/original/4O5xDFV1QucFo2IqMNB0c61liil.jpg",
+  "bannerFallback": "https://i.imgur.com/YpzD27Y.jpeg",
   "description": "Depuis que son père occupe la plus haute fonction du village de Konoha, Boruto Uzumaki, le fils de Nanadaime Hokage et Hinata Hyuga, vit dans l'ombre de son père. Cherchant toujours à attirer l'attention de ce dernier, Boruto a pris la ferme résolution de surpasser son paternel. Mais la vie que mènent les ninjas de haute-volée est rythmée par les missions complexes et les entraînements rigoureux, notre jeune héros va d'ailleurs, apprendre à ses dépens que devenir le meilleur ninja, n'est point une tâche aisée. En compagnie de Sarada, l'enfant de Sasuke Uchiha et Sakura Haruno, Boruto va dès lors découvrir le monde des shinobis, ainsi que ses fondements...",
   "genres": [
     "Action",
@@ -1385,5 +1385,6 @@
         }
       ]
     }
-  }
+  },
+  "tmdbId": 70881
 }

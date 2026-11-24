@@ -1,0 +1,384 @@
+{
+  "id": "soul-eater",
+  "title": "Soul Eater",
+  "poster": "https://image.tmdb.org/t/p/w780/qAHpIPbbnrso2ngfjHpVoKdwUQI.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wPu1vhueOfKqZKKxHighKMyrzCz.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/qAHpIPbbnrso2ngfjHpVoKdwUQI.jpg",
+  "description": "Soul Eater raconte l'histoire de 3 jeunes apprentis faucheurs d'âmes, de l'école Shibusen, où ils apprennent à devenir de vrais faucheurs d'âmes confirmés.\n\n- Maka, jeune fille dont les parents sont en conflit, son père étant un peu volage...\n\n- Black Star, dernier héritier du clan des porteurs d'étoiles responsable de nombreux massacres.\n\n- Death the Kid, fils de Shinigami-sama, obsédé voir Maniaque de la symétrie.\n\nCes jeunes gens possèdent des armes humaines pouvant prendre l'apparence d'armes diverses, appelées \"armes démoniaques\". En leur faisant manger 99 âmes d'humains corrompus (Oeufs du grand Dévoreur) et 1 âme de sorcière, ils les transformeront en Death Scythe, des armes démoniaques plus puissantes et plus évoluées. Leurs armes respectives sont:\n\n- Soul, se bat sous forme de faux, garçon sympathique et matteur (Maka).\n\n- Tsubaki, se bat sous diverses formes, jeune fille de grande taille à la poitrine développée.(Black Star)\n\n- Les soeurs Thompson, se battent sous la forme de 2 pistolets, 2 sœurs qui ont vécues dans la rue toute leur vie.(Death the Kid)\n\nTout serait bien si c'était aussi simple, malheureusement de nombreux obstacles barrent la route des protagonistes.",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Fantasy",
+    "Surnaturel",
+    "Science",
+    "fiction",
+    "Fantastique"
+  ],
+  "rating": "7.7",
+  "year": "2008",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Soul Eater",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.7",
+      "l": "Note"
+    },
+    {
+      "v": "2008",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.7"
+    },
+    {
+      "text": "🎬 2 Saisons · 62 Éps"
+    },
+    {
+      "text": "📅 2008"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "La résonance des âmes. Soul Eater, deviendras-tu Death Scythe ?",
+          "id": "nzuopmsdarmp"
+        },
+        {
+          "n": 2,
+          "title": "C'est moi la star ! Le plus géant des hommes entre en scène ?",
+          "id": "93m3b90h9kvg"
+        },
+        {
+          "n": 3,
+          "title": "Le Garçon parfait. La merveilleuse mission de Death The Kid.",
+          "id": "cegjnfogqz4q"
+        },
+        {
+          "n": 4,
+          "title": "Tranche sorcière ! Cours de rattrapage dans le cimetière ?",
+          "id": "8khvcc6jniql"
+        },
+        {
+          "n": 5,
+          "title": "La forme de l'âme. Dr. Franken Stein, le plus puissant des Meisters ?",
+          "id": "fi0le3b6jfb3"
+        },
+        {
+          "n": 6,
+          "title": "Le nouveau dont parle la rumeur ! Tant de souvenirs. Le premier jour de Kid à Shibusen ?",
+          "id": "be72aoapefys"
+        },
+        {
+          "n": 7,
+          "title": "Le sang noir de la terreur. Il y a une arme dans Crona ?",
+          "id": "ij2oioj2lt5g"
+        },
+        {
+          "n": 8,
+          "title": "La Sorcière Medusa. Le porteur d'une âme maléfique ?",
+          "id": "2bzfay9w9hsc"
+        },
+        {
+          "n": 9,
+          "title": "La légende de l'épée sacrée. La grande aventure de Kid et Black*Star ?",
+          "id": "2opacmb95u1p"
+        },
+        {
+          "n": 10,
+          "title": "L'épée maudite Masamune. Rupture de Possession de l'âme. Cœur chantant sous la pluie ?",
+          "id": "xjbv3ye5fc3s"
+        },
+        {
+          "n": 11,
+          "title": "Le camélia. Qu'y a-t-il au-delà de cette tristesse ?",
+          "id": "q724nop6lruq"
+        },
+        {
+          "n": 12,
+          "title": "Le courage d'affronter la peur ~La décision cruciale de Maka Albarn ?~",
+          "id": "x1j7s029aobr"
+        },
+        {
+          "n": 13,
+          "title": "L'homme à l'oeil de démon ~Soul et Maka, la longueur d'onde des âmes désynchronisée ?~",
+          "id": "5hhi6qubesxx"
+        },
+        {
+          "n": 14,
+          "title": "(Ultra) Examens écrits ~Stress, frissons, nervosité, c'est pas vrai ?~",
+          "id": "5ryflccf72fe"
+        },
+        {
+          "n": 15,
+          "title": "Le dragon noir mangeur d'âmes ~Liz la trouillarde et ses joyeux amis ?~",
+          "id": "t4q76h1etkcc"
+        },
+        {
+          "n": 16,
+          "title": "Combat violent sur le vaisseau fantôme ! ~L'Enfer se trouve dans ma tête ?~",
+          "id": "5qnxnx3fe9r3"
+        },
+        {
+          "n": 17,
+          "title": "La légende de l'épée sacrée 2 ~Boire, frapper, acheter, tout ça d'un coup ?~",
+          "id": "uiu0in9rajru"
+        },
+        {
+          "n": 18,
+          "title": "Le cauchemar de la veille ~Et le Lever de rideau ?~",
+          "id": "19qbplnn5ktq"
+        },
+        {
+          "n": 19,
+          "title": "Le début du combat sous-terrain ~L'obstacle du Vector Arrow de Médusa ?~",
+          "id": "gwgzvox3bqkp"
+        },
+        {
+          "n": 20,
+          "title": "La résonance du Sang Noir en guerre ~La course contre la montre d'une petite âme face à la peur ?~",
+          "id": "dayjejj08ul8"
+        },
+        {
+          "n": 21,
+          "title": "Mon âme au rapport ~Dans la solitude insupportable d'un coeur sec...?~",
+          "id": "lnumwtkspt5u"
+        },
+        {
+          "n": 22,
+          "title": "Le Sceau du Sanctuaire ~La manigance de l'Immortel commence ?~",
+          "id": "uy945s3iuu16"
+        },
+        {
+          "n": 23,
+          "title": "Dead or Alive ! ~Et la ressurection des hallucinations vulnérables ?~",
+          "id": "gfexnzqqhid5"
+        },
+        {
+          "n": 24,
+          "title": "Le combat des Dieux ~La destruction de Death City dans la panique ?~",
+          "id": "i4bn702bit0g"
+        },
+        {
+          "n": 25,
+          "title": "Convocation des Death Scythe ! ~Papa empêche le changement de personnel !!?~",
+          "id": "lhzaxcn116ra"
+        },
+        {
+          "n": 26,
+          "title": "Une bonne expérience honteuse de rentrée scolaire ! ~La Shibusen mène une nouvelle vie de soutien ?~",
+          "id": "mqdgaqu1t1x5"
+        },
+        {
+          "n": 27,
+          "title": "800 ans de désir meurtrier ~La venue de la sorcière hérétique ?~",
+          "id": "5iuquug2kkhm"
+        },
+        {
+          "n": 28,
+          "title": "Le Dieu de l'épée se lève ~Un goût sucré ou salé ?~",
+          "id": "dwapfl8yt27y"
+        },
+        {
+          "n": 29,
+          "title": "La résurrection de Medusa ! ~La réunion fatidique entre l'Araignée et le Serpent ?~",
+          "id": "euuzx745a5bu"
+        },
+        {
+          "n": 30,
+          "title": "La poursuite infernale du train express ! ~L'outil maléfique abandonné par Le grand gourou démoniaque ?~",
+          "id": "rppx9yrcemjj"
+        },
+        {
+          "n": 31,
+          "title": "Un bonheur épuisé ~D'où viennent ces larmes brillant au clair de lune ?~",
+          "id": "srmge99vosch"
+        },
+        {
+          "n": 32,
+          "title": "La légende de l'épée sacrée 3 ~L'histoire du chef de gang de la Shibusen ?~",
+          "id": "por7v3acgtvp"
+        },
+        {
+          "n": 33,
+          "title": "La chaîne résonnante ~Jouons la mélodie de nos âmes ?~",
+          "id": "e8xqwttlpk08"
+        },
+        {
+          "n": 34,
+          "title": "La Lutte pour BREW ! ~Clash, la Shibusen contre Arachnophobia ?~",
+          "id": "3w51vrq8ppyr"
+        },
+        {
+          "n": 35,
+          "title": "La tempête de Mosquito ! ~Le temps est limité à 10 minutes dans le monde du passé ?~",
+          "id": "cq1tcpzh42nk"
+        },
+        {
+          "n": 36,
+          "title": "Libérez la chaine résonnante des 7 personnes ! ~Le concert de la création et de la destruction ?~",
+          "id": "mjn712ykwki1"
+        },
+        {
+          "n": 37,
+          "title": "La première affaire du détective ~Kid découvre le secret de la Shibusen ?~",
+          "id": "pgj9kf9qjqxd"
+        },
+        {
+          "n": 38,
+          "title": "La tentation aux effusions de sang ~Le balèze frustré insatiable ?~",
+          "id": "el5ppaun0ysg"
+        },
+        {
+          "n": 39,
+          "title": "Crona s'enfuit ~Souris, s'il te plaît ?~",
+          "id": "b0krppymji65"
+        },
+        {
+          "n": 40,
+          "title": "Le dernier recours ~Médusa se rend à la Shibusen ?~",
+          "id": "kqh95y023non"
+        },
+        {
+          "n": 41,
+          "title": "Tout ne tourne pas rond ~Le docteur est piégé dans un nouveau monde ?~",
+          "id": "4h9hbyy2hp0e"
+        },
+        {
+          "n": 42,
+          "title": "À la charge du château de Baba Yagaa ! ~Pourquoi tout est si flou ?~",
+          "id": "7oxc3o28wo5g"
+        },
+        {
+          "n": 43,
+          "title": "Le dernier outil démoniaque ~Mission impossible pour Kid désarmé ?~",
+          "id": "o3tu2gzzytn9"
+        },
+        {
+          "n": 44,
+          "title": "La détermination de Crona la lâche ~Pour toi, qui es toujours à mes côtés ?~",
+          "id": "0q2idvx88npa"
+        },
+        {
+          "n": 45,
+          "title": "La longueur d'onde anti-démon ~L'attaque enragée de Majin Gari ?~",
+          "id": "5ncx2mltafm9"
+        },
+        {
+          "n": 46,
+          "title": "Le guerrier ou l'effusion de sang ~Le combat décisif de Mifune contre Black Star ?~",
+          "id": "5e562akz5480"
+        },
+        {
+          "n": 47,
+          "title": "Le miracle de renverser une table dans la colère ~le robot de Death City ?~",
+          "id": "vym5g2h37gf0"
+        },
+        {
+          "n": 48,
+          "title": "L'arme (Death Scythe) de Shinigami ~Vers l'incertitude remplie d'obscurité ?~",
+          "id": "2veg7zky3diy"
+        },
+        {
+          "n": 49,
+          "title": "Asura se réveille ~La venue de la fin du monde ?~",
+          "id": "ohobod3h9qiq"
+        },
+        {
+          "n": 50,
+          "title": "Les dés sont jetés ?! ~Les hommes qui surpassent Dieu ?!~",
+          "id": "aap9knsv07xy"
+        },
+        {
+          "n": 51,
+          "title": "Le mot de passe est Courage !",
+          "id": "xwfj8j2e88rm"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Kai",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "e1b9nn1h5ik5"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "9o0aazfakcw3"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "yyctb2fs85x2"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "pu3o07b87dqx"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "lqfu7uyv8pb7"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "ziqwqh0kwozh"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "qpg78tauty88"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "9kjovr439z6l"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "td6ylysa848x"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "r1ff9uhcveio"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "hqzz7yypvbc7"
+        }
+      ]
+    }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/soul-eater/",
+  "tmdbId": 37305
+}

@@ -2,8 +2,8 @@
   "id": "naruto-shippuden",
   "title": "Naruto Shippuden",
   "poster": "https://i.imgur.com/qF3x25u.jpeg",
-  "banner": "https://i.imgur.com/4YREnhV.jpeg",
-  "bannerFallback": "https://i.imgur.com/4YREnhV.jpeg",
+  "banner": "https://image.tmdb.org/t/p/original/pFZEnxvgbzsBJyeo9oOJFvGGJo9.jpg",
+  "bannerFallback": "https://i.imgur.com/qF3x25u.jpeg",
   "description": "L'histoire de Naruto Shippuden se déroule deux ans et demie après le départ de Naruto à Konoha. On y retrouve tous les personnages plus mûrs et plus âgés.\n\nL'intrigue tourne autour des aventures de Naruto et Sakura à la recherche de Sasuke, parti de Konoha pour acquérir de nouveaux pouvoirs, mais on y découvre aussi les objectifs de l'Akatsuki.",
   "genres": [
     "Action",
@@ -1548,5 +1548,6 @@
         }
       ]
     }
-  }
+  },
+  "tmdbId": 31910
 }

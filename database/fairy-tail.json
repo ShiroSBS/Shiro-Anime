@@ -2,8 +2,8 @@
   "id": "fairy-tail",
   "title": "Fairy Tail",
   "poster": "https://i.imgur.com/oW7WOiY.jpeg",
-  "banner": "https://i.imgur.com/ZnkreIg.jpeg",
-  "bannerFallback": "https://i.imgur.com/ZnkreIg.jpeg",
+  "banner": "https://image.tmdb.org/t/p/original/lT8CUfNOkBQW9oPda2T5UPzVquM.jpg",
+  "bannerFallback": "https://i.imgur.com/oW7WOiY.jpeg",
   "description": "Lucy est une jeune magicienne qui désire par dessus tout entrer dans une guilde magique.\nElle décide de se rendre à Harujion afin d'obtenir des infos sur les guildes, particulièrement la guilde Fairy Tail.\n\nLors de ses recherches, elle rencontre le mystérieux Salamander, membre de la célèbre guilde Fairy Tail.\nMalheureusement ce dernier n'est qu'un charlatan qui utilise des enchantements pour envoûter des femmes et ainsi les revendre au marché d'esclaves !\n\nAlors que Lucy se trouve sous l'envoûtement de Salamander, un garçon mystérieux du nom de Natsu accompagné d'un chat bleu pouvant parler appelé Happy, la percute et rompt le sortilège de Salamander. Pour remercier Natsu et Happy, elle décide de les inviter au restaurant. Plus tard, Salamander lui fait une proposition : si elle vient à la fête sur le bateau, qu'il organise, il la fera entrer chez Fairy Tail. Lucy accepte et s'y rend. A la fête, elle se rend compte que Salamander n'est qu'un escroc et qu'il ne fait même pas partie de Fairy Tail. Elle veut fuir mais, alors qu'elle est sur le point de se faire kidnapper, Natsu et Happy arrivent et la sauvent. C'est alors qu'elle découvre qu'ils sont des mages et qu'ils font partie de Fairy Tail.\n\nC'est le début des aventures de Natsu et Lucy au sein du monde magique de Fairy Tail !",
   "genres": [
     "Action",
@@ -1834,5 +1834,6 @@
         }
       ]
     }
-  }
+  },
+  "tmdbId": 46261
 }

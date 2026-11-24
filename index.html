@@ -5,7 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>Shiro Sama — Streaming Anime VF</title>
 <meta name="description" content="Regardez vos animes en VF sur Shiro Sama, la plateforme de streaming anime premium."/>
+<meta name="theme-color" content="#07090f"/>
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link rel="preconnect" href="https://image.tmdb.org"/>
+<link rel="preconnect" href="https://i.imgur.com"/>
 <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet"/>
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
@@ -433,6 +437,131 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
 .profil-tile-edit:hover{background:var(--bg4);color:var(--text);border-color:rgba(59,126,255,.5)}
 .profil-edit-btn{margin-top:36px;padding:10px 22px;border-radius:10px;background:rgba(255,255,255,.06);border:1px solid var(--border2);color:var(--muted);font-size:13px;font-weight:700;cursor:pointer;transition:all .2s ease}
 .profil-edit-btn:hover{background:rgba(255,255,255,.12);color:var(--text)}
+/* =====================================================================
+   REFONTE 2 — Accueil cinéma : ambiance HBO Max, organisation Prime Video
+   Bloc de surcharges ajouté en fin de feuille. Le CSS d'origine reste en place.
+   ===================================================================== */
+:root{--violet:#8b6cff;--violet2:#b9a8ff;--ease:cubic-bezier(.22,1,.36,1);--gutter:48px}
+@media(max-width:900px){:root{--gutter:24px}}
+@media(max-width:480px){:root{--gutter:14px}}
+
+/* --- Hero immersif : deux calques pour un fondu enchaîné sans rechargement --- */
+#hero{height:min(84vh,780px);min-height:560px;max-height:none;background:var(--bg2)}
+.hero-media{position:absolute;inset:0;overflow:hidden}
+#hero-img,#hero-img-b{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 22%;filter:brightness(.72) saturate(1.1);transform:none;transition:none}
+#hero-img-b{opacity:0;transition:opacity .8s ease}
+#hero-img-b.show{opacity:1}
+#hero:hover #hero-img{transform:none}
+.hero-overlay{background:
+  linear-gradient(90deg,rgba(5,7,13,.97) 0%,rgba(5,7,13,.82) 26%,rgba(5,7,13,.34) 55%,transparent 78%),
+  linear-gradient(0deg,var(--bg) 0%,rgba(7,9,15,.88) 10%,transparent 44%),
+  linear-gradient(180deg,rgba(5,7,13,.72) 0%,transparent 24%),
+  radial-gradient(55% 70% at 88% 18%,rgba(139,108,255,.16),transparent 70%)}
+.hero-content{padding:0 var(--gutter) 108px;max-width:780px}
+.hero-title{font-size:clamp(36px,5.6vw,74px);font-weight:900;line-height:.98;letter-spacing:-.045em;margin-bottom:16px;text-shadow:0 4px 30px rgba(0,0,0,.65)}
+.hero-desc{font-size:16px;line-height:1.6;color:rgba(238,242,255,.82);max-width:540px;margin-bottom:18px;text-shadow:0 1px 12px rgba(0,0,0,.6)}
+.hero-badges-row{gap:8px;margin-bottom:18px}
+.hero-chip{border-radius:999px;padding:5px 13px;backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px)}
+.hero-chip.violet{background:rgba(139,108,255,.2);border-color:rgba(139,108,255,.5);color:var(--violet2)}
+.genre-tag{border-radius:999px}
+.hero-genres{margin-bottom:26px}
+.hero-actions .btn{padding:14px 30px;border-radius:999px;font-size:15px}
+.hero-actions .btn-primary{background:linear-gradient(135deg,#2563eb 0%,#3b7eff 62%,#6a8dff 100%);box-shadow:0 8px 28px rgba(59,126,255,.42)}
+.hero-actions .btn-ghost{background:rgba(255,255,255,.1)}
+
+/* --- Indicateurs et flèches du hero --- */
+.hero-pagination{top:0;left:0;right:0;bottom:0;display:block;pointer-events:none}
+.hero-dots{position:absolute;left:50%;bottom:34px;transform:translateX(-50%);display:flex;align-items:center;gap:8px;padding:9px 14px;border-radius:999px;background:rgba(7,9,15,.42);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,.08);pointer-events:auto}
+.hero-dot{width:8px;height:8px;background:rgba(255,255,255,.3);transition:width .45s var(--ease),background .3s ease,box-shadow .3s ease}
+.hero-dot.active{width:34px;border-radius:999px;background:linear-gradient(90deg,var(--accent),var(--violet));box-shadow:0 0 14px rgba(139,108,255,.55)}
+.hero-arrow{position:absolute;top:50%;margin:0;width:42px;height:42px;font-size:24px;line-height:1;transform:translateY(-50%);background:rgba(7,9,15,.5);border-color:rgba(255,255,255,.16);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);pointer-events:auto;opacity:0;transition:opacity .3s ease,background .2s ease,border-color .2s ease}
+.hero-arrow.prev{left:10px}
+.hero-arrow.next{right:18px}
+#hero:hover .hero-arrow,.hero-arrow:focus-visible{opacity:1}
+.hero-arrow:hover{background:rgba(59,126,255,.32);border-color:rgba(111,163,255,.6)}
+.hero-dot:focus-visible,.hero-arrow:focus-visible{outline:2px solid var(--accent2);outline-offset:3px}
+@media(hover:none){.hero-arrow{display:none}}
+
+/* --- Bandeau d'infos sous le hero --- */
+.stats-bar{background:transparent;border:none;padding:0 var(--gutter);margin-top:-14px;justify-content:flex-start;gap:38px;position:relative;z-index:2}
+.stat-item{text-align:left}
+.stat-value{font-size:20px;color:var(--text)}
+.stat-label{font-size:10.5px}
+
+/* --- Étagères façon catalogue Prime Video --- */
+.home-body{padding:4px 0 32px}
+.shelf-head{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:0 var(--gutter);margin:30px 0 4px}
+.shelf-head .section-title{font-size:22px;letter-spacing:-.03em}
+.section-title::before{width:3px;height:18px;background:linear-gradient(180deg,var(--accent2),var(--violet))}
+.see-all{font-weight:700}
+.shelf .season-tabs{padding:0 var(--gutter);margin:10px 0 0}
+.s-tab{border-radius:999px;padding:8px 18px}
+.s-tab.active{background:linear-gradient(135deg,rgba(59,126,255,.3),rgba(139,108,255,.22));border-color:rgba(111,163,255,.55);color:#fff}
+.shelf .latest-anime-row,.shelf .history-row,.shelf .ep-grid{display:flex;grid-template-columns:none;gap:14px;overflow-x:auto;overflow-y:hidden;padding:16px var(--gutter) 24px;scroll-padding-left:var(--gutter);scroll-snap-type:x proximity;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.shelf .latest-anime-row::-webkit-scrollbar,.shelf .history-row::-webkit-scrollbar,.shelf .ep-grid::-webkit-scrollbar{display:none}
+.shelf .latest-anime-row .anime-card{flex:0 0 clamp(150px,13.2vw,206px);scroll-snap-align:start}
+.shelf .ep-grid .ep-card{flex:0 0 clamp(240px,21vw,304px);scroll-snap-align:start}
+.shelf .history-card{width:clamp(150px,13.2vw,206px);margin:0;flex-shrink:0}
+.history-empty,.latest-empty{padding:4px 0}
+@media(max-width:600px){
+  .shelf .latest-anime-row .anime-card,.shelf .history-card{flex-basis:134px;width:134px}
+  .shelf .ep-grid .ep-card{flex-basis:224px}
+  .shelf-head .section-title{font-size:19px}
+}
+
+/* --- Flèches de défilement : bords dégradés, visibles au survol --- */
+.rank-list-wrap .rank-arrow{top:0;bottom:8px;height:auto;width:60px;border:none;border-radius:0;transform:none;font-size:32px;font-weight:300;opacity:0;backdrop-filter:none;-webkit-backdrop-filter:none;background:linear-gradient(90deg,rgba(7,9,15,.96) 0%,rgba(7,9,15,.55) 55%,transparent 100%);transition:opacity .25s ease,color .2s ease}
+.rank-list-wrap .rank-arrow.prev{left:0;right:auto}
+.rank-list-wrap .rank-arrow:not(.prev){left:auto;right:0;background:linear-gradient(270deg,rgba(7,9,15,.96) 0%,rgba(7,9,15,.55) 55%,transparent 100%)}
+.rank-list-wrap:hover .rank-arrow:not(.hide){opacity:1}
+.rank-list-wrap .rank-arrow:hover{color:var(--accent2)}
+.rank-list-wrap .rank-arrow.hide{opacity:0;pointer-events:none}
+.rank-list-wrap .rank-arrow:focus-visible{opacity:1;outline:2px solid var(--accent2);outline-offset:-2px}
+@media(hover:none){.rank-list-wrap .rank-arrow{display:none}}
+
+/* --- Affiches : plus grandes, plus propres, survol cinéma --- */
+.anime-card{background:var(--bg3);backdrop-filter:none;-webkit-backdrop-filter:none;border:1px solid rgba(255,255,255,.07);border-radius:12px;animation:none;transition:transform .4s var(--ease),box-shadow .4s var(--ease),border-color .3s ease}
+.anime-card::before{display:none}
+.anime-card::after{content:"";position:absolute;left:0;right:0;top:0;aspect-ratio:2/3;z-index:3;pointer-events:none;opacity:0;transition:opacity .3s ease;background:linear-gradient(0deg,rgba(5,7,13,.78) 0%,rgba(5,7,13,.1) 55%,transparent 100%),url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='56' height='56' viewBox='0 0 56 56'%3E%3Ccircle cx='28' cy='28' r='27' fill='rgba(59,126,255,0.92)'/%3E%3Cpath d='M23 17.5v21l18-10.5z' fill='white'/%3E%3C/svg%3E") center/52px no-repeat}
+.anime-card:hover{transform:translateY(-6px) scale(1.035);z-index:5;border-color:rgba(111,163,255,.45);box-shadow:0 18px 36px rgba(0,0,0,.55),0 0 0 1px rgba(111,163,255,.35),0 0 30px rgba(59,126,255,.16)}
+.anime-card:hover::after,.anime-card:focus-visible::after{opacity:1}
+.anime-card:focus-visible{outline:2px solid var(--accent2);outline-offset:3px}
+.anime-card-title{font-size:13.5px}
+.ep-card{backdrop-filter:none;-webkit-backdrop-filter:none;border-radius:12px;animation:none;transition:transform .35s var(--ease),border-color .25s ease,box-shadow .35s var(--ease)}
+.ep-card:not(.unavailable):hover{transform:translateY(-4px);border-color:rgba(111,163,255,.45);box-shadow:0 14px 30px rgba(0,0,0,.5)}
+.history-card{animation:none}
+.history-tag-ep{background:linear-gradient(135deg,#2563eb,#6a8dff)}
+
+/* --- Apparition discrète des étagères au défilement --- */
+@media(prefers-reduced-motion:no-preference){
+  .reveal{opacity:0;transform:translateY(16px);transition:opacity .7s var(--ease),transform .7s var(--ease)}
+  .reveal.in{opacity:1;transform:none}
+}
+@media(prefers-reduced-motion:reduce){
+  .page,.hero-content.swap{animation:none}
+  #hero-img-b,.anime-card,.ep-card,.history-card{transition:none}
+}
+
+/* --- Rail latéral : états actifs, info-bulles --- */
+.rail{background:linear-gradient(180deg,rgba(12,15,26,.9),rgba(7,9,15,.92));border-right:1px solid rgba(255,255,255,.07)}
+.rail-icon{position:relative;border-radius:14px}
+.rail-icon.active{color:#fff;background:linear-gradient(135deg,rgba(59,126,255,.24),rgba(139,108,255,.16));box-shadow:inset 0 0 0 1px rgba(111,163,255,.26)}
+.rail-icon.active::before{content:"";position:absolute;left:-12px;top:11px;bottom:11px;width:3px;border-radius:0 3px 3px 0;background:linear-gradient(180deg,var(--accent2),var(--violet))}
+.rail-icon::after{content:attr(data-label);position:absolute;left:calc(100% + 14px);top:50%;transform:translate(-6px,-50%);padding:6px 12px;border-radius:9px;background:rgba(14,17,28,.95);border:1px solid rgba(255,255,255,.1);color:var(--text);font-size:12.5px;font-weight:700;white-space:nowrap;opacity:0;pointer-events:none;transition:opacity .2s ease,transform .25s var(--ease)}
+.rail-icon:hover::after,.rail-icon:focus-visible::after{opacity:1;transform:translate(0,-50%)}
+.rail-icon:focus-visible{outline:2px solid var(--accent2);outline-offset:2px}
+
+/* --- Profil en haut à droite --- */
+.top-profile-chip{top:18px;right:24px;background:rgba(7,9,15,.55);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-color:rgba(255,255,255,.12)}
+.nav-avatar-circle{background:linear-gradient(135deg,#2563eb,var(--violet));box-shadow:0 0 0 2px rgba(139,108,255,.35)}
+@media(max-width:680px){
+  .top-profile-chip{top:14px;right:14px}
+  #hero{height:80vh;min-height:520px}
+  .hero-content{padding-bottom:84px}
+  .hero-desc{font-size:14px}
+  .hero-dots{bottom:22px}
+  .stats-bar{margin-top:12px}
+}
 </style>
 </head>
 <body>
@@ -469,16 +598,16 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
 
 <div class="rail">
   <div class="rail-logo" onclick="toggleRailMenu()"><img src="asset/logo.png" alt="Shiro Sama"></div>
-  <div class="rail-icon active" id="rail-home" onclick="showPage('home')" title="Accueil">
+  <div class="rail-icon active" id="rail-home" onclick="showPage('home')" role="button" tabindex="0" aria-label="Accueil" data-label="Accueil">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 10l9-7 9 7v10a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg>
   </div>
-  <div class="rail-icon" id="rail-search" onclick="openSearch()" title="Recherche">
+  <div class="rail-icon" id="rail-search" onclick="openSearch()" role="button" tabindex="0" aria-label="Recherche" data-label="Recherche">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
   </div>
-  <div class="rail-icon" id="rail-catalogue" onclick="showPage('catalogue')" title="Catalogue">
+  <div class="rail-icon" id="rail-catalogue" onclick="showPage('catalogue')" role="button" tabindex="0" aria-label="Catalogue" data-label="Catalogue">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><line x1="3" y1="9" x2="21" y2="9"/><line x1="9" y1="21" x2="9" y2="9"/></svg>
   </div>
-  <div class="rail-icon" id="rail-profil" onclick="showPage('profil')" title="Profil">
+  <div class="rail-icon" id="rail-profil" onclick="showPage('profil')" role="button" tabindex="0" aria-label="Profil" data-label="Profil">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4.4 3.6-8 8-8s8 3.6 8 8"/></svg>
   </div>
 </div>
@@ -540,7 +669,10 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
 
 <div id="page-home" class="page active">
   <div id="hero">
-    <img id="hero-img" src="" alt="banner" onerror="this.src=''"/>
+    <div class="hero-media">
+      <img id="hero-img" alt="" decoding="async" fetchpriority="high"/>
+      <img id="hero-img-b" alt="" decoding="async"/>
+    </div>
     <div class="hero-overlay"></div>
     <div class="hero-content" id="hero-content"><div style="padding-top:40px;color:var(--muted)">Chargement…</div></div>
   </div>
@@ -553,30 +685,41 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
     <button class="rank-arrow" onclick="scrollRow('rank-list',1)" aria-label="Suivant">›</button>
   </div>
   <div class="stats-bar" id="home-stats-bar"></div>
-  <div class="section">
-    <div style="margin-bottom:20px">
-      <div class="section-header" style="margin-bottom:16px">
+  <div class="home-body">
+    <section class="shelf reveal">
+      <div class="shelf-head">
         <h2 class="section-title">Votre historique</h2>
         <span class="see-all" id="history-clear-btn" onclick="clearHistory()" style="display:none">🗑 Tout supprimer</span>
       </div>
       <div class="rank-list-wrap">
         <div class="history-row" id="history-row"></div>
-        <button class="rank-arrow prev hide" onclick="scrollRow('history-row',-1)" aria-label="Précédent">‹</button>
-        <button class="rank-arrow" onclick="scrollRow('history-row',1)" aria-label="Suivant">›</button>
+      <button class="rank-arrow prev hide" onclick="scrollRow('history-row',-1)" aria-label="Précédent">‹</button>
+      <button class="rank-arrow" onclick="scrollRow('history-row',1)" aria-label="Suivant">›</button>
       </div>
-    </div>
-    <div class="section" style="padding:8px 0 28px">
-      <div class="section-header">
+    </section>
+    <section class="shelf reveal">
+      <div class="shelf-head">
+        <h2 class="section-title" id="home-section-title">Saison 1</h2>
+        <span class="see-all" id="home-see-all">Voir la fiche →</span>
+      </div>
+      <div class="season-tabs" id="home-season-tabs"></div>
+      <div class="rank-list-wrap">
+        <div class="ep-grid" id="home-ep-grid"></div>
+      <button class="rank-arrow prev hide" onclick="scrollRow('home-ep-grid',-1)" aria-label="Précédent">‹</button>
+      <button class="rank-arrow" onclick="scrollRow('home-ep-grid',1)" aria-label="Suivant">›</button>
+      </div>
+    </section>
+    <section class="shelf reveal">
+      <div class="shelf-head">
         <h2 class="section-title">Derniers animes ajoutés</h2>
       </div>
-      <div class="latest-anime-row" id="latest-anime-row"></div>
-    </div>
-    <div class="section-header">
-      <h2 class="section-title" id="home-section-title">Saison 1</h2>
-      <span class="see-all" id="home-see-all">Voir la fiche →</span>
-    </div>
-    <div class="season-tabs" id="home-season-tabs"></div>
-    <div class="ep-grid" id="home-ep-grid"></div>
+      <div class="rank-list-wrap">
+        <div class="latest-anime-row" id="latest-anime-row"></div>
+      <button class="rank-arrow prev hide" onclick="scrollRow('latest-anime-row',-1)" aria-label="Précédent">‹</button>
+      <button class="rank-arrow" onclick="scrollRow('latest-anime-row',1)" aria-label="Suivant">›</button>
+      </div>
+    </section>
+    <div id="home-shelves"></div>
   </div>
   <footer class="site-footer">
     <div class="footer-top">
@@ -801,6 +944,40 @@ let currentSeason = 1;
 let currentEpIdx = 0;
 const getAnime = (id) => animeDataCache[id || currentAnimeId];
 
+/* === Images : variantes légères + repli en cascade (chargement plus rapide) === */
+function thumbPoster(u){
+  if(!u) return u;
+  if(u.indexOf('image.tmdb.org/t/p/')>-1) return u.replace(/\/t\/p\/(?:original|w\d+)\//,'/t/p/w342/');
+  const m=u.match(/^(https:\/\/i\.imgur\.com\/[A-Za-z0-9]+)(\.(?:jpe?g|png|webp))$/i);
+  return m ? m[1]+'l'+m[2] : u;
+}
+function heroSrc(u){
+  return (u && u.indexOf('image.tmdb.org/t/p/')>-1) ? u.replace(/\/t\/p\/(?:original|w1280)\//,'/t/p/w1280/') : u;
+}
+function cardBanner(u){
+  return (u && u.indexOf('image.tmdb.org/t/p/')>-1) ? u.replace(/\/t\/p\/(?:original|w1280)\//,'/t/p/w780/') : u;
+}
+function imgErr(el){
+  const o=el.dataset.orig; el.dataset.orig='';
+  if(o && o!==el.getAttribute('src')){ el.src=o; return; }
+  const f=el.dataset.fb; el.dataset.fb='';
+  if(f && f!==el.getAttribute('src')){ el.src=f; return; }
+  el.onerror=null; el.removeAttribute('onerror');
+  el.src='https://placehold.co/170x255/111520/3b7eff?text='+encodeURIComponent(el.alt||'');
+}
+function posterImg(a,cls){
+  return `<img class="${cls}" src="${thumbPoster(a.poster)}" data-orig="${a.poster}" alt="${a.title}" loading="lazy" decoding="async" onerror="imgErr(this)"/>`;
+}
+function animeCardHTML(a){
+  return `<div class="anime-card" tabindex="0" onclick="goToAnime('${a.id}')" onkeydown="if(event.key==='Enter')goToAnime('${a.id}')">
+    ${posterImg(a,'anime-card-poster')}
+    <div class="anime-card-info">
+      <div class="anime-card-title">${a.title}</div>
+      <div class="anime-card-sub">${(a.year&&a.year!=='????')?a.year+' · ':''}⭐ ${parseFloat(a.rating)?a.rating:'—'}</div>
+    </div>
+  </div>`;
+}
+
 function saveProgress(a,s,i){try{localStorage.setItem(progressKey(),JSON.stringify({a,s,i}))}catch(e){}}
 function loadProgress(){try{const p=localStorage.getItem(progressKey());return p?JSON.parse(p):null}catch(e){return null}}
 async function showResumeBanner(){
@@ -857,7 +1034,7 @@ function onSearch(q){
     empty.style.display='none';
     results.innerHTML=matches.map(a=>`
       <div class="anime-card" onclick="goToAnime('${a.id}');closeSearch()">
-        <img class="anime-card-poster" src="${a.poster}" alt="${a.title}" onerror="this.src='https://placehold.co/170x255/111520/3b7eff?text=${encodeURIComponent(a.title).replace(/'/g,'%27')}'"/>
+        ${posterImg(a,'anime-card-poster')}
         <div class="anime-card-info">
           <div class="anime-card-sub">⭐ ${a.rating} · ${a.year}</div>
         </div>
@@ -1026,7 +1203,65 @@ async function goToAnime(id){
 function renderHome(){
   renderHistory();
   renderLatestAnime();
+  renderShelves();
   renderHomeForAnime();
+  observeReveal();
+}
+
+/* === Étagères par catégorie (façon Prime Video), générées depuis l'index === */
+const hasG=(a,list)=>(a.genres||[]).some(g=>list.indexOf(String(g).toLowerCase())>-1);
+const SHELF_DEFS=[
+  {t:'En cours de diffusion',  f:a=>a.status==='cours',                                        min:2},
+  {t:'Action',                 f:a=>hasG(a,['action'])},
+  {t:'Aventure & fantastique', f:a=>hasG(a,['aventure','fantastique','fantasy','isekai'])},
+  {t:'Comédie',                f:a=>hasG(a,['comédie'])},
+  {t:'Drame & suspense',       f:a=>hasG(a,['drame','psychologique','thriller','mystère'])},
+  {t:'Shônen',                 f:a=>hasG(a,['shônen'])},
+  {t:'Surnaturel & horreur',   f:a=>hasG(a,['surnaturel','horreur','épouvante'])},
+  {t:'Romance & tranche de vie',f:a=>hasG(a,['romance','slice of life','school life'])},
+  {t:'Sport & combats',        f:a=>hasG(a,['sport','combats','tournois','arts martiaux'])},
+  {t:'Les classiques',         f:a=>(parseInt(a.year,10)||9999)<=2009}
+];
+let shelvesKey='';
+function renderShelves(){
+  const host=document.getElementById('home-shelves');
+  if(!host||!ANIME_INDEX.length) return;
+  const key=ANIME_INDEX.map(a=>a.id).join('|');
+  if(key===shelvesKey) return;
+  shelvesKey=key;
+  const shown={};
+  const rate=a=>parseFloat(a.rating)||0;
+  let html='';
+  SHELF_DEFS.forEach((def,n)=>{
+    let list=ANIME_INDEX.filter(def.f);
+    if(list.length<(def.min||4)) return;
+    // On privilégie les animes encore peu montrés pour varier les étagères.
+    list=list.slice().sort((x,y)=>((shown[x.id]||0)-(shown[y.id]||0))||(rate(y)-rate(x))).slice(0,14);
+    list.forEach(a=>{shown[a.id]=(shown[a.id]||0)+1;});
+    list.sort((x,y)=>rate(y)-rate(x));
+    const id='shelf-row-'+n;
+    html+=`<section class="shelf reveal">
+      <div class="shelf-head"><h2 class="section-title">${def.t}</h2></div>
+      <div class="rank-list-wrap">
+        <div class="latest-anime-row" id="${id}">${list.map(animeCardHTML).join('')}</div>
+        <button class="rank-arrow prev hide" onclick="scrollRow('${id}',-1)" aria-label="Précédent">‹</button>
+        <button class="rank-arrow" onclick="scrollRow('${id}',1)" aria-label="Suivant">›</button>
+      </div>
+    </section>`;
+  });
+  host.innerHTML=html;
+  host.querySelectorAll('.latest-anime-row').forEach(wireRow);
+}
+
+/* === Apparition discrète des sections au défilement === */
+let revealIO=null;
+function observeReveal(){
+  const els=document.querySelectorAll('.reveal:not(.in)');
+  if(!('IntersectionObserver' in window)){ els.forEach(e=>e.classList.add('in')); return; }
+  if(!revealIO) revealIO=new IntersectionObserver(es=>es.forEach(en=>{
+    if(en.isIntersecting){ en.target.classList.add('in'); revealIO.unobserve(en.target); }
+  }),{rootMargin:'0px 0px -6% 0px',threshold:.04});
+  els.forEach(e=>revealIO.observe(e));
 }
 
 /* === Derniers animes ajoutés === */
@@ -1054,16 +1289,7 @@ function renderLatestAnime(){
     return;
   }
 
-  row.innerHTML=latest.map(a=>`
-    <div class="anime-card" onclick="goToAnime('${a.id}')">
-      <img class="anime-card-poster" src="${a.poster}" alt="${a.title}"
-        onerror="this.src='https://placehold.co/170x255/111520/3b7eff?text=${encodeURIComponent(a.title).replace(/'/g,'%27')}'"/>
-      <div class="anime-card-info">
-        <div class="anime-card-title">${a.title}</div>
-        <div class="anime-card-sub">${a.year||''} · ⭐ ${a.rating||'—'}</div>
-      </div>
-    </div>
-  `).join('');
+  row.innerHTML=latest.map(animeCardHTML).join('');
 }
 
 /* === Historique de visionnage (remplace l'ancien carrousel "Tous les animes") === */
@@ -1109,7 +1335,7 @@ function renderHistory(){
         <button class="history-delete-btn" onclick="removeFromHistory('${h.a}',event)" aria-label="Retirer de l'historique">
           <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/><path d="M10 11v6M14 11v6"/><path d="M9 6V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2"/></svg>
         </button>
-        <img class="history-thumb" src="${meta.poster}" alt="${meta.title}" onerror="this.src='https://placehold.co/220x310/111520/3b7eff?text=${encodeURIComponent(meta.title).replace(/'/g,'%27')}'"/>
+        ${posterImg(meta,'history-thumb')}
         <span class="history-tag-series">ANIME</span>
         <span class="history-tag-ep">${seasonDisplayName(animeDataCache[h.a],h.s,true)}:E${h.i+1}</span>
         <div class="history-title-bar">${meta.title}</div>
@@ -1143,18 +1369,56 @@ async function selectHomeAnime(id){
   }
 }
 
+function homeSectionTitle(a,s){
+  const si=a.seasons[s];
+  return si ? `Épisodes · ${si.title}` : 'Épisodes';
+}
+
+// Fondu enchaîné entre deux calques : la bannière change sans recharger la page.
+let heroImgToken=0;
+function heroUrls(a){
+  const u=[heroSrc(a.banner),a.banner,a.bannerFallback].filter(Boolean);
+  return u.filter((x,i)=>u.indexOf(x)===i);
+}
+function setHeroImage(a){
+  const hi=document.getElementById('hero-img'), hb=document.getElementById('hero-img-b');
+  const urls=heroUrls(a), token=++heroImgToken;
+  if(!urls.length || hi.dataset.id===a.id) return;
+  const run=(img,ok)=>{
+    let i=0;
+    const cur=img.getAttribute('src');
+    if(cur===urls[0] && img.complete && img.naturalWidth>0){ ok(cur); return; }
+    img.onload=()=>{ if(token===heroImgToken) ok(img.getAttribute('src')); };
+    img.onerror=()=>{ if(token===heroImgToken && i<urls.length) img.src=urls[i++]; };
+    img.src=urls[i++];
+  };
+  if(!hi.getAttribute('src')){ run(hi,()=>{ hi.dataset.id=a.id; }); return; }
+  run(hb,src=>{
+    hb.classList.add('show');
+    setTimeout(()=>{
+      if(token!==heroImgToken) return;
+      hi.onload=()=>{ hb.classList.remove('show'); hi.dataset.id=a.id; };
+      hi.onerror=null;
+      hi.src=src;
+    },820);
+  });
+}
+
 function renderHomeForAnime(){
   const a=getAnime();
-  const hi=document.getElementById('hero-img');
-  [hi,document.getElementById('hero-content')].forEach(el=>{el.classList.remove('swap');void el.offsetWidth;el.classList.add('swap');});
-  hi.src=a.banner;
-  hi.onerror=()=>{hi.src=a.bannerFallback;hi.onerror=null};
+  setHeroImage(a);
+  const hc=document.getElementById('hero-content');
+  hc.classList.remove('swap');void hc.offsetWidth;hc.classList.add('swap');
+  const rk=getHeroSet().findIndex(x=>x.id===a.id);
+  const rankChip = rk>-1 ? `<span class="hero-chip violet">TOP ${rk+1}</span>` : '';
   const yearChip = a.year && a.year!=='????' ? `<span class="hero-chip">📅 ${a.year}</span>` : '';
-  document.getElementById('hero-content').innerHTML=`
+  const statusChip = a.statusLabel ? `<span class="hero-chip">${a.statusLabel}</span>` : '';
+  hc.innerHTML=`
     <div class="hero-badges-row">
-      <span class="hero-chip">ANIME</span>
-      ${yearChip}
+      ${rankChip}
       <span class="hero-chip gold">⭐ ${a.rating}</span>
+      ${yearChip}
+      ${statusChip}
     </div>
     <h1 class="hero-title">${a.heroTitle}</h1>
     <p class="hero-desc hero-desc-clamp">${a.description}</p>
@@ -1173,8 +1437,8 @@ function renderHomeForAnime(){
   document.getElementById('home-see-all').onclick=()=>openAnimePage();
   renderSeasonTabs('home', activeSeasonNum);
   renderGrid('home-ep-grid', a, activeSeasonNum);
-  const si=a.seasons[activeSeasonNum];
-  document.getElementById('home-section-title').textContent=si?si.title:'';
+  document.getElementById('home-section-title').textContent=homeSectionTitle(a,activeSeasonNum);
+  const eg=document.getElementById('home-ep-grid'); if(eg) eg.scrollLeft=0;
 }
 
 // Hero = top 10 des mieux notés, défilement automatique toutes les 7 s
@@ -1188,6 +1452,8 @@ function startHeroTimer(){
   heroTimer=setInterval(()=>{
     const home=document.getElementById('page-home');
     if(document.hidden || !home || !home.classList.contains('active')) return;
+    const hero=document.getElementById('hero');
+    if(hero && hero.matches(':hover')) return;
     heroNext();
   },7000);
 }
@@ -1198,8 +1464,11 @@ function renderHeroPagination(){
   prefetchNextHero();
   let pag = document.getElementById('hero-pagination');
   if(!pag){ pag=document.createElement('div'); pag.id='hero-pagination'; pag.className='hero-pagination'; hero.appendChild(pag); }
-  pag.innerHTML = heroSet.map(a=>`<button class="hero-dot${a.id===currentAnimeId?' active':''}" onclick="selectHomeAnime('${a.id}')" aria-label="${a.title}"></button>`).join('')
-    + `<button class="hero-arrow" onclick="heroNext()" aria-label="Suivant">›</button>`;
+  pag.innerHTML = `<button class="hero-arrow prev" onclick="heroPrev()" aria-label="Précédent">‹</button>`
+    + `<div class="hero-dots">`
+    + heroSet.map(a=>`<button class="hero-dot${a.id===currentAnimeId?' active':''}" onclick="selectHomeAnime('${a.id}')" aria-label="${a.title}"></button>`).join('')
+    + `</div>`
+    + `<button class="hero-arrow next" onclick="heroNext()" aria-label="Suivant">›</button>`;
 }
 function heroNext(){
   const heroSet = getHeroSet();
@@ -1207,13 +1476,31 @@ function heroNext(){
   idx = (idx===-1) ? 0 : (idx+1)%heroSet.length;
   selectHomeAnime(heroSet[idx].id);
 }
+function heroPrev(){
+  const heroSet = getHeroSet();
+  if(!heroSet.length) return;
+  let idx = heroSet.findIndex(a=>a.id===currentAnimeId);
+  idx = (idx<=0) ? heroSet.length-1 : idx-1;
+  selectHomeAnime(heroSet[idx].id);
+}
+// Balayage tactile sur le hero (mobile)
+(function(){
+  const h=document.getElementById('hero'); let x0=null;
+  if(!h) return;
+  h.addEventListener('touchstart',e=>{x0=e.touches[0].clientX},{passive:true});
+  h.addEventListener('touchend',e=>{
+    if(x0==null) return;
+    const dx=e.changedTouches[0].clientX-x0; x0=null;
+    if(Math.abs(dx)>50){ dx<0 ? heroNext() : heroPrev(); }
+  },{passive:true});
+})();
 
 function renderTopRated(){
   const top = [...ANIME_INDEX].sort((a,b)=>parseFloat(b.rating||0)-parseFloat(a.rating||0)).slice(0,10);
   document.getElementById('rank-list').innerHTML = top.map((a,i)=>`
     <div class="rank-row" onclick="goToAnime('${a.id}')">
       <span class="rank-num">${i+1}</span>
-      <div class="rank-poster-wrap"><img class="rank-poster" src="${a.poster}" alt="${a.title}" onerror="this.src='https://placehold.co/170x255/111520/3b7eff?text=${encodeURIComponent(a.title).replace(/'/g,'%27')}'"/></div>
+      <div class="rank-poster-wrap">${posterImg(a,'rank-poster')}</div>
       <div class="rank-overlay">
         <div class="rank-title">${a.title}</div>
         <span class="rank-rating">⭐ ${a.rating}</span>
@@ -1229,12 +1516,16 @@ function updateRowArrows(el){
   p.classList.toggle('hide',el.scrollLeft<10);
   n.classList.toggle('hide',el.clientWidth>0&&el.scrollLeft+el.clientWidth>=el.scrollWidth-10);
 }
-['rank-list','history-row'].forEach(id=>{
-  const el=document.getElementById(id);
-  el.addEventListener('scroll',()=>updateRowArrows(el),{passive:true});
-  new MutationObserver(()=>updateRowArrows(el)).observe(el,{childList:true});
-  window.addEventListener('resize',()=>updateRowArrows(el));
-});
+function wireRow(el){
+  if(!el||el.dataset.wired) return;
+  el.dataset.wired='1';
+  const upd=()=>updateRowArrows(el);
+  el.addEventListener('scroll',upd,{passive:true});
+  new MutationObserver(upd).observe(el,{childList:true});
+  window.addEventListener('resize',upd);
+  upd();
+}
+['rank-list','history-row','latest-anime-row','home-ep-grid'].forEach(id=>wireRow(document.getElementById(id)));
 function scrollRankList(){
   const el=document.getElementById('rank-list');
   el.scrollBy({left: Math.round(el.clientWidth*0.8), behavior:'smooth'});
@@ -1277,7 +1568,7 @@ document.addEventListener('click',(e)=>{
 function renderAnimePage(){
   const a=getAnime();
   const bi=document.getElementById('anime-banner-img');
-  bi.src=a.banner; bi.onerror=()=>{bi.src=a.bannerFallback;bi.onerror=null};
+  bi.src=heroSrc(a.banner); bi.onerror=()=>{ if(bi.src!==a.banner&&a.banner){bi.src=a.banner;} else {bi.src=a.bannerFallback;bi.onerror=null;} };
   document.getElementById('anime-poster-img').src=a.poster;
   document.getElementById('anime-page-title').textContent=a.title;
   document.getElementById('anime-page-synopsis').textContent=a.description;
@@ -1310,7 +1601,7 @@ function renderCatalogue(){
   }
   document.getElementById('catalogue-grid').innerHTML=list.map(a=>`
     <div class="anime-card" onclick="goToAnime('${a.id}')">
-      <img class="anime-card-poster" src="${a.poster}" alt="${a.title}" onerror="this.src='https://placehold.co/170x255/111520/3b7eff?text=${encodeURIComponent(a.title).replace(/'/g,'%27')}'"/>
+      ${posterImg(a,'anime-card-poster')}
       <div class="anime-card-info">
         <div class="anime-card-sub">⭐ ${a.rating} · ${a.year} · ${a.statusLabel}</div>
       </div>
@@ -1395,7 +1686,7 @@ function renderSeasonTabs(ctx, activeSNum){
 function setSeason(s,ctx){
   activeSeasonNum=s;
   const a=getAnime();
-  if(ctx==='home'){renderSeasonTabs('home',s);renderGrid('home-ep-grid',a,s);document.getElementById('home-section-title').textContent=a.seasons[s]?.title||'';}
+  if(ctx==='home'){renderSeasonTabs('home',s);renderGrid('home-ep-grid',a,s);document.getElementById('home-section-title').textContent=homeSectionTitle(a,s);}
   else{renderSeasonTabs('anime',s);renderGrid('anime-ep-grid',a,s);document.getElementById('anime-section-title').textContent=a.seasons[s]?.title||'';document.getElementById('anime-ep-count').textContent=`${a.seasons[s]?.episodes.length||0} épisodes`;}
 }
 function setWatchSeason(s){
@@ -1433,11 +1724,11 @@ function epCardHTML(ep,idx,season,animeId){
   const u=!ep.id;
   const a=getAnime(animeId);
   const thumbSrc=ep.id
-    ? (a.banner||a.poster)
+    ? cardBanner(a.banner||a.poster)
     : a.poster;
   return `<div class="ep-card${u?' unavailable':''}" ${!u?`onclick="watchAnime('${animeId}',${season},${idx})"`:'title="Non disponible"'}>
     <div class="ep-thumb">
-      <img src="${thumbSrc}" alt="Ép.${ep.n}" loading="lazy" onerror="this.src='${a.poster}'"/>
+      <img src="${thumbSrc}" data-orig="${a.banner||''}" data-fb="${a.poster}" alt="Ép.${ep.n}" loading="lazy" decoding="async" onerror="imgErr(this)"/>
       <div class="ep-thumb-overlay"></div>
       <div class="ep-num-badge">ÉP. ${ep.n}</div>
       ${u?'<div class="ep-unavail-badge">🔒 Indispo</div>':''}

@@ -2,8 +2,8 @@
   "id": "fullmetal-alchemist-brotherhood",
   "title": "FullMetal Alchemist Brotherhood",
   "poster": "https://i.imgur.com/rgJ3nnQ.jpeg",
-  "banner": "https://i.imgur.com/4GwEoN6.jpeg",
-  "bannerFallback": "https://i.imgur.com/4GwEoN6.jpeg",
+  "banner": "https://image.tmdb.org/t/p/original/97cicAYWu4cc0TyXJoDQiMmWI2t.jpg",
+  "bannerFallback": "https://i.imgur.com/rgJ3nnQ.jpeg",
   "description": "Cette version est une seconde adaptation du manga de Hiromu Arakawa. Elle est bien plus fidèle au manga que la précédente version, et le design change quelque peu.\n\nEdward Elric et son frère Alphonse Elric sont de jeunes Alchimistes. En tentant de ramener leur mère à la vie, ils ont payé un lourd tribut, et ils tentent désormais de récupérer ce qu'ils ont perdu. Pour cela, Edward est devenu Alchimiste d'État : le Fullmetal Alchemist. Mais au cours de leurs recherches, bien des épreuves attendent les deux frères et des êtres étranges : les Homonculus, les poursuivent.",
   "genres": [
     "Action",
@@ -381,5 +381,6 @@
         }
       ]
     }
-  }
+  },
+  "tmdbId": 31911
 }

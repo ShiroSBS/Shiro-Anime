@@ -1,9 +1,9 @@
 {
   "id": "bleach",
   "title": "Bleach",
-  "poster": "https://i.imgur.com/OKpLyy7.jpeg",
-  "banner": "https://i.imgur.com/1gdyUS5.jpeg",
-  "bannerFallback": "https://i.imgur.com/1gdyUS5.jpeg",
+  "poster": "https://image.tmdb.org/t/p/w780/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+  "bannerFallback": "https://image.tmdb.org/t/p/w780/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
   "description": "Kurosaki Ichigo, un étudiant de quinze ans aux cheveux orange qui aime la bagarre (comme son père) a la particularité de voir les fantômes ainsi que de pouvoir les toucher. Cela l'amène à rencontrer Kuchiki Rukia, un Shinigami (dieu de la mort) qui combats un Hollow. Le déroulement du combats amène Kuchiki à donner ses pouvoirs à Ichigo qui deviens alors lui même un Shinigami. C'est maintenant à son tour de protéger la ville des Hollows.",
   "genres": [
     "Action",
@@ -1320,5 +1320,6 @@
         }
       ]
     }
-  }
+  },
+  "tmdbId": 30984
 }

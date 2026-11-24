@@ -1117,5 +1117,27 @@
     "statusLabel": "Terminé",
     "poster": "https://image.tmdb.org/t/p/w780/A6txuwvCMxm9bGX6RE95Wm7FreF.jpg",
     "banner": "https://image.tmdb.org/t/p/w1280/dJ8yrSokdTMnhKJw06MllSfCegb.jpg"
+  },
+  {
+    "id": "soul-eater",
+    "title": "Soul Eater",
+    "description": "Soul Eater raconte l'histoire de 3 jeunes apprentis faucheurs d'âmes, de l'école Shibusen, où ils apprennent à devenir de vrais faucheurs d'âmes confirmés.\n\n- Maka, jeune fille dont les parents sont en conflit, son père étant un peu volage...\n\n- Black Star, dernier héritier du clan des porteurs d'étoiles responsable de nombreux massacres.\n\n- Death the Kid, fils de Shinigami-sama, obsédé voir Maniaque de la symétrie.\n\nCes jeunes gens possèdent des armes humaines pouvant prendre l'apparence d'armes diverses, appelées \"armes démoniaques\". En leur faisant manger 99 âmes d'humains corrompus (Oeufs du grand Dévoreur) et 1 âme de sorcière, ils les transformeront en Death Scythe, des armes démoniaques plus puissantes et plus évoluées. Leurs armes respectives sont:\n\n- Soul, se bat sous forme de faux, garçon sympathique et matteur (Maka).\n\n- Tsubaki, se bat sous diverses formes, jeune fille de grande taille à la poitrine développée.(Black Star)\n\n- Les soeurs Thompson, se battent sous la forme de 2 pistolets, 2 sœurs qui ont vécues dans la rue toute leur vie.(Death the Kid)\n\nTout serait bien si c'était aussi simple, malheureusement de nombreux obstacles barrent la route des protagonistes.",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Drame",
+      "Fantasy",
+      "Surnaturel",
+      "Science",
+      "fiction",
+      "Fantastique"
+    ],
+    "rating": "7.7",
+    "year": "2008",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "poster": "https://image.tmdb.org/t/p/w780/qAHpIPbbnrso2ngfjHpVoKdwUQI.jpg",
+    "banner": "https://image.tmdb.org/t/p/w1280/yOkNYWCOWLh3HFtUlo3QT1g5pHG.jpg"
   }
 ]

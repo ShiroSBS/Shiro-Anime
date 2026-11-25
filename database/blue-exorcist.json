@@ -24,7 +24,7 @@
   "heroTitle": "Blue Exorcist",
   "stats": [
     {
-      "v": "5",
+      "v": "6",
       "l": "Saisons"
     },
     {
@@ -46,7 +46,7 @@
       "text": "7.2"
     },
     {
-      "text": "🎬 5 Saisons · 73 Éps"
+      "text": "🎬 6 Saisons · 85 Éps"
     },
     {
       "text": "📅 2011"
@@ -449,6 +449,72 @@
           "n": 12,
           "title": "Merci",
           "id": "xtt400fconkd"
+        }
+      ]
+    },
+    "6": {
+      "label": "Saison 6",
+      "title": "Saison 5",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": null
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": null
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": null
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": null
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": null
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": null
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": null
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": null
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": null
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": null
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": null
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": null
         }
       ]
     }

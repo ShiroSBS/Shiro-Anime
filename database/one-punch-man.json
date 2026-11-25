@@ -17,8 +17,8 @@
   ],
   "rating": "8.2",
   "year": "2015",
-  "status": "cours",
-  "statusLabel": "En cours",
+  "status": "termine",
+  "statusLabel": "Terminé",
   "heroTitle": "One Punch Man",
   "stats": [
     {
@@ -50,8 +50,8 @@
       "text": "📅 2015"
     },
     {
-      "color": "#4ade80",
-      "text": "● En cours"
+      "color": "#94a3b8",
+      "text": "● Terminé"
     }
   ],
   "seasons": {
@@ -320,5 +320,6 @@
       ]
     }
   },
-  "tmdbId": 63926
+  "tmdbId": 63926,
+  "sourceUrl": "https://anime-sama.to/catalogue/one-punch-man/"
 }

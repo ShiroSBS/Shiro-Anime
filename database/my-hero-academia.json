@@ -22,7 +22,7 @@
   "heroTitle": "My Hero Academia",
   "stats": [
     {
-      "v": "8",
+      "v": "9",
       "l": "Saisons"
     },
     {
@@ -44,7 +44,7 @@
       "text": "7.7"
     },
     {
-      "text": "🎬 8 Saisons · 174 Éps"
+      "text": "🎬 9 Saisons · 186 Éps"
     },
     {
       "text": "📅 2016"
@@ -972,6 +972,73 @@
           "id": "6184059"
         }
       ]
+    },
+    "9": {
+      "label": "Saison 9",
+      "title": "Saison 8",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": null
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": null
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": null
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": null
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": null
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": null
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": null
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": null
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": null
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": null
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": null
+        },
+        {
+          "n": 12,
+          "title": "Episode 12 'More'",
+          "id": null
+        }
+      ]
     }
-  }
+  },
+  "sourceUrl": "https://anime-sama.to/catalogue/my-hero-academia/"
 }

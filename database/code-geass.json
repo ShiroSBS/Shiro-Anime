@@ -17,22 +17,22 @@
     "Fantastique",
     "Aventure"
   ],
-  "rating": "8.7",
-  "year": "2006",
+  "rating": "6.4",
+  "year": "2024",
   "status": "termine",
   "statusLabel": "Terminé",
   "heroTitle": "Code Geass",
   "stats": [
     {
-      "v": "2",
+      "v": "3",
       "l": "Saisons"
     },
     {
-      "v": "8.7",
+      "v": "6.4",
       "l": "Note"
     },
     {
-      "v": "2006",
+      "v": "2024",
       "l": "Année"
     },
     {
@@ -43,13 +43,13 @@
   "heroMeta": [
     {
       "icon": "⭐",
-      "text": "8.7"
+      "text": "6.4"
     },
     {
-      "text": "🎬 2 Saisons · 50 Éps"
+      "text": "🎬 3 Saisons · 62 Éps"
     },
     {
-      "text": "📅 2006"
+      "text": "📅 2024"
     },
     {
       "color": "#94a3b8",
@@ -318,7 +318,74 @@
           "id": "y57usyztk8ma"
         }
       ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Rose of the Recapture",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": null
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": null
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": null
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": null
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": null
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": null
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": null
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "oi3rmlbkvzdy"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "xn417vujqgwu"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "atj1r38lh59t"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "31d3tgt7emn4"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "oneqr16qyklz"
+        }
+      ]
     }
   },
-  "tmdbId": 31724
+  "tmdbId": 31724,
+  "sourceUrl": "https://anime-sama.to/catalogue/code-geass/"
 }

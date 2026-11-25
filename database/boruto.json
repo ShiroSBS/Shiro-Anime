@@ -21,7 +21,7 @@
   "heroTitle": "Boruto",
   "stats": [
     {
-      "v": "1",
+      "v": "2",
       "l": "Saisons"
     },
     {
@@ -1384,7 +1384,54 @@
           "id": "da2yg7zf7g6u"
         }
       ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Kai",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "pf5ym305svek"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "n8c9c9taay4x"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "k5lud0obf2qn"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "1saiwq6twlbg"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "ml691vnn1hv0"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "fvp7975y4gin"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "9x7dsfgk1eyl"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "qv0i35v2q3un"
+        }
+      ]
     }
   },
-  "tmdbId": 70881
+  "tmdbId": 70881,
+  "sourceUrl": "https://anime-sama.to/catalogue/boruto/"
 }

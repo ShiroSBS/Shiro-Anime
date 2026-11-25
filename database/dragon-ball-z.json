@@ -31,7 +31,7 @@
   "heroTitle": "Dragon Ball Z",
   "stats": [
     {
-      "v": "1",
+      "v": "2",
       "l": "Saisons"
     },
     {
@@ -1524,7 +1524,849 @@
           "id": "sf77bnmuf7a2"
         }
       ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Kai - Format Épisodes",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "k7z1mb7qu93s"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "wq94xdcko3yv"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "igqbrkxemjas"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "7kz56wpo8f19"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "xk1x4ayhlcsc"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "eh4xsa70bsdd"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "d8xv2y49pdq5"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "1j8yhmlqs9wj"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "j9ipznyew9vx"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "a1oct581y6nz"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "bipopzneegj6"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "h7xyl66n7jga"
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": "b0mnks3cb031"
+        },
+        {
+          "n": 14,
+          "title": "Épisode 14",
+          "id": "x9qcu4puu61t"
+        },
+        {
+          "n": 15,
+          "title": "Épisode 15",
+          "id": "05mi83tg88l1"
+        },
+        {
+          "n": 16,
+          "title": "Épisode 16",
+          "id": "d2zf2tgpb50r"
+        },
+        {
+          "n": 17,
+          "title": "Épisode 17",
+          "id": "1t6vpmj59obj"
+        },
+        {
+          "n": 18,
+          "title": "Épisode 18",
+          "id": "tf6eil2ly2a1"
+        },
+        {
+          "n": 19,
+          "title": "Épisode 19",
+          "id": "jm4g7q6ssexd"
+        },
+        {
+          "n": 20,
+          "title": "Épisode 20",
+          "id": "2un62r8z408s"
+        },
+        {
+          "n": 21,
+          "title": "Épisode 21",
+          "id": "si9pj26dbe1c"
+        },
+        {
+          "n": 22,
+          "title": "Épisode 22",
+          "id": "o5ni7e1y6kal"
+        },
+        {
+          "n": 23,
+          "title": "Épisode 23",
+          "id": "kk2lnkhgf8nj"
+        },
+        {
+          "n": 24,
+          "title": "Épisode 24",
+          "id": "aufe0bi5stga"
+        },
+        {
+          "n": 25,
+          "title": "Épisode 25",
+          "id": "3rnblidhyujq"
+        },
+        {
+          "n": 26,
+          "title": "Épisode 26",
+          "id": "zi1ub3fg4bsw"
+        },
+        {
+          "n": 27,
+          "title": "Épisode 27",
+          "id": "6judvwy69sez"
+        },
+        {
+          "n": 28,
+          "title": "Épisode 28",
+          "id": "41av2buukzo1"
+        },
+        {
+          "n": 29,
+          "title": "Épisode 29",
+          "id": "ylfamt0bgvod"
+        },
+        {
+          "n": 30,
+          "title": "Épisode 30",
+          "id": "e5dzmrwdbk2j"
+        },
+        {
+          "n": 31,
+          "title": "Épisode 31",
+          "id": "azo3hm96jn4d"
+        },
+        {
+          "n": 32,
+          "title": "Épisode 32",
+          "id": "4rq4hzu199wb"
+        },
+        {
+          "n": 33,
+          "title": "Épisode 33",
+          "id": "dc665lvnfvev"
+        },
+        {
+          "n": 34,
+          "title": "Épisode 34",
+          "id": "x7rmzath5uho"
+        },
+        {
+          "n": 35,
+          "title": "Épisode 35",
+          "id": "lda6pczpsxye"
+        },
+        {
+          "n": 36,
+          "title": "Épisode 36",
+          "id": "0gkxer45jsv0"
+        },
+        {
+          "n": 37,
+          "title": "Épisode 37",
+          "id": "wlcelboiojlg"
+        },
+        {
+          "n": 38,
+          "title": "Épisode 38",
+          "id": "yny3tcx92nv2"
+        },
+        {
+          "n": 39,
+          "title": "Épisode 39",
+          "id": "6peie5x738ag"
+        },
+        {
+          "n": 40,
+          "title": "Épisode 40",
+          "id": "krdl69zxq5xf"
+        },
+        {
+          "n": 41,
+          "title": "Épisode 41",
+          "id": "78iq6a893llc"
+        },
+        {
+          "n": 42,
+          "title": "Épisode 42",
+          "id": "sreocds5kz1p"
+        },
+        {
+          "n": 43,
+          "title": "Épisode 43",
+          "id": "jk16evj0prt6"
+        },
+        {
+          "n": 44,
+          "title": "Épisode 44",
+          "id": "7exhvq1pi8lg"
+        },
+        {
+          "n": 45,
+          "title": "Épisode 45",
+          "id": "ehmfz1wfmb8k"
+        },
+        {
+          "n": 46,
+          "title": "Épisode 46",
+          "id": "1ni2mtdvhq6c"
+        },
+        {
+          "n": 47,
+          "title": "Épisode 47",
+          "id": "qxcl8jdf7cei"
+        },
+        {
+          "n": 48,
+          "title": "Épisode 48",
+          "id": "x875a4ked1bu"
+        },
+        {
+          "n": 49,
+          "title": "Épisode 49",
+          "id": "bylflvjwwwjc"
+        },
+        {
+          "n": 50,
+          "title": "Épisode 50",
+          "id": "tauzp59unf58"
+        },
+        {
+          "n": 51,
+          "title": "Épisode 51",
+          "id": "ntb41brj6dc0"
+        },
+        {
+          "n": 52,
+          "title": "Épisode 52",
+          "id": "giq7zqw79oo7"
+        },
+        {
+          "n": 53,
+          "title": "Épisode 53",
+          "id": "uva1xah58yqj"
+        },
+        {
+          "n": 54,
+          "title": "Épisode 54",
+          "id": "uh8akvl6gr1e"
+        },
+        {
+          "n": 55,
+          "title": "Épisode 55",
+          "id": "3oyv40w42ugy"
+        },
+        {
+          "n": 56,
+          "title": "Épisode 56",
+          "id": "2bw5qr6ukeir"
+        },
+        {
+          "n": 57,
+          "title": "Épisode 57",
+          "id": "4qn8ax9i8yeb"
+        },
+        {
+          "n": 58,
+          "title": "Épisode 58",
+          "id": "9i59eve5gphb"
+        },
+        {
+          "n": 59,
+          "title": "Épisode 59",
+          "id": "az6uvut06jxl"
+        },
+        {
+          "n": 60,
+          "title": "Épisode 60",
+          "id": "cf47xa1todv1"
+        },
+        {
+          "n": 61,
+          "title": "Épisode 61",
+          "id": "j498q8o0gssg"
+        },
+        {
+          "n": 62,
+          "title": "Épisode 62",
+          "id": "e0c4y9qnltr7"
+        },
+        {
+          "n": 63,
+          "title": "Épisode 63",
+          "id": "xqqp0x3c0l9q"
+        },
+        {
+          "n": 64,
+          "title": "Épisode 64",
+          "id": "pokfx0ryi94b"
+        },
+        {
+          "n": 65,
+          "title": "Épisode 65",
+          "id": "rrtv46z47qu7"
+        },
+        {
+          "n": 66,
+          "title": "Épisode 66",
+          "id": "lq1htsmuepa8"
+        },
+        {
+          "n": 67,
+          "title": "Épisode 67",
+          "id": "1wi51mxe8n3q"
+        },
+        {
+          "n": 68,
+          "title": "Épisode 68",
+          "id": "vbqlzc6j9qo2"
+        },
+        {
+          "n": 69,
+          "title": "Épisode 69",
+          "id": "n41eueed3f3h"
+        },
+        {
+          "n": 70,
+          "title": "Épisode 70",
+          "id": "iav7gnwob4ty"
+        },
+        {
+          "n": 71,
+          "title": "Épisode 71",
+          "id": "rwz6ems7snel"
+        },
+        {
+          "n": 72,
+          "title": "Épisode 72",
+          "id": "mpza7zwtnnng"
+        },
+        {
+          "n": 73,
+          "title": "Épisode 73",
+          "id": "s2u5ktud85yq"
+        },
+        {
+          "n": 74,
+          "title": "Épisode 74",
+          "id": "thu6v9trs5wo"
+        },
+        {
+          "n": 75,
+          "title": "Épisode 75",
+          "id": "jjnnq7ke3o53"
+        },
+        {
+          "n": 76,
+          "title": "Épisode 76",
+          "id": "ok1zp7muqy30"
+        },
+        {
+          "n": 77,
+          "title": "Épisode 77",
+          "id": "uosyvfmlah94"
+        },
+        {
+          "n": 78,
+          "title": "Épisode 78",
+          "id": "gm8trm1jz0y9"
+        },
+        {
+          "n": 79,
+          "title": "Épisode 79",
+          "id": "e8ydzkrzf5ob"
+        },
+        {
+          "n": 80,
+          "title": "Épisode 80",
+          "id": "2ti43myl07gi"
+        },
+        {
+          "n": 81,
+          "title": "Épisode 81",
+          "id": "ry0im3i44lku"
+        },
+        {
+          "n": 82,
+          "title": "Épisode 82",
+          "id": "6tex3xaakvnz"
+        },
+        {
+          "n": 83,
+          "title": "Épisode 83",
+          "id": "svxs8jl6hof5"
+        },
+        {
+          "n": 84,
+          "title": "Épisode 84",
+          "id": "9z05cyj0hazq"
+        },
+        {
+          "n": 85,
+          "title": "Épisode 85",
+          "id": "iob0usq70jw0"
+        },
+        {
+          "n": 86,
+          "title": "Épisode 86",
+          "id": "6pvyvwkyama3"
+        },
+        {
+          "n": 87,
+          "title": "Épisode 87",
+          "id": "3vqf5vxf0h5t"
+        },
+        {
+          "n": 88,
+          "title": "Épisode 88",
+          "id": "jh4ibdr56lso"
+        },
+        {
+          "n": 89,
+          "title": "Épisode 89",
+          "id": "6v5iz2a54319"
+        },
+        {
+          "n": 90,
+          "title": "Épisode 90",
+          "id": "v18fu4mb4ilq"
+        },
+        {
+          "n": 91,
+          "title": "Épisode 91",
+          "id": "7ivx05aaw416"
+        },
+        {
+          "n": 92,
+          "title": "Épisode 92",
+          "id": "ghd30hlqax2q"
+        },
+        {
+          "n": 93,
+          "title": "Épisode 93",
+          "id": "za61ga5u8qeg"
+        },
+        {
+          "n": 94,
+          "title": "Épisode 94",
+          "id": "6q5a0fae62us"
+        },
+        {
+          "n": 95,
+          "title": "Épisode 95",
+          "id": "xaui7pjm2ydz"
+        },
+        {
+          "n": 96,
+          "title": "Épisode 96",
+          "id": "320jtudwp6ps"
+        },
+        {
+          "n": 97,
+          "title": "Épisode 97",
+          "id": "s0jcrlbmrsa5"
+        },
+        {
+          "n": 98,
+          "title": "Épisode 98",
+          "id": "o7sbz64ic11n"
+        },
+        {
+          "n": 99,
+          "title": "Épisode 99",
+          "id": "o0l7iglxbrce"
+        },
+        {
+          "n": 100,
+          "title": "Épisode 100",
+          "id": "53jpn2vljrxc"
+        },
+        {
+          "n": 101,
+          "title": "Épisode 101",
+          "id": null
+        },
+        {
+          "n": 102,
+          "title": "Épisode 102",
+          "id": "u51605aj1qbq"
+        },
+        {
+          "n": 103,
+          "title": "Épisode 103",
+          "id": null
+        },
+        {
+          "n": 104,
+          "title": "Épisode 104",
+          "id": null
+        },
+        {
+          "n": 105,
+          "title": "Épisode 105",
+          "id": null
+        },
+        {
+          "n": 106,
+          "title": "Épisode 106",
+          "id": null
+        },
+        {
+          "n": 107,
+          "title": "Épisode 107",
+          "id": null
+        },
+        {
+          "n": 108,
+          "title": "Épisode 108",
+          "id": null
+        },
+        {
+          "n": 109,
+          "title": "Épisode 109",
+          "id": null
+        },
+        {
+          "n": 110,
+          "title": "Épisode 110",
+          "id": null
+        },
+        {
+          "n": 111,
+          "title": "Épisode 111",
+          "id": null
+        },
+        {
+          "n": 112,
+          "title": "Épisode 112",
+          "id": null
+        },
+        {
+          "n": 113,
+          "title": "Épisode 113",
+          "id": null
+        },
+        {
+          "n": 114,
+          "title": "Épisode 114",
+          "id": null
+        },
+        {
+          "n": 115,
+          "title": "Épisode 115",
+          "id": null
+        },
+        {
+          "n": 116,
+          "title": "Épisode 116",
+          "id": null
+        },
+        {
+          "n": 117,
+          "title": "Épisode 117",
+          "id": null
+        },
+        {
+          "n": 118,
+          "title": "Épisode 118",
+          "id": null
+        },
+        {
+          "n": 119,
+          "title": "Épisode 119",
+          "id": null
+        },
+        {
+          "n": 120,
+          "title": "Épisode 120",
+          "id": null
+        },
+        {
+          "n": 121,
+          "title": "Épisode 121",
+          "id": null
+        },
+        {
+          "n": 122,
+          "title": "Épisode 122",
+          "id": null
+        },
+        {
+          "n": 123,
+          "title": "Épisode 123",
+          "id": null
+        },
+        {
+          "n": 124,
+          "title": "Épisode 124",
+          "id": null
+        },
+        {
+          "n": 125,
+          "title": "Épisode 125",
+          "id": null
+        },
+        {
+          "n": 126,
+          "title": "Épisode 126",
+          "id": null
+        },
+        {
+          "n": 127,
+          "title": "Épisode 127",
+          "id": null
+        },
+        {
+          "n": 128,
+          "title": "Épisode 128",
+          "id": null
+        },
+        {
+          "n": 129,
+          "title": "Épisode 129",
+          "id": null
+        },
+        {
+          "n": 130,
+          "title": "Épisode 130",
+          "id": null
+        },
+        {
+          "n": 131,
+          "title": "Épisode 131",
+          "id": null
+        },
+        {
+          "n": 132,
+          "title": "Épisode 132",
+          "id": null
+        },
+        {
+          "n": 133,
+          "title": "Épisode 133",
+          "id": null
+        },
+        {
+          "n": 134,
+          "title": "Épisode 134",
+          "id": null
+        },
+        {
+          "n": 135,
+          "title": "Épisode 135",
+          "id": null
+        },
+        {
+          "n": 136,
+          "title": "Épisode 136",
+          "id": null
+        },
+        {
+          "n": 137,
+          "title": "Épisode 137",
+          "id": null
+        },
+        {
+          "n": 138,
+          "title": "Épisode 138",
+          "id": null
+        },
+        {
+          "n": 139,
+          "title": "Épisode 139",
+          "id": null
+        },
+        {
+          "n": 140,
+          "title": "Épisode 140",
+          "id": null
+        },
+        {
+          "n": 141,
+          "title": "Épisode 141",
+          "id": null
+        },
+        {
+          "n": 142,
+          "title": "Épisode 142",
+          "id": null
+        },
+        {
+          "n": 143,
+          "title": "Épisode 143",
+          "id": null
+        },
+        {
+          "n": 144,
+          "title": "Épisode 144",
+          "id": null
+        },
+        {
+          "n": 145,
+          "title": "Épisode 145",
+          "id": null
+        },
+        {
+          "n": 146,
+          "title": "Épisode 146",
+          "id": null
+        },
+        {
+          "n": 147,
+          "title": "Épisode 147",
+          "id": null
+        },
+        {
+          "n": 148,
+          "title": "Épisode 148",
+          "id": null
+        },
+        {
+          "n": 149,
+          "title": "Épisode 149",
+          "id": null
+        },
+        {
+          "n": 150,
+          "title": "Épisode 150",
+          "id": null
+        },
+        {
+          "n": 151,
+          "title": "Épisode 151",
+          "id": null
+        },
+        {
+          "n": 152,
+          "title": "Épisode 152",
+          "id": null
+        },
+        {
+          "n": 153,
+          "title": "Épisode 153",
+          "id": null
+        },
+        {
+          "n": 154,
+          "title": "Épisode 154",
+          "id": null
+        },
+        {
+          "n": 155,
+          "title": "Épisode 155",
+          "id": null
+        },
+        {
+          "n": 156,
+          "title": "Épisode 156",
+          "id": null
+        },
+        {
+          "n": 157,
+          "title": "Épisode 157",
+          "id": null
+        },
+        {
+          "n": 158,
+          "title": "Épisode 158",
+          "id": null
+        },
+        {
+          "n": 159,
+          "title": "Épisode 159",
+          "id": null
+        },
+        {
+          "n": 160,
+          "title": "Épisode 160",
+          "id": null
+        },
+        {
+          "n": 161,
+          "title": "Épisode 161",
+          "id": null
+        },
+        {
+          "n": 162,
+          "title": "Épisode 162",
+          "id": null
+        },
+        {
+          "n": 163,
+          "title": "Épisode 163",
+          "id": null
+        },
+        {
+          "n": 164,
+          "title": "Épisode 164",
+          "id": null
+        },
+        {
+          "n": 165,
+          "title": "Épisode 165",
+          "id": null
+        },
+        {
+          "n": 166,
+          "title": "Épisode 166",
+          "id": null
+        },
+        {
+          "n": 167,
+          "title": "Épisode 167",
+          "id": null
+        }
+      ]
     }
   },
-  "tmdbId": 12971
+  "tmdbId": 12971,
+  "sourceUrl": "https://anime-sama.to/catalogue/dragon-ball-z/"
 }

@@ -25,7 +25,7 @@
   "heroTitle": "Hunter x Hunter",
   "stats": [
     {
-      "v": "1",
+      "v": "2",
       "l": "Saisons"
     },
     {
@@ -803,7 +803,119 @@
           "id": "r6btjpmdawrv"
         }
       ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Kai",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "4fkwsxya45ju"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "4zkx26d73evk"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "rvzem9ydxe3u"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "d330rkdrqqgd"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "ytxwy2oofn9g"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "69db9yhnfbr6"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "6pmebak72huj"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "c7qodvla9eph"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "lk40j4ommw5b"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "z5fjsu3jtw6k"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "jl04x3gp9u74"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "5t9bcc19qnai"
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": "vpi4dzb77xn1"
+        },
+        {
+          "n": 14,
+          "title": "Épisode 14",
+          "id": "e7xd5z1kwenb"
+        },
+        {
+          "n": 15,
+          "title": "Épisode 15",
+          "id": "17dl0zfi2h4x"
+        },
+        {
+          "n": 16,
+          "title": "Épisode 16",
+          "id": "1fojs9d1teub"
+        },
+        {
+          "n": 17,
+          "title": "Épisode 17",
+          "id": "mn8t2ls7435m"
+        },
+        {
+          "n": 18,
+          "title": "Épisode 18",
+          "id": "iit0hxh0pa76"
+        },
+        {
+          "n": 19,
+          "title": "Épisode 19",
+          "id": "v88ds1sflma5"
+        },
+        {
+          "n": 20,
+          "title": "Épisode 20",
+          "id": "7ynu1ipvuofx"
+        },
+        {
+          "n": 21,
+          "title": "Épisode 21",
+          "id": "p7qzk2mfqozl"
+        }
+      ]
     }
   },
-  "tmdbId": 46298
+  "tmdbId": 46298,
+  "sourceUrl": "https://anime-sama.to/catalogue/hunter-x-hunter/"
 }

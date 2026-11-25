@@ -22,7 +22,7 @@
   "heroTitle": "Dr Stone",
   "stats": [
     {
-      "v": "4",
+      "v": "5",
       "l": "Saisons"
     },
     {
@@ -44,7 +44,7 @@
       "text": "8.1"
     },
     {
-      "text": "🎬 4 Saisons · 94 Éps"
+      "text": "🎬 5 Saisons · 107 Éps"
     },
     {
       "text": "📅 2019"
@@ -546,6 +546,77 @@
           "n": 37,
           "title": "Ceux qui rendent l'avenir excitant",
           "id": "l0sx3xn58w7o"
+        }
+      ]
+    },
+    "5": {
+      "label": "Saison 5",
+      "title": "Saison 4 Partie 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": null
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": null
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": null
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": null
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": null
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": null
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": null
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": null
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": null
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": null
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": null
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": null
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": null
         }
       ]
     }

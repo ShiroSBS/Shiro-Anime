@@ -22,7 +22,7 @@
   "heroTitle": "Bleach",
   "stats": [
     {
-      "v": "5",
+      "v": "6",
       "l": "Saisons"
     },
     {
@@ -1319,7 +1319,154 @@
           "id": "r299c70vcwb8"
         }
       ]
+    },
+    "6": {
+      "label": "Saison 6",
+      "title": "Kai",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "96mqs2jbiwew"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "vgf408n0eces"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "3455qcdtb6yj"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "p78e2fpszwa9"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "52bj7zqs007p"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "3nhkgd9i390f"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "qiufz91rm5cr"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "r7lf8lbno25n"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "pa87txtswly7"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "85cx4856kvar"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "26hqxbt73loa"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "du7k2593ya8q"
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": "e4l8msdr7eyo"
+        },
+        {
+          "n": 14,
+          "title": "Épisode 14",
+          "id": "unjprx8q5q98"
+        },
+        {
+          "n": 15,
+          "title": "Épisode 15",
+          "id": "pzxk8toecrni"
+        },
+        {
+          "n": 16,
+          "title": "Épisode 16",
+          "id": "5mbjkr4sddj7"
+        },
+        {
+          "n": 17,
+          "title": "Épisode 17",
+          "id": "kwsnov9iakr3"
+        },
+        {
+          "n": 18,
+          "title": "Épisode 18",
+          "id": "nosx33wwrdmu"
+        },
+        {
+          "n": 19,
+          "title": "Épisode 19",
+          "id": "skm2gmxqq25o"
+        },
+        {
+          "n": 20,
+          "title": "Épisode 20",
+          "id": "qw3vt3vprin0"
+        },
+        {
+          "n": 21,
+          "title": "Épisode 21",
+          "id": "52e60h6d7gi8"
+        },
+        {
+          "n": 22,
+          "title": "Épisode 22",
+          "id": "udm37lglpbt5"
+        },
+        {
+          "n": 23,
+          "title": "Épisode 23",
+          "id": "twdmzkit7i94"
+        },
+        {
+          "n": 24,
+          "title": "Épisode 24",
+          "id": "4w35r209bk98"
+        },
+        {
+          "n": 25,
+          "title": "Épisode 25",
+          "id": "g47tfgxd3ohc"
+        },
+        {
+          "n": 26,
+          "title": "Épisode 26",
+          "id": "7sozyp6ebzo2"
+        },
+        {
+          "n": 27,
+          "title": "Épisode 27",
+          "id": "d96gkne8eqjn"
+        },
+        {
+          "n": 28,
+          "title": "Épisode 28",
+          "id": "9nqdo3bgyhqm"
+        }
+      ]
     }
   },
-  "tmdbId": 30984
+  "tmdbId": 30984,
+  "sourceUrl": "https://anime-sama.to/catalogue/bleach/"
 }

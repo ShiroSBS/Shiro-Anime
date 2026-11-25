@@ -16,7 +16,7 @@
     "Fiction"
   ],
   "rating": "4.8",
-  "year": "2019",
+  "year": "2016",
   "status": "termine",
   "statusLabel": "Terminé",
   "heroTitle": "Demon Slayer",
@@ -30,7 +30,7 @@
       "l": "Note"
     },
     {
-      "v": "2019",
+      "v": "2016",
       "l": "Année"
     },
     {
@@ -47,7 +47,7 @@
       "text": "🎬 5 Saisons · 63 Éps"
     },
     {
-      "text": "📅 2019"
+      "text": "📅 2016"
     },
     {
       "color": "#94a3b8",
@@ -401,5 +401,6 @@
       ]
     }
   },
-  "tmdbId": 85937
+  "tmdbId": 85937,
+  "sourceUrl": "https://anime-sama.to/catalogue/demon-slayer/"
 }

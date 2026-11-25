@@ -24,7 +24,7 @@
   "heroTitle": "Fairy Tail",
   "stats": [
     {
-      "v": "2",
+      "v": "3",
       "l": "Saisons"
     },
     {
@@ -46,7 +46,7 @@
       "text": "7.2"
     },
     {
-      "text": "🎬 2 Saisons · 353 Éps"
+      "text": "🎬 3 Saisons · 390 Éps"
     },
     {
       "text": "📅 2009"
@@ -1833,7 +1833,199 @@
           "id": "c009ziy1me4y"
         }
       ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Kai",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "plws4ky4unal"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "c560amqo1hf8"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "qc4gw5ox0xr6"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "4sfi266khcwh"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "9jv00elcf2sb"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "2ew5d5kfx2nm"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "ze5ykqoyaf7z"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "lp4jnta51a5w"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "g6jfw3nusiqu"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "tx89c64f7tvk"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "j878qd2s25gh"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "l325heza40hg"
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": "6eg1mcnzezm7"
+        },
+        {
+          "n": 14,
+          "title": "Épisode 14",
+          "id": "ndw7xkrdsmyu"
+        },
+        {
+          "n": 15,
+          "title": "Épisode 15",
+          "id": "nkou3y75c38y"
+        },
+        {
+          "n": 16,
+          "title": "Épisode 16",
+          "id": "8p7hkksnzsfp"
+        },
+        {
+          "n": 17,
+          "title": "Épisode 17",
+          "id": "d7ciiyre1xj1"
+        },
+        {
+          "n": 18,
+          "title": "Épisode 18",
+          "id": "9be10q317aox"
+        },
+        {
+          "n": 19,
+          "title": "Épisode 19",
+          "id": "xe2efzo0302r"
+        },
+        {
+          "n": 20,
+          "title": "Épisode 20",
+          "id": "2ohvdkrrsk66"
+        },
+        {
+          "n": 21,
+          "title": "Épisode 21",
+          "id": "owccxf9cey1s"
+        },
+        {
+          "n": 22,
+          "title": "Épisode 22",
+          "id": "f3s7r4xzhfts"
+        },
+        {
+          "n": 23,
+          "title": "Épisode 23",
+          "id": "98muyirlsaf5"
+        },
+        {
+          "n": 24,
+          "title": "Épisode 24",
+          "id": "4rw1714c1hg1"
+        },
+        {
+          "n": 25,
+          "title": "Épisode 25",
+          "id": "kqc462u7h1tt"
+        },
+        {
+          "n": 26,
+          "title": "Épisode 26",
+          "id": "8epququ8tjhe"
+        },
+        {
+          "n": 27,
+          "title": "Épisode 27",
+          "id": "v1ho13j8uf6m"
+        },
+        {
+          "n": 28,
+          "title": "Épisode 28",
+          "id": "6red8y0df1f7"
+        },
+        {
+          "n": 29,
+          "title": "Épisode 29",
+          "id": "3qwkrg10gwsk"
+        },
+        {
+          "n": 30,
+          "title": "Épisode 30",
+          "id": "2vtg5uwc7mrq"
+        },
+        {
+          "n": 31,
+          "title": "Épisode 31",
+          "id": "jyuwzf1oq5lc"
+        },
+        {
+          "n": 32,
+          "title": "Épisode 32",
+          "id": "pz40ym2d5qzn"
+        },
+        {
+          "n": 33,
+          "title": "Épisode 33",
+          "id": "5iithtt87u2l"
+        },
+        {
+          "n": 34,
+          "title": "Épisode 34",
+          "id": "pvqqrz80f1li"
+        },
+        {
+          "n": 35,
+          "title": "Épisode 35",
+          "id": "62eslkw8vsxl"
+        },
+        {
+          "n": 36,
+          "title": "Épisode 36",
+          "id": "cj1u5r3smyhl"
+        },
+        {
+          "n": 37,
+          "title": "Épisode 37",
+          "id": "qxw9lp5ide61"
+        }
+      ]
     }
   },
-  "tmdbId": 46261
+  "tmdbId": 46261,
+  "sourceUrl": "https://anime-sama.to/catalogue/fairy-tail/"
 }

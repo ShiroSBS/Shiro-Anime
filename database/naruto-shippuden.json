@@ -24,7 +24,7 @@
   "heroTitle": "Naruto Shippuden",
   "stats": [
     {
-      "v": "1",
+      "v": "2",
       "l": "Saisons"
     },
     {
@@ -1547,7 +1547,194 @@
           "id": "ttg7tesdgvn7"
         }
       ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Kai",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "j2yxswktfh0m"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "dhe2sptjofcn"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "2lchehmczjxd"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "2al897xjnwxw"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "ta0zz67xcgai"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "a7l1wonrhs1i"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "eqr81i9gethd"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "3k0r59oczoju"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "3w2kg29fpt13"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "9tw8l9poloxd"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "gashub07dw66"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "u1g4lntbplep"
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": "4g0bz8ntdgk3"
+        },
+        {
+          "n": 14,
+          "title": "Épisode 14",
+          "id": "qvpirn7je6uv"
+        },
+        {
+          "n": 15,
+          "title": "Épisode 15",
+          "id": "mbxqiuib16l5"
+        },
+        {
+          "n": 16,
+          "title": "Épisode 16",
+          "id": "vybvwg6tzakb"
+        },
+        {
+          "n": 17,
+          "title": "Épisode 17",
+          "id": "1slo9nf6b1sz"
+        },
+        {
+          "n": 18,
+          "title": "Épisode 18",
+          "id": "h3lsro74xugq"
+        },
+        {
+          "n": 19,
+          "title": "Épisode 19",
+          "id": "goo951ttfztk"
+        },
+        {
+          "n": 20,
+          "title": "Épisode 20",
+          "id": "gxv0o5xrppe0"
+        },
+        {
+          "n": 21,
+          "title": "Épisode 21",
+          "id": "imktndehqnzi"
+        },
+        {
+          "n": 22,
+          "title": "Épisode 22",
+          "id": "7rdtfjld5seh"
+        },
+        {
+          "n": 23,
+          "title": "Épisode 23",
+          "id": "i2ns3cwld6jm"
+        },
+        {
+          "n": 24,
+          "title": "Épisode 24",
+          "id": "32gb0mxf8y6l"
+        },
+        {
+          "n": 25,
+          "title": "Épisode 25",
+          "id": "64tujmelbvn8"
+        },
+        {
+          "n": 26,
+          "title": "Épisode 26",
+          "id": "e3a6jlklnshu"
+        },
+        {
+          "n": 27,
+          "title": "Épisode 27",
+          "id": "mba6hbd3ozzh"
+        },
+        {
+          "n": 28,
+          "title": "Épisode 28",
+          "id": "k9k6mpi7phyj"
+        },
+        {
+          "n": 29,
+          "title": "Épisode 29",
+          "id": "pc02os3ftzk1"
+        },
+        {
+          "n": 30,
+          "title": "Épisode 30",
+          "id": "b08lrovmc3ld"
+        },
+        {
+          "n": 31,
+          "title": "Épisode 31",
+          "id": "kn8wuanye16k"
+        },
+        {
+          "n": 32,
+          "title": "Épisode 32",
+          "id": "nr2rq2ln1fzu"
+        },
+        {
+          "n": 33,
+          "title": "Épisode 33",
+          "id": "eir2syly7bjs"
+        },
+        {
+          "n": 34,
+          "title": "Épisode 34",
+          "id": "jjs3qvzexb8b"
+        },
+        {
+          "n": 35,
+          "title": "Épisode 35",
+          "id": "xymkvybwu7ci"
+        },
+        {
+          "n": 36,
+          "title": "Épisode 36",
+          "id": "up7m8q5h3bls"
+        }
+      ]
     }
   },
-  "tmdbId": 31910
+  "tmdbId": 31910,
+  "sourceUrl": "https://anime-sama.to/catalogue/naruto-shippuden/"
 }

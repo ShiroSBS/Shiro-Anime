@@ -18,7 +18,7 @@
   "heroTitle": "L'Attaque des Titans",
   "stats": [
     {
-      "v": "4",
+      "v": "5",
       "l": "Saisons"
     },
     {
@@ -40,7 +40,7 @@
       "text": "8.5"
     },
     {
-      "text": "🎬 4 Saisons · 89 Éps"
+      "text": "🎬 5 Saisons · 119 Éps"
     },
     {
       "text": "📅 2013"
@@ -519,7 +519,164 @@
           "id": "zxcftx2swklc"
         }
       ]
+    },
+    "5": {
+      "label": "Saison 5",
+      "title": "Saison 4",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Épisode 1",
+          "id": "ftz6tb7m48vl"
+        },
+        {
+          "n": 2,
+          "title": "Épisode 2",
+          "id": "qyqtnbqtyg6k"
+        },
+        {
+          "n": 3,
+          "title": "Épisode 3",
+          "id": "bzw1tqa4h4v5"
+        },
+        {
+          "n": 4,
+          "title": "Épisode 4",
+          "id": "s2mthkeaijh7"
+        },
+        {
+          "n": 5,
+          "title": "Épisode 5",
+          "id": "5mkolqcigg7v"
+        },
+        {
+          "n": 6,
+          "title": "Épisode 6",
+          "id": "5enn0m3do1q2"
+        },
+        {
+          "n": 7,
+          "title": "Épisode 7",
+          "id": "aac1dkx3649x"
+        },
+        {
+          "n": 8,
+          "title": "Épisode 8",
+          "id": "q5czgwcyn05a"
+        },
+        {
+          "n": 9,
+          "title": "Épisode 9",
+          "id": "lw0hhp4oe5om"
+        },
+        {
+          "n": 10,
+          "title": "Épisode 10",
+          "id": "clh1027ontsy"
+        },
+        {
+          "n": 11,
+          "title": "Épisode 11",
+          "id": "amc5g7mipmvw"
+        },
+        {
+          "n": 12,
+          "title": "Épisode 12",
+          "id": "49zpsnbqjxw4"
+        },
+        {
+          "n": 13,
+          "title": "Épisode 13",
+          "id": "bv2vgyq6usm0"
+        },
+        {
+          "n": 14,
+          "title": "Épisode 14",
+          "id": "sappde1ouxkz"
+        },
+        {
+          "n": 15,
+          "title": "Épisode 15",
+          "id": "5gf3v9zxw83d"
+        },
+        {
+          "n": 16,
+          "title": "Épisode 16",
+          "id": "8pl7r4y6anf4"
+        },
+        {
+          "n": 17,
+          "title": "Épisode 17",
+          "id": "go723shymwig"
+        },
+        {
+          "n": 18,
+          "title": "Épisode 18",
+          "id": "ok3vj8fvrlv2"
+        },
+        {
+          "n": 19,
+          "title": "Épisode 19",
+          "id": "f4b58744wjwn"
+        },
+        {
+          "n": 20,
+          "title": "Épisode 20",
+          "id": "sxebwqsfue06"
+        },
+        {
+          "n": 21,
+          "title": "Épisode 21",
+          "id": "iq8ovwgdmh6j"
+        },
+        {
+          "n": 22,
+          "title": "Épisode 22",
+          "id": "0cm4dttgqqsp"
+        },
+        {
+          "n": 23,
+          "title": "Épisode 23",
+          "id": "h2788e5i17gg"
+        },
+        {
+          "n": 24,
+          "title": "Épisode 24",
+          "id": "2sqywrjv774c"
+        },
+        {
+          "n": 25,
+          "title": "Épisode 25",
+          "id": "93dbcg42fyje"
+        },
+        {
+          "n": 26,
+          "title": "Épisode 26",
+          "id": "9m8l99wd7j5d"
+        },
+        {
+          "n": 27,
+          "title": "Épisode 27",
+          "id": "7ai572uf5jur"
+        },
+        {
+          "n": 28,
+          "title": "Épisode 28",
+          "id": "3jj2kljoekyb"
+        },
+        {
+          "n": 29,
+          "title": "Épisode 29",
+          "id": "pp19oielc35i"
+        },
+        {
+          "n": 30,
+          "title": "Épisode 30",
+          "id": "1hyndws46irh"
+        }
+      ]
     }
   },
-  "tmdbId": 1429
+  "tmdbId": 1429,
+  "sourceUrl": "https://anime-sama.to/catalogue/shingeki-no-kyojin/"
 }

@@ -44,7 +44,7 @@
       "text": "9.0"
     },
     {
-      "text": "🎬 1 Saison · 64 Éps"
+      "text": "🎬 1 Saisons · 64 Éps"
     },
     {
       "text": "📅 2009"
@@ -382,5 +382,6 @@
       ]
     }
   },
-  "tmdbId": 31911
+  "tmdbId": 31911,
+  "sourceUrl": "https://anime-sama.to/catalogue/fullmetal-alchemist-brotherhood/"
 }
